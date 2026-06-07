@@ -1,0 +1,13 @@
+# El repo de git tiene la raíz en $HOME, pero solo rastrea proyectos
+# específicos. Este archivo ignora todo el contenido del home directory
+# excepto las carpetas que queremos versionar.
+#
+# Para agregar otro proyecto al repo, añade una línea como:
+#   !/nombre-del-proyecto/
+
+# Ignorar todo en la raíz
+/*
+
+# Excepciones (archivos y carpetas que SÍ versionamos):
+!/.gitignore
+!/seventeen-and-oh/
