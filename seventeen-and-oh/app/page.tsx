@@ -12,7 +12,8 @@ import { createEmptyRoster, positionFit } from "@/lib/positions";
 import { computeScore, effectiveRating } from "@/lib/scoring";
 import { computeTeamProfile } from "@/lib/team-profile";
 import { simulateSeason } from "@/lib/simulation";
-import { loadIndex, loadTeamSeason } from "@/lib/data";
+import { loadIndex, type TeamSeasonSummary } from "@/lib/data";
+import { getRosterForTeamSeason } from "@/lib/draft-select";
 import StartScreen from "./components/StartScreen";
 import DraftScreen from "./components/DraftScreen";
 import ScoreScreen from "./components/ScoreScreen";
@@ -24,44 +25,70 @@ export default function Home() {
   const [phase, setPhase] = useState<Phase>("start");
   const [mode, setMode] = useState<GameMode>("classic");
   const [roster, setRoster] = useState<RosterSlot[]>(() => createEmptyRoster());
+  // The full catalog of valid team-seasons (lightweight summaries). The spin
+  // wheel cycles through these; the landed entry's full roster is fetched on
+  // demand. teamSeason is the locked, roster-revealed pick for THIS round —
+  // null while the wheel is idle/spinning.
+  const [catalog, setCatalog] = useState<TeamSeasonSummary[]>([]);
   const [teamSeason, setTeamSeason] = useState<TeamSeason | null>(null);
+  const [loadingRoster, setLoadingRoster] = useState(false);
+  const [lastTeamSeasonId, setLastTeamSeasonId] = useState<string | null>(null);
   const [draftedIds, setDraftedIds] = useState<string[]>([]);
   const [score, setScore] = useState<ScoreBreakdown | null>(null);
   const [sim, setSim] = useState<SimulationResult | null>(null);
+  // Dev/debug switches, read once from the URL (?debug, ?seed=123). Lazy
+  // initializers (SSR-guarded) so they're set before first paint without a
+  // cascading effect setState. They never change after mount.
+  const [debug] = useState<boolean>(
+    () =>
+      typeof window !== "undefined" &&
+      new URLSearchParams(window.location.search).has("debug")
+  );
+  const [seed] = useState<number | undefined>(() => {
+    if (typeof window === "undefined") return undefined;
+    const s = new URLSearchParams(window.location.search).get("seed");
+    return s != null && s !== "" && Number.isFinite(Number(s))
+      ? Number(s) >>> 0
+      : undefined;
+  });
 
-  // Warm the lightweight catalog on mount. loadIndex() memoizes the fetch, so
-  // this just pre-fills the cache; drawTeamSeason() re-reads it directly.
+  // Load the catalog once on mount.
   useEffect(() => {
-    loadIndex().catch((err) =>
-      console.error("Failed to load team-season index", err)
-    );
+    loadIndex()
+      .then(setCatalog)
+      .catch((err) => console.error("Failed to load team-season index", err));
   }, []);
 
-  // Pick a random team-season (avoiding an immediate repeat) and fetch its full
-  // roster on demand. Awaits the memoized catalog directly so a draw works even
-  // before the warm-up resolves — no dependence on render-time state.
-  async function drawTeamSeason(avoidId: string | undefined): Promise<TeamSeason | null> {
-    const idx = await loadIndex();
-    if (idx.length === 0) return null;
-    const choices =
-      avoidId && idx.length > 1 ? idx.filter((s) => s.id !== avoidId) : idx;
-    const pick = choices[Math.floor(Math.random() * choices.length)];
-    return loadTeamSeason(pick.id);
-  }
-
-  async function start(m: GameMode) {
+  function start(m: GameMode) {
     setMode(m);
     setRoster(createEmptyRoster());
     setDraftedIds([]);
     setScore(null);
     setSim(null);
-    const ts = await drawTeamSeason(undefined);
-    if (!ts) return;
-    setTeamSeason(ts);
+    // Begin the first round on the spin wheel — no team-season locked yet.
+    setTeamSeason(null);
+    setLastTeamSeasonId(null);
+    setLoadingRoster(false);
     setPhase("draft");
   }
 
-  async function draftPlayer(player: Player, slotId: string) {
+  // The wheel landed on a valid team-season: fetch its full roster, then reveal
+  // it for picking. The pick is fixed here and never changes until the user
+  // drafts a player (which starts the next round's spin).
+  async function handleSpinComplete(pick: TeamSeasonSummary) {
+    setLoadingRoster(true);
+    try {
+      const ts = await getRosterForTeamSeason(pick);
+      setTeamSeason(ts);
+      setLastTeamSeasonId(pick.id);
+    } catch (err) {
+      console.error("Failed to load roster for", pick.id, err);
+    } finally {
+      setLoadingRoster(false);
+    }
+  }
+
+  function draftPlayer(player: Player, slotId: string) {
     const slot = roster.find((s) => s.id === slotId)!;
     const fit = positionFit(player.position, player.secondaryPositions, slot.position);
     const nextRoster = roster.map((s) =>
@@ -82,8 +109,8 @@ export default function Home() {
       setScore(computeScore(nextRoster));
       setPhase("score");
     } else {
-      const ts = await drawTeamSeason(teamSeason?.id);
-      if (ts) setTeamSeason(ts);
+      // Back to the spin wheel for the next round.
+      setTeamSeason(null);
     }
   }
 
@@ -98,6 +125,8 @@ export default function Home() {
     setRoster(createEmptyRoster());
     setDraftedIds([]);
     setTeamSeason(null);
+    setLastTeamSeasonId(null);
+    setLoadingRoster(false);
     setScore(null);
     setSim(null);
   }
@@ -105,12 +134,18 @@ export default function Home() {
   return (
     <main className="flex flex-1 flex-col">
       {phase === "start" && <StartScreen onStart={start} />}
-      {phase === "draft" && teamSeason && (
+      {phase === "draft" && (
         <DraftScreen
           mode={mode}
           roster={roster}
+          catalog={catalog}
           teamSeason={teamSeason}
           draftedIds={draftedIds}
+          loadingRoster={loadingRoster}
+          avoidId={lastTeamSeasonId}
+          seed={seed}
+          debug={debug}
+          onSpinComplete={handleSpinComplete}
           onDraft={draftPlayer}
         />
       )}

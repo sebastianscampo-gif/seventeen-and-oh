@@ -1,6 +1,7 @@
 "use client";
 import { useMemo, useState } from "react";
 import { GameMode, Player, Position, RosterSlot, TeamSeason } from "@/lib/types";
+import type { TeamSeasonSummary } from "@/lib/data";
 import { effectiveRating } from "@/lib/scoring";
 import {
   positionFit,
@@ -10,6 +11,7 @@ import {
 } from "@/lib/positions";
 import { teamTheme } from "@/lib/teamColors";
 import RosterPanel from "./RosterPanel";
+import TeamSeasonSpinner from "./TeamSeasonSpinner";
 
 const TONE_BADGE: Record<FitTone, string> = {
   natural: "bg-emerald-500/15 text-emerald-300 ring-emerald-500/30",
@@ -162,23 +164,36 @@ function SlotPicker({
 export default function DraftScreen({
   mode,
   roster,
+  catalog,
   teamSeason,
   draftedIds,
+  loadingRoster,
+  avoidId,
+  seed,
+  debug,
+  onSpinComplete,
   onDraft,
 }: {
   mode: GameMode;
   roster: RosterSlot[];
-  teamSeason: TeamSeason;
+  catalog: TeamSeasonSummary[];
+  teamSeason: TeamSeason | null;
   draftedIds: string[];
+  loadingRoster: boolean;
+  avoidId: string | null;
+  seed?: number;
+  debug?: boolean;
+  onSpinComplete: (pick: TeamSeasonSummary) => void;
   onDraft: (player: Player, slotId: string) => void;
 }) {
   const [pending, setPending] = useState<Player | null>(null);
   const reveal = mode === "classic";
-  const theme = teamTheme(teamSeason.teamCode);
+  const theme = teamTheme(teamSeason?.teamCode ?? "");
   const filled = roster.filter((s) => s.player).length;
   const total = roster.length;
 
   const groups = useMemo(() => {
+    if (!teamSeason) return [];
     const available = teamSeason.players.filter(
       (p) => !draftedIds.includes(p.id)
     );
@@ -215,53 +230,91 @@ export default function DraftScreen({
 
       <div className="grid gap-4 lg:grid-cols-[1fr_300px]">
         <div>
-          <div
-            className="mb-4 overflow-hidden rounded-2xl p-5 ring-1 ring-white/10"
-            style={{
-              background: `linear-gradient(135deg, ${theme.primary} 0%, ${theme.primary}cc 55%, #080b12 150%)`,
-            }}
-          >
-            <div className="text-xs font-semibold uppercase tracking-widest text-white/60">
-              On the clock — pick one player
-            </div>
-            <div className="mt-1 flex flex-wrap items-baseline gap-x-3">
-              <span
-                className="text-3xl font-black tracking-tight"
-                style={{ color: theme.accent }}
-              >
-                {teamSeason.season}
-              </span>
-              <span className="text-2xl font-bold text-white">
-                {teamSeason.team}
-              </span>
-            </div>
-          </div>
+          {/* This round's team-season is chosen by spinning the wheel. The
+              spinner remounts each round (key=filled) so it resets to idle. */}
+          <TeamSeasonSpinner
+            key={filled}
+            teamSeasons={catalog}
+            onSpinComplete={onSpinComplete}
+            disabled={loadingRoster}
+            mode={mode}
+            avoidId={avoidId}
+            seed={seed == null ? undefined : seed + filled}
+            debug={debug}
+          />
 
-          <div className="space-y-5">
-            {groups.map((g) => (
-              <div key={g.pos}>
-                <div className="mb-2 flex items-center gap-2">
-                  <span className="font-mono text-xs font-bold text-white/40">
-                    {g.pos}
-                  </span>
-                  <span className="text-xs text-white/30">
-                    {POSITION_NAMES[g.pos]}
-                  </span>
-                  <div className="h-px flex-1 bg-white/10" />
+          {loadingRoster && (
+            <div className="mt-4 flex items-center justify-center gap-2 rounded-2xl bg-white/[0.03] py-6 text-sm text-white/50 ring-1 ring-white/10">
+              <svg
+                className="h-4 w-4 animate-spin text-white/60"
+                viewBox="0 0 24 24"
+                fill="none"
+                aria-hidden
+              >
+                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+                <path className="opacity-90" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.4 0 0 5.4 0 12h4z" />
+              </svg>
+              Revealing the roster…
+            </div>
+          )}
+
+          {!teamSeason && !loadingRoster && (
+            <p className="mt-4 text-center text-sm text-white/40">
+              Spin to lock in a team-season, then draft one of its players.
+            </p>
+          )}
+
+          {teamSeason && !loadingRoster && (
+            <>
+              <div
+                className="mb-4 mt-4 overflow-hidden rounded-2xl p-4 ring-1 ring-white/10"
+                style={{
+                  background: `linear-gradient(135deg, ${theme.primary} 0%, ${theme.primary}cc 55%, #080b12 150%)`,
+                }}
+              >
+                <div className="text-xs font-semibold uppercase tracking-widest text-white/60">
+                  On the clock — pick any player, then choose an open slot
                 </div>
-                <div className="grid gap-2 sm:grid-cols-2">
-                  {g.players.map((p) => (
-                    <PlayerCard
-                      key={p.id}
-                      player={p}
-                      reveal={reveal}
-                      onClick={() => setPending(p)}
-                    />
-                  ))}
+                <div className="mt-1 flex flex-wrap items-baseline gap-x-3">
+                  <span
+                    className="text-2xl font-black tracking-tight"
+                    style={{ color: theme.accent }}
+                  >
+                    {teamSeason.season}
+                  </span>
+                  <span className="text-xl font-bold text-white">
+                    {teamSeason.team}
+                  </span>
                 </div>
               </div>
-            ))}
-          </div>
+
+              <div className="space-y-5">
+                {groups.map((g) => (
+                  <div key={g.pos}>
+                    <div className="mb-2 flex items-center gap-2">
+                      <span className="font-mono text-xs font-bold text-white/40">
+                        {g.pos}
+                      </span>
+                      <span className="text-xs text-white/30">
+                        {POSITION_NAMES[g.pos]}
+                      </span>
+                      <div className="h-px flex-1 bg-white/10" />
+                    </div>
+                    <div className="grid gap-2 sm:grid-cols-2">
+                      {g.players.map((p) => (
+                        <PlayerCard
+                          key={p.id}
+                          player={p}
+                          reveal={reveal}
+                          onClick={() => setPending(p)}
+                        />
+                      ))}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </>
+          )}
         </div>
 
         <div className="lg:sticky lg:top-4 lg:self-start">

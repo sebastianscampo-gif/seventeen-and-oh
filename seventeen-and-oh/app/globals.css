@@ -19,3 +19,42 @@ body {
   color: var(--foreground);
   font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
 }
+
+/* Team×Season spin wheel (TeamSeasonSpinner) ------------------------------- */
+/* Each rapid value swap re-mounts the reel text, retriggering this short roll. */
+@keyframes reel-roll {
+  0% {
+    transform: translateY(-55%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+.reel-roll {
+  animation: reel-roll 110ms ease-out;
+}
+
+/* The settle "pop" when a reel locks on its final value. */
+@keyframes reel-pop {
+  0% {
+    transform: scale(0.94);
+  }
+  60% {
+    transform: scale(1.03);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.reel-pop {
+  animation: reel-pop 320ms cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reel-roll,
+  .reel-pop {
+    animation: none;
+  }
+}
