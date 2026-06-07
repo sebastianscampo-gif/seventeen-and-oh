@@ -1,0 +1,47 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027140,Chris Ogbonnaya,RB,,25,72,225,1986-05-20,,4,16,16,,,nflverse
+00-0027997,Greg Little,WR,,18,74,220,1989-05-30,North Carolina,2,16,16,,,nflverse
+00-0029675,Trent Richardson,RB,,33,69,225,1990-07-10,,1,16,16,,,nflverse
+00-0028040,Jordan Cameron,TE,,84,77,245,1988-08-07,USC,2,15,15,,,nflverse
+00-0026330,Ahtyba Rubin,EDGE,,71,74,330,1986-07-25,Iowa State,5,14,,,,nflverse
+00-0026997,Alex Mack,C,,55,76,311,1985-11-19,California,4,14,,,,nflverse
+00-0029623,Alex Tanney,QB,,7,76,220,1987-11-11,"Monmouth, Ill.",1,14,,,,nflverse
+00-0028353,Andre Smith,TE,,87,77,270,1988-09-26,,2,14,,,,nflverse
+00-0030553,Armonty Bryant,EDGE,,95,76,265,1990-05-20,East Central (OK),0,14,,,,nflverse
+00-0020972,Billy Cundiff,K,,8,73,212,1980-03-30,Drake,11,14,,,,nflverse
+00-0029303,Billy Winn,EDGE,,90,76,295,1989-04-15,Boise State,1,14,,,,nflverse
+00-0027628,Brian Sanford,DT,,91,74,280,1987-09-12,,3,14,,,,nflverse
+00-0028075,Buster Skrine,CB,,22,69,185,1989-04-26,Chattanooga,2,14,,,,nflverse
+00-0029927,Darius Eubanks,LB,,50,74,225,1991-07-12,Georgia Southern,0,14,,,,nflverse
+00-0030476,Garrett Gilkey,LG,RG,65,78,320,1990-07-09,,0,14,,,,nflverse
+00-0029378,Ishmaa'ily Kitchen,DT,,67,73,330,1988-08-24,,1,14,,,,nflverse
+00-0028088,Jason Pinkston,LG,RG,62,76,305,1987-09-05,,2,14,,,,nflverse
+00-0027860,Joe Haden,CB,,23,71,190,1989-04-14,Florida,3,14,,,,nflverse
+00-0025390,Joe Thomas,LT,RT,73,78,312,1984-12-04,Wisconsin,6,14,,,,nflverse
+00-0026205,John Greco,LG,RG,77,76,315,1985-03-24,Toledo,5,14,,,,nflverse
+00-0029266,John Hughes,EDGE,,93,74,320,1988-04-27,Cincinnati,1,14,,,,nflverse
+00-0030114,Jordan Poyer,CB,,33,72,191,1991-04-25,Oregon State,0,14,,,,nflverse
+00-0029664,Josh Gordon,WR,,12,75,225,1991-04-13,Baylor,1,14,14,,,nflverse
+00-0028381,Julian Posey,S,,38,71,200,1988-07-17,,2,14,,,,nflverse
+00-0030221,Keavon Milton,TE,,83,76,293,1990-06-23,Louisiana-Monroe,0,14,,,,nflverse
+00-0030556,Leon McFadden,CB,,29,69,195,1990-10-26,San Diego State,0,14,,,,nflverse
+00-0029847,Martin Wallace,LT,RT,64,78,305,1990-04-22,Temple,0,14,,,,nflverse
+00-0029253,Mitchell Schwartz,LT,RT,72,77,320,1989-06-08,California,1,14,,,,nflverse
+00-0026239,Oniel Cousins,LG,RG,75,76,315,1984-06-29,,5,14,,,,nflverse
+00-0030268,Patrick Lewis,C,,60,73,311,1991-01-30,,0,14,,,,nflverse
+00-0027959,Phillip Taylor,DT,,98,75,335,1988-04-07,Baylor,2,14,,,,nflverse
+00-0030122,Reid Fragel,LT,RT,78,80,305,1991-02-22,Ohio State,0,14,,,,nflverse
+00-0027694,Shawn Lauvao,LG,RG,66,75,315,1987-10-26,Arizona State,3,14,,,,nflverse
+00-0029384,Bobby Rainey,RB,,34,68,212,1987-10-16,Western Kentucky,1,12,12,,,nflverse
+00-0026281,Gary Barnidge,TE,,82,77,250,1985-09-22,Louisville,5,12,12,,,nflverse
+00-0022178,Willis McGahee,RB,,26,72,235,1981-10-21,,10,11,11,,,nflverse
+00-0029731,Fozzy Whittaker,RB,,35,70,202,1989-02-02,Texas,1,9,9,,,nflverse
+00-0023460,Jason Campbell,QB,,17,77,230,1981-12-31,,8,9,9,,,nflverse
+00-0029677,Brandon Weeden,QB,,3,75,220,1983-10-14,Oklahoma State,1,8,8,,,nflverse
+00-0029878,MarQueis Gray,TE,,47,76,250,1989-11-07,Minnesota,0,8,8,,,nflverse
+00-0029269,Travis Benjamin,WR,,80,70,175,1989-12-29,Miami,1,5,,,,nflverse
+00-0028984,Brian Tyms,WR,,85,75,204,1989-02-21,Florida A&M,1,4,,,,nflverse
+00-0026625,Brian Hoyer,QB,,6,74,215,1985-10-13,Michigan State,4,3,,,,nflverse
+00-0029317,Edwin Baker,RB,,27,68,215,1991-06-01,,1,3,,,,nflverse
+00-0028930,Josh Cooper,WR,,88,70,190,1989-01-08,,1,2,,,,nflverse
+00-0028347,Spencer Lanning,P,,5,71,200,1988-05-21,South Carolina,2,1,,,,nflverse

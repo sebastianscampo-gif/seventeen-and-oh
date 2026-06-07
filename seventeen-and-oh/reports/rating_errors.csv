@@ -1,0 +1,9 @@
+player_id,season,team_code,check,detail,overall
+dave-tipton,1975,LAC,duplicate_player_season,repeated dave-tipton|1975|LAC,69
+mike-mccoy,1976,GB,duplicate_player_season,repeated mike-mccoy|1976|GB,69
+dennis-johnson,1978,BUF,duplicate_player_season,repeated dennis-johnson|1978|BUF,67
+robert-jackson,1978,CLE,duplicate_player_season,repeated robert-jackson|1978|CLE,67
+robert-jackson,1979,CLE,duplicate_player_season,repeated robert-jackson|1979|CLE,67
+robert-jackson,1980,CLE,duplicate_player_season,repeated robert-jackson|1980|CLE,67
+robert-jackson,1981,CLE,duplicate_player_season,repeated robert-jackson|1981|CLE,67
+steve-griffin,1987,ATL,duplicate_player_season,repeated steve-griffin|1987|ATL,64

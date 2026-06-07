@@ -1,0 +1,58 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0026373,Justin Forsett,RB,,20,68,198,1985-10-14,California,2,16,16,,,nflverse
+00-0021192,Deion Branch,WR,,83,69,195,1979-07-18,,8,15,15,,,nflverse
+00-0025506,Allen Barbre,LT,RT,67,76,300,1984-06-22,Missouri Southern State,3,14,,,,nflverse
+00-0022878,Amon Gordon,DT,,97,74,305,1981-10-13,,6,14,,,,nflverse
+00-0027783,Anthony McCoy,TE,,85,76,259,1987-12-28,USC,0,14,,,,nflverse
+00-0025472,Brandon Mebane,DT,,92,73,311,1985-01-15,California,3,14,,,,nflverse
+00-0026290,Breno Giacomini,LT,RT,68,79,318,1985-09-27,Louisville,2,14,,,,nflverse
+00-0021178,Chester Pitts,LT,RT,69,76,308,1979-06-26,,8,14,,,,nflverse
+00-0021577,Chris Clemons,EDGE,,91,75,254,1981-10-30,Georgia,7,14,,,,nflverse
+00-0023461,Chris Spencer,C,,65,75,309,1982-03-28,,5,14,,,,nflverse
+00-0023318,Chris White,C,,63,74,295,1983-02-28,,5,14,,,,nflverse
+00-0027784,Clifton Geathers,EDGE,,72,79,300,1987-12-11,South Carolina,0,14,,,,nflverse
+00-0021684,Colin Cole,DT,,90,74,328,1980-06-24,Iowa,7,14,,,,nflverse
+00-0022692,Craig Terrill,DT,,93,74,296,1980-06-27,,6,14,,,,nflverse
+00-0027828,Dexter Davis,EDGE,,58,73,244,1986-11-10,,0,14,,,,nflverse
+00-0022912,J.P. Losman,QB,,7,74,217,1981-03-12,,6,14,,,,nflverse
+00-0025525,Jay Richardson,EDGE,,99,78,280,1984-01-27,,3,14,,,,nflverse
+00-0027481,Joe Pawelek,LB,,55,74,237,1986-12-08,,0,14,,,,nflverse
+00-0026178,John Carlson,TE,,89,77,251,1984-05-12,,2,14,14,,,nflverse
+00-0027482,Josh Pinkard,S,,22,73,218,1986-04-02,,0,14,,,,nflverse
+00-0022722,Junior Siavii,DT,,94,77,315,1978-11-14,,6,14,,,,nflverse
+00-0024246,Kelly Jennings,CB,,21,71,180,1982-11-30,,4,14,,,,nflverse
+00-0026391,Kennard Cox,CB,,39,72,191,1985-08-17,,2,14,,,,nflverse
+00-0026169,Kentwan Balmer,DT,,95,77,315,1986-10-15,,2,14,,,,nflverse
+00-0027309,Lemuel Jeanpierre,C,,61,75,301,1987-05-19,,0,14,,,,nflverse
+00-0024332,Leon Washington,RB,,33,68,203,1982-08-29,,4,14,14,,,nflverse
+00-0025511,Mansfield Wrotto,LG,RG,66,75,313,1984-10-12,,3,14,,,,nflverse
+00-0027479,Marcus Brown,S,,32,72,190,1987-01-27,,0,14,,,,nflverse
+00-0022046,Marcus Trufant,CB,,23,71,197,1980-12-25,,7,14,,,,nflverse
+00-0007091,Matt Hasselbeck,QB,,8,76,225,1975-09-25,Boston College,12,14,14,,,nflverse
+00-0027025,Max Unger,LG,RG,60,77,305,1986-04-14,Oregon,1,14,,,,nflverse
+00-0010373,Olindo Mare,K,,10,71,192,1973-06-06,,14,14,,,,nflverse
+00-0026943,Paul Fanaika,LG,RG,66,77,327,1986-04-09,Arizona State,1,14,,,,nflverse
+00-0021340,Raheem Brock,EDGE,,98,76,274,1978-06-10,,8,14,,,,nflverse
+00-0026261,Red Bryant,EDGE,,79,76,323,1984-04-18,,2,14,,,,nflverse
+00-0025848,Roy Lewis,CB,,34,70,190,1985-05-19,,2,14,,,,nflverse
+00-0027859,Russell Okung,LT,RT,76,77,310,1988-10-07,Oklahoma State,0,14,,,,nflverse
+00-0022855,Sean Locklear,LT,RT,75,76,310,1981-05-29,,6,14,,,,nflverse
+00-0022870,Stacy Andrews,LT,RT,77,79,340,1981-06-02,,6,14,,,,nflverse
+00-0025826,Tyler Polumbus,LT,RT,78,80,300,1985-04-10,Colorado,2,14,,,,nflverse
+00-0027711,Walter Thurmond,CB,,28,71,190,1987-08-12,Oregon,0,14,,,,nflverse
+00-0025897,William Robinson,LT,RT,73,77,300,1984-12-20,,2,14,,,,nflverse
+00-0027841,Zac Robinson,QB,,7,74,214,1986-09-29,,0,14,,,,nflverse
+00-0027063,Deon Butler,WR,,11,70,182,1986-01-04,,1,13,13,,,nflverse
+00-0022840,Julius Jones,RB,,22,70,208,1981-08-14,,6,13,13,,,nflverse
+00-0023452,Mike Williams,WR,,17,77,235,1984-01-04,,5,13,13,,,nflverse
+00-0024463,Ben Obomanu,WR,,87,73,204,1983-10-30,,4,12,12,,,nflverse
+00-0015754,Brandon Stokley,WR,,15,72,192,1976-06-23,,11,11,11,,,nflverse
+00-0021213,Chris Baker,TE,,86,75,261,1979-11-18,,8,11,11,,,nflverse
+00-0027891,Golden Tate,WR,,81,70,202,1988-08-02,Notre Dame,0,11,11,,,nflverse
+00-0024315,Michael Robinson,RB,,26,73,223,1983-02-06,,4,10,10,,,nflverse
+00-0026963,Cameron Morrah,TE,,88,75,251,1987-03-18,,1,8,8,,,nflverse
+00-0024296,Charlie Whitehurst,QB,,6,77,225,1982-08-06,,4,5,,,,nflverse
+00-0024460,Quinton Ganther,RB,,32,69,220,1984-07-15,,4,5,,,,nflverse
+00-0022421,Ruvell Martin,WR,,82,76,220,1982-08-10,,6,2,,,,nflverse
+00-0023742,Jon Ryan,P,,9,72,217,1981-11-26,Regina (Canada),4,1,,,,nflverse
+00-0026324,Mike Gibson,LG,RG,64,75,298,1985-11-18,,2,1,,,,nflverse

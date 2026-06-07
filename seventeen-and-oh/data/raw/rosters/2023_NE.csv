@@ -1,0 +1,77 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0033045,Ezekiel Elliott,RB,,15,72,228,1995-07-22,Ohio State,7,17,17,,,nflverse
+00-0034829,Mike Gesicki,TE,,88,78,252,1995-10-03,Penn State,5,15,15,,,nflverse
+00-0031404,Adrian Phillips,S,,21,71,210,1992-03-28,Texas,9,14,,,,nflverse
+00-0038646,Alex Austin,CB,,28,73,191,2001-05-22,Oregon State,0,14,,,,nflverse
+00-0037620,Andrew Stueber,LT,RT,64,78,338,1999-07-01,Michigan,1,14,,,,nflverse
+00-0036193,Anfernee Jennings,LB,,33,75,259,1997-09-01,Alabama,3,14,,,,nflverse
+00-0038586,Atonio Mafi,LG,RG,68,75,339,2000-10-20,UCLA,0,14,,,,nflverse
+00-0037205,Brenden Schooler,S,,41,73,206,1997-05-30,Texas,1,14,,,,nflverse
+00-0038610,Bryce Baringer,P,,17,75,215,1999-04-26,Michigan State,0,14,,,,nflverse
+00-0034957,Calvin Anderson,LT,RT,76,77,300,1996-03-25,Texas,4,14,,,,nflverse
+00-0038567,Chad Ryland,K,,37,72,183,1999-10-15,Maryland,0,14,,,,nflverse
+00-0034787,Chris Board,LB,,45,74,230,1995-07-23,North Dakota State,5,14,,,,nflverse
+00-0036981,Christian Barmore,DT,,90,77,310,1999-07-28,Alabama,2,14,,,,nflverse
+00-0036813,Christian Elliss,LB,,53,75,233,1999-01-02,Idaho,2,14,,,,nflverse
+00-0039147,Christian Gonzalez,CB,,6,74,201,2002-06-28,Oregon,0,14,,,,nflverse
+00-0038103,Cole Strange,LG,RG,69,77,301,1998-07-31,Chattanooga,1,14,,,,nflverse
+00-0033300,Conor McDermott,LT,RT,75,80,305,1992-10-19,UCLA,6,14,,,,nflverse
+00-0034251,Daniel Ekuale,DT,,95,75,300,1994-01-13,Washington State,5,14,,,,nflverse
+00-0031852,David Andrews,C,,60,75,300,1992-07-10,Georgia,8,14,,,,nflverse
+00-0033860,Davon Godchaux,DT,,92,75,311,1994-11-11,Louisiana State,6,14,,,,nflverse
+00-0033947,Deatrich Wise,EDGE,,91,78,275,1994-07-26,Arkansas,6,14,,,,nflverse
+00-0038621,Demario Douglas,WR,,81,68,170,2000-12-08,Liberty,0,14,14,,,nflverse
+00-0027647,Devin McCourty,S,,32,70,195,1987-08-13,Rutgers,13,14,,,,nflverse
+00-0037806,Diego Fagot,LB,,42,75,240,,Navy,1,14,,,,nflverse
+00-0038641,Isaiah Bolden,CB,,29,74,205,1999-12-16,Jackson State,0,14,,,,nflverse
+00-0034591,J.C. Jackson,CB,,29,73,198,1995-11-17,Maryland,5,14,,,,nflverse
+00-0034385,Ja'Whaun Bentley,LB,,8,74,255,1996-08-24,Purdue,5,14,,,,nflverse
+00-0033883,Jabrill Peppers,S,,5,71,213,1995-10-04,Michigan,6,14,,,,nflverse
+00-0035240,Jahlani Tavai,LB,,48,74,250,1996-09-28,Hawaii,4,14,,,,nflverse
+00-0039030,Jake Andrews,C,,67,75,325,1999-11-11,Troy,0,14,,,,nflverse
+00-0034971,Jalen Hurd,WR,,14,76,227,1996-01-23,Baylor,4,14,,,,nflverse
+00-0032803,Jalen Mills,CB,,2,72,191,1994-04-06,Louisiana State,7,14,,,,nflverse
+00-0031039,James Ferentz,C,,65,74,300,1989-06-05,Iowa,9,14,,,,nflverse
+00-0037711,Jeremiah Pharms,EDGE,,70,75,270,1996-10-16,Friends,3,14,,,,nflverse
+00-0032580,Jonathan Jones,CB,,31,70,190,1993-09-20,Auburn,7,14,,,,nflverse
+00-0036159,Josh Uche,LB,,55,75,250,1998-09-18,Michigan,3,14,,,,nflverse
+00-0036872,Joshuah Bledsoe,S,,24,71,198,1998-12-30,Missouri,2,14,,,,nflverse
+00-0039148,Keion White,EDGE,,99,77,286,1999-01-20,Georgia Tech,0,14,,,,nflverse
+00-0036231,Kyle Dugger,S,,23,74,216,1996-03-22,Lenoir-Rhyne,3,14,,,,nflverse
+00-0037724,La'Michael Pettway,TE,,46,73,223,1997-03-20,Iowa State,3,14,,,,nflverse
+00-0028171,Lawrence Guy,DT,,93,76,315,1990-03-17,Arizona State,12,14,,,,nflverse
+00-0035144,Mack Wilson,LB,,3,73,240,1998-02-14,Alabama,4,14,,,,nflverse
+00-0036884,Marco Wilson,CB,,19,72,191,1999-03-03,Florida,2,14,,,,nflverse
+00-0037253,Marcus Jones,CB,,25,68,185,1998-10-22,Houston,1,14,,,,nflverse
+00-0039054,Marte Mapu,LB,,30,75,216,1999-11-08,Sacramento State,0,14,,,,nflverse
+00-0032415,Matt Judon,LB,,9,75,261,1992-08-15,Grand Valley State,7,14,,,,nflverse
+00-0026293,Matt Slater,WR,,18,72,205,1985-09-09,UCLA,15,14,,,,nflverse
+00-0035436,Matt Sokol,TE,,87,77,260,1995-11-09,Michigan State,4,14,,,,nflverse
+00-0036198,Michael Onwenu,LG,RG,71,75,350,1997-12-10,Michigan,3,14,,,,nflverse
+00-0036087,Myles Bryant,CB,,27,69,180,1998-01-02,Washington,3,14,,,,nflverse
+00-0038150,Nathan Rourke,QB,,13,73,210,1998-05-24,Ohio,3,14,,,,nflverse
+00-0033461,Raekwon McMillan,LB,,50,74,242,1995-11-17,Ohio State,6,14,,,,nflverse
+00-0029672,Riley Reiff,LT,RT,74,78,305,1988-12-01,Iowa,11,14,,,,nflverse
+00-0037298,Sam Roberts,EDGE,,96,77,292,1998-04-14,Northwest Missouri State,1,14,,,,nflverse
+00-0036559,Shaun Wade,CB,,26,73,195,1998-09-16,Ohio State,2,14,,,,nflverse
+00-0038569,Sidy Sow,LT,RT,62,77,334,1998-06-10,Eastern Michigan,0,14,,,,nflverse
+00-0034962,Terez Hall,LB,,59,74,235,1996-11-18,Missouri,4,14,,,,nflverse
+00-0036536,Tre Nixon,WR,,82,74,190,1998-01-26,Central Florida,2,14,,,,nflverse
+00-0032071,Trenton Brown,LT,RT,77,80,380,1993-04-13,Florida,8,14,,,,nflverse
+00-0036966,Tyrone Wheatley,LT,RT,72,78,265,1997-02-04,Morgan State,2,14,,,,nflverse
+00-0037287,Vederian Lowe,LT,RT,59,78,320,1999-04-17,Illinois,1,14,,,,nflverse
+00-0031547,DeVante Parker,WR,,1,75,216,1993-01-20,Louisville,8,13,13,,,nflverse
+00-0033090,Hunter Henry,TE,,85,77,250,1994-12-07,Arkansas,7,13,13,,,nflverse
+00-0036875,Rhamondre Stevenson,RB,,38,72,246,1998-02-23,Oklahoma,2,12,12,,,nflverse
+00-0033857,JuJu Smith-Schuster,WR,,7,73,215,1996-11-22,Southern California,6,11,11,,,nflverse
+00-0036972,Mac Jones,QB,,10,75,214,1998-09-05,Alabama,2,11,11,,,nflverse
+00-0038108,Bailey Zappe,QB,,4,73,220,1999-04-26,Western Kentucky,1,10,10,,,nflverse
+00-0036387,Jalen Reagor,WR,,83,71,195,1999-01-02,Texas Christian,3,9,9,,,nflverse
+00-0033439,Pharaoh Brown,TE,,86,78,258,1994-05-04,Oregon,6,9,9,,,nflverse
+00-0038104,Tyquan Thornton,WR,,11,74,180,2000-08-07,Baylor,1,9,9,,,nflverse
+00-0033307,Kendrick Bourne,WR,,84,73,203,1995-08-04,Eastern Washington,6,8,8,,,nflverse
+00-0032200,Ty Montgomery,WR,,14,72,216,1993-01-22,Stanford,8,7,,,,nflverse
+00-0037286,Kevin Harris,RB,,36,70,220,2000-11-17,South Carolina,1,4,,,,nflverse
+00-0038608,Kayshon Boutte,WR,,80,72,205,2002-05-07,Louisiana State,0,3,,,,nflverse
+00-0029764,Cody Davis,S,,22,74,203,1989-06-06,Texas Tech,10,1,,,,nflverse
+00-0035806,Jamycal Hasty,RB,,39,68,205,1996-09-12,Baylor,3,1,,,,nflverse

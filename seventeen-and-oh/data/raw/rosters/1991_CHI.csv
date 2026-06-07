@@ -1,0 +1,56 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0011643,Anthony Morgan,WR,,0,73,195,1967-11-15,,,14,,,,nflverse
+00-0011880,Brad Muster,RB,,0,75,231,1965-04-11,,,14,,,,nflverse
+00-0001522,Cap Boso,TE,,0,76,224,1962-09-10,,,14,,,,nflverse
+00-0005771,Chris Gardocki,K,,0,73,194,1970-02-07,,,14,,,,nflverse
+00-0018522,Chris Zorich,DT,,97,73,267,1969-03-13,,,14,,,,nflverse
+00-0008726,Dante Jones,LB,,0,73,236,1965-03-23,,,14,,,,nflverse
+00-0009847,Darren Lewis,RB,,0,70,219,1968-11-07,,,14,,,,nflverse
+00-0016057,David Tate,CB,,0,73,177,1964-11-22,,,14,,,,nflverse
+00-0005876,Dennis Gentry,RB,,0,68,173,1959-02-10,,,14,,,,nflverse
+00-0018240,Donnell Woolford,CB,,21,69,188,1966-01-06,,,14,,,,nflverse
+00-0009509,Eric Kumerow,EDGE,,0,79,264,1965-04-17,,,14,,,,nflverse
+00-0018295,Eric Wright,WR,,0,72,196,1969-08-04,,,14,,,,nflverse
+00-0009444,Glen Kozlowski,WR,,0,73,193,1962-12-31,,,14,,,,nflverse
+00-0017821,James O. Williams,DT,,71,79,295,1968-03-29,,,14,,,,nflverse
+00-0014091,James Rouse,RB,,0,72,220,1966-12-18,,,14,,,,nflverse
+00-0007411,Jay Hilgenberg,C,,0,75,250,1959-03-21,,,14,,,,nflverse
+00-0005399,Jerry Fontenot,LG,RG,67,75,272,1966-11-21,,,14,,,,nflverse
+00-0003550,Jim Covert,LT,RT,0,76,271,1960-03-22,,,14,,,,nflverse
+00-0006808,Jim Harbaugh,QB,,0,75,202,1963-12-23,,,14,,,,nflverse
+00-0011717,Jim Morrissey,LB,,0,75,215,1962-12-24,,,14,,,,nflverse
+00-0016428,Jim Thornton,TE,,0,74,242,1965-02-08,,,14,,,,nflverse
+00-0010332,John Mangum,CB,,26,70,173,1967-03-16,,,14,,,,nflverse
+00-0014021,John Roper,LB,,0,73,228,1965-10-04,,,14,,,,nflverse
+00-0018152,John Wojciechowski,LT,RT,0,76,262,1963-07-30,,,14,,,,nflverse
+00-0000597,Johnny Bailey,RB,,0,68,180,1967-03-17,,,14,,,,nflverse
+00-0008376,Keith Jennings,TE,,85,76,241,1966-05-19,,,14,,,,nflverse
+00-0016823,Keith Van Horne,LT,RT,0,78,265,1957-11-06,,,14,,,,nflverse
+00-0002422,Kevin Butler,K,,0,72,204,1962-07-24,,,14,,,,nflverse
+00-0015734,Lemuel Stinson,CB,,0,69,159,1966-05-10,,,14,,,,nflverse
+00-0001516,Mark Bortz,LG,RG,0,78,267,1961-02-12,,,14,,,,nflverse
+00-0002688,Mark Carrier,S,,20,73,180,1968-04-28,,,14,,,,nflverse
+00-0006340,Mark Green,RB,,0,71,181,1967-03-22,,,14,,,,nflverse
+00-0012671,Markus Paul,S,,0,74,203,1966-04-01,,,14,,,,nflverse
+00-0004477,Maurice Douglass,CB,,0,71,200,1964-02-12,,,14,,,,nflverse
+00-0002196,Maury Buford,P,,0,73,191,1960-02-18,,,14,,,,nflverse
+00-0014988,Mike Singletary,LB,,0,72,230,1958-10-09,,,14,,,,nflverse
+00-0015763,Mike Stonebreaker,LB,,0,72,226,1967-01-14,,,14,,,,nflverse
+00-0000334,Neal Anderson,RB,,0,71,210,1964-08-14,,,14,,,,nflverse
+00-0017984,Peter Tom Willis,QB,,0,74,188,1967-01-04,,,14,,,,nflverse
+00-0015275,Quintin Smith,WR,,0,70,172,1968-08-17,,,14,,,,nflverse
+00-0004205,Richard Dent,EDGE,,0,77,240,1960-12-13,,,14,,,,nflverse
+00-0003583,Ron Cox,LB,,0,74,242,1968-02-27,,,14,,,,nflverse
+00-0010545,Ron Mattes,LT,RT,0,78,285,1963-08-08,,,14,,,,nflverse
+00-0011696,Ron Morris,WR,,0,73,190,1964-11-04,,,14,,,,nflverse
+00-0013781,Ron Rivera,LB,,0,75,235,1962-01-07,,,14,,,,nflverse
+00-0005847,Shaun Gayle,S,,0,71,195,1962-03-08,,,14,,,,nflverse
+00-0010066,Stacy Long,LG,RG,0,73,294,1967-09-30,,,14,,,,nflverse
+00-0016328,Stan Thomas,LT,RT,0,77,302,1968-10-28,,,14,,,,nflverse
+00-0011001,Steve McMichael,DT,,0,74,245,1957-10-17,,,14,,,,nflverse
+,Tim Ryan,DT,,0,76,268,1967-09-08,,,14,,,,nflverse
+00-0016203,Tom Thayer,LG,RG,0,76,261,1961-08-16,,,14,,,,nflverse
+00-0016966,Tom Waddle,WR,,0,72,181,1967-02-20,,,14,,,,nflverse
+00-0000439,Trace Armstrong,EDGE,,0,76,270,1965-10-05,,,14,,,,nflverse
+00-0004066,Wendell Davis,WR,,0,71,188,1966-01-03,,,14,,,,nflverse
+00-0012831,William Perry,DT,,0,74,325,1962-12-16,,,14,,,,nflverse

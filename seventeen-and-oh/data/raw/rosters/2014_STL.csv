@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0029795,Benny Cunningham,RB,,36,70,217,1990-07-07,Middle Tennessee State,1,16,16,,,nflverse
+00-0027061,Jared Cook,TE,,89,77,254,1987-04-07,South Carolina,5,16,16,,,nflverse
+00-0027006,Kenny Britt,WR,,81,75,223,1988-09-19,Rutgers,5,16,16,,,nflverse
+00-0027985,Lance Kendricks,TE,,88,75,250,1988-01-30,Wisconsin,3,16,16,,,nflverse
+00-0030525,Tavon Austin,WR,,11,68,176,1990-03-15,West Virginia,1,15,15,,,nflverse
+00-0031388,Aaron Donald,DT,,99,73,285,1991-05-23,Pittsburgh,0,14,,,,nflverse
+00-0030975,Alex Bayer,TE,,82,76,258,1990-11-08,,0,14,,,,nflverse
+00-0027677,Alex Carrington,DT,,92,77,301,1987-06-19,,4,14,,,,nflverse
+00-0030534,Barrett Jones,C,,67,76,308,1990-05-25,,1,14,,,,nflverse
+00-0030535,Brandon McGee,CB,,32,71,193,1990-12-11,,1,14,,,,nflverse
+00-0029426,Brandon Washington,LG,RG,70,74,318,1988-08-13,,2,14,,,,nflverse
+00-0028795,Chase Reynolds,RB,,34,72,205,1987-10-22,Montana,3,14,,,,nflverse
+00-0026142,Chris Long,EDGE,,91,75,268,1985-03-28,Virginia,6,14,,,,nflverse
+00-0024238,Davin Joseph,LG,RG,69,75,313,1983-11-22,,8,14,,,,nflverse
+00-0031394,E.J. Gaines,CB,,33,70,190,1992-02-23,Missouri,0,14,,,,nflverse
+00-0030986,Ethan Westbrooks,EDGE,,93,75,267,1990-11-15,West Texas A&amp;M,0,14,,,,nflverse
+00-0027787,Eugene Sims,EDGE,,97,78,269,1986-03-18,West Texas A&M,4,14,,,,nflverse
+00-0031386,Greg Robinson,LG,RG,79,77,332,1992-10-21,Auburn,0,14,,,,nflverse
+00-0029621,Greg Zuerlein,K,,4,72,196,1987-12-27,Missouri Western,2,14,,,,nflverse
+00-0025820,Jake Long,LT,RT,77,79,322,1985-05-09,Michigan,6,14,,,,nflverse
+00-0029681,Janoris Jenkins,CB,,21,70,198,1988-10-29,North Alabama,2,14,,,,nflverse
+00-0031192,Jemea Thomas,CB,,35,69,195,1990-04-07,,0,14,,,,nflverse
+00-0028030,Joe Barksdale,LT,RT,72,77,326,1989-01-04,Louisiana State,3,14,,,,nflverse
+00-0030129,Justice Cunningham,TE,,48,75,258,1991-01-14,,1,14,,,,nflverse
+00-0026206,Kendall Langford,DT,,98,78,313,1986-01-27,Hampton,6,14,,,,nflverse
+00-0030982,Marcus Roberson,CB,,47,72,191,1992-10-04,Florida,0,14,,,,nflverse
+00-0029630,Michael Brockers,DT,,90,77,326,1990-12-21,Louisiana State,2,14,,,,nflverse
+00-0028177,Mike Person,LG,RG,73,76,299,1988-06-17,Montana State,3,14,,,,nflverse
+00-0027952,Robert Quinn,EDGE,,94,76,264,1990-05-18,North Carolina,3,14,,,,nflverse
+00-0027648,Rodger Saffold,LT,RT,76,77,332,1988-06-06,Indiana,4,14,,,,nflverse
+00-0022832,Scott Wells,C,,63,74,302,1981-01-07,,10,14,,,,nflverse
+00-0028274,Tim Barnes,C,,61,76,306,1988-05-14,Missouri,3,14,,,,nflverse
+00-0029690,Trumaine Johnson,CB,,22,74,208,1990-01-01,Montana,2,14,,,,nflverse
+00-0026243,William Hayes,EDGE,,95,75,278,1985-05-02,Winston-Salem State,6,14,,,,nflverse
+00-0030532,Stedman Bailey,WR,,12,70,194,1990-11-11,,1,13,13,,,nflverse
+00-0031391,Tre Mason,RB,,27,68,207,1993-08-06,,0,12,12,,,nflverse
+00-0028957,Austin Davis,QB,,9,74,221,1989-06-02,Southern Mississippi,2,9,9,,,nflverse
+00-0029614,Chris Givens,WR,,13,72,203,1989-12-06,,2,9,9,,,nflverse
+00-0028958,Cory Harkey,TE,,46,76,259,1990-06-17,UCLA,2,9,9,,,nflverse
+00-0030536,Zac Stacy,RB,,30,69,224,1991-04-09,Vanderbilt,1,9,9,,,nflverse
+00-0020679,Shaun Hill,QB,,14,75,220,1980-01-09,Maryland,12,8,8,,,nflverse
+00-0029640,Brian Quick,WR,,83,75,218,1989-06-05,Appalachian State,2,7,,,,nflverse
+00-0030985,Trey Watts,RB,,42,69,208,1991-02-13,Tulsa,0,4,,,,nflverse
+00-0028872,Johnny Hekker,P,,6,77,236,1990-02-08,Oregon State,2,3,,,,nflverse
+00-0028986,Case Keenum,QB,,17,73,205,1988-02-17,Houston,2,2,,,,nflverse

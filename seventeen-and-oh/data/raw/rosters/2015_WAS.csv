@@ -1,0 +1,49 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0029141,Alfred Morris,RB,,46,70,224,1988-12-12,Florida Atlantic,3,16,16,,,nflverse
+00-0031941,Jamison Crowder,WR,,80,68,185,1993-06-17,Duke,0,16,16,,,nflverse
+00-0029604,Kirk Cousins,QB,,8,75,202,1988-08-19,Michigan State,3,16,16,,,nflverse
+00-0026345,Pierre Garcon,WR,,88,72,216,1986-08-08,Mount Union,7,16,16,,,nflverse
+00-0027783,Anthony McCoy,TE,,85,77,259,1987-12-28,USC,5,14,,,,nflverse
+00-0031942,Arie Kouandjio,LG,RG,74,77,310,1992-04-23,Alabama,0,14,,,,nflverse
+00-0031052,Bashaud Breeland,CB,,26,71,197,1992-01-30,Clemson,1,14,,,,nflverse
+00-0032053,Brandon Scherff,LG,RG,75,77,319,1991-12-26,Iowa,0,14,,,,nflverse
+00-0031161,Carlos Fields,LB,,59,73,238,1990-10-03,Winston-Salem State,1,14,,,,nflverse
+00-0026512,Chris Baker,EDGE,,92,74,325,1987-10-08,Hampton,6,14,,,,nflverse
+00-0028018,Chris Culliver,CB,,29,72,199,1988-08-17,South Carolina,4,14,,,,nflverse
+00-0030963,Dashaun Phillips,S,,35,71,182,1991-01-03,Tarleton State,1,14,,,,nflverse
+00-0030420,David Amerson,CB,,39,73,205,1991-12-08,North Carolina State,2,14,,,,nflverse
+00-0022923,DeAngelo Hall,CB,,23,70,198,1983-11-19,Virginia Tech,11,14,,,,nflverse
+00-0031844,Deshazor Everett,CB,,22,72,193,1992-02-22,Texas A&amp;M,0,14,,,,nflverse
+00-0030098,Dustin Hopkins,K,,3,74,193,1990-10-01,Florida State,2,14,,,,nflverse
+00-0028169,Frank Kearse,EDGE,,73,77,310,1988-10-28,,4,14,,,,nflverse
+00-0032181,Houston Bates,LB,,96,73,250,1990-12-20,Louisiana Tech,0,14,,,,nflverse
+00-0024307,Jason Hatcher,EDGE,,97,78,299,1982-07-13,Grambling State,9,14,,,,nflverse
+00-0030435,Jeremy Harris,CB,,37,74,185,1991-04-26,,2,14,,,,nflverse
+00-0030472,Jordan Reed,TE,,86,74,237,1990-07-03,Florida,2,14,14,,,nflverse
+00-0029666,Josh LeRibeus,C,,67,74,315,1989-07-02,Southern Methodist,3,14,,,,nflverse
+00-0024410,Kedric Golston,DT,,64,76,318,1983-05-30,Georgia,9,14,,,,nflverse
+00-0026248,Kory Lichtensteiger,C,,78,74,296,1985-03-22,Bowling Green,7,14,,,,nflverse
+00-0030822,Marcel Jensen,TE,,85,78,270,1990-02-12,,1,14,,,,nflverse
+00-0031330,Morgan Moses,LT,RT,76,78,318,1991-03-03,Virginia,1,14,,,,nflverse
+00-0032007,Quinton Dunbar,CB,,47,74,201,1992-07-22,Florida,0,14,,,,nflverse
+00-0026502,Ricky Jean Francois,EDGE,,99,75,297,1986-11-23,LSU,6,14,,,,nflverse
+00-0029665,Robert Griffin,QB,,10,74,222,1990-02-12,Baylor,3,14,,,,nflverse
+00-0027694,Shawn Lauvao,LG,RG,77,75,315,1987-10-26,Arizona State,5,14,,,,nflverse
+00-0031047,Spencer Long,LG,RG,61,77,311,1990-11-08,Nebraska,1,14,,,,nflverse
+00-0027991,Stephen Paea,EDGE,,90,73,300,1988-05-11,Oregon State,4,14,,,,nflverse
+00-0027046,Terrance Knighton,DT,,98,75,354,1986-07-04,,6,14,,,,nflverse
+00-0029144,Tom Compton,LT,RT,68,77,308,1989-05-10,South Dakota,3,14,,,,nflverse
+00-0027857,Trent Williams,LT,RT,71,77,337,1988-07-19,Oklahoma,5,14,,,,nflverse
+00-0030140,Tress Way,P,,5,73,215,1990-04-18,Oklahoma,2,14,,,,nflverse
+00-0029709,Ty Nsekhe,LT,RT,79,80,325,1985-10-27,Texas State,3,14,,,,nflverse
+00-0024330,Will Blackmon,CB,,41,72,204,1984-10-27,Boston College,9,14,,,,nflverse
+00-0030404,Chris Thompson,RB,,25,68,193,1990-10-20,Florida State,2,13,13,,,nflverse
+00-0031939,Matt Jones,RB,,31,73,231,1993-03-07,Florida,0,13,13,,,nflverse
+00-0031068,Ryan Grant,WR,,14,72,193,1990-12-19,Tulane,1,12,12,,,nflverse
+00-0029119,Derek Carrier,TE,,89,76,241,1990-07-25,Beloit,3,11,11,,,nflverse
+00-0026852,Darrel Young,RB,,36,71,251,1987-04-08,Villanova,6,9,9,,,nflverse
+00-0026189,DeSean Jackson,WR,,11,70,178,1986-12-01,California,7,9,9,,,nflverse
+00-0027691,Andre Roberts,WR,,12,71,187,1988-01-09,Citadel,5,8,8,,,nflverse
+00-0030187,Rashad Ross,WR,,19,72,181,1990-02-02,Arizona State,2,5,,,,nflverse
+00-0023506,Alex Smith,TE,,83,76,250,1982-05-22,Stanford,10,2,,,,nflverse
+00-0027688,Colt McCoy,QB,,16,73,215,1986-09-05,Texas,5,1,,,,nflverse

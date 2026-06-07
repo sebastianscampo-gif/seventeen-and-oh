@@ -1,0 +1,52 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0024226,Jay Cutler,QB,,6,75,233,1983-04-29,Vanderbilt,2,16,16,,,nflverse
+00-0024334,Brandon Marshall,WR,,15,76,230,1984-03-23,Central Florida,2,15,15,,,nflverse
+00-0015754,Brandon Stokley,WR,,14,71,192,1976-06-23,,9,15,15,,,nflverse
+00-0026182,Eddie Royal,WR,,19,70,182,1986-05-21,Virginia Tech,0,15,15,,,nflverse
+00-0023714,Alex Haynes,RB,,37,70,223,1982-02-13,,3,14,,,,nflverse
+00-0021936,Andrew Pinnock,RB,,38,70,250,1980-03-12,,5,14,,,,nflverse
+00-0020368,Ben Hamilton,LG,RG,50,76,290,1977-08-18,,7,14,,,,nflverse
+00-0025825,Brett Kern,P,,1,75,205,1986-02-17,Toledo,0,14,,,,nflverse
+00-0017638,Casey Wiegmann,C,,62,74,285,1973-07-20,,12,14,,,,nflverse
+00-0021403,Chad Mustard,TE,,85,78,277,1977-10-08,,6,14,,,,nflverse
+00-0000585,Champ Bailey,CB,,24,72,192,1978-06-22,,9,14,,,,nflverse
+00-0024375,Chris Kuper,LG,RG,73,76,302,1982-12-19,,2,14,,,,nflverse
+00-0021212,Cliff Russell,WR,,10,71,190,1979-02-08,,6,14,,,,nflverse
+00-0026378,Cory Boyd,RB,,30,73,213,1985-08-06,,0,14,,,,nflverse
+00-0021154,Daniel Graham,TE,,89,75,257,1978-11-16,,6,14,14,,,nflverse
+00-0023943,Darrell Hackney,QB,,4,72,248,1983-08-07,,2,14,,,,nflverse
+00-0021988,Dewayne Robertson,DT,,63,73,308,1981-10-16,,5,14,,,,nflverse
+00-0001388,Dre' Bly,CB,,32,70,188,1977-05-22,,9,14,,,,nflverse
+00-0004808,Ebenezer Ekuban,EDGE,,91,76,275,1976-05-29,,9,14,,,,nflverse
+00-0024341,Elvis Dumervil,EDGE,,92,71,260,1984-01-19,Louisville,2,14,,,,nflverse
+00-0026259,Jack Williams,CB,,26,69,186,1985-03-27,,0,14,,,,nflverse
+00-0025404,Jarvis Moss,EDGE,,94,78,265,1984-08-03,,1,14,,,,nflverse
+00-0019651,John Engelberger,EDGE,,60,76,260,1976-10-18,,8,14,,,,nflverse
+00-0026360,Josh Barrett,S,,36,75,225,1984-11-22,,0,14,,,,nflverse
+00-0026057,Josh Bell,S,,34,71,177,1985-01-08,,0,14,,,,nflverse
+00-0021285,Josh Shaw,DT,,95,75,305,1979-09-07,,6,14,,,,nflverse
+00-0023511,Karl Paymah,CB,,41,72,195,1982-11-29,,3,14,,,,nflverse
+00-0022002,Kenny Peterson,DT,,90,75,300,1978-11-21,,5,14,,,,nflverse
+00-0026248,Kory Lichtensteiger,LG,RG,67,75,295,1985-03-22,Bowling Green,0,14,,,,nflverse
+00-0025508,Marcus Thomas,DT,,79,75,305,1985-09-23,,1,14,,,,nflverse
+00-0023853,Matt Prater,K,,5,70,188,1984-08-10,Central Florida,2,14,,,,nflverse
+00-0021578,Nic Clemons,EDGE,,93,78,300,1980-02-03,,5,14,,,,nflverse
+00-0024693,Pat Murray,LG,RG,72,75,310,1984-10-31,,1,14,,,,nflverse
+00-0026152,Ryan Clady,LT,RT,78,78,325,1986-09-06,Boise State,0,14,,,,nflverse
+00-0025457,Ryan Harris,LT,RT,74,77,300,1985-03-11,,1,14,,,,nflverse
+00-0026323,Spencer Larsen,RB,,46,74,240,1984-03-04,,0,14,,,,nflverse
+00-0025443,Tim Crowder,EDGE,,96,76,275,1985-06-30,,1,14,,,,nflverse
+00-0011915,Tom Nalen,C,,66,75,286,1971-05-13,,14,14,,,,nflverse
+00-0025826,Tyler Polumbus,LT,RT,76,80,310,1985-04-10,Colorado,0,14,,,,nflverse
+00-0024276,Tony Scheffler,TE,,88,77,250,1983-02-15,,2,12,12,,,nflverse
+00-0019663,Darrell Jackson,WR,,82,71,210,1978-12-06,,8,9,9,,,nflverse
+00-0013013,Michael Pittman,RB,,28,72,225,1975-08-14,,10,8,8,,,nflverse
+00-0024549,Selvin Young,RB,,35,71,215,1983-10-01,,1,8,8,,,nflverse
+00-0023764,Andre Hall,RB,,23,70,212,1982-08-20,,2,7,,,,nflverse
+00-0020617,Nate Jackson,TE,,81,75,235,1979-06-04,,6,7,,,,nflverse
+00-0026367,Peyton Hillis,RB,,22,74,250,1986-01-21,,0,7,,,,nflverse
+00-0022893,Tatum Bell,RB,,21,71,213,1981-03-02,,4,6,,,,nflverse
+00-0023881,P.J. Pope,RB,,31,69,205,1984-02-26,,2,3,,,,nflverse
+00-0026279,Ryan Torain,RB,,42,73,225,1986-08-10,,0,2,,,,nflverse
+00-0024251,Chad Jackson,WR,,16,73,215,1985-03-06,,2,1,,,,nflverse
+00-0021379,Patrick Ramsey,QB,,11,74,225,1979-02-14,,6,1,,,,nflverse

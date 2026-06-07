@@ -1,0 +1,44 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0023367,Nate Washington,WR,,85,73,185,1983-08-28,,1,16,16,,,nflverse
+00-0024240,Santonio Holmes,WR,,10,71,189,1984-03-03,,0,16,16,,,nflverse
+00-0022250,Willie Parker,RB,,39,70,209,1980-11-11,,2,16,16,,,nflverse
+00-0022924,Ben Roethlisberger,QB,,7,77,241,1982-03-02,"Miami, O.",2,15,15,,,nflverse
+00-0015080,Aaron Smith,EDGE,,91,77,298,1976-04-19,,7,14,,,,nflverse
+00-0005058,Alan Faneca,LG,RG,66,77,307,1976-12-07,,8,14,,,,nflverse
+00-0024095,Anthony Madison,CB,,37,69,180,1981-10-08,,0,14,,,,nflverse
+00-0021344,Brett Keisel,EDGE,,99,77,285,1978-09-19,,4,14,,,,nflverse
+00-0022101,Brian St. Pierre,QB,,2,75,230,1979-11-28,,3,14,,,,nflverse
+00-0020426,Casey Hampton,DT,,98,73,325,1977-09-03,,5,14,,,,nflverse
+00-0020452,Cedrick Wilson,WR,,80,70,183,1978-12-17,,5,14,14,,,nflverse
+00-0020082,Chidi Iwuoma,CB,,29,69,184,1978-02-19,,5,14,,,,nflverse
+00-0005771,Chris Gardocki,P,,17,73,192,1970-02-07,,15,14,,,,nflverse
+00-0019940,Chris Hoke,DT,,76,75,305,1976-04-06,,5,14,,,,nflverse
+00-0023362,Chris Kemoeatu,LG,RG,68,75,344,1983-01-04,,1,14,,,,nflverse
+00-0020255,Chukky Okobi,C,,56,73,318,1978-10-18,,5,14,,,,nflverse
+00-0016577,Deshea Townsend,CB,,26,70,190,1975-09-08,,8,14,,,,nflverse
+00-0023465,Heath Miller,TE,,83,77,256,1982-10-22,Virginia,1,14,14,,,nflverse
+00-0017162,Hines Ward,WR,,86,72,205,1976-03-08,,8,14,14,,,nflverse
+00-0021891,Ivan Taylor,CB,,24,73,191,1980-05-05,,3,14,,,,nflverse
+00-0007051,Jeff Hartings,C,,64,75,299,1972-09-07,,10,14,,,,nflverse
+00-0020737,Jeff Reed,K,,3,71,225,1979-04-09,,4,14,,,,nflverse
+00-0024499,Jovon Johnson,S,,28,69,177,1983-11-02,,0,14,,,,nflverse
+00-0021161,Kendall Simmons,LG,RG,73,75,319,1979-03-11,,4,14,,,,nflverse
+00-0021309,Lee Mays,WR,,89,74,193,1978-09-18,,4,14,,,,nflverse
+00-0019628,Marvel Smith,LT,RT,77,77,321,1978-08-06,,6,14,,,,nflverse
+00-0024415,Marvin Philip,C,,62,73,307,1982-02-03,,0,14,,,,nflverse
+00-0022785,Max Starks,LT,RT,78,79,337,1982-01-10,,2,14,,,,nflverse
+00-0024172,Patrick Cobbs,RB,,40,69,210,1983-01-31,,0,14,,,,nflverse
+00-0022713,Ricardo Colclough,CB,,21,71,186,1983-09-26,,2,14,,,,nflverse
+00-0020299,Rodney Bailey,EDGE,,93,75,305,1979-10-07,,5,14,,,,nflverse
+00-0023528,Trai Essex,LT,RT,79,76,324,1982-12-05,,1,14,,,,nflverse
+00-0009305,Travis Kirschke,EDGE,,90,75,298,1974-09-06,,9,14,,,,nflverse
+00-0024193,Willie Colon,LT,RT,74,75,315,1983-04-09,Hofstra,0,14,,,,nflverse
+00-0024310,Willie Reid,WR,,15,70,186,1982-09-19,,0,14,,,,nflverse
+00-0021252,Najeh Davenport,RB,,44,73,247,1979-02-08,,4,13,13,,,nflverse
+00-0000865,Charlie Batch,QB,,16,74,216,1974-12-05,,8,7,,,,nflverse
+00-0016677,Jerame Tuman,TE,,84,76,253,1976-03-24,,7,7,,,,nflverse
+00-0021279,Verron Haynes,RB,,34,69,222,1979-02-17,,4,7,,,,nflverse
+00-0019135,Dan Kreider,RB,,35,71,255,1977-03-11,,6,6,,,,nflverse
+00-0022999,John Kuhn,RB,,42,72,255,1982-09-09,Shippensburg,1,2,,,,nflverse
+00-0011641,Sean Morey,WR,,81,71,200,1976-02-26,,7,2,,,,nflverse
+00-0023497,Bryant McFadden,CB,,20,72,190,1981-11-21,,1,1,,,,nflverse

@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027902,Dez Bryant,WR,,88,74,220,1988-11-04,Oklahoma State,2,16,16,,,nflverse
+00-0026162,Felix Jones,RB,,28,70,215,1987-05-08,,4,16,16,,,nflverse
+00-0022127,Jason Witten,TE,,82,78,261,1982-05-06,Tennessee,9,16,16,,,nflverse
+00-0023921,Miles Austin,WR,,19,74,217,1984-06-30,"Monmouth, N.J.",6,16,16,,,nflverse
+00-0021678,Tony Romo,QB,,9,74,230,1980-04-21,Eastern Illinois,9,16,16,,,nflverse
+00-0029491,Ben Bass,DT,,79,77,283,1989-10-12,,0,14,,,,nflverse
+00-0026280,Brandon Carr,CB,,39,72,210,1986-05-19,Grand Valley State,4,14,,,,nflverse
+00-0011626,Brian Moorman,P,,2,72,174,1976-02-05,,13,14,,,,nflverse
+00-0026084,Brian Schaefering,DT,,66,76,295,1983-08-20,,4,14,,,,nflverse
+00-0028664,Chris Jones,P,,6,72,208,1989-07-21,Carson-Newman,1,14,,,,nflverse
+00-0028660,Dan Bailey,K,,5,72,189,1988-01-26,Oklahoma State,1,14,,,,nflverse
+00-0029080,Darrion Weems,LT,RT,75,77,302,1988-09-04,,0,14,,,,nflverse
+00-0028048,David Arkin,LG,RG,62,77,306,1987-10-07,Missouri State,1,14,,,,nflverse
+00-0022132,Derrick Dockery,LG,RG,76,78,325,1980-09-07,,9,14,,,,nflverse
+00-0025509,Doug Free,LT,RT,68,78,325,1984-01-16,Northern Illinois,5,14,,,,nflverse
+00-0024307,Jason Hatcher,DT,,97,78,305,1982-07-13,Grambling State,6,14,,,,nflverse
+00-0023656,Jay Ratliff,DT,,90,76,303,1981-08-29,Auburn,7,14,,,,nflverse
+00-0026839,Jermey Parnell,LT,RT,78,78,311,1986-07-20,Mississippi,3,14,,,,nflverse
+00-0021262,Kenyon Coleman,DT,,99,77,293,1979-04-10,,10,14,,,,nflverse
+00-0028665,Kevin Kowalski,C,,60,75,304,1989-01-02,,1,14,,,,nflverse
+00-0026780,Kevin Ogletree,WR,,85,73,198,1987-08-05,,3,14,14,,,nflverse
+00-0026390,Mackenzy Bernadeau,LG,RG,73,76,320,1986-01-03,,4,14,,,,nflverse
+00-0023455,Marcus Spears,DT,,96,76,315,1983-03-08,,7,14,,,,nflverse
+00-0025560,Michael Coe,CB,,20,72,187,1983-12-17,,5,14,,,,nflverse
+00-0026165,Mike Jenkins,CB,,21,70,198,1985-03-22,South Florida,4,14,,,,nflverse
+00-0029676,Morris Claiborne,CB,,24,71,185,1990-02-07,Louisiana State,0,14,,,,nflverse
+00-0023958,Nate Livings,LG,RG,71,76,320,1982-03-16,,6,14,,,,nflverse
+00-0028666,Orie Lemon,LB,,58,73,242,1987-09-09,Oklahoma State,1,14,,,,nflverse
+00-0026283,Orlando Scandrick,CB,,32,70,191,1987-02-10,Boise State,4,14,,,,nflverse
+00-0027417,Phil Costa,C,,67,75,313,1987-07-11,,2,14,,,,nflverse
+00-0027339,Rob Callaway,DT,,72,77,324,1988-02-14,,2,14,,,,nflverse
+00-0029010,Ronald Leary,LG,RG,65,75,318,1989-04-29,Memphis,0,14,,,,nflverse
+00-0024266,Ryan Cook,LG,RG,63,78,325,1983-05-08,,6,14,,,,nflverse
+00-0027826,Sean Lissemore,DT,,95,75,303,1987-09-11,William & Mary,2,14,,,,nflverse
+00-0027947,Tyron Smith,LT,RT,77,77,308,1990-12-12,Southern California,1,14,,,,nflverse
+00-0029641,Tyrone Crawford,DT,,70,76,285,1989-11-22,Boise State,0,14,,,,nflverse
+00-0024394,Lawrence Vickers,RB,,47,72,250,1983-05-08,,6,11,11,,,nflverse
+00-0028009,DeMarco Murray,RB,,29,72,215,1988-02-12,Oklahoma,1,10,10,,,nflverse
+00-0028114,Dwayne Harris,WR,,17,70,200,1987-09-16,East Carolina,1,9,9,,,nflverse
+00-0029000,Cole Beasley,WR,,11,68,177,1989-04-26,Southern Methodist,0,8,8,,,nflverse
+00-0029634,James Hanna,TE,,84,76,249,1989-07-14,Oklahoma,0,6,,,,nflverse
+00-0027139,John Phillips,TE,,89,77,251,1987-06-11,Virginia,3,6,,,,nflverse
+00-0029004,Lance Dunbar,RB,,25,68,191,1990-01-25,North Texas,0,6,,,,nflverse
+00-0028613,Phillip Tanner,RB,,34,70,217,1988-08-08,,1,5,,,,nflverse
+00-0023541,Kyle Orton,QB,,18,76,225,1982-11-14,,7,1,,,,nflverse

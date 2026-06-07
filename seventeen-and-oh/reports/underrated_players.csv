@@ -1,0 +1,10 @@
+player_id,name,team_code,season,position,current_overall,recommended_overall,reason,confidence
+00-0007661,Priest Holmes,KC,2004,RB,79,87,Star production (rush_td 14 >= 13) rated only 79,medium
+00-0011754,Randy Moss,MIN,2004,WR,81,89,Star production (rec_td 13 >= 11) rated only 81,medium
+00-0022250,Willie Parker,PIT,2007,RB,83,91,Star production (rush_yds 1316 >= 1300) rated only 83,medium
+00-0021547,Antonio Gates,LAC,2010,TE,81,89,Star production (rec_td 10 >= 8) rated only 81,medium
+00-0027656,Rob Gronkowski,NE,2012,TE,82,90,Star production (rec_td 11 >= 8) rated only 82,medium
+00-0029689,Dwayne Allen,IND,2014,TE,82,90,Star production (rec_td 8 >= 8) rated only 82,medium
+00-0033090,Hunter Henry,LAC,2016,TE,83,91,Star production (rec_td 8 >= 8) rated only 83,medium
+garo-yepremian,Garo Yepremian,MIA,1972,K,77,82,Pro Bowl season rated 77; award implies >= 82,medium
+mike-cofer,Mike Cofer,SF,1989,K,78,82,Pro Bowl season rated 78; award implies >= 82,medium

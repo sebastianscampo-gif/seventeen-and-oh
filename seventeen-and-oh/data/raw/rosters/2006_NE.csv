@@ -1,0 +1,48 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0004304,Corey Dillon,RB,,28,73,225,1974-10-24,,9,16,16,,,nflverse
+00-0021176,Reche Caldwell,WR,,87,72,210,1979-03-28,,4,16,16,,,nflverse
+00-0019596,Tom Brady,QB,,12,76,225,1977-08-03,Michigan,6,16,16,,,nflverse
+00-0005091,Kevin Faulk,RB,,33,68,202,1976-06-05,,7,15,15,,,nflverse
+00-0002068,Troy Brown,WR,,80,70,196,1971-07-02,,13,15,15,,,nflverse
+00-0023376,Antwain Spann,CB,,31,72,190,1983-02-22,,1,14,,,,nflverse
+00-0021956,Asante Samuel,CB,,22,70,185,1981-01-06,,3,14,,,,nflverse
+00-0021798,Billy Yates,LG,RG,74,74,305,1980-04-15,,3,14,,,,nflverse
+00-0014539,Chad Scott,CB,,30,73,205,1974-09-06,,9,14,,,,nflverse
+00-0024018,Corey Mays,LB,,46,73,245,1983-11-27,,0,14,,,,nflverse
+00-0022019,Dan Koppen,C,,67,74,296,1979-09-12,,3,14,,,,nflverse
+00-0024321,Garrett Mills,TE,,45,73,235,1983-10-12,,0,14,,,,nflverse
+00-0021875,Gene Mruczkowski,LG,RG,64,74,305,1980-06-06,,3,14,,,,nflverse
+00-0021244,Jarvis Green,EDGE,,97,75,285,1979-01-12,,4,14,,,,nflverse
+00-0011279,Josh Miller,P,,8,76,225,1970-07-14,,13,14,,,,nflverse
+00-0017127,Ken Walter,P,,15,73,207,1972-08-15,,9,14,,,,nflverse
+00-0024236,Laurence Maroney,RB,,39,71,220,1985-02-05,,0,14,14,,,nflverse
+00-0024420,Le Kevin Smith,DT,,90,73,308,1982-07-21,,0,14,,,,nflverse
+00-0023467,Logan Mankins,LG,RG,70,76,310,1982-03-10,Fresno State,1,14,,,,nflverse
+00-0022689,Marquise Hill,EDGE,,91,78,300,1982-08-07,,2,14,,,,nflverse
+00-0020543,Matt Light,LT,RT,72,76,305,1978-06-23,,5,14,,,,nflverse
+00-0023255,Mike Wright,EDGE,,99,76,295,1982-03-01,,1,14,,,,nflverse
+00-0023535,Nick Kaczur,LT,RT,77,76,315,1979-07-28,,1,14,,,,nflverse
+00-0022344,Randall Gay,CB,,21,71,190,1982-05-05,,2,14,,,,nflverse
+00-0011186,Ray Mickens,CB,,38,68,180,1973-01-04,,10,14,,,,nflverse
+00-0020442,Richard Seymour,EDGE,,93,78,310,1979-10-06,,5,14,,,,nflverse
+00-0020389,Russ Hochstein,LG,RG,71,76,305,1977-10-07,,5,14,,,,nflverse
+00-0024350,Ryan O'Callaghan,LT,RT,68,79,330,1983-07-19,,0,14,,,,nflverse
+00-0024333,Stephen Gostkowski,K,,3,73,210,1984-01-28,Memphis,0,14,,,,nflverse
+00-0020457,Steve Neal,LG,RG,61,76,305,1976-10-09,,5,14,,,,nflverse
+00-0014377,Todd Sauerbrun,P,,18,70,215,1973-01-04,,11,14,,,,nflverse
+00-0021989,Ty Warren,EDGE,,94,77,300,1981-02-06,,3,14,,,,nflverse
+00-0022712,Vince Wilfork,DT,,75,74,325,1981-11-04,Miami (Fla.),2,14,,,,nflverse
+00-0023597,Wesley Britt,LT,RT,65,80,320,1981-11-21,,1,14,,,,nflverse
+00-0022943,Benjamin Watson,TE,,84,75,255,1980-12-18,Georgia,2,13,13,,,nflverse
+00-0020507,Heath Evans,RB,,44,72,250,1978-12-30,,5,13,13,,,nflverse
+00-0021154,Daniel Graham,TE,,82,75,257,1978-11-16,,4,11,11,,,nflverse
+00-0022102,Doug Gabriel,WR,,85,74,215,1980-08-27,,3,11,11,,,nflverse
+00-0024251,Chad Jackson,WR,,17,73,215,1985-03-06,,0,10,10,,,nflverse
+00-0021163,Jabar Gaffney,WR,,10,73,205,1980-12-01,,4,7,,,,nflverse
+00-0024301,David Thomas,TE,,86,75,248,1983-07-05,,0,5,,,,nflverse
+00-0023662,Matt Cassel,QB,,16,76,225,1982-05-17,USC,1,5,,,,nflverse
+00-0016193,Vinny Testaverde,QB,,14,77,233,1963-11-13,,19,3,,,,nflverse
+00-0022308,Kelvin Kight,WR,,19,72,213,1982-07-02,,2,2,,,,nflverse
+00-0019533,Patrick Pass,RB,,35,70,217,1977-12-31,,6,2,,,,nflverse
+00-0023701,Brandon Childress,WR,,13,70,185,1982-03-31,,1,1,,,,nflverse
+00-0023519,Ellis Hobbs,CB,,27,69,190,1983-05-16,,1,1,,,,nflverse

@@ -1,0 +1,47 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0024334,Brandon Marshall,WR,,15,76,230,1984-03-23,Central Florida,6,16,16,,,nflverse
+00-0024226,Jay Cutler,QB,,6,75,220,1983-04-29,Vanderbilt,6,15,15,,,nflverse
+00-0026184,Matt Forte,RB,,22,74,218,1985-12-10,Tulane,4,15,15,,,nflverse
+00-0025397,Amobi Okoye,DT,,91,74,292,1987-06-10,,5,14,,,,nflverse
+00-0022123,Charles Tillman,CB,,33,74,198,1981-02-23,Louisiana-Lafayette,9,14,,,,nflverse
+00-0023461,Chris Spencer,C,,67,75,309,1982-03-28,,7,14,,,,nflverse
+00-0028194,Cory Brandon,LT,RT,76,79,324,1987-10-05,,1,14,,,,nflverse
+00-0026907,D.J. Moore,CB,,30,69,180,1987-03-22,,3,14,,,,nflverse
+00-0026537,Edwin Williams,C,,70,75,315,1986-12-10,,3,14,,,,nflverse
+00-0027967,Gabe Carimi,LT,RT,72,79,316,1988-06-13,,1,14,,,,nflverse
+00-0027851,Harvey Unga,RB,,45,72,237,1987-01-18,,2,14,,,,nflverse
+00-0026905,Henry Melton,DT,,69,75,295,1986-10-11,,3,14,,,,nflverse
+00-0021604,Israel Idonije,EDGE,,71,78,275,1980-11-17,,9,14,,,,nflverse
+00-0027609,J'Marcus Webb,LT,RT,73,79,333,1988-08-08,West Texas A&amp;M,2,14,,,,nflverse
+00-0029332,James Brown,LT,RT,78,76,306,1988-11-30,,0,14,,,,nflverse
+00-0028941,Jerry Franklin,LB,,59,73,245,1988-01-10,Arkansas,0,14,,,,nflverse
+00-0029494,Joe Anderson,WR,,19,73,196,1988-11-21,,0,14,,,,nflverse
+00-0024355,Jonathan Scott,LT,RT,79,78,318,1983-01-10,,6,14,,,,nflverse
+00-0021206,Josh McCown,QB,,12,76,213,1979-07-04,Sam Houston State,10,14,,,,nflverse
+00-0021140,Julius Peppers,EDGE,,90,79,287,1980-01-18,North Carolina,10,14,,,,nflverse
+00-0026298,Kellen Davis,TE,,87,79,267,1985-10-11,Michigan State,4,14,14,,,nflverse
+00-0023495,Kelvin Hayden,CB,,24,72,195,1983-07-23,,7,14,,,,nflverse
+00-0025574,Matt Toeaina,DT,,75,74,308,1984-10-09,,5,14,,,,nflverse
+00-0027263,Nate Collins,DT,,93,74,296,1987-12-14,,2,14,,,,nflverse
+00-0010373,Olindo Mare,K,,10,71,185,1973-06-06,,16,14,,,,nflverse
+00-0023252,Robbie Gould,K,,9,72,185,1982-12-06,Penn State,7,14,,,,nflverse
+00-0020260,Roberto Garza,C,,63,74,310,1979-03-26,,11,14,,,,nflverse
+00-0029250,Shea McClellin,EDGE,,99,75,260,1989-08-01,Boise State,0,14,,,,nflverse
+00-0027743,Sherrick McManis,CB,,27,73,193,1987-12-19,Northwestern,2,14,,,,nflverse
+00-0027991,Stephen Paea,DT,,92,73,300,1988-05-11,Oregon State,1,14,,,,nflverse
+00-0024277,Tim Jennings,CB,,26,68,185,1983-12-24,Georgia,6,14,,,,nflverse
+00-0026282,Zackary Bowman,CB,,38,73,196,1984-11-18,Nebraska,4,14,,,,nflverse
+00-0024272,Devin Hester,WR,,23,71,190,1982-11-04,Miami (Fla.),6,13,13,,,nflverse
+00-0025487,Michael Bush,RB,,29,73,245,1984-06-16,,5,13,13,,,nflverse
+00-0026210,Earl Bennett,WR,,80,72,206,1987-03-23,,4,12,12,,,nflverse
+00-0029137,Alshon Jeffery,WR,,17,75,216,1990-02-14,South Carolina,0,10,10,,,nflverse
+00-0028565,Armando Allen,RB,,25,70,190,1989-04-30,,1,9,9,,,nflverse
+00-0029276,Evan Rodriguez,RB,,48,74,239,1988-09-21,,0,7,,,,nflverse
+00-0028337,Kyle Adams,TE,,86,76,255,1988-01-19,,1,6,,,,nflverse
+00-0025464,Matt Spaeth,TE,,89,79,260,1983-11-24,Minnesota,5,6,,,,nflverse
+00-0023460,Jason Campbell,QB,,2,77,230,1981-12-31,,7,5,,,,nflverse
+00-0026579,Kahlil Bell,RB,,32,71,219,1986-12-10,,3,5,,,,nflverse
+00-0024535,Eric Weems,WR,,14,69,195,1985-07-04,Bethune-Cookman,5,3,,,,nflverse
+00-0025488,Adam Podlesh,P,,8,71,200,1983-08-11,,5,1,,,,nflverse
+00-0027603,Corey Wootton,EDGE,,98,78,270,1987-06-22,Northwestern,2,1,,,,nflverse
+00-0026961,Lance Louis,LG,RG,60,75,320,1985-04-24,San Diego State,3,1,,,,nflverse

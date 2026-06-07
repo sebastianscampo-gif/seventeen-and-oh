@@ -1,0 +1,44 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0021163,Jabar Gaffney,WR,,10,73,200,1980-12-01,,7,16,16,,,nflverse
+00-0026988,Knowshon Moreno,RB,,27,71,205,1987-07-16,,0,16,16,,,nflverse
+00-0023541,Kyle Orton,QB,,8,76,216,1982-11-14,,4,16,16,,,nflverse
+00-0024334,Brandon Marshall,WR,,15,76,230,1984-03-23,Central Florida,3,15,15,,,nflverse
+00-0021154,Daniel Graham,TE,,89,75,257,1978-11-16,,7,15,15,,,nflverse
+00-0024276,Tony Scheffler,TE,,88,77,250,1983-02-15,,3,15,15,,,nflverse
+00-0027013,Alphonso Smith,CB,,33,69,193,1985-10-20,,0,14,,,,nflverse
+00-0021194,Andre' Goodman,CB,,21,70,190,1978-08-11,,7,14,,,,nflverse
+00-0020368,Ben Hamilton,LG,RG,50,76,290,1977-08-18,,8,14,,,,nflverse
+00-0020344,Brandon Gorin,LT,RT,77,78,308,1978-08-17,,8,14,,,,nflverse
+00-0025825,Brett Kern,P,,1,75,205,1986-02-17,Toledo,1,14,,,,nflverse
+00-0026516,Britton Colquitt,P,,4,75,205,1985-03-20,Tennessee,0,14,,,,nflverse
+00-0017638,Casey Wiegmann,C,,62,74,285,1973-07-20,,13,14,,,,nflverse
+00-0000585,Champ Bailey,CB,,24,72,192,1978-06-22,,10,14,,,,nflverse
+00-0026512,Chris Baker,DT,,75,74,326,1987-10-08,Hampton,0,14,,,,nflverse
+00-0024375,Chris Kuper,LG,RG,73,76,302,1982-12-19,,3,14,,,,nflverse
+00-0020270,Correll Buckhalter,RB,,28,72,217,1978-10-06,,8,14,14,,,nflverse
+00-0026259,Jack Williams,CB,,26,69,186,1985-03-27,,1,14,,,,nflverse
+00-0027102,Kenny McKinley,WR,,11,72,189,1987-01-31,,0,14,,,,nflverse
+00-0022002,Kenny Peterson,EDGE,,90,75,300,1978-11-21,,6,14,,,,nflverse
+00-0024420,Le Kevin Smith,EDGE,,97,75,308,1982-07-21,,3,14,,,,nflverse
+00-0025508,Marcus Thomas,DT,,79,75,305,1985-09-23,,2,14,,,,nflverse
+00-0023853,Matt Prater,K,,5,70,188,1984-08-10,Central Florida,3,14,,,,nflverse
+00-0024756,Matt Willis,WR,,12,72,195,1984-04-13,,2,14,,,,nflverse
+00-0001157,Mitch Berger,P,,17,76,228,1972-06-24,,15,14,,,,nflverse
+00-0023571,Ronald Fields,DT,,91,74,315,1981-09-13,,4,14,,,,nflverse
+00-0020389,Russ Hochstein,LG,RG,71,76,305,1977-10-07,,8,14,,,,nflverse
+00-0026152,Ryan Clady,LT,RT,78,78,325,1986-09-06,Boise State,1,14,,,,nflverse
+00-0025457,Ryan Harris,LT,RT,74,77,300,1985-03-11,,2,14,,,,nflverse
+00-0025519,Ryan McBean,EDGE,,98,77,290,1984-04-23,,2,14,,,,nflverse
+00-0027096,Seth Olsen,LG,RG,70,76,306,1985-12-17,,0,14,,,,nflverse
+00-0027121,Tom Brandstater,QB,,3,77,222,1984-10-21,,0,14,,,,nflverse
+00-0026515,Tony Carter,S,,25,69,177,1986-05-24,,0,14,,,,nflverse
+00-0009687,Ty Law,CB,,26,71,200,1974-02-10,,14,14,,,,nflverse
+00-0025826,Tyler Polumbus,LT,RT,76,80,310,1985-04-10,Colorado,1,14,,,,nflverse
+00-0007611,Vonnie Holliday,EDGE,,99,77,285,1975-12-11,,11,14,,,,nflverse
+00-0026182,Eddie Royal,WR,,19,70,182,1986-05-21,Virginia Tech,1,13,13,,,nflverse
+00-0015754,Brandon Stokley,WR,,14,71,192,1976-06-23,,10,11,11,,,nflverse
+00-0026367,Peyton Hillis,RB,,22,73,250,1986-01-21,,1,8,8,,,nflverse
+00-0020462,LaMont Jordan,RB,,32,70,230,1978-11-11,,8,6,,,,nflverse
+00-0022005,Chris Simms,QB,,2,76,220,1980-08-29,,6,3,,,,nflverse
+00-0022097,Brandon Lloyd,WR,,84,72,194,1981-07-05,,6,2,,,,nflverse
+00-0027040,Richard Quinn,TE,,81,76,260,1986-09-06,,0,1,,,,nflverse

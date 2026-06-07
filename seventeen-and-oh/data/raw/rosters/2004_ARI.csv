@@ -1,0 +1,47 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0008749,Freddie Jones,TE,,85,76,265,1974-09-16,,7,16,16,,,nflverse
+00-0022921,Larry Fitzgerald,WR,,11,75,223,1983-08-31,Pittsburgh,0,16,16,,,nflverse
+00-0015165,Emmitt Smith,RB,,22,69,216,1969-05-15,,14,15,15,,,nflverse
+00-0022386,Adrian Mayes,S,,37,73,215,1980-11-17,,0,14,,,,nflverse
+00-0022583,Alan Reuber,LG,RG,66,78,323,1981-01-26,,0,14,,,,nflverse
+00-0022788,Alex Stepanovich,C,,71,76,301,1981-09-25,,0,14,,,,nflverse
+00-0003105,Anthony Clement,LT,RT,65,80,337,1976-04-10,,6,14,,,,nflverse
+00-0022793,Antonio Smith,EDGE,,67,75,274,1981-10-21,Oklahoma State,0,14,,,,nflverse
+00-0001176,Bert Berry,EDGE,,92,75,275,1975-08-15,,7,14,,,,nflverse
+00-0022156,Bryant Johnson,WR,,80,75,213,1981-03-07,,1,14,14,,,nflverse
+00-0022120,Calvin Pace,EDGE,,97,76,262,1980-10-28,Wake Forest,1,14,,,,nflverse
+00-0015471,Cameron Spikes,LG,RG,76,76,313,1976-11-06,,5,14,,,,nflverse
+00-0022661,Clarence Curry,S,,41,73,210,1981-12-07,,0,14,,,,nflverse
+00-0022930,Darnell Dockett,DT,,90,76,301,1981-05-27,,0,14,,,,nflverse
+00-0019563,David Macklin,CB,,27,70,200,1978-07-14,,4,14,,,,nflverse
+00-0015577,Duane Starks,CB,,28,70,174,1974-05-23,,6,14,,,,nflverse
+00-0019945,Dyshod Carter,S,,35,70,195,1978-06-18,,3,14,,,,nflverse
+00-0020281,Isaac Keys,LB,,53,75,265,1978-06-06,,3,14,,,,nflverse
+00-0021974,Jeremy Bridges,LT,RT,73,76,301,1980-04-19,,1,14,,,,nflverse
+00-0021206,Josh McCown,QB,,12,76,213,1979-07-04,Sam Houston State,2,14,14,,,nflverse
+00-0020382,Kyle Vanden Bosch,EDGE,,93,76,278,1978-11-17,,3,14,,,,nflverse
+00-0014776,L.J. Shelton,LT,RT,70,78,335,1976-03-21,,5,14,,,,nflverse
+00-0021556,Lawrence Hamilton,WR,,84,75,204,1980-08-31,,1,14,,,,nflverse
+00-0020533,Leonard Davis,LT,RT,75,78,384,1978-09-05,,3,14,,,,nflverse
+00-0019834,Nathan Hodel,C,,48,74,256,1977-11-12,,3,14,,,,nflverse
+00-0019676,Neil Rackers,K,,1,73,206,1976-08-16,,4,14,,,,nflverse
+00-0022904,Nick Leckey,C,,60,74,286,1982-03-12,,0,14,,,,nflverse
+00-0018489,Peppi Zellner,EDGE,,94,77,262,1975-03-14,,5,14,,,,nflverse
+00-0021911,Reggie Wells,LG,RG,74,76,323,1980-11-03,,1,14,,,,nflverse
+00-0020301,Renaldo Hill,CB,,21,71,189,1978-11-12,,3,14,,,,nflverse
+00-0016061,Robert Tate,CB,,26,71,195,1973-10-19,,7,14,,,,nflverse
+00-0020412,Ross Kolodziej,DT,,72,75,291,1978-05-11,,3,14,,,,nflverse
+00-0004046,Russell Davis,DT,,98,76,310,1975-03-28,,5,14,,,,nflverse
+00-0013028,Scott Player,P,,10,73,212,1969-12-17,,8,14,,,,nflverse
+00-0021384,Wendell Bryant,DT,,91,77,306,1980-09-12,,2,14,,,,nflverse
+00-0000552,Obafemi Ayanbadejo,RB,,30,74,231,1975-03-05,,7,13,13,,,nflverse
+00-0022084,Anquan Boldin,WR,,81,73,220,1980-10-03,Florida State,1,10,10,,,nflverse
+00-0021098,Josh Scobey,RB,,33,72,216,1979-12-11,,2,10,10,,,nflverse
+00-0019516,Troy Hambrick,RB,,47,73,233,1976-11-06,,4,9,9,,,nflverse
+00-0017847,Karl Williams,WR,,86,71,182,1971-04-10,,8,8,8,,,nflverse
+00-0022384,Larry Croom,RB,,32,70,205,1981-10-29,,0,4,,,,nflverse
+00-0020021,Nate Poole,WR,,89,74,204,1977-02-01,,3,3,,,,nflverse
+00-0009266,Shaun King,QB,,4,73,228,1977-05-29,,5,3,,,,nflverse
+00-0022385,Eric Edwards,TE,,83,76,256,1980-08-04,,0,2,,,,nflverse
+00-0021048,Damien Anderson,RB,,20,71,202,1979-07-17,,2,1,,,,nflverse
+00-0022827,John Navarre,QB,,16,78,250,1980-09-09,,0,1,,,,nflverse

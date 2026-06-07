@@ -1,0 +1,47 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0023752,Daniel Fells,TE,,46,76,272,1983-09-23,California-Davis,4,16,16,,,nflverse
+00-0026035,Danny Amendola,WR,,16,71,186,1985-11-02,Texas Tech,2,16,16,,,nflverse
+00-0027854,Sam Bradford,QB,,8,76,228,1987-11-08,Oklahoma,0,16,16,,,nflverse
+00-0022736,Steven Jackson,RB,,39,74,236,1983-07-22,Oregon State,6,16,16,,,nflverse
+00-0020305,A.J. Feeley,QB,,4,75,220,1977-05-16,,9,14,,,,nflverse
+00-0021637,Adam Goldberg,LG,RG,73,79,309,1980-08-12,,7,14,,,,nflverse
+00-0027041,Bradley Fletcher,CB,,32,72,198,1986-06-25,Iowa,1,14,,,,nflverse
+00-0026937,Brandon Gibson,WR,,11,72,210,1987-08-13,Washington State,1,14,14,,,nflverse
+00-0026712,Brit Miller,RB,,49,72,243,1986-09-15,,1,14,,,,nflverse
+00-0025626,C.J. Ah You,EDGE,,99,76,270,1982-07-07,,3,14,,,,nflverse
+00-0026142,Chris Long,EDGE,,72,75,276,1985-03-28,Virginia,2,14,,,,nflverse
+00-0025541,Clifton Ryan,DT,,95,75,324,1984-02-18,,3,14,,,,nflverse
+00-0027073,Darell Scott,DT,,97,75,315,1986-03-15,,1,14,,,,nflverse
+00-0025609,Derek Schouman,TE,,88,74,223,1985-03-11,,3,14,,,,nflverse
+00-0027520,Dominique Curry,WR,,15,74,224,1987-08-16,,0,14,,,,nflverse
+00-0022684,Donnie Jones,P,,5,74,225,1980-07-05,LSU,6,14,,,,nflverse
+00-0027787,Eugene Sims,EDGE,,92,77,250,1986-03-18,West Texas A&M,0,14,,,,nflverse
+00-0019706,Fred Robbins,DT,,98,76,325,1977-03-26,,10,14,,,,nflverse
+00-0023327,Gary Gibson,DT,,71,75,300,1982-05-05,,5,14,,,,nflverse
+00-0027818,George Selvie,EDGE,,90,76,252,1987-03-06,South Florida,0,14,,,,nflverse
+00-0019133,Hank Fraley,C,,65,75,310,1977-09-21,,10,14,,,,nflverse
+00-0022875,Jacob Bell,LG,RG,63,76,300,1981-03-02,,6,14,,,,nflverse
+00-0019387,James Hall,EDGE,,96,74,281,1977-02-04,,10,14,,,,nflverse
+00-0023558,Jason Brown,C,,60,75,328,1983-05-05,,5,14,,,,nflverse
+00-0026979,Jason Smith,LT,RT,77,77,307,1986-04-30,,1,14,,,,nflverse
+00-0027248,Jermelle Cudjo,DT,,93,74,299,1986-09-28,,0,14,,,,nflverse
+00-0027670,Jerome Murphy,CB,,23,72,200,1987-01-13,,0,14,,,,nflverse
+00-0026205,John Greco,LG,RG,79,76,329,1985-03-24,Toledo,2,14,,,,nflverse
+00-0021940,Josh Brown,K,,3,72,205,1979-04-29,,7,14,,,,nflverse
+00-0026241,Justin King,CB,,31,71,188,1987-05-11,,2,14,,,,nflverse
+00-0024178,Kevin Dockery,CB,,35,68,188,1984-01-08,,4,14,,,,nflverse
+00-0024008,Quincy Butler,S,,36,73,188,1983-11-25,,4,14,,,,nflverse
+00-0024533,Renardo Foster,LT,RT,70,79,333,1984-07-15,,3,14,,,,nflverse
+00-0027648,Rodger Saffold,LT,RT,76,76,323,1988-06-06,Indiana,0,14,,,,nflverse
+00-0023485,Ron Bartell,CB,,24,73,206,1982-02-22,,5,14,,,,nflverse
+00-0025633,Kenneth Darby,RB,,34,70,219,1982-12-26,,3,13,13,,,nflverse
+00-0025462,Laurent Robinson,WR,,19,74,197,1985-05-20,,3,13,13,,,nflverse
+00-0023679,Billy Bajema,TE,,47,76,259,1982-10-31,,5,8,8,,,nflverse
+00-0027912,Danario Alexander,WR,,84,77,220,1988-08-07,,0,8,8,,,nflverse
+00-0027732,Michael Hoomanawanui,TE,,86,76,264,1988-07-04,Illinois,0,7,,,,nflverse
+00-0022796,Mike Karney,RB,,44,71,260,1981-07-06,,6,7,,,,nflverse
+00-0027257,Keith Toston,RB,,38,71,214,1987-05-06,,0,5,,,,nflverse
+00-0027700,Mardy Gilyard,WR,,81,71,194,1986-12-02,,0,5,,,,nflverse
+00-0023457,Mark Clayton,WR,,89,70,190,1982-07-02,,5,5,,,,nflverse
+00-0023797,Darcy Johnson,TE,,87,77,252,1983-02-11,,4,2,,,,nflverse
+00-0027769,Fendi Onobun,TE,,48,78,249,1986-11-17,,0,1,,,,nflverse

@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0002099,Isaac Bruce,WR,,88,72,188,1972-11-10,,14,15,15,,,nflverse
+00-0023529,Adam Snyder,LG,RG,68,78,325,1982-01-30,,3,14,,,,nflverse
+00-0023436,Alex Smith,QB,,11,76,217,1984-05-07,Utah,3,14,,,,nflverse
+00-0022824,Andy Lee,P,,4,72,178,1982-08-11,Pittsburgh,4,14,,,,nflverse
+00-0022147,Aubrayo Franklin,DT,,92,73,317,1980-08-27,,5,14,,,,nflverse
+00-0018925,Barry Sims,LT,RT,65,77,300,1974-12-01,,9,14,,,,nflverse
+00-0026179,Chilo Rachal,LG,RG,62,76,315,1986-03-15,,0,14,,,,nflverse
+00-0026247,Cody Wallace,C,,59,76,300,1984-11-26,Texas A&M,0,14,,,,nflverse
+00-0023468,David Baas,LG,RG,64,76,330,1981-09-28,,3,14,,,,nflverse
+00-0021341,Eric Heitmann,C,,66,75,312,1980-02-24,,6,14,,,,nflverse
+00-0023500,Frank Gore,RB,,21,69,217,1983-05-14,Miami,3,14,14,,,nflverse
+00-0022863,Isaac Sopoaga,EDGE,,90,74,330,1981-09-04,,4,14,,,,nflverse
+00-0025564,Jacob Bender,LG,RG,77,78,315,1985-04-25,,1,14,,,,nflverse
+00-0010455,Jamie Martin,QB,,10,74,205,1970-02-08,,15,14,,,,nflverse
+00-0011970,Joe Nedney,K,,6,77,234,1973-03-22,,13,14,,,,nflverse
+00-0025415,Joe Staley,LT,RT,74,77,315,1984-08-30,Central Michigan,1,14,,,,nflverse
+00-0020347,Jonas Jennings,LT,RT,75,75,328,1977-11-21,,7,14,,,,nflverse
+00-0020535,Justin Smith,EDGE,,94,76,285,1979-09-30,,7,14,,,,nflverse
+00-0026169,Kentwan Balmer,EDGE,,96,77,315,1986-10-15,,0,14,,,,nflverse
+00-0024406,Marcus Hudson,CB,,23,74,200,1982-11-15,,2,14,,,,nflverse
+00-0025484,Ray McDonald,EDGE,,91,75,290,1984-09-02,,1,14,,,,nflverse
+00-0026215,Reggie Smith,CB,,31,73,200,1986-09-03,,0,14,,,,nflverse
+00-0023571,Ronald Fields,DT,,93,74,315,1981-09-13,,3,14,,,,nflverse
+00-0022843,Shawntae Spencer,CB,,36,73,190,1982-02-22,,4,14,,,,nflverse
+00-0025534,Tarell Brown,CB,,25,70,193,1985-01-06,Texas,1,14,,,,nflverse
+00-0025573,Thomas Clayton,RB,,33,71,222,1984-04-26,,1,14,,,,nflverse
+00-0021064,Tony Wragge,LG,RG,69,76,310,1979-08-14,,6,14,,,,nflverse
+00-0007007,Walt Harris,CB,,27,71,196,1974-08-10,,12,14,,,,nflverse
+00-0022156,Bryant Johnson,WR,,82,75,211,1981-03-07,,5,13,13,,,nflverse
+00-0024221,Vernon Davis,TE,,85,75,250,1984-01-31,Maryland,2,13,13,,,nflverse
+00-0021164,DeShaun Foster,RB,,29,72,222,1980-01-10,,6,11,11,,,nflverse
+00-0024315,Michael Robinson,RB,,24,73,223,1983-02-06,,2,10,10,,,nflverse
+00-0024389,Delanie Walker,TE,,46,72,242,1984-08-12,Central Missouri State,2,9,9,,,nflverse
+00-0021296,J.T. O'Sullivan,QB,,14,74,227,1979-08-25,,6,9,9,,,nflverse
+00-0025463,Jason Hill,WR,,89,72,202,1985-02-20,,1,9,9,,,nflverse
+00-0026314,Josh Morgan,WR,,84,72,219,1985-06-20,,0,9,9,,,nflverse
+00-0020679,Shaun Hill,QB,,13,75,220,1980-01-09,Maryland,6,9,9,,,nflverse
+00-0022064,Arnaz Battle,WR,,83,73,208,1980-02-22,,5,8,8,,,nflverse
+00-0014071,Allen Rossum,CB,,20,68,178,1975-10-22,,10,3,,,,nflverse
+00-0024687,Dominique Zeigler,WR,,17,75,185,1984-10-11,,1,3,,,,nflverse
+00-0023679,Billy Bajema,TE,,47,76,256,1982-10-31,,3,2,,,,nflverse
+00-0022817,Sean Ryan,TE,,81,77,260,1980-03-27,,4,2,,,,nflverse
+00-0023384,Zak Keasey,RB,,45,72,235,1982-03-19,,3,2,,,,nflverse
+00-0022158,Donald Strickland,CB,,30,70,185,1980-11-24,,5,1,,,,nflverse
+00-0020495,Nate Clements,CB,,22,72,205,1979-12-12,,7,1,,,,nflverse

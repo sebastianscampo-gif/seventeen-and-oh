@@ -1,0 +1,43 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0021547,Antonio Gates,TE,,85,76,255,1980-06-18,Kent State,10,16,16,,,nflverse
+00-0026019,Danny Woodhead,RB,,39,68,200,1985-01-25,Chadron State,5,16,16,,,nflverse
+00-0022942,Philip Rivers,QB,,17,77,228,1981-12-08,North Carolina State,9,16,16,,,nflverse
+00-0027864,Ryan Mathews,RB,,24,72,220,1987-10-10,Fresno State,3,16,16,,,nflverse
+00-0028020,Vincent Brown,WR,,86,71,190,1989-01-25,San Diego State,2,16,16,,,nflverse
+00-0026182,Eddie Royal,WR,,11,70,185,1986-05-21,Virginia Tech,5,15,15,,,nflverse
+00-0030279,Keenan Allen,WR,,13,74,211,1992-04-27,California,0,15,15,,,nflverse
+00-0030292,Brad Sorensen,QB,,4,77,230,1988-03-13,,0,14,,,,nflverse
+00-0027745,Cam Thomas,DT,,92,76,330,1986-12-12,North Carolina,3,14,,,,nflverse
+00-0026236,Chad Rinehart,LG,RG,78,77,321,1985-05-04,,5,14,,,,nflverse
+00-0027956,Corey Liuget,EDGE,,94,74,300,1990-03-18,Illinois,2,14,,,,nflverse
+00-0027763,Crezdon Butler,CB,,20,73,191,1987-05-26,Clemson,3,14,,,,nflverse
+00-0030505,D.J. Fluker,LT,RT,76,77,339,1991-03-13,Alabama,0,14,,,,nflverse
+00-0027047,Derek Cox,CB,,22,73,195,1986-09-22,,4,14,,,,nflverse
+00-0026930,Jarius Wynn,EDGE,,99,75,285,1986-08-29,Georgia,4,14,,,,nflverse
+00-0024401,Jeromey Clary,LG,RG,66,78,320,1983-11-05,,7,14,,,,nflverse
+00-0029288,Johnnie Troutman,LG,RG,63,76,330,1987-11-11,Penn State,1,14,,,,nflverse
+00-0028026,Johnny Patrick,CB,,26,71,190,1988-08-17,,2,14,,,,nflverse
+00-0029256,Kendall Reyes,EDGE,,91,76,300,1989-09-26,Connecticut,1,14,,,,nflverse
+00-0028240,Kenny Wiggins,LT,RT,72,78,314,1988-08-08,Fresno State,2,14,,,,nflverse
+00-0026370,King Dunlap,LT,RT,77,81,330,1985-09-14,Auburn,5,14,,,,nflverse
+00-0030318,Kwame Geathers,DT,,95,78,335,1990-10-04,,0,14,,,,nflverse
+00-0026266,Lavelle Hawkins,WR,,10,71,194,1986-07-12,,5,14,,,,nflverse
+00-0030317,Marcus Cromartie,S,,35,72,195,1990-12-03,Wisconsin,0,14,,,,nflverse
+00-0029457,Mike Harris,LT,RT,79,77,318,1988-12-05,UCLA,1,14,,,,nflverse
+00-0029164,Mike Remmers,LT,RT,60,77,303,1989-04-11,Oregon State,1,14,,,,nflverse
+00-0022017,Mike Scifres,P,,5,74,215,1980-10-08,,10,14,,,,nflverse
+00-0022804,Nick Hardwick,C,,61,76,305,1981-09-02,,9,14,,,,nflverse
+00-0023096,Nick Novak,K,,9,72,198,1981-08-21,Maryland,8,14,,,,nflverse
+00-0026909,Rich Ohrnberger,LG,RG,74,74,300,1986-02-14,,4,14,,,,nflverse
+00-0024273,Richard Marshall,CB,,31,71,198,1984-12-12,,7,14,,,,nflverse
+00-0027826,Sean Lissemore,EDGE,,98,75,303,1987-09-11,William & Mary,3,14,,,,nflverse
+00-0028027,Shareece Wright,CB,,29,71,182,1987-04-08,USC,2,14,,,,nflverse
+00-0028139,Stephen Schilling,LT,RT,70,77,312,1988-07-21,,2,14,,,,nflverse
+00-0028201,Willie Smith,LT,RT,69,77,310,1986-11-13,,2,14,,,,nflverse
+00-0029275,Ladarius Green,TE,,89,78,240,1990-05-29,Louisiana-Lafayette,1,13,13,,,nflverse
+00-0023437,Ronnie Brown,RB,,23,72,223,1981-12-12,,8,12,12,,,nflverse
+00-0025524,Le'Ron McClain,RB,,33,72,260,1984-12-27,,6,9,9,,,nflverse
+00-0027139,John Phillips,TE,,83,77,251,1987-06-11,Virginia,4,6,,,,nflverse
+00-0027581,Seyi Ajirotutu,WR,,16,75,215,1987-06-12,Fresno State,3,3,,,,nflverse
+00-0024296,Charlie Whitehurst,QB,,6,77,226,1982-08-06,,7,2,,,,nflverse
+00-0022414,Malcom Floyd,WR,,80,77,225,1981-09-08,Wyoming,9,2,,,,nflverse

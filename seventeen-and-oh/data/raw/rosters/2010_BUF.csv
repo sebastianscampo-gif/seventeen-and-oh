@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0024204,Fred Jackson,RB,,22,73,215,1981-02-20,Coe,5,16,16,,,nflverse
+00-0025399,Marshawn Lynch,RB,,23,71,215,1986-04-22,California,3,16,16,,,nflverse
+00-0026364,Steve Johnson,WR,,13,74,202,1986-07-22,Kentucky,2,16,16,,,nflverse
+00-0027677,Alex Carrington,EDGE,,92,77,284,1987-06-19,,0,14,,,,nflverse
+00-0027027,Andy Levitre,LG,RG,67,74,305,1986-05-15,Oregon State,1,14,,,,nflverse
+00-0024285,Ashton Youboty,CB,,26,71,189,1984-07-07,,4,14,,,,nflverse
+00-0027861,C.J. Spiller,RB,,21,71,196,1987-08-05,Clemson,0,14,14,,,nflverse
+00-0026236,Chad Rinehart,LG,RG,76,77,310,1985-05-04,,2,14,,,,nflverse
+00-0027101,Colin Brown,LT,RT,74,79,335,1985-08-29,,1,14,,,,nflverse
+00-0027542,Cord Howard,LG,RG,68,76,314,1987-07-02,,0,14,,,,nflverse
+00-0027322,David Nelson,WR,,86,77,217,1986-11-07,,0,14,14,,,nflverse
+00-0026359,Demetress Bell,LT,RT,77,77,307,1984-05-03,,2,14,,,,nflverse
+00-0021994,Drayton Florence,CB,,29,72,195,1980-12-19,,7,14,,,,nflverse
+00-0022750,Dwan Edwards,EDGE,,98,75,290,1981-05-16,Oregon State,6,14,,,,nflverse
+00-0027740,Ed Wang,LT,RT,71,77,314,1987-03-12,,0,14,,,,nflverse
+00-0027004,Eric Wood,LG,RG,70,76,315,1986-03-18,Louisville,1,14,,,,nflverse
+00-0023602,Geoff Hangartner,C,,63,77,301,1982-04-22,,5,14,,,,nflverse
+00-0024241,John McCargo,EDGE,,97,74,307,1983-08-19,,4,14,,,,nflverse
+00-0027431,Kellen Heard,DT,,72,78,355,1985-10-17,,0,14,,,,nflverse
+00-0027053,Kraig Urbik,LG,RG,60,77,323,1985-09-23,Wisconsin,1,14,,,,nflverse
+00-0024348,Kyle Williams,DT,,95,73,306,1983-06-10,Louisiana State,4,14,,,,nflverse
+00-0026151,Leodis McKelvin,CB,,28,70,184,1985-09-01,Troy,2,14,,,,nflverse
+00-0020492,Marcus Stroud,EDGE,,99,78,310,1978-06-25,,9,14,,,,nflverse
+00-0027374,Mike Balogun,LB,,94,72,240,1983-09-28,,0,14,,,,nflverse
+00-0027500,Mike Caussin,TE,,82,77,252,1987-02-26,,0,14,,,,nflverse
+00-0026254,Reggie Corner,CB,,27,69,175,1983-11-17,,2,14,,,,nflverse
+00-0019310,Rian Lindell,K,,9,75,233,1977-01-20,,10,14,,,,nflverse
+00-0022610,Spencer Johnson,EDGE,,91,75,286,1981-12-12,,6,14,,,,nflverse
+00-0022008,Terrence McGee,CB,,24,69,198,1980-10-14,,7,14,,,,nflverse
+00-0027655,Torell Troup,DT,,96,75,315,1988-06-23,,0,14,,,,nflverse
+00-0023682,Ryan Fitzpatrick,QB,,14,74,225,1982-11-24,Harvard,5,13,13,,,nflverse
+00-0022910,Lee Evans,WR,,83,70,197,1981-03-11,,6,12,12,,,nflverse
+00-0020804,Corey McIntyre,RB,,38,72,245,1979-01-25,,8,10,10,,,nflverse
+00-0027518,Donald Jones,WR,,19,72,214,1987-12-17,,0,8,8,,,nflverse
+00-0023490,Roscoe Parrish,WR,,11,69,178,1982-07-16,,5,8,8,,,nflverse
+00-0025864,Jonathan Stupar,TE,,88,75,254,1984-07-24,,2,7,,,,nflverse
+00-0020332,David Martin,TE,,80,76,265,1979-03-13,,9,6,,,,nflverse
+00-0025479,Trent Edwards,QB,,5,76,231,1983-10-30,,3,4,,,,nflverse
+00-0027220,Naaman Roosevelt,WR,,18,72,189,1987-12-24,,0,3,,,,nflverse
+00-0025516,Scott Chandler,TE,,84,79,272,1985-07-23,Iowa,3,3,,,,nflverse
+00-0026196,Brian Brohm,QB,,4,75,223,1985-09-23,,2,1,,,,nflverse
+00-0011626,Brian Moorman,P,,8,72,172,1976-02-05,,11,1,,,,nflverse
+00-0026012,Jehuu Caulcrick,RB,,30,72,250,1983-08-06,,2,1,,,,nflverse
+00-0027804,Levi Brown,QB,,10,76,225,1987-03-11,,0,1,,,,nflverse
+00-0026331,Paul Hubbard,WR,,17,74,225,1985-06-12,,2,1,,,,nflverse

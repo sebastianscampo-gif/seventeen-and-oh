@@ -1,0 +1,50 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0030578,Cordarrelle Patterson,WR,,84,74,220,1991-03-17,Tennessee,1,16,16,,,nflverse
+00-0024267,Greg Jennings,WR,,15,72,195,1983-09-21,Western Michigan,8,16,16,,,nflverse
+00-0029572,Jarius Wright,WR,,17,70,180,1989-11-25,Arkansas,2,15,15,,,nflverse
+00-0028198,Matt Asiata,RB,,44,72,234,1987-07-24,Utah,3,15,15,,,nflverse
+00-0031107,Austin Wentworth,LG,RG,72,76,315,1990-05-10,Fresno State,0,14,,,,nflverse
+00-0029576,Blair Walsh,K,,3,70,192,1990-01-08,Georgia,2,14,,,,nflverse
+00-0028110,Brandon Fusco,LG,RG,63,76,306,1988-07-26,Slippery Rock,3,14,,,,nflverse
+00-0025489,Brian Robison,EDGE,,96,75,259,1983-04-27,Texas,7,14,,,,nflverse
+00-0026944,Captain Munnerlyn,CB,,24,69,195,1988-04-10,South Carolina,5,14,,,,nflverse
+00-0030125,Carter Bykowski,LT,RT,60,79,306,1990-07-25,,1,14,,,,nflverse
+00-0024413,Charlie Johnson,LG,RG,74,76,305,1984-05-02,,8,14,,,,nflverse
+00-0027603,Corey Wootton,EDGE,,99,78,270,1987-06-22,Northwestern,4,14,,,,nflverse
+00-0031069,David Yankey,LG,RG,66,78,315,1992-01-18,Stanford,0,14,,,,nflverse
+00-0031106,Henry Josey,RB,,33,70,190,1991-09-25,,0,14,,,,nflverse
+00-0031090,Jabari Price,CB,,39,70,200,1992-08-31,North Carolina,0,14,,,,nflverse
+00-0030405,Jeff Locke,P,,18,72,203,1989-09-27,UCLA,1,14,,,,nflverse
+00-0023639,Joe Berger,C,,61,77,305,1982-05-25,Michigan Tech,9,14,,,,nflverse
+00-0026327,John Sullivan,C,,65,76,301,1985-08-08,Notre Dame,6,14,,,,nflverse
+00-0029691,Josh Robinson,CB,,21,70,199,1991-01-08,Central Florida,2,14,,,,nflverse
+00-0028495,Justin Trattou,EDGE,,94,76,250,1988-08-28,Florida,3,14,,,,nflverse
+00-0027885,Linval Joseph,DT,,98,76,323,1988-10-10,East Carolina,4,14,,,,nflverse
+00-0027547,Marcus Sherels,CB,,35,70,175,1987-09-30,Minnesota,4,14,,,,nflverse
+00-0029687,Matt Kalil,LT,RT,75,79,308,1989-07-06,USC,2,14,,,,nflverse
+00-0029457,Mike Harris,LT,RT,79,77,318,1988-12-05,UCLA,2,14,,,,nflverse
+00-0027030,Phil Loadholt,LT,RT,71,80,343,1986-01-21,Oklahoma,5,14,,,,nflverse
+00-0029587,Rhett Ellison,TE,,85,77,250,1988-10-03,USC,2,14,14,,,nflverse
+00-0031283,Scott Crichton,EDGE,,95,75,273,1991-10-30,Oregon State,0,14,,,,nflverse
+00-0031242,Shamar Stephen,DT,,93,77,310,1991-02-25,Connecticut,0,14,,,,nflverse
+00-0030574,Sharrif Floyd,DT,,73,75,305,1991-05-28,Florida,1,14,,,,nflverse
+00-0029214,Shaun Prater,CB,,27,70,190,1989-10-27,,2,14,,,,nflverse
+00-0024030,Tom Johnson,DT,,92,75,288,1984-08-30,Southern Mississippi,8,14,,,,nflverse
+00-0027667,Vladimir Ducasse,LG,RG,62,77,325,1987-10-15,Massachusetts,4,14,,,,nflverse
+00-0030575,Xavier Rhodes,CB,,29,73,210,1990-06-19,Florida State,1,14,,,,nflverse
+00-0029931,Zach Line,RB,,48,73,233,1990-04-26,Southern Methodist,1,14,,,,nflverse
+00-0031237,Teddy Bridgewater,QB,,5,74,210,1992-11-10,Louisville,0,13,13,,,nflverse
+00-0027890,Ben Tate,RB,,33,70,220,1988-08-21,,4,11,11,,,nflverse
+00-0030113,Charles Johnson,WR,,12,74,215,1989-02-27,Grand Valley State,1,11,11,,,nflverse
+00-0031376,Jerick McKinnon,RB,,31,69,208,1992-05-03,Georgia Southern,0,11,11,,,nflverse
+00-0029432,Chase Ford,TE,,86,78,255,1990-07-19,Miami,2,10,10,,,nflverse
+00-0030035,Adam Thielen,WR,,19,74,195,1990-08-22,Minn. State-Mankato,1,7,,,,nflverse
+00-0029048,Joe Banyard,RB,,23,70,205,1988-11-12,Texas-El Paso,2,7,,,,nflverse
+00-0027981,Kyle Rudolph,TE,,82,78,259,1989-11-09,Notre Dame,3,7,,,,nflverse
+00-0029878,MarQueis Gray,TE,,87,76,242,1989-11-07,Minnesota,1,6,,,,nflverse
+00-0026286,Jerome Felton,RB,,42,72,248,1986-07-03,Furman,6,5,,,,nflverse
+00-0023662,Matt Cassel,QB,,16,76,228,1982-05-17,USC,9,3,,,,nflverse
+00-0027950,Christian Ponder,QB,,7,74,229,1988-02-25,Florida State,3,2,,,,nflverse
+00-0025394,Adrian Peterson,RB,,28,73,217,1985-03-21,Oklahoma,7,1,,,,nflverse
+00-0027701,Everson Griffen,EDGE,,97,75,273,1987-12-22,Southern California,4,1,,,,nflverse
+00-0029934,Rodney Smith,WR,,83,77,220,1990-03-11,Florida State,1,1,,,,nflverse

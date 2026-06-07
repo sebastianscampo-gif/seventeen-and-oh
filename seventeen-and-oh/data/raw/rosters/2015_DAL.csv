@@ -1,0 +1,53 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0029000,Cole Beasley,WR,,11,68,180,1989-04-26,Southern Methodist,3,16,16,,,nflverse
+00-0026144,Darren McFadden,RB,,20,73,220,1987-08-27,Arkansas,7,16,16,,,nflverse
+00-0022127,Jason Witten,TE,,82,78,263,1982-05-06,Tennessee,12,16,16,,,nflverse
+00-0030542,Terrance Williams,WR,,83,74,208,1989-09-18,Baylor,2,16,16,,,nflverse
+00-0026280,Brandon Carr,CB,,39,72,210,1986-05-19,Grand Valley State,7,14,,,,nflverse
+00-0032239,Byron Jones,CB,,31,72,205,1992-09-26,Connecticut,0,14,,,,nflverse
+00-0030258,Casey Walker,DT,,63,73,340,1989-12-06,,2,14,,,,nflverse
+00-0027669,Charles Brown,LT,RT,78,77,300,1987-04-10,USC,5,14,,,,nflverse
+00-0032204,Chaz Green,LT,RT,79,77,315,1992-04-08,Florida,0,14,,,,nflverse
+00-0028664,Chris Jones,P,,6,72,205,1989-07-21,Carson-Newman,4,14,,,,nflverse
+00-0028660,Dan Bailey,K,,5,72,195,1988-01-26,Oklahoma State,4,14,,,,nflverse
+00-0031997,David Irving,EDGE,,95,79,273,1993-08-18,Iowa State,0,14,,,,nflverse
+00-0030699,Deji Olatoye,CB,,29,73,194,1991-07-20,North Carolina A&T,1,14,,,,nflverse
+00-0031411,Demarcus Lawrence,EDGE,,90,75,265,1992-04-28,Boise State,1,14,,,,nflverse
+00-0025509,Doug Free,LT,RT,68,78,325,1984-01-16,Northern Illinois,8,14,,,,nflverse
+00-0027774,Greg Hardy,EDGE,,76,77,280,1988-07-28,Mississippi,5,14,,,,nflverse
+00-0029627,Jack Crawford,EDGE,,58,77,288,1988-09-07,Penn State,3,14,,,,nflverse
+00-0031755,Jameill Showers,QB,,7,73,230,1991-09-06,Texas-El Paso,0,14,,,,nflverse
+00-0024405,Jeremy Mincey,EDGE,,92,76,280,1983-12-14,Florida,9,14,,,,nflverse
+00-0030046,Jordan Mills,LT,RT,67,77,316,1990-12-24,Louisiana Tech,2,14,,,,nflverse
+00-0031534,La'el Collins,LG,RG,71,76,315,1993-07-26,Louisiana State,0,14,,,,nflverse
+00-0026390,Mackenzy Bernadeau,LG,RG,73,76,322,1986-01-03,,7,14,,,,nflverse
+00-0031961,Mark Nzeocha,LB,,53,74,235,1990-01-19,Wyoming,0,14,,,,nflverse
+00-0029676,Morris Claiborne,CB,,24,71,192,1990-02-07,Louisiana State,3,14,,,,nflverse
+00-0026321,Nick Hayden,DT,,96,76,303,1986-02-04,,7,14,,,,nflverse
+00-0032197,Randy Gregory,EDGE,,94,77,255,1992-11-23,Nebraska,0,14,,,,nflverse
+00-0029934,Rodney Smith,WR,,14,77,220,1990-03-11,Florida State,2,14,,,,nflverse
+00-0029010,Ronald Leary,LG,RG,65,75,320,1989-04-29,Memphis,3,14,,,,nflverse
+00-0031948,Ryan Russell,EDGE,,99,77,275,1992-01-17,Purdue,0,14,,,,nflverse
+00-0028003,Terrell McClain,DT,,97,74,302,1988-07-20,South Florida,4,14,,,,nflverse
+00-0030546,Travis Frederick,C,,72,76,315,1991-03-18,Wisconsin,2,14,,,,nflverse
+00-0031276,Tyler Patmon,CB,,26,70,188,1991-01-26,Oklahoma State,1,14,,,,nflverse
+00-0027947,Tyron Smith,LT,RT,77,77,320,1990-12-12,Southern California,4,14,,,,nflverse
+00-0029641,Tyrone Crawford,DT,,98,76,290,1989-11-22,Boise State,3,14,,,,nflverse
+00-0031402,Zack Martin,LG,RG,70,76,315,1990-11-20,Notre Dame,1,14,,,,nflverse
+00-0031310,Devin Street,WR,,15,75,200,1991-03-30,Pittsburgh,1,10,10,,,nflverse
+00-0029273,Robert Turbin,RB,,23,70,222,1989-12-02,Utah State,3,10,10,,,nflverse
+00-0027902,Dez Bryant,WR,,88,74,220,1988-11-04,Oklahoma State,5,9,9,,,nflverse
+00-0031757,Lucky Whitehead,WR,,13,69,180,1992-06-02,Florida Atlantic,0,9,9,,,nflverse
+00-0030432,Christine Michael,RB,,30,70,221,1990-11-09,Texas A&M,2,8,8,,,nflverse
+00-0029634,James Hanna,TE,,84,76,260,1989-07-14,Oklahoma,3,8,8,,,nflverse
+00-0030544,Gavin Escobar,TE,,89,78,260,1991-02-03,San Diego State,2,7,,,,nflverse
+00-0029677,Brandon Weeden,QB,,3,76,228,1983-10-14,Oklahoma State,3,6,,,,nflverse
+00-0030516,Brice Butler,WR,,19,75,215,1990-01-29,San Diego State,2,5,,,,nflverse
+00-0029004,Lance Dunbar,RB,,25,68,195,1990-01-25,North Texas,3,4,,,,nflverse
+00-0021678,Tony Romo,QB,,9,74,230,1980-04-21,Eastern Illinois,12,4,,,,nflverse
+00-0029234,Kellen Moore,QB,,17,72,200,1988-07-05,Boise State,3,3,,,,nflverse
+00-0031900,Rod Smith,RB,,45,75,226,1992-01-10,Ohio State,0,3,,,,nflverse
+00-0032141,Geoff Swaim,TE,,87,76,260,1993-09-16,Texas,0,1,,,,nflverse
+00-0031531,Trey Williams,RB,,28,67,195,1992-12-11,Texas A&M,0,1,,,,nflverse
+00-0027917,Tyler Clutts,RB,,44,74,250,1984-11-09,Fresno State,7,1,,,,nflverse
+00-0032188,Vince Mayle,WR,,85,74,224,1991-06-12,Washington State,0,1,,,,nflverse

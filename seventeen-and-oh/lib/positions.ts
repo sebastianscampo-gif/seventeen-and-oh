@@ -80,7 +80,7 @@ export function createEmptyRoster(): RosterSlot[] {
 const FIT: Record<Position, Partial<Record<Position, number>>> = {
   QB: {}, // a QB is heavily penalized anywhere but QB
   RB: { WR: 0.74, TE: 0.68 },
-  WR: { TE: 0.86, RB: 0.76, CB: 0.6, S: 0.55 },
+  WR: { TE: 0.72, RB: 0.76, CB: 0.6, S: 0.55 }, // WR->TE is a significant move (inline blocking/size)
   TE: { WR: 0.88, RB: 0.78, LT: 0.66, RT: 0.66, LG: 0.6, RG: 0.6, C: 0.58 },
   LT: { RT: 0.93, LG: 0.86, RG: 0.84, C: 0.8, TE: 0.64 },
   LG: { RG: 0.95, C: 0.9, LT: 0.86, RT: 0.85 },
@@ -100,6 +100,12 @@ const WRONG_FIT = 0.52; // generic out-of-position
 const QB_ELSEWHERE = 0.5; // QB at any non-QB slot
 const SECONDARY_FLOOR = 0.93; // listed secondary positions play near-natural
 
+// Special-teams specialists. Kickers and punters are NOT usable at any offensive
+// or defensive position, and no offensive/defensive player can fill a K/P slot.
+// The only swap allowed inside this group is K<->P (handled by the FIT table).
+const SPECIALIST = new Set<Position>(["K", "P"]);
+const SPECIALIST_LOCKOUT = 0.05; // effectively unusable across the ST boundary
+
 // Returns a 0..1 multiplier applied to a player's overall in a given slot.
 export function positionFit(
   natural: Position,
@@ -107,6 +113,10 @@ export function positionFit(
   slot: Position
 ): number {
   if (natural === slot) return 1;
+  // Hard lockout across the special-teams boundary, in either direction. This
+  // takes priority over any listed secondary position: a kicker tagged with a
+  // skill position still can't actually play it.
+  if (SPECIALIST.has(natural) !== SPECIALIST.has(slot)) return SPECIALIST_LOCKOUT;
   if (secondary?.includes(slot)) {
     return Math.max(SECONDARY_FLOOR, FIT[natural]?.[slot] ?? 0);
   }
@@ -121,5 +131,6 @@ export function fitTier(fit: number): { label: string; tone: FitTone } {
   if (fit >= 0.999) return { label: "Natural", tone: "natural" };
   if (fit >= 0.85) return { label: "Similar", tone: "similar" };
   if (fit >= 0.66) return { label: "Emergency", tone: "emergency" };
+  if (fit <= 0.15) return { label: "Can't play", tone: "wrong" };
   return { label: "Out of position", tone: "wrong" };
 }

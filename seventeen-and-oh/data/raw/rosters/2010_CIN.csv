@@ -1,0 +1,52 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0021429,Carson Palmer,QB,,9,77,236,1979-12-27,USC,7,16,16,,,nflverse
+00-0023439,Cedric Benson,RB,,32,71,227,1982-12-28,,5,16,16,,,nflverse
+00-0027873,Jermaine Gresham,TE,,84,77,261,1988-06-16,Oklahoma,0,15,15,,,nflverse
+00-0027687,Jordan Shipley,WR,,11,71,193,1985-12-23,,0,15,15,,,nflverse
+00-0023441,Adam Jones,CB,,24,70,188,1983-09-30,West Virginia,5,14,,,,nflverse
+00-0026982,Andre Smith,LT,RT,71,76,345,1987-01-25,Alabama,1,14,,,,nflverse
+00-0026252,Anthony Collins,LT,RT,73,77,324,1985-11-02,,2,14,,,,nflverse
+00-0022918,Antwan Odom,EDGE,,98,77,275,1981-09-24,,6,14,,,,nflverse
+00-0026941,Bernard Scott,RB,,28,70,197,1984-02-10,,1,14,14,,,nflverse
+00-0019629,Bobbie Williams,LG,RG,63,76,345,1976-09-25,,10,14,,,,nflverse
+00-0027697,Brandon Ghee,CB,,21,72,192,1987-06-06,,0,14,,,,nflverse
+00-0027662,Carlos Dunlap,EDGE,,96,78,277,1989-02-28,Florida,0,14,,,,nflverse
+00-0020397,Chad Johnson,WR,,85,73,192,1978-01-09,,9,14,14,,,nflverse
+00-0027191,Clint Stitser,K,,3,73,200,1985-05-19,,0,14,,,,nflverse
+00-0026964,Clinton McDonald,DT,,69,74,297,1987-01-06,Memphis,1,14,,,,nflverse
+00-0027605,Dan LeFevour,QB,,8,75,230,1987-03-19,Central Michigan,0,14,,,,nflverse
+00-0023920,Dennis Roland,LT,RT,74,81,320,1983-03-10,,4,14,,,,nflverse
+00-0024338,Domata Peko,DT,,94,75,320,1984-11-27,Michigan State,4,14,,,,nflverse
+00-0023514,Evan Mathis,LG,RG,66,77,302,1981-11-01,Alabama,5,14,,,,nflverse
+00-0024306,Frostee Rucker,EDGE,,92,75,280,1983-09-14,USC,4,14,,,,nflverse
+00-0027720,Geno Atkins,DT,,97,73,293,1988-03-28,Georgia,0,14,,,,nflverse
+00-0027244,Jeromy Miles,S,,45,74,215,1987-07-20,,0,14,,,,nflverse
+00-0024239,Johnathan Joseph,CB,,22,71,190,1984-04-16,South Carolina,4,14,,,,nflverse
+00-0023665,Jonathan Fanene,EDGE,,68,76,292,1982-03-19,,5,14,,,,nflverse
+00-0022928,Keiwan Ratliff,CB,,34,71,188,1981-04-19,,6,14,,,,nflverse
+00-0027103,Kevin Huber,P,,10,73,210,1985-07-16,Cincinnati,1,14,,,,nflverse
+00-0022728,Kirk Chambers,LT,RT,72,79,315,1979-03-19,,6,14,,,,nflverse
+00-0024670,Kyle Cook,C,,64,75,316,1983-07-25,,3,14,,,,nflverse
+00-0025405,Leon Hall,CB,,29,71,195,1984-12-09,Michigan,3,14,,,,nflverse
+00-0023482,Mike Nugent,K,,2,70,186,1982-03-02,Ohio State,5,14,,,,nflverse
+00-0026928,Morgan Trent,CB,,25,73,193,1985-12-14,,1,14,,,,nflverse
+00-0023958,Nate Livings,LG,RG,62,77,332,1982-03-16,,4,14,,,,nflverse
+00-0026217,Pat Sims,DT,,90,74,325,1985-11-29,Auburn,2,14,,,,nflverse
+00-0027820,Reggie Stephens,C,,61,75,320,1987-08-28,,0,14,,,,nflverse
+00-0026720,Rico Murray,S,,44,71,200,1987-08-21,,1,14,,,,nflverse
+00-0022867,Robert Geathers,EDGE,,91,75,280,1983-08-11,,6,14,,,,nflverse
+00-0027617,Shay Hodge,WR,,17,73,209,1987-10-18,,0,14,,,,nflverse
+00-0022696,Tank Johnson,DT,,99,75,315,1981-12-07,,6,14,,,,nflverse
+00-0024328,Victor Adeyanju,EDGE,,95,76,284,1983-02-11,,4,14,,,,nflverse
+00-0027245,Vincent Rey,LB,,53,74,244,1987-09-06,Duke,0,14,,,,nflverse
+00-0012478,Terrell Owens,WR,,81,75,224,1973-12-07,,14,13,13,,,nflverse
+00-0025439,Brian Leonard,RB,,40,73,225,1984-02-03,,3,11,11,,,nflverse
+00-0026237,Andre Caldwell,WR,,87,72,195,1985-04-15,,2,9,9,,,nflverse
+00-0009119,Reggie Kelly,TE,,82,76,257,1977-02-22,,11,6,,,,nflverse
+00-0026186,Jerome Simpson,WR,,89,74,195,1986-02-04,,2,4,,,,nflverse
+00-0026932,Cedric Peerman,RB,,30,69,210,1986-10-10,Virginia,1,2,,,,nflverse
+00-0026716,Quan Cosby,WR,,12,69,190,1982-12-23,,1,2,,,,nflverse
+00-0024270,Andrew Whitworth,LT,RT,77,79,335,1981-12-12,Louisiana State,4,1,,,,nflverse
+00-0027069,Chase Coffman,TE,,80,78,250,1986-11-10,,1,1,,,,nflverse
+00-0026723,Chris Pressley,RB,,36,71,260,1986-08-08,,1,1,,,,nflverse
+00-0025592,Jordan Palmer,QB,,5,77,232,1984-05-30,,3,1,,,,nflverse

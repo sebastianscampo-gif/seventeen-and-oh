@@ -1,0 +1,49 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022097,Brandon Lloyd,WR,,84,72,194,1981-07-05,,7,16,16,,,nflverse
+00-0026182,Eddie Royal,WR,,19,70,180,1986-05-21,Virginia Tech,2,16,16,,,nflverse
+00-0021163,Jabar Gaffney,WR,,10,74,200,1980-12-01,,8,16,16,,,nflverse
+00-0021194,Andre' Goodman,CB,,21,70,184,1978-08-11,,8,14,,,,nflverse
+00-0025409,Brady Quinn,QB,,9,75,235,1984-10-27,,3,14,,,,nflverse
+00-0026650,Britt Davis,WR,,17,75,205,1986-04-23,,1,14,,,,nflverse
+00-0000585,Champ Bailey,CB,,24,72,192,1978-06-22,,11,14,,,,nflverse
+00-0025900,Chris Clark,LT,RT,75,77,315,1985-10-01,Southern Mississippi,2,14,,,,nflverse
+00-0024375,Chris Kuper,LG,RG,73,76,303,1982-12-19,,4,14,,,,nflverse
+00-0020270,Correll Buckhalter,RB,,28,72,223,1978-10-06,,9,14,14,,,nflverse
+00-0024483,D'Anthony Batiste,LT,RT,67,76,314,1982-03-29,,4,14,,,,nflverse
+00-0021154,Daniel Graham,TE,,89,75,257,1978-11-16,,8,14,14,,,nflverse
+00-0027781,Eric Olsen,LG,RG,69,75,305,1988-06-16,,0,14,,,,nflverse
+00-0027683,J.D. Walton,C,,50,75,305,1987-03-24,Baylor,0,14,,,,nflverse
+00-0017813,Jamal Williams,DT,,76,75,348,1976-04-28,,12,14,,,,nflverse
+00-0027485,Jeff Byers,C,,63,75,301,1985-09-07,,0,14,,,,nflverse
+00-0021092,Justin Bannan,EDGE,,97,75,310,1979-04-18,,8,14,,,,nflverse
+00-0023648,Kevin Vickerson,EDGE,,99,77,321,1983-01-08,,5,14,,,,nflverse
+00-0027286,Kyle McCarthy,S,,34,73,210,1986-09-30,,0,14,,,,nflverse
+00-0026522,Lee Robinson,LB,,54,74,256,1987-04-23,,1,14,,,,nflverse
+00-0024745,Louis Leonard,DT,,94,76,325,1984-07-16,,3,14,,,,nflverse
+00-0025508,Marcus Thomas,EDGE,,79,75,316,1985-09-23,,3,14,,,,nflverse
+00-0023853,Matt Prater,K,,5,70,187,1984-08-10,Central Florida,4,14,,,,nflverse
+00-0022828,Nathan Jones,CB,,33,70,185,1982-06-15,,6,14,,,,nflverse
+00-0027737,Perrish Cox,CB,,32,71,198,1987-01-10,Oklahoma State,0,14,,,,nflverse
+00-0023571,Ronald Fields,DT,,91,74,314,1981-09-13,,5,14,,,,nflverse
+00-0020389,Russ Hochstein,LG,RG,71,76,305,1977-10-07,,9,14,,,,nflverse
+00-0026152,Ryan Clady,LT,RT,78,78,325,1986-09-06,Boise State,2,14,,,,nflverse
+00-0025457,Ryan Harris,LT,RT,74,77,300,1985-03-11,,3,14,,,,nflverse
+00-0025519,Ryan McBean,EDGE,,98,77,297,1984-04-23,,3,14,,,,nflverse
+00-0024566,Stanley Daniels,LG,RG,64,76,320,1984-11-30,,3,14,,,,nflverse
+00-0025944,Steven Hauschka,K,,3,76,210,1985-06-29,North Carolina State,2,14,,,,nflverse
+00-0027611,Syd'Quan Thompson,CB,,22,69,191,1987-02-07,,0,14,,,,nflverse
+00-0027658,Zane Beadles,LT,RT,68,76,305,1986-11-19,Utah,0,14,,,,nflverse
+00-0026988,Knowshon Moreno,RB,,27,71,210,1987-07-16,,1,13,13,,,nflverse
+00-0023541,Kyle Orton,QB,,8,76,225,1982-11-14,,5,13,13,,,nflverse
+00-0027874,Demaryius Thomas,WR,,88,75,229,1987-12-25,Georgia Tech,0,10,10,,,nflverse
+00-0027157,Dan Gronkowski,TE,,82,77,255,1985-01-21,,1,9,9,,,nflverse
+00-0026432,Lance Ball,RB,,35,69,220,1985-06-19,,2,7,,,,nflverse
+00-0027876,Tim Tebow,QB,,15,75,245,1987-08-14,Florida,0,7,,,,nflverse
+00-0026323,Spencer Larsen,RB,,46,74,243,1984-03-04,,2,6,,,,nflverse
+00-0027690,Eric Decker,WR,,87,75,220,1987-03-15,Minnesota,0,5,,,,nflverse
+00-0024236,Laurence Maroney,RB,,26,71,220,1985-02-05,,4,4,,,,nflverse
+00-0024607,Daniel Coats,TE,,85,75,264,1984-04-16,,3,2,,,,nflverse
+00-0027040,Richard Quinn,TE,,81,76,255,1986-09-06,,1,2,,,,nflverse
+00-0026516,Britton Colquitt,P,,4,75,205,1985-03-20,Tennessee,1,1,,,,nflverse
+00-0027290,Cassius Vaughn,CB,,41,71,195,1987-11-03,Mississippi,0,1,,,,nflverse
+00-0024756,Matt Willis,WR,,12,72,190,1984-04-13,,3,1,,,,nflverse

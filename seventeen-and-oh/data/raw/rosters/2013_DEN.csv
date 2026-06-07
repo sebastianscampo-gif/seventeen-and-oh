@@ -1,0 +1,44 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027874,Demaryius Thomas,WR,,88,75,229,1987-12-25,Georgia Tech,3,16,16,,,nflverse
+00-0027690,Eric Decker,WR,,87,75,214,1987-03-15,Minnesota,3,16,16,,,nflverse
+00-0026988,Knowshon Moreno,RB,,27,71,220,1987-07-16,,4,16,16,,,nflverse
+00-0010346,Peyton Manning,QB,,18,77,230,1976-03-24,Tennessee,15,16,16,,,nflverse
+00-0030522,Montee Ball,RB,,28,70,215,1990-12-05,,0,15,15,,,nflverse
+00-0026516,Britton Colquitt,P,,4,75,205,1985-03-20,Tennessee,4,14,,,,nflverse
+00-0000585,Champ Bailey,CB,,24,72,192,1978-06-22,,14,14,,,,nflverse
+00-0025900,Chris Clark,LT,RT,75,77,305,1985-10-01,Southern Mississippi,5,14,,,,nflverse
+00-0028224,Chris Harris,CB,,25,70,199,1989-06-18,Kansas,2,14,,,,nflverse
+00-0024375,Chris Kuper,LG,RG,73,76,303,1982-12-19,,7,14,,,,nflverse
+00-0029586,Derek Wolfe,EDGE,,95,77,285,1990-02-24,Cincinnati,1,14,,,,nflverse
+00-0026156,Dominique Rodgers-Cromartie,CB,,45,74,193,1986-04-07,Tennessee State,5,14,,,,nflverse
+00-0027683,J.D. Walton,C,,50,75,305,1987-03-24,Baylor,3,14,,,,nflverse
+00-0028067,Julius Thomas,TE,,80,77,250,1988-06-27,Portland State,2,14,14,,,nflverse
+00-0030523,Kayvon Webster,CB,,36,71,198,1991-02-01,South Florida,0,14,,,,nflverse
+00-0023648,Kevin Vickerson,DT,,99,77,328,1983-01-08,,8,14,,,,nflverse
+00-0027052,Louis Vasquez,LG,RG,65,77,335,1987-04-11,Texas Tech,4,14,,,,nflverse
+00-0029568,Malik Jackson,EDGE,,97,77,293,1990-01-11,Tennessee,1,14,,,,nflverse
+00-0025504,Manuel Ramirez,C,,66,75,320,1983-02-19,Texas Tech,6,14,,,,nflverse
+00-0024588,Marquice Cole,CB,,34,70,195,1983-11-01,,6,14,,,,nflverse
+00-0023853,Matt Prater,K,,5,70,195,1984-08-10,Central Florida,7,14,,,,nflverse
+00-0027573,Mitch Unrein,DT,,96,76,306,1987-03-25,Wyoming,3,14,,,,nflverse
+00-0027984,Orlando Franklin,LT,RT,74,79,320,1987-12-16,Miami (Fla.),2,14,,,,nflverse
+00-0021381,Quentin Jammer,CB,,23,72,204,1979-06-19,,11,14,,,,nflverse
+00-0026994,Robert Ayers,EDGE,,91,75,274,1985-09-06,Tennessee,4,14,,,,nflverse
+00-0026152,Ryan Clady,LT,RT,78,78,315,1986-09-06,Boise State,5,14,,,,nflverse
+00-0025619,Steve Vallos,C,,60,75,310,1983-12-28,,6,14,,,,nflverse
+00-0030577,Sylvester Williams,DT,,92,74,313,1988-11-21,North Carolina,0,14,,,,nflverse
+00-0027046,Terrance Knighton,DT,,94,75,335,1986-07-04,,4,14,,,,nflverse
+00-0026515,Tony Carter,CB,,32,69,175,1986-05-24,,4,14,,,,nflverse
+00-0030096,Vinston Painter,LT,RT,70,78,309,1989-10-11,Virginia Tech,0,14,,,,nflverse
+00-0024254,Winston Justice,LT,RT,77,78,317,1984-09-14,,7,14,,,,nflverse
+00-0030394,Zac Dysert,QB,,2,75,221,1990-02-08,Miami (Ohio),0,14,,,,nflverse
+00-0027658,Zane Beadles,LG,RG,68,76,305,1986-11-19,Utah,3,14,,,,nflverse
+00-0022427,Wes Welker,WR,,83,69,185,1981-05-01,Texas Tech,9,13,13,,,nflverse
+00-0026237,Andre Caldwell,WR,,12,72,200,1985-04-15,,5,12,12,,,nflverse
+00-0026267,Jacob Tamme,TE,,84,75,230,1985-03-15,Kentucky,5,9,9,,,nflverse
+00-0029683,Ronnie Hillman,RB,,21,70,195,1991-09-14,San Diego State,1,9,9,,,nflverse
+00-0028142,Virgil Green,TE,,85,77,255,1988-08-03,Nevada,2,9,9,,,nflverse
+00-0023630,Joel Dreessen,TE,,81,76,245,1982-07-26,,8,5,,,,nflverse
+00-0027606,Trindon Holliday,WR,,11,65,170,1986-04-27,,3,3,,,,nflverse
+00-0029682,Brock Osweiler,QB,,17,80,240,1990-11-22,Arizona State,1,2,,,,nflverse
+00-0029854,C.J. Anderson,RB,,22,68,224,1991-02-10,California,0,2,,,,nflverse

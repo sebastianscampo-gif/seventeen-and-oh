@@ -1,0 +1,45 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0021191,Antonio Bryant,WR,,89,73,205,1981-03-09,,6,15,15,,,nflverse
+00-0007468,Ike Hilliard,WR,,19,71,210,1976-04-05,,11,15,15,,,nflverse
+00-0004640,Warrick Dunn,RB,,28,69,187,1975-01-05,,11,15,15,,,nflverse
+00-0026160,Aqib Talib,CB,,25,73,205,1986-02-13,Kansas,0,14,,,,nflverse
+00-0025422,Arron Sears,LG,RG,78,75,319,1984-10-25,,1,14,,,,nflverse
+00-0024625,Byron Storer,RB,,44,73,219,1984-05-01,,1,14,,,,nflverse
+00-0019696,Chris Hovan,DT,,95,74,296,1978-05-12,,8,14,,,,nflverse
+00-0024238,Davin Joseph,LG,RG,75,75,313,1983-11-22,,2,14,,,,nflverse
+00-0026198,Dexter Jackson,WR,,10,69,182,1986-08-05,,0,14,,,,nflverse
+00-0023894,Donald Penn,LT,RT,70,77,305,1983-04-27,Utah State,2,14,,,,nflverse
+00-0025902,Elbert Mack,CB,,43,70,175,1986-07-14,,0,14,,,,nflverse
+00-0025391,Gaines Adams,EDGE,,90,77,258,1983-06-08,,1,14,,,,nflverse
+00-0025528,Greg Peterson,DT,,96,77,286,1984-01-21,,1,14,,,,nflverse
+00-0026080,James Lee,LT,RT,77,76,305,1985-08-17,,0,14,,,,nflverse
+00-0022157,Jeff Faine,C,,52,75,291,1981-04-06,,5,14,,,,nflverse
+00-0024274,Jeremy Trueblood,LT,RT,65,80,320,1983-05-10,,2,14,,,,nflverse
+00-0026223,Jeremy Zuttah,LG,RG,76,76,303,1986-06-01,Rutgers,0,14,,,,nflverse
+00-0021960,Jimmy Wilkerson,EDGE,,97,74,290,1981-01-04,,5,14,,,,nflverse
+00-0001231,Josh Bidwell,P,,9,75,220,1976-03-13,,9,14,,,,nflverse
+00-0026300,Josh Johnson,QB,,11,74,201,1986-05-15,San Diego,0,14,,,,nflverse
+00-0023622,Jovan Haye,DT,,71,74,285,1982-06-21,,3,14,,,,nflverse
+00-0002742,Kevin Carter,EDGE,,93,78,305,1973-09-21,,13,14,,,,nflverse
+00-0020578,Matt Bryant,K,,3,69,200,1975-05-29,Baylor,6,14,,,,nflverse
+00-0022725,Michael Clayton,WR,,80,76,215,1982-10-13,,4,14,14,,,nflverse
+00-0020451,Patrick Chukwurah,EDGE,,94,73,250,1979-03-01,,7,14,,,,nflverse
+00-0021151,Phillip Buchanon,CB,,31,71,186,1980-09-19,,6,14,,,,nflverse
+00-0000741,Ronde Barber,CB,,20,70,184,1975-04-07,,11,14,,,,nflverse
+00-0021382,Ryan Sims,DT,,98,76,315,1980-05-04,,6,14,,,,nflverse
+00-0022021,Sean Mahan,C,,79,75,301,1980-05-28,,5,14,,,,nflverse
+00-0021332,Stylez G White,EDGE,,91,75,270,1979-07-25,,6,14,,,,nflverse
+00-0005755,Jeff Garcia,QB,,7,73,205,1970-02-24,,9,12,12,,,nflverse
+00-0023506,Alex Smith,TE,,81,76,258,1982-05-22,Stanford,3,11,11,,,nflverse
+00-0021159,Jerramy Stevens,TE,,86,79,260,1979-11-13,,6,11,11,,,nflverse
+00-0021304,John Gilmore,TE,,88,77,257,1979-09-21,,6,11,11,,,nflverse
+00-0021755,Earnest Graham,RB,,34,69,225,1980-01-15,,5,10,10,,,nflverse
+00-0022003,B.J. Askew,RB,,35,75,233,1980-08-19,,5,8,8,,,nflverse
+00-0023440,Carnell Williams,RB,,24,71,217,1982-04-21,,3,6,,,,nflverse
+00-0006423,Brian Griese,QB,,8,75,214,1975-03-18,,10,5,,,,nflverse
+00-0026113,Clifton Smith,RB,,22,68,190,1985-07-04,,0,5,,,,nflverse
+00-0005720,Joey Galloway,WR,,84,71,197,1971-11-20,,13,5,,,,nflverse
+00-0020391,Jameel Cook,RB,,33,70,237,1979-02-08,,7,2,,,,nflverse
+00-0022864,Luke McCown,QB,,12,75,212,1981-07-12,Louisiana Tech,4,2,,,,nflverse
+00-0024305,Maurice Stovall,WR,,85,77,220,1985-02-21,,2,2,,,,nflverse
+00-0023790,Brian Clark,WR,,87,74,204,1983-12-26,,2,1,,,,nflverse

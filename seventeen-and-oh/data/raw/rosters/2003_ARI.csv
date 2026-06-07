@@ -1,0 +1,49 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022084,Anquan Boldin,WR,,81,73,216,1980-10-03,Florida State,0,16,16,,,nflverse
+00-0020022,Marcel Shipp,RB,,31,71,219,1978-08-08,,2,16,16,,,nflverse
+00-0008749,Freddie Jones,TE,,85,76,270,1974-09-16,,6,15,15,,,nflverse
+00-0003105,Anthony Clement,LT,RT,65,80,330,1976-04-10,,5,14,,,,nflverse
+00-0016041,Barron Tanner,DT,,92,75,347,1973-09-14,,6,14,,,,nflverse
+00-0020296,Bill Gramatica,K,,7,70,192,1978-07-10,,2,14,,,,nflverse
+00-0022120,Calvin Pace,EDGE,,79,76,269,1980-10-28,Wake Forest,0,14,,,,nflverse
+00-0015471,Cameron Spikes,LG,RG,76,76,323,1976-11-06,,4,14,,,,nflverse
+00-0004336,Chris Dishman,LG,RG,67,75,323,1974-02-27,,6,14,,,,nflverse
+00-0013623,Coby Rhinehart,CB,,23,71,191,1977-02-07,,4,14,,,,nflverse
+00-0019469,David Barrett,CB,,36,70,195,1977-12-22,,3,14,,,,nflverse
+00-0021086,Dennis Johnson,EDGE,,96,77,258,1979-12-04,,1,14,,,,nflverse
+00-0013418,Derrick Ransom,DT,,95,75,306,1976-09-13,,5,14,,,,nflverse
+00-0010785,Emmanuel McDaniel,CB,,26,69,180,1972-07-27,,7,14,,,,nflverse
+00-0005753,Frank Garcia,LG,RG,63,74,302,1972-01-28,,8,14,,,,nflverse
+00-0020024,Fred Wakefield,EDGE,,97,79,289,1978-09-17,,2,14,,,,nflverse
+00-0021741,Jason Goss,CB,,25,71,189,1979-10-04,,0,14,,,,nflverse
+00-0019518,Jason Starkey,C,,50,76,282,1977-07-15,,3,14,,,,nflverse
+00-0021796,Josh Rue,RB,,46,75,245,1979-08-19,,0,14,,,,nflverse
+00-0020191,Kendrick Rogers,LT,RT,78,77,311,1976-10-10,,2,14,,,,nflverse
+00-0021916,Kenny King,EDGE,,72,75,281,1981-04-23,,0,14,,,,nflverse
+00-0014776,L.J. Shelton,LT,RT,70,78,335,1976-03-21,,4,14,,,,nflverse
+00-0020533,Leonard Davis,LG,RG,75,78,370,1978-09-05,,2,14,,,,nflverse
+00-0021554,Lorenzo Diamond,TE,,49,74,253,1978-12-15,,0,14,,,,nflverse
+00-0020297,Marcus Bell,DT,,94,74,323,1979-06-01,,2,14,,,,nflverse
+00-0021103,Mike Banks,TE,,84,76,260,1979-11-05,,1,14,,,,nflverse
+00-0019834,Nathan Hodel,C,,48,74,247,1977-11-12,,2,14,,,,nflverse
+00-0019676,Neil Rackers,K,,1,72,205,1976-08-16,,3,14,,,,nflverse
+00-0009137,Pete Kendall,LG,RG,66,77,292,1973-07-09,,7,14,,,,nflverse
+00-0021062,Preston Parsons,QB,,15,76,222,1979-02-19,,1,14,,,,nflverse
+00-0014086,Raleigh Roundtree,LG,RG,73,77,330,1975-08-31,,6,14,,,,nflverse
+00-0021911,Reggie Wells,LG,RG,74,76,300,1980-11-03,,0,14,,,,nflverse
+00-0020301,Renaldo Hill,CB,,21,71,182,1978-11-12,,2,14,,,,nflverse
+00-0004046,Russell Davis,DT,,98,76,306,1975-03-28,,4,14,,,,nflverse
+00-0013028,Scott Player,P,,10,73,220,1969-12-17,,7,14,,,,nflverse
+00-0021384,Wendell Bryant,DT,,91,77,308,1980-09-12,,1,14,,,,nflverse
+00-0022156,Bryant Johnson,WR,,83,74,214,1981-03-07,,0,13,13,,,nflverse
+00-0001335,Jeff Blake,QB,,11,73,210,1970-12-04,,11,13,13,,,nflverse
+00-0021048,Damien Anderson,RB,,20,71,217,1979-07-17,,1,11,11,,,nflverse
+00-0019302,Bryan Gilmore,WR,,86,72,194,1978-07-21,,3,10,10,,,nflverse
+00-0015165,Emmitt Smith,RB,,22,69,209,1969-05-15,,13,10,10,,,nflverse
+00-0007546,James Hodgins,RB,,42,73,270,1977-04-30,,4,9,9,,,nflverse
+00-0021206,Josh McCown,QB,,12,76,223,1979-07-04,Sam Houston State,1,7,,,,nflverse
+00-0020021,Nate Poole,WR,,89,74,212,1977-02-01,,2,6,,,,nflverse
+00-0002380,Steve Bush,TE,,87,75,260,1974-07-04,,6,6,,,,nflverse
+00-0021094,Jason McAddley,WR,,80,74,201,1979-07-28,,1,2,,,,nflverse
+00-0021098,Josh Scobey,RB,,33,72,218,1979-12-11,,1,2,,,,nflverse
+00-0020256,Kevin Kasper,WR,,82,73,193,1977-12-23,,2,2,,,,nflverse

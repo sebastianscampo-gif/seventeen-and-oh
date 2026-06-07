@@ -1,0 +1,52 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0026393,Marcel Reece,RB,,45,73,255,1985-06-23,Washington,5,16,16,,,nflverse
+00-0030514,Mychal Rivera,TE,,81,75,245,1990-09-08,Tennessee,0,16,16,,,nflverse
+00-0029129,Rod Streater,WR,,80,75,200,1988-02-09,Temple,1,16,16,,,nflverse
+00-0027155,Rashad Jennings,RB,,27,73,231,1985-03-26,Liberty,4,15,15,,,nflverse
+00-0021385,Andre Gurode,LG,RG,64,76,320,1979-03-06,,11,14,,,,nflverse
+00-0029379,Antoine McClain,LG,RG,74,77,336,1989-12-06,,1,14,,,,nflverse
+00-0030368,Chance Casey,S,,37,71,190,1991-03-11,,0,14,,,,nflverse
+00-0030572,D.J. Hayden,CB,,25,71,190,1990-06-27,Houston,0,14,,,,nflverse
+00-0024692,Daniel Muir,DT,,97,74,312,1983-09-12,,6,14,,,,nflverse
+00-0028179,David Ausberry,TE,,86,76,258,1987-09-25,,2,14,,,,nflverse
+00-0029627,Jack Crawford,EDGE,,91,77,281,1988-09-07,Penn State,1,14,,,,nflverse
+00-0027674,Jared Veldheer,LT,RT,68,80,321,1987-06-14,Hillsdale,3,14,,,,nflverse
+00-0023890,Jason Hunter,EDGE,,93,76,270,1983-08-28,,7,14,,,,nflverse
+00-0023487,Khalif Barnes,LT,RT,69,78,321,1982-04-21,Washington,8,14,,,,nflverse
+00-0029756,Lamar Mady,LG,RG,63,74,315,1990-12-13,,0,14,,,,nflverse
+00-0027657,Lamarr Houston,EDGE,,99,75,300,1987-06-24,Texas,3,14,,,,nflverse
+00-0029127,Lucas Nix,LG,RG,76,77,320,1989-09-28,,1,14,,,,nflverse
+00-0029123,Marquette King,P,,7,72,192,1988-10-26,Fort Valley State,1,14,,,,nflverse
+00-0028835,Marshall McFadden,LB,,54,73,233,1986-08-04,,2,14,,,,nflverse
+00-0029302,Matt McCants,LT,RT,73,77,309,1989-08-18,Alabama-Birmingham,1,14,,,,nflverse
+00-0030579,Menelik Watson,LT,RT,71,77,315,1988-12-22,Florida State,0,14,,,,nflverse
+00-0023846,Mike Brisiel,LG,RG,65,77,310,1983-03-14,,7,14,,,,nflverse
+00-0026165,Mike Jenkins,CB,,21,70,197,1985-03-22,South Florida,5,14,,,,nflverse
+00-0026217,Pat Sims,DT,,90,74,310,1985-11-29,Auburn,5,14,,,,nflverse
+00-0027610,Phillip Adams,CB,,28,71,195,1988-07-20,South Carolina State,3,14,,,,nflverse
+00-0028722,Ricky Lumpkin,DT,,77,76,306,1988-09-07,,2,14,,,,nflverse
+00-0030371,Ryan Robinson,EDGE,,58,76,255,1990-12-09,,0,14,,,,nflverse
+00-0019646,Sebastian Janikowski,K,,11,73,258,1978-03-02,Florida State,13,14,,,,nflverse
+00-0029754,Shelton Johnson,S,,42,72,197,1990-07-16,,0,14,,,,nflverse
+00-0030515,Stacy McGee,DT,,92,75,310,1990-01-17,Oklahoma,0,14,,,,nflverse
+00-0027986,Stefen Wisniewski,C,,61,75,307,1989-03-22,Penn State,2,14,,,,nflverse
+00-0022149,Tony Pashos,LT,RT,79,78,325,1980-08-03,,10,14,,,,nflverse
+00-0026180,Tracy Porter,CB,,23,71,188,1986-08-11,Indiana,5,14,,,,nflverse
+00-0030568,Tyler Wilson,QB,,8,74,215,1989-08-16,,0,14,,,,nflverse
+00-0026942,Vance Walker,DT,,98,74,305,1987-04-26,Georgia Tech,4,14,,,,nflverse
+00-0028086,Denarius Moore,WR,,17,72,190,1988-12-09,Tennessee,2,13,13,,,nflverse
+00-0027709,Jacoby Ford,WR,,12,69,190,1987-07-27,,3,13,13,,,nflverse
+00-0028825,Terrelle Pryor,QB,,2,76,233,1989-06-20,Ohio State,2,11,11,,,nflverse
+00-0028263,Andre Holmes,WR,,18,76,210,1988-06-16,Hillsdale,2,10,10,,,nflverse
+00-0026144,Darren McFadden,RB,,20,73,218,1987-08-27,Arkansas,5,10,10,,,nflverse
+00-0027445,Jeron Mastrud,TE,,85,77,255,1987-12-17,,3,9,9,,,nflverse
+00-0030516,Brice Butler,WR,,19,75,213,1990-01-29,San Diego State,0,8,8,,,nflverse
+00-0026349,Matt Flynn,QB,,15,74,230,1985-06-20,LSU,5,7,,,,nflverse
+00-0030419,Matthew McGloin,QB,,14,73,210,1989-12-02,Penn State,0,7,,,,nflverse
+00-0029492,Jamize Olawale,RB,,49,73,240,1989-04-17,North Texas,1,6,,,,nflverse
+00-0030512,Nick Kasa,TE,,88,78,265,1990-11-05,,0,4,,,,nflverse
+00-0028063,Taiwan Jones,CB,,22,72,197,1988-07-26,Eastern Washington,2,4,,,,nflverse
+00-0029441,Jeremy Stewart,RB,,32,71,215,1989-02-17,,1,3,,,,nflverse
+00-0030370,Greg Jenkins,WR,,10,73,208,1989-08-23,,0,2,,,,nflverse
+00-0028051,Chimdi Chekwa,CB,,35,72,190,1988-01-07,Ohio State,2,1,,,,nflverse
+00-0029702,Juron Criner,WR,,84,75,221,1989-12-12,,1,1,,,,nflverse

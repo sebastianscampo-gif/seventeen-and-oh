@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022803,Eli Manning,QB,,10,76,218,1981-01-03,Mississippi,8,16,16,,,nflverse
+00-0026201,Martellus Bennett,TE,,85,78,265,1987-03-10,Texas A&M,4,16,16,,,nflverse
+00-0027265,Victor Cruz,WR,,80,72,204,1986-11-11,Massachusetts,2,16,16,,,nflverse
+00-0029366,Adewale Ojomo,EDGE,,71,76,270,1988-11-11,,0,14,,,,nflverse
+00-0027782,Adrian Tracy,EDGE,,98,74,245,1987-04-06,,2,14,,,,nflverse
+00-0029281,Adrien Robinson,TE,,81,76,264,1988-09-23,,0,14,,,,nflverse
+00-0025637,Ahmad Bradshaw,RB,,44,70,214,1986-03-19,Marshall,5,14,14,,,nflverse
+00-0023566,Chris Canty,DT,,99,79,317,1982-11-10,Virginia,7,14,,,,nflverse
+00-0022838,Chris Snee,LG,RG,76,75,305,1982-01-18,,8,14,,,,nflverse
+00-0023478,Corey Webster,CB,,23,72,200,1982-03-02,,7,14,,,,nflverse
+00-0023468,David Baas,C,,64,76,312,1981-09-28,,7,14,,,,nflverse
+00-0021922,David Diehl,LT,RT,66,77,304,1980-09-15,,9,14,,,,nflverse
+00-0029251,David Wilson,RB,,22,69,205,1991-06-15,,0,14,14,,,nflverse
+00-0028055,James Brewer,LT,RT,73,78,330,1987-12-23,,1,14,,,,nflverse
+00-0027867,Jason Pierre-Paul,EDGE,,90,77,278,1989-01-01,South Florida,2,14,,,,nflverse
+00-0029267,Jayron Hosley,CB,,28,70,178,1990-09-18,Virginia Tech,0,14,,,,nflverse
+00-0027264,Jim Cordle,C,,63,75,320,1987-08-22,,2,14,,,,nflverse
+00-0026264,Justin Tryon,CB,,30,69,180,1984-05-29,,4,14,,,,nflverse
+00-0023509,Justin Tuck,EDGE,,91,77,268,1983-03-29,Notre Dame,7,14,,,,nflverse
+00-0024390,Kevin Boothe,LG,RG,77,77,320,1983-07-05,,6,14,,,,nflverse
+00-0019778,Lawrence Tynes,K,,9,73,194,1978-05-03,,11,14,,,,nflverse
+00-0027885,Linval Joseph,DT,,97,76,323,1988-10-10,East Carolina,2,14,,,,nflverse
+00-0029312,Markus Kuhn,DT,,78,76,299,1986-05-05,,0,14,,,,nflverse
+00-0027990,Marvin Austin,DT,,96,74,312,1989-01-10,,1,14,,,,nflverse
+00-0021977,Osi Umenyiora,EDGE,,72,75,255,1981-11-16,,9,14,,,,nflverse
+00-0027957,Prince Amukamara,CB,,20,72,207,1989-06-06,Nebraska,1,14,,,,nflverse
+00-0021261,Rocky Bernard,DT,,95,75,301,1979-04-19,,10,14,,,,nflverse
+00-0026279,Ryan Torain,RB,,41,73,218,1986-08-10,,4,14,,,,nflverse
+00-0022855,Sean Locklear,LT,RT,75,76,310,1981-05-29,,8,14,,,,nflverse
+00-0027823,Selvish Capers,LG,RG,60,77,315,1985-11-13,,2,14,,,,nflverse
+00-0024110,Steve Weatherford,P,,5,74,211,1982-12-17,Illinois,6,14,,,,nflverse
+00-0029220,Terrence Frederick,S,,36,70,187,1990-02-10,,0,14,,,,nflverse
+00-0024345,Domenik Hixon,WR,,87,74,197,1984-10-08,,6,13,13,,,nflverse
+00-0027005,Hakeem Nicks,WR,,88,73,208,1988-01-14,North Carolina,3,12,12,,,nflverse
+00-0028492,Henry Hynoski,RB,,45,73,266,1988-12-30,,1,12,12,,,nflverse
+00-0029262,Rueben Randle,WR,,82,74,208,1991-05-07,LSU,0,10,10,,,nflverse
+00-0027094,Andre Brown,RB,,35,72,227,1986-12-15,,3,8,8,,,nflverse
+00-0026931,Bear Pascoe,TE,,86,77,283,1986-02-23,,3,8,8,,,nflverse
+00-0028021,Jerrel Jernigan,WR,,12,68,189,1989-06-14,,1,6,,,,nflverse
+00-0026902,Ramses Barden,WR,,13,78,224,1986-01-01,,3,6,,,,nflverse
+00-0020608,David Carr,QB,,8,75,212,1979-07-21,,10,2,,,,nflverse
+00-0026029,Kregg Lumpkin,RB,,38,71,228,1984-05-15,,4,2,,,,nflverse
+00-0028159,Da'Rel Scott,RB,,33,71,210,1988-05-26,,1,1,,,,nflverse
+00-0027070,Travis Beckum,TE,,47,75,234,1987-01-24,,3,1,,,,nflverse
+00-0027036,Will Beatty,LT,RT,65,78,319,1985-03-02,Connecticut,3,1,,,,nflverse

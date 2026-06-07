@@ -1,0 +1,48 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022092,Chris Brown,RB,,29,75,220,1981-04-17,,2,15,15,,,nflverse
+00-0021149,Albert Haynesworth,DT,,92,78,320,1981-06-17,,3,14,,,,nflverse
+00-0022076,Andre Woolfolk,CB,,26,74,197,1980-01-26,,2,14,,,,nflverse
+00-0022918,Antwan Odom,EDGE,,98,76,274,1981-09-24,,1,14,,,,nflverse
+00-0012381,Benji Olson,LG,RG,75,76,320,1975-06-05,,7,14,,,,nflverse
+00-0022862,Bo Schobel,EDGE,,95,77,264,1981-03-24,,1,14,,,,nflverse
+00-0007719,Brad Hopkins,LT,RT,72,75,305,1970-09-05,,12,14,,,,nflverse
+00-0023583,Daniel Loper,LT,RT,70,78,320,1982-01-15,,0,14,,,,nflverse
+00-0023548,David Stewart,LT,RT,76,79,318,1982-08-28,,0,14,,,,nflverse
+00-0022771,Eugene Amano,C,,54,75,310,1982-03-01,,1,14,,,,nflverse
+00-0022875,Jacob Bell,LT,RT,60,76,295,1981-03-02,,1,14,,,,nflverse
+00-0022732,Jared Clauss,DT,,96,76,290,1981-04-07,,1,14,,,,nflverse
+00-0021451,Jon Dorenbos,C,,57,72,250,1980-07-21,Texas-El Paso,2,14,,,,nflverse
+00-0021297,Justin Hartwig,C,,77,76,312,1978-11-21,,3,14,,,,nflverse
+00-0020382,Kyle Vanden Bosch,EDGE,,93,76,278,1978-11-17,,4,14,,,,nflverse
+00-0023145,Marcus Randall,QB,,41,74,221,1982-03-14,,0,14,,,,nflverse
+00-0023155,Marcus White,DT,,79,77,310,1981-11-13,,0,14,,,,nflverse
+00-0022871,Michael Waddell,CB,,36,70,180,1981-01-09,,1,14,,,,nflverse
+00-0022805,Randy Starks,DT,,90,75,312,1983-12-14,Maryland,1,14,,,,nflverse
+00-0023650,Reynaldo Hill,CB,,21,71,185,1982-08-28,,0,14,,,,nflverse
+00-0022809,Rich Gardner,CB,,30,70,194,1981-02-01,,1,14,,,,nflverse
+00-0022098,Rien Long,DT,,99,78,300,1981-08-07,,2,14,,,,nflverse
+00-0020962,Rob Bironas,K,,2,72,205,1978-01-29,,3,14,,,,nflverse
+00-0011024,Steve McNair,QB,,9,74,230,1973-02-14,,10,14,14,,,nflverse
+00-0021237,Tony Beckham,CB,,24,73,195,1978-10-01,,3,14,,,,nflverse
+00-0022894,Travis LaBoy,EDGE,,91,75,260,1981-08-20,,1,14,,,,nflverse
+00-0012991,Zach Piller,LG,RG,69,77,315,1976-05-02,,6,14,,,,nflverse
+00-0022916,Ben Troupe,TE,,84,76,270,1982-09-01,,1,13,13,,,nflverse
+00-0019976,Drew Bennett,WR,,83,77,206,1978-08-26,,4,13,13,,,nflverse
+00-0019659,Erron Kinney,TE,,88,78,275,1977-07-28,,5,13,13,,,nflverse
+00-0023612,Bo Scaife,TE,,80,74,249,1981-01-06,,0,11,11,,,nflverse
+00-0022087,Tyrone Calico,WR,,87,76,220,1980-11-09,,2,11,11,,,nflverse
+00-0023503,Courtney Roby,WR,,82,72,189,1983-01-10,,0,10,10,,,nflverse
+00-0022144,Bobby Wade,WR,,19,70,186,1981-02-25,,2,9,9,,,nflverse
+00-0023531,Brandon Jones,WR,,81,73,212,1982-10-06,,0,9,9,,,nflverse
+00-0022255,Jarrett Payton,RB,,33,72,218,1980-12-26,,1,9,9,,,nflverse
+00-0020471,Travis Henry,RB,,20,69,215,1978-10-29,,4,9,9,,,nflverse
+00-0022825,Troy Fleming,RB,,44,72,245,1980-10-01,,1,8,8,,,nflverse
+00-0023570,Roydell Williams,WR,,86,72,187,1981-03-14,,0,7,,,,nflverse
+00-0019041,Billy Volek,QB,,7,74,214,1976-04-28,,5,5,,,,nflverse
+00-0007308,Craig Hentrich,P,,15,75,213,1971-05-18,,12,3,,,,nflverse
+00-0023441,Adam Jones,CB,,32,70,185,1983-09-30,West Virginia,0,2,,,,nflverse
+00-0023704,Gregg Guenther,TE,,85,80,255,1982-01-29,,0,2,,,,nflverse
+00-0022768,Matt Mauck,QB,,8,73,213,1979-02-12,,1,2,,,,nflverse
+00-0023576,Damien Nash,RB,,42,70,220,1982-04-14,,0,1,,,,nflverse
+00-0023476,Michael Roos,LT,RT,71,79,315,1982-10-05,,0,1,,,,nflverse
+00-0023151,O.J. Small,WR,,18,73,230,1982-08-18,,0,1,,,,nflverse

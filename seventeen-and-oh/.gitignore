@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# rating-pipeline backups (large CSV snapshots, kept locally for rollback)
+/data/backups/

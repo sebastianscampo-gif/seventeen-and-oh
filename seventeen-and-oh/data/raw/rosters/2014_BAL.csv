@@ -1,0 +1,44 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0026158,Joe Flacco,QB,,5,78,245,1985-01-16,Delaware,6,16,16,,,nflverse
+00-0026373,Justin Forsett,RB,,29,68,197,1985-10-14,California,6,16,16,,,nflverse
+00-0020337,Steve Smith,WR,,89,69,195,1979-05-12,Utah,13,16,16,,,nflverse
+00-0024313,Owen Daniels,TE,,81,75,245,1982-11-09,Wisconsin,8,15,15,,,nflverse
+00-0027996,Torrey Smith,WR,,82,72,205,1989-01-26,Maryland,3,15,15,,,nflverse
+00-0026167,Antoine Cason,CB,,23,73,195,1986-07-09,,6,14,,,,nflverse
+00-0029294,Asa Jackson,CB,,25,70,182,1989-12-02,Cal Poly-S.L.O.,2,14,,,,nflverse
+00-0030511,Brandon Williams,DT,,98,73,335,1989-02-21,Missouri Southern,1,14,,,,nflverse
+00-0030258,Casey Walker,DT,,79,73,335,1989-12-06,,1,14,,,,nflverse
+00-0023566,Chris Canty,EDGE,,99,79,317,1982-11-10,Virginia,9,14,,,,nflverse
+00-0029213,Chris Greenwood,CB,,42,73,193,1989-07-10,,2,14,,,,nflverse
+00-0029628,Christo Bilukidi,DT,,68,77,320,1989-12-13,,2,14,,,,nflverse
+00-0028102,Chykie Brown,CB,,23,71,190,1986-12-26,Texas,3,14,,,,nflverse
+00-0029309,DeAngelo Tyson,EDGE,,93,74,315,1989-04-12,,2,14,,,,nflverse
+00-0026984,Eugene Monroe,LT,RT,60,77,300,1987-04-18,Virginia,5,14,,,,nflverse
+00-0029268,Gino Gradkowski,C,,66,75,300,1988-11-05,Delaware,2,14,,,,nflverse
+00-0024227,Haloti Ngata,DT,,92,76,340,1984-01-21,Oregon,8,14,,,,nflverse
+00-0028023,Jah Reid,LT,RT,76,79,320,1988-07-21,Central Florida,3,14,,,,nflverse
+00-0030694,James Hurst,LT,RT,74,77,308,1991-12-17,North Carolina,0,14,,,,nflverse
+00-0026223,Jeremy Zuttah,C,,53,76,300,1986-06-01,Rutgers,6,14,,,,nflverse
+00-0027965,Jimmy Smith,CB,,22,74,209,1988-07-26,Colorado,3,14,,,,nflverse
+00-0030996,John Urschel,LG,RG,64,75,308,1991-06-24,Penn State,0,14,,,,nflverse
+00-0029597,Justin Tucker,K,,9,72,189,1989-11-21,Texas,2,14,,,,nflverse
+00-0029259,Kelechi Osemele,LG,RG,72,77,330,1989-06-24,Iowa State,2,14,,,,nflverse
+00-0027060,Lardarius Webb,CB,,21,70,182,1985-10-12,Nicholls State,5,14,,,,nflverse
+00-0025473,Marshal Yanda,LG,RG,73,75,305,1984-09-15,Iowa,7,14,,,,nflverse
+00-0029893,Ricky Wagner,LT,RT,71,78,310,1989-10-21,Wisconsin,1,14,,,,nflverse
+00-0029895,Ryan Jensen,C,,77,76,306,1991-05-27,Colorado State-Pueblo,1,14,,,,nflverse
+00-0024417,Sam Koch,P,,4,73,222,1982-08-13,Nebraska,8,14,,,,nflverse
+00-0027665,Terrence Cody,DT,,62,76,345,1988-06-28,,4,14,,,,nflverse
+00-0031170,Timmy Jernigan,DT,,97,74,300,1992-09-24,Florida State,0,14,,,,nflverse
+00-0030695,Tramain Jacobs,S,,39,71,182,1992-05-20,Texas A&M,0,14,,,,nflverse
+00-0029264,Bernard Pierce,RB,,30,72,230,1991-05-10,Temple,2,13,13,,,nflverse
+00-0028497,Kamar Aiken,WR,,11,74,215,1989-05-30,Central Florida,3,13,13,,,nflverse
+00-0029892,Kyle Juszczyk,RB,,44,73,248,1991-04-23,Harvard,1,13,13,,,nflverse
+00-0030400,Marlon Brown,WR,,14,77,214,1991-04-22,Georgia,1,13,13,,,nflverse
+00-0025460,Jacoby Jones,WR,,12,74,215,1984-07-11,Lane,7,12,12,,,nflverse
+00-0031066,Lorenzo Taliaferro,RB,,34,72,226,1991-12-23,Coastal Carolina,0,10,10,,,nflverse
+00-0030992,Crockett Gillmore,TE,,80,78,251,1991-11-16,Colorado State,0,9,9,,,nflverse
+00-0031025,Michael Campanaro,WR,,15,69,185,1991-01-25,Wake Forest,0,4,,,,nflverse
+00-0027714,Dennis Pitta,TE,,88,76,245,1985-06-29,Brigham Young,4,3,,,,nflverse
+00-0031332,Fitzgerald Toussaint,RB,,43,70,205,1990-05-04,Michigan,0,2,,,,nflverse
+00-0028118,Tyrod Taylor,QB,,2,73,208,1989-08-03,Virginia Tech,3,1,,,,nflverse

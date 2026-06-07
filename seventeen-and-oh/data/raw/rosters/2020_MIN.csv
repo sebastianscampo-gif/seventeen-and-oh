@@ -1,0 +1,66 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0036322,Justin Jefferson,WR,,18,73,192,1999-06-16,Louisiana State,0,16,16,,,nflverse
+00-0029604,Kirk Cousins,QB,,8,75,202,1988-08-19,Michigan State,8,16,16,,,nflverse
+00-0030035,Adam Thielen,WR,,19,74,200,1990-08-22,Minn. State-Mankato,7,15,15,,,nflverse
+00-0031256,Anthony Barr,LB,,55,77,255,1992-03-18,UCLA,6,14,,,,nflverse
+00-0031799,Anthony Harris,S,,41,73,202,1991-10-09,Virginia,5,14,,,,nflverse
+00-0034992,Armon Watts,DT,,96,77,295,1996-07-22,Arkansas,1,14,,,,nflverse
+00-0035984,Blake Lynch,LB,,48,75,225,1997-02-14,Baylor,0,14,,,,nflverse
+00-0031489,Brett Jones,C,,61,74,315,1991-07-29,"Regina, Can.",7,14,,,,nflverse
+00-0034158,Brian O'Neill,LT,RT,75,79,297,1995-09-15,Pittsburgh,2,14,,,,nflverse
+00-0026516,Britton Colquitt,P,,2,75,210,1985-03-20,Tennessee,11,14,,,,nflverse
+00-0036330,Cameron Dantzler,CB,,27,74,185,1998-09-03,Mississippi State,0,14,,,,nflverse
+00-0034986,Cameron Smith,LB,,59,74,235,1997-03-26,Southern California,1,14,,,,nflverse
+00-0034641,Chris Jones,CB,,26,72,200,1995-08-13,Nebraska,2,14,,,,nflverse
+00-0033462,Cordrea Tankersley,CB,,32,73,200,1993-11-19,Clemson,3,14,,,,nflverse
+00-0036335,D.J. Wonnum,EDGE,,98,77,260,1997-10-31,South Carolina,0,14,,,,nflverse
+00-0031017,Dakota Dozier,LG,RG,78,76,313,1991-04-30,Furman,6,14,,,,nflverse
+00-0033893,Dalvin Cook,RB,,33,70,210,1995-08-10,Florida State,3,14,14,,,nflverse
+00-0028660,Dan Bailey,K,,5,72,190,1988-01-26,Oklahoma State,9,14,,,,nflverse
+00-0035976,Dan Chisena,WR,,85,75,202,1997-02-25,Penn State,0,14,,,,nflverse
+00-0031565,Danielle Hunter,EDGE,,99,77,252,1994-10-29,Louisiana State,5,14,,,,nflverse
+00-0034976,Dru Samia,LG,RG,73,77,308,1997-08-22,Oklahoma,1,14,,,,nflverse
+00-0035130,Dylan Mabin,CB,,39,73,195,1997-09-14,Fordham,1,14,,,,nflverse
+00-0032480,Eddie Yarbrough,EDGE,,52,75,259,1993-04-24,Wyoming,4,14,,,,nflverse
+00-0031554,Eric Kendricks,LB,,54,72,232,1992-02-29,UCLA,5,14,,,,nflverse
+00-0033336,Eric Wilson,LB,,50,73,230,1994-09-26,Cincinnati,3,14,,,,nflverse
+00-0036327,Ezra Cleveland,LG,RG,72,78,310,1998-05-08,Boise State,0,14,,,,nflverse
+00-0035588,Garrett Bradbury,C,,56,75,305,1995-06-20,North Carolina State,1,14,,,,nflverse
+00-0029215,George Iloka,S,,43,76,225,1990-03-31,Boise State,8,14,,,,nflverse
+00-0035025,Hale Hentges,TE,,87,76,245,1996-08-19,Alabama,1,14,,,,nflverse
+00-0033344,Hardy Nickerson,LB,,47,72,235,1994-01-05,Illinois,3,14,,,,nflverse
+00-0036344,Harrison Hand,CB,,38,71,192,1998-11-12,Temple,0,14,,,,nflverse
+00-0029606,Harrison Smith,S,,22,74,214,1989-02-02,Notre Dame,8,14,,,,nflverse
+00-0034215,Hercules Mata'afa,DT,,51,74,252,1995-09-18,Washington State,2,14,,,,nflverse
+00-0033969,Ifeadi Odenigbo,EDGE,,95,75,258,1994-04-08,Northwestern,3,14,,,,nflverse
+00-0033940,Jaleel Johnson,DT,,94,75,316,1994-07-12,Iowa,3,14,,,,nflverse
+00-0034264,Jalyn Holmes,EDGE,,90,77,283,1996-01-25,Ohio State,2,14,,,,nflverse
+00-0036337,James Lynch,DT,,92,76,295,1999-01-20,Baylor,0,14,,,,nflverse
+00-0036324,Jeff Gladney,CB,,20,70,183,1996-12-12,Texas Christian,0,14,,,,nflverse
+00-0035319,Jordan Brailford,LB,,67,75,252,1995-10-09,Oklahoma State,1,14,,,,nflverse
+00-0036348,Josh Metellus,CB,,44,71,210,1998-01-21,Michigan,0,14,,,,nflverse
+00-0036345,K.J. Osborn,WR,,17,71,200,1997-06-10,Miami,0,14,,,,nflverse
+00-0036350,Kenny Willekes,EDGE,,79,75,250,1997-07-22,Michigan State,0,14,,,,nflverse
+00-0035150,Kris Boyd,CB,,29,71,201,1996-09-12,Texas,1,14,,,,nflverse
+00-0036354,Kyle Hinton,LG,RG,68,74,310,1998-02-27,Washburn,0,14,,,,nflverse
+00-0032574,Michael Pierce,DT,,97,72,340,1992-11-06,Samford,4,14,,,,nflverse
+00-0034843,Mike Hughes,CB,,21,70,191,1997-02-11,Central Florida,2,14,,,,nflverse
+00-0035979,Myles Dorn,CB,,46,74,210,1998-06-25,North Carolina,0,14,,,,nflverse
+00-0034994,Olisaemeka Udoh,LT,RT,74,78,323,1997-02-14,Elon,1,14,,,,nflverse
+00-0032520,Rashod Hill,LT,RT,69,78,313,1992-01-12,Southern Mississippi,4,14,,,,nflverse
+00-0029672,Riley Reiff,LT,RT,71,78,305,1988-12-01,Iowa,8,14,,,,nflverse
+00-0035533,Ryan Connelly,LB,,57,74,242,1995-10-23,Wisconsin,1,14,,,,nflverse
+00-0032245,Sean Mannion,QB,,4,78,231,1992-04-25,Oregon State,5,14,,,,nflverse
+00-0031242,Shamar Stephen,DT,,93,77,310,1991-02-25,Connecticut,6,14,,,,nflverse
+00-0035365,Tae Hayes,CB,,36,69,188,1997-08-19,Appalachian State,1,14,,,,nflverse
+00-0031427,Todd Davis,LB,,40,73,230,1992-05-17,Sacramento State,6,14,,,,nflverse
+00-0036338,Troy Dye,LB,,45,75,225,1996-09-18,Oregon,0,14,,,,nflverse
+00-0034972,Alexander Mattison,RB,,25,71,220,1998-06-19,Boise State,1,13,13,,,nflverse
+00-0034970,Irv Smith,TE,,84,74,240,1998-08-09,Alabama,1,12,12,,,nflverse
+00-0027981,Kyle Rudolph,TE,,82,78,265,1989-11-09,Notre Dame,9,12,12,,,nflverse
+00-0032918,C.J. Ham,RB,,30,71,235,1993-07-22,"Augustana, S.D.",4,11,11,,,nflverse
+00-0034309,Chad Beebe,WR,,12,70,185,1994-06-01,Northern Illinois,2,10,10,,,nflverse
+00-0035006,Olabisi Johnson,WR,,81,72,203,1997-03-17,Colorado State,1,8,8,,,nflverse
+00-0034270,Tyler Conklin,TE,,83,75,254,1995-07-30,Central Michigan,2,7,,,,nflverse
+00-0032104,Ameer Abdullah,RB,,31,69,203,1993-06-13,Nebraska,5,6,,,,nflverse
+00-0034208,Mike Boone,RB,,23,70,205,1995-07-30,Cincinnati,2,5,,,,nflverse

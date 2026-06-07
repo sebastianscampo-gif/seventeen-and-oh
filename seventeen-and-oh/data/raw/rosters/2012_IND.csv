@@ -1,0 +1,49 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0029668,Andrew Luck,QB,,12,76,234,1989-09-12,Stanford,0,16,16,,,nflverse
+00-0026173,Donnie Avery,WR,,11,71,200,1984-06-12,,4,16,16,,,nflverse
+00-0020498,Reggie Wayne,WR,,87,72,198,1978-11-17,,11,16,16,,,nflverse
+00-0029547,Vick Ballard,RB,,33,70,217,1990-07-16,Mississippi State,0,16,16,,,nflverse
+00-0029689,Dwayne Allen,TE,,83,75,255,1990-02-24,Clemson,0,15,15,,,nflverse
+00-0029608,T.Y. Hilton,WR,,13,69,183,1989-11-14,Florida International,0,15,15,,,nflverse
+00-0026950,A.Q. Shipley,C,,62,73,309,1986-05-22,Penn State,3,14,,,,nflverse
+00-0016919,Adam Vinatieri,K,,4,72,206,1972-12-28,South Dakota State,16,14,,,,nflverse
+00-0027960,Anthony Castonzo,LT,RT,74,79,315,1988-08-09,Boston College,1,14,,,,nflverse
+00-0026541,Antonio Dixon,DT,,97,75,322,1985-07-17,,3,14,,,,nflverse
+00-0025539,Antonio Johnson,DT,,99,75,310,1984-12-08,,5,14,,,,nflverse
+00-0029091,Bradley Sowell,LT,RT,60,79,320,1989-06-06,Mississippi,0,14,,,,nflverse
+00-0027290,Cassius Vaughn,CB,,32,71,195,1987-11-03,Mississippi,2,14,,,,nflverse
+00-0027784,Clifton Geathers,EDGE,,66,79,325,1987-12-11,South Carolina,2,14,,,,nflverse
+00-0021998,Cory Redding,EDGE,,90,76,315,1980-11-15,Texas,9,14,,,,nflverse
+00-0027017,Darius Butler,CB,,20,70,185,1986-03-18,Connecticut,3,14,,,,nflverse
+00-0028025,Drake Nevis,DT,,94,73,310,1989-05-08,,1,14,,,,nflverse
+00-0025430,Drew Stanton,QB,,5,75,243,1984-05-07,Michigan State,5,14,,,,nflverse
+00-0027032,Fili Moala,DT,,95,76,310,1985-06-23,,3,14,,,,nflverse
+00-0027469,Jeff Linkenbach,LT,RT,72,78,323,1987-06-09,,2,14,,,,nflverse
+00-0027064,Jerraud Powers,CB,,25,70,187,1987-07-19,Auburn,3,14,,,,nflverse
+00-0026408,Joe Reitz,LG,RG,76,79,322,1985-08-24,Western Michigan,4,14,,,,nflverse
+00-0029574,Josh Chapman,DT,,61,72,316,1989-06-10,,0,14,,,,nflverse
+00-0027503,Josh Gordy,CB,,27,71,195,1987-02-09,,2,14,,,,nflverse
+00-0026241,Justin King,CB,,21,71,197,1987-05-11,,4,14,,,,nflverse
+00-0027431,Kellen Heard,DT,,65,78,339,1985-10-17,,2,14,,,,nflverse
+00-0028171,Lawrence Guy,EDGE,,67,76,304,1990-03-17,Arizona State,1,14,,,,nflverse
+00-0027624,Martin Tevaseu,DT,,68,74,325,1987-10-07,,2,14,,,,nflverse
+00-0026249,Mike McGlynn,LG,RG,75,76,327,1985-03-08,Pittsburgh,4,14,,,,nflverse
+00-0028177,Mike Person,LT,RT,60,76,299,1988-06-17,Montana State,1,14,,,,nflverse
+00-0027145,Pat McAfee,P,,1,73,220,1987-05-02,West Virginia,3,14,,,,nflverse
+00-0027829,Ricardo Mathews,EDGE,,91,75,310,1987-07-30,Cincinnati,2,14,,,,nflverse
+00-0025447,Samson Satele,C,,64,75,299,1984-11-29,,5,14,,,,nflverse
+00-0027096,Seth Olsen,LG,RG,73,77,305,1985-12-17,,3,14,,,,nflverse
+00-0027853,Teddy Williams,S,,21,73,201,1988-07-03,Texas-San Antonio,2,14,,,,nflverse
+00-0026270,Tony Hills,LT,RT,78,77,304,1984-11-04,Texas,4,14,,,,nflverse
+00-0027001,Vontae Davis,CB,,23,71,205,1988-05-27,Illinois,3,14,,,,nflverse
+00-0024254,Winston Justice,LT,RT,69,78,317,1984-09-14,,6,14,,,,nflverse
+00-0029697,Coby Fleener,TE,,80,78,252,1988-09-20,Stanford,0,12,12,,,nflverse
+00-0029548,LaVon Brazill,WR,,15,71,191,1989-03-15,,0,11,11,,,nflverse
+00-0027003,Donald Brown,RB,,31,70,210,1987-04-11,,3,10,10,,,nflverse
+00-0022217,Mewelde Moore,RB,,37,71,209,1982-07-24,,8,9,9,,,nflverse
+00-0028057,Delone Carter,RB,,34,69,238,1987-06-22,,1,7,,,,nflverse
+00-0028906,Nathan Palmer,WR,,10,71,195,1989-04-14,,0,3,,,,nflverse
+00-0028270,Weslye Saunders,TE,,85,77,270,1989-01-16,,1,3,,,,nflverse
+00-0028345,Robert Hughes,RB,,29,71,235,1989-06-21,,1,2,,,,nflverse
+00-0027092,Austin Collie,WR,,17,72,204,1985-11-11,,3,1,,,,nflverse
+00-0027779,Deji Karim,RB,,36,68,209,1986-11-18,,2,1,,,,nflverse

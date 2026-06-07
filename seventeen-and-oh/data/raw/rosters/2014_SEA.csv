@@ -1,0 +1,53 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0028434,Doug Baldwin,WR,,89,70,189,1988-09-21,Stanford,3,16,16,,,nflverse
+00-0025399,Marshawn Lynch,RB,,24,71,215,1986-04-22,California,7,16,16,,,nflverse
+00-0029273,Robert Turbin,RB,,22,70,222,1989-12-02,Utah State,2,16,16,,,nflverse
+00-0029263,Russell Wilson,QB,,3,71,206,1988-11-29,Wisconsin,2,16,16,,,nflverse
+00-0029159,Jermaine Kearse,WR,,15,73,209,1990-02-06,Washington,2,15,15,,,nflverse
+00-0030207,Alvin Bailey,LT,RT,78,75,320,1991-08-26,Arkansas,1,14,,,,nflverse
+00-0029470,Andrew McDonald,LT,RT,70,78,310,1988-09-08,,2,14,,,,nflverse
+00-0030120,B.J. Daniels,QB,,5,71,217,1989-10-24,South Florida,1,14,,,,nflverse
+00-0025472,Brandon Mebane,DT,,92,73,311,1985-01-15,California,7,14,,,,nflverse
+00-0028111,Byron Maxwell,CB,,41,73,207,1988-02-23,Clemson,3,14,,,,nflverse
+00-0031175,Cassius Marsh,EDGE,,91,76,254,1992-07-07,UCLA,0,14,,,,nflverse
+00-0028702,Chris Matthews,WR,,13,77,218,1989-10-06,Kentucky,3,14,,,,nflverse
+00-0026232,Cliff Avril,EDGE,,56,75,260,1986-04-08,Purdue,6,14,,,,nflverse
+00-0030121,David King,DT,,70,76,300,1989-12-27,Oklahoma,1,14,,,,nflverse
+00-0028479,Demarcus Dobbs,EDGE,,95,74,282,1987-11-30,Georgia,3,14,,,,nflverse
+00-0030899,Garry Gilliam,LT,RT,79,77,306,1990-11-26,Penn State,0,14,,,,nflverse
+00-0029308,Greg Scruggs,EDGE,,98,75,310,1990-08-17,Louisville,2,14,,,,nflverse
+00-0029146,J.R. Sweezy,LG,RG,64,77,298,1989-04-08,North Carolina State,2,14,,,,nflverse
+00-0027963,James Carpenter,LG,RG,77,77,321,1989-03-22,Alabama,3,14,,,,nflverse
+00-0029295,Jeremy Lane,CB,,20,72,190,1990-07-14,Northwestern State-Louisiana,2,14,,,,nflverse
+00-0030072,Jordan Hill,DT,,97,73,303,1991-02-08,Penn State,1,14,,,,nflverse
+00-0031282,Justin Britt,LT,RT,68,78,325,1991-05-29,Missouri,0,14,,,,nflverse
+00-0030221,Keavon Milton,TE,,66,76,293,1990-06-23,Louisiana-Monroe,1,14,,,,nflverse
+00-0022073,Kevin Williams,DT,,94,77,311,1980-08-16,Oklahoma State,11,14,,,,nflverse
+00-0026356,Landon Cohen,DT,,67,73,300,1986-08-03,,6,14,,,,nflverse
+00-0027309,Lemuel Jeanpierre,C,,61,75,301,1987-05-19,,4,14,,,,nflverse
+00-0029942,Marcus Burley,CB,,28,70,185,1990-07-16,Delaware,1,14,,,,nflverse
+00-0027025,Max Unger,C,,60,77,305,1986-04-14,Oregon,5,14,,,,nflverse
+00-0026618,Michael Bennett,EDGE,,72,76,274,1985-11-13,Texas A&M,5,14,,,,nflverse
+00-0027730,O'Brien Schofield,EDGE,,93,75,260,1987-04-03,,4,14,,,,nflverse
+00-0030268,Patrick Lewis,C,,65,73,311,1991-01-30,,1,14,,,,nflverse
+00-0029389,Phil Bates,WR,,88,73,220,,,2,14,,,,nflverse
+00-0028092,Richard Sherman,CB,,25,75,195,1988-03-30,Stanford,3,14,,,,nflverse
+00-0027859,Russell Okung,LT,RT,76,77,310,1988-10-07,Oklahoma State,4,14,,,,nflverse
+00-0028139,Stephen Schilling,LG,RG,63,77,312,1988-07-21,,3,14,,,,nflverse
+00-0025944,Steven Hauschka,K,,4,76,210,1985-06-29,North Carolina State,6,14,,,,nflverse
+00-0030487,Tharold Simon,CB,,27,75,202,1991-03-06,LSU,1,14,,,,nflverse
+00-0024102,Tony McDaniel,DT,,99,79,305,1985-01-20,Tennessee,8,14,,,,nflverse
+00-0029430,Travian Robertson,DT,,73,76,304,1988-12-09,,2,14,,,,nflverse
+00-0030089,Luke Willson,TE,,82,77,252,1990-01-15,Rice,1,12,12,,,nflverse
+00-0031257,Paul Richardson,WR,,10,72,183,1992-04-13,Colorado,0,11,11,,,nflverse
+00-0030432,Christine Michael,RB,,33,70,221,1990-11-09,Texas A&M,1,10,10,,,nflverse
+00-0028442,Ricardo Lockette,WR,,83,74,211,1986-05-21,Fort Valley State,3,10,10,,,nflverse
+00-0029534,Cooper Helfet,TE,,84,75,239,1989-06-02,Duke,2,8,8,,,nflverse
+00-0031327,Kevin Norwood,WR,,81,74,199,1989-09-23,Alabama,0,6,,,,nflverse
+00-0027695,Tony Moeaki,TE,,88,75,252,1987-06-08,,4,6,,,,nflverse
+00-0027595,Bryan Walters,WR,,19,72,190,1987-11-04,,4,4,,,,nflverse
+00-0027905,Will Tukuafu,RB,,46,76,293,1984-01-03,Oregon,4,3,,,,nflverse
+00-0025425,Zach Miller,TE,,86,77,255,1985-12-11,,7,3,,,,nflverse
+00-0029068,Derrick Coleman,RB,,40,72,233,1990-10-18,UCLA,2,2,,,,nflverse
+00-0023742,Jon Ryan,P,,9,72,217,1981-11-26,Regina (Canada),8,2,,,,nflverse
+00-0024279,Tarvaris Jackson,QB,,7,74,225,1983-04-21,Alabama State,8,1,,,,nflverse

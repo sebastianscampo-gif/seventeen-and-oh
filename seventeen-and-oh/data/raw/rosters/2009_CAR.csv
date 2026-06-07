@@ -1,0 +1,51 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0026153,Jonathan Stewart,RB,,28,70,235,1987-03-21,Oregon,1,16,16,,,nflverse
+00-0024369,Jeff King,TE,,47,75,260,1983-02-19,,3,15,15,,,nflverse
+00-0020337,Steve Smith,WR,,89,69,185,1979-05-12,Utah,8,15,15,,,nflverse
+00-0020305,A.J. Feeley,QB,,11,75,220,1977-05-16,,8,14,,,,nflverse
+00-0025613,C.J. Wilson,CB,,27,73,195,1985-04-02,,2,14,,,,nflverse
+00-0026944,Captain Munnerlyn,CB,,41,68,186,1988-04-10,South Carolina,0,14,,,,nflverse
+00-0025470,Charles Johnson,EDGE,,95,74,275,1986-07-10,Georgia,2,14,,,,nflverse
+00-0022914,Chris Gamble,CB,,20,73,200,1983-03-11,,5,14,,,,nflverse
+00-0020491,Damione Lewis,DT,,92,74,301,1978-03-01,,8,14,,,,nflverse
+00-0025542,Dante Rosario,TE,,88,76,250,1984-10-25,,2,14,14,,,nflverse
+00-0021224,Dante Wesley,CB,,21,73,210,1979-04-05,,7,14,,,,nflverse
+00-0025553,Derek Landri,DT,,61,74,290,1983-09-21,,2,14,,,,nflverse
+00-0027113,Duke Robinson,LG,RG,72,77,330,1986-10-10,,0,14,,,,nflverse
+00-0027019,Everette Brown,EDGE,,91,73,256,1987-08-07,,0,14,,,,nflverse
+00-0026715,Garry Williams,LT,RT,65,75,296,1986-08-20,,0,14,,,,nflverse
+00-0026381,Geoff Schwartz,LT,RT,74,78,331,1986-07-11,,1,14,,,,nflverse
+00-0026361,Hilee Taylor,EDGE,,97,74,250,1986-07-18,,1,14,,,,nflverse
+00-0026702,Hunter Cantwell,QB,,14,76,236,1985-12-30,,0,14,,,,nflverse
+00-0019921,Jason Baker,P,,7,74,205,1978-05-17,,8,14,,,,nflverse
+00-0026159,Jeff Otah,LT,RT,79,78,330,1986-06-17,,1,14,,,,nflverse
+00-0009028,John Kasay,K,,4,70,210,1969-10-27,,18,14,,,,nflverse
+00-0022117,Jordan Gross,LT,RT,69,76,305,1980-07-20,,6,14,,,,nflverse
+00-0021140,Julius Peppers,EDGE,,90,79,283,1980-01-18,North Carolina,7,14,,,,nflverse
+00-0019954,Keydrick Vincent,LG,RG,68,77,325,1978-04-13,,8,14,,,,nflverse
+00-0024745,Louis Leonard,EDGE,,94,76,325,1984-07-16,,2,14,,,,nflverse
+00-0026390,Mackenzy Bernadeau,LG,RG,73,76,308,1986-01-03,,1,14,,,,nflverse
+00-0026709,Mortty Ivy,LB,,54,73,239,1986-04-26,,0,14,,,,nflverse
+00-0011795,Muhsin Muhammad,WR,,87,74,215,1973-05-05,,13,14,14,,,nflverse
+00-0026321,Nick Hayden,DT,,98,76,292,1986-02-04,,1,14,,,,nflverse
+00-0026940,Ra'Shon Harris,DT,,77,76,298,1986-08-26,,0,14,,,,nflverse
+00-0023363,Rhys Lloyd,K,,5,71,231,1982-06-05,,4,14,,,,nflverse
+00-0024273,Richard Marshall,CB,,31,71,189,1984-12-12,,3,14,,,,nflverse
+00-0023641,Rob Petitti,LT,RT,64,78,327,1982-05-21,,4,14,,,,nflverse
+00-0025446,Ryan Kalil,C,,67,74,295,1985-03-29,USC,2,14,,,,nflverse
+00-0027035,Sherrod Martin,CB,,23,73,198,1984-10-12,Troy,0,14,,,,nflverse
+00-0025469,Tank Tyler,DT,,93,74,306,1985-02-14,,2,14,,,,nflverse
+00-0022214,Travelle Wharton,LG,RG,70,76,312,1981-05-19,,5,14,,,,nflverse
+00-0022047,Tyler Brayton,EDGE,,96,78,280,1979-11-20,,6,14,,,,nflverse
+00-0024242,DeAngelo Williams,RB,,34,69,217,1983-04-25,Memphis,3,13,13,,,nflverse
+00-0004161,Jake Delhomme,QB,,17,74,215,1975-01-10,,12,11,11,,,nflverse
+00-0025432,Dwayne Jarrett,WR,,80,76,219,1986-09-11,,2,10,10,,,nflverse
+00-0026281,Gary Barnidge,TE,,82,77,247,1985-09-22,Louisville,1,8,8,,,nflverse
+00-0026276,Kenneth Moore,WR,,81,71,195,1985-02-19,,1,8,8,,,nflverse
+00-0019100,Brad Hoover,RB,,45,72,245,1976-11-11,,9,7,,,,nflverse
+00-0025708,Matt Moore,QB,,3,75,202,1984-08-09,Oregon State,2,7,,,,nflverse
+00-0026790,Tyrell Sutton,RB,,22,68,213,1986-12-19,,0,6,,,,nflverse
+00-0027080,Mike Goodson,RB,,33,72,212,1987-05-23,,0,5,,,,nflverse
+00-0027093,Tony Fiammetta,RB,,42,72,242,1986-08-22,,0,3,,,,nflverse
+00-0026753,Charly Martin,WR,,83,73,212,1984-03-20,,0,2,,,,nflverse
+00-0021206,Josh McCown,QB,,12,76,215,1979-07-04,Sam Houston State,7,1,,,,nflverse

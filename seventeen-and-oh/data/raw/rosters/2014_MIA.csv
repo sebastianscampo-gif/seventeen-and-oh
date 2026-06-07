@@ -1,0 +1,48 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027077,Brian Hartline,WR,,82,74,200,1986-11-22,Ohio State,5,16,16,,,nflverse
+00-0031382,Jarvis Landry,WR,,14,71,202,1992-11-28,Louisiana State,0,16,16,,,nflverse
+00-0029615,Lamar Miller,RB,,26,70,224,1991-04-25,Miami,2,16,16,,,nflverse
+00-0026901,Mike Wallace,WR,,11,72,200,1986-08-01,Mississippi,5,16,16,,,nflverse
+00-0029701,Ryan Tannehill,QB,,17,76,220,1988-07-27,Texas A&amp;M,2,16,16,,,nflverse
+00-0030864,Anthony Johnson,DT,,76,74,304,1993-01-24,LSU,0,14,,,,nflverse
+00-0031433,Billy Turner,LG,RG,77,77,313,1991-10-17,North Dakota State,0,14,,,,nflverse
+00-0026155,Branden Albert,LT,RT,71,77,310,1984-11-04,Virginia,6,14,,,,nflverse
+00-0025612,Brandon Fields,P,,2,77,249,1984-05-21,Michigan State,7,14,,,,nflverse
+00-0026937,Brandon Gibson,WR,,10,72,210,1987-08-13,Washington State,5,14,14,,,nflverse
+00-0024183,Brent Grimes,CB,,21,70,190,1983-07-19,Shippensburg,8,14,,,,nflverse
+00-0030390,Caleb Sturgis,K,,9,69,190,1989-08-09,Florida,1,14,,,,nflverse
+00-0023368,Cameron Wake,EDGE,,91,75,262,1982-01-30,Penn State,9,14,,,,nflverse
+00-0028112,Charles Clay,TE,,42,75,255,1989-02-13,Tulsa,3,14,14,,,nflverse
+00-0024429,Cortland Finnegan,CB,,24,70,190,1984-02-02,,8,14,,,,nflverse
+00-0030531,Dallas Thomas,LG,RG,63,77,315,1989-10-30,Tennessee,1,14,,,,nflverse
+00-0024262,Daryn Colledge,LG,RG,67,76,308,1982-02-11,,8,14,,,,nflverse
+00-0031103,Deandre Coleman,DT,,62,75,315,1991-01-27,California,0,14,,,,nflverse
+00-0029111,Derrick Shelby,EDGE,,79,74,282,1989-03-04,Utah,2,14,,,,nflverse
+00-0030555,Dion Jordan,EDGE,,95,78,275,1990-03-05,Oregon,1,14,,,,nflverse
+00-0030422,Dion Sims,TE,,80,76,265,1991-02-18,Michigan State,1,14,14,,,nflverse
+00-0027684,Earl Mitchell,DT,,90,75,310,1987-09-25,Arizona,4,14,,,,nflverse
+00-0031417,Ja'Wuan James,LT,RT,70,78,315,1992-06-03,Tennessee,0,14,,,,nflverse
+00-0028056,Jalil Brown,CB,,32,73,207,1987-10-14,,3,14,,,,nflverse
+00-0030484,Jamar Taylor,CB,,22,70,200,1990-09-29,Boise State,1,14,,,,nflverse
+00-0027878,Jared Odrick,DT,,98,77,304,1987-12-31,Penn State,4,14,,,,nflverse
+00-0027728,Jason Fox,LT,RT,74,78,310,1988-05-02,Miami,4,14,,,,nflverse
+00-0029975,Jordan Kovacs,S,,44,70,210,1990-06-12,,1,14,,,,nflverse
+00-0031315,Matt Hazel,WR,,83,73,202,1992-01-23,Coastal Carolina,0,14,,,,nflverse
+00-0027953,Mike Pouncey,C,,51,77,305,1989-07-24,Florida,3,14,,,,nflverse
+00-0029693,Olivier Vernon,EDGE,,50,74,268,1990-10-07,Miami,2,14,,,,nflverse
+00-0027817,R.J. Stanford,CB,,41,70,187,1988-05-06,,4,14,,,,nflverse
+00-0022805,Randy Starks,DT,,94,75,305,1983-12-14,Maryland,10,14,,,,nflverse
+00-0029967,Sam Brenner,C,,65,74,310,1990-04-27,,1,14,,,,nflverse
+00-0030703,Sammy Seamster,CB,,37,72,205,1991-02-05,Middle Tennessee State,0,14,,,,nflverse
+00-0025447,Samson Satele,C,,64,75,300,1984-11-29,,7,14,,,,nflverse
+00-0027785,Shelley Smith,LG,RG,66,76,310,1987-05-21,,4,14,,,,nflverse
+00-0028410,T.J. Heath,S,,36,72,190,1987-09-11,,3,14,,,,nflverse
+00-0031317,Terrence Fede,EDGE,,78,75,282,1991-11-19,Marist,0,14,,,,nflverse
+00-0030519,Will Davis,CB,,29,71,190,1990-05-08,Utah State,1,14,,,,nflverse
+00-0030874,Damien Williams,RB,,34,71,221,1992-04-03,Oklahoma,0,12,12,,,nflverse
+00-0028000,Daniel Thomas,RB,,30,73,235,1987-10-29,,3,12,12,,,nflverse
+00-0029580,Rishard Matthews,WR,,18,72,215,1989-10-12,Nevada,2,10,10,,,nflverse
+00-0030860,Orleans Darkwa,RB,,32,72,215,1992-02-28,Tulane,0,4,,,,nflverse
+00-0026988,Knowshon Moreno,RB,,28,71,218,1987-07-16,,5,3,,,,nflverse
+00-0025708,Matt Moore,QB,,8,75,220,1984-08-09,Oregon State,7,2,,,,nflverse
+00-0028892,Gerell Robinson,TE,,85,75,220,1989-10-13,,2,1,,,,nflverse

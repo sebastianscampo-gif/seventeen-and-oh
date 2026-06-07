@@ -1,0 +1,76 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0034414,Boston Scott,RB,,35,66,203,1995-04-27,Louisiana Tech,2,16,16,,,nflverse
+00-0033733,Greg Ward,WR,,84,71,190,1995-07-12,Houston,3,16,16,,,nflverse
+00-0031898,Alex Singleton,LB,,49,74,242,1993-12-07,Montana State,5,14,,,,nflverse
+00-0035233,Andre Dillard,LT,RT,77,77,315,1995-10-03,Washington State,1,14,,,,nflverse
+00-0034377,Avonte Maddox,CB,,29,69,184,1996-03-31,Pittsburgh,2,14,,,,nflverse
+00-0032793,Blake Countess,S,,33,70,185,1993-08-08,Auburn,4,14,,,,nflverse
+00-0029679,Brandon Brooks,LG,RG,79,77,335,1989-08-19,"Miami, O.",8,14,,,,nflverse
+00-0027865,Brandon Graham,EDGE,,55,74,265,1988-04-03,Michigan,10,14,,,,nflverse
+00-0035743,Brett Toth,LT,RT,64,78,291,1996-09-01,Army,1,14,,,,nflverse
+00-0035320,Caleb Wilson,TE,,83,76,240,1996-07-15,UCLA,1,14,,,,nflverse
+00-0033729,Cameron Johnston,P,,1,71,194,1992-02-24,Ohio State,3,14,,,,nflverse
+00-0034310,Craig James,CB,,39,70,195,1996-04-29,Southern Illinois,2,14,,,,nflverse
+00-0032581,Cre'von LeBlanc,CB,,34,70,190,1994-07-25,Florida Atlantic,4,14,,,,nflverse
+00-0030062,Darius Slay,CB,,24,72,190,1991-01-01,Mississippi State,7,14,,,,nflverse
+00-0036393,Davion Taylor,LB,,52,73,225,1998-08-05,Colorado,0,14,,,,nflverse
+00-0033876,Derek Barnett,EDGE,,96,75,259,1996-06-25,Tennessee,3,14,,,,nflverse
+00-0033549,Duke Riley,LB,,50,73,230,1994-08-09,Louisiana State,3,14,,,,nflverse
+00-0036002,Elijah Riley,CB,,48,72,205,1998-06-12,Army,0,14,,,,nflverse
+00-0029653,Fletcher Cox,DT,,91,76,310,1990-12-13,Mississippi State,8,14,,,,nflverse
+00-0034682,Genard Avery,EDGE,,58,72,250,1995-04-26,Memphis,2,14,,,,nflverse
+00-0035995,Grayland Arnold,CB,,37,70,190,1997-09-04,Baylor,0,14,,,,nflverse
+00-0032402,Hassan Ridgeway,DT,,98,75,305,1994-11-02,Texas,4,14,,,,nflverse
+00-0035384,Iosua Opeta,LG,RG,78,76,305,1996-08-15,Weber State,1,14,,,,nflverse
+00-0032954,Isaac Seumalo,LG,RG,73,76,303,1993-10-29,Oregon State,4,14,,,,nflverse
+00-0036396,Jack Driscoll,LT,RT,63,77,296,1997-04-01,Auburn,0,14,,,,nflverse
+00-0033787,Jake Elliott,K,,4,69,167,1995-01-21,Memphis,3,14,,,,nflverse
+00-0036389,Jalen Hurts,QB,,2,73,218,1998-08-07,Oklahoma,0,14,14,,,nflverse
+00-0032803,Jalen Mills,S,,21,72,191,1994-04-06,Louisiana State,4,14,,,,nflverse
+00-0036116,Jameson Houston,CB,,46,71,200,1996-06-30,Baylor,0,14,,,,nflverse
+00-0028129,Jason Kelce,C,,62,75,295,1987-11-05,Cincinnati,9,14,,,,nflverse
+00-0022531,Jason Peters,LT,RT,71,76,328,1982-01-22,Arkansas,16,14,,,,nflverse
+00-0032895,Jatavis Brown,LB,,53,71,221,1994-02-18,Akron,4,14,,,,nflverse
+00-0033109,Javon Hargrave,DT,,93,74,305,1993-02-07,South Carolina State,4,14,,,,nflverse
+00-0035895,Joe Bachie,LB,,59,74,235,1998-02-26,Michigan State,0,14,,,,nflverse
+00-0034463,Joe Ostman,EDGE,,95,75,259,1995-07-12,Central Michigan,2,14,,,,nflverse
+00-0034429,Jordan Mailata,LT,RT,68,80,344,1997-03-31,No College,2,14,,,,nflverse
+00-0034381,Josh Sweat,EDGE,,94,77,253,1997-03-29,Florida State,2,14,,,,nflverse
+00-0032599,Joshua Perkins,TE,,81,75,223,1993-08-05,Washington,4,14,,,,nflverse
+00-0036395,K'Von Wallace,CB,,42,71,208,1997-07-25,Clemson,0,14,,,,nflverse
+00-0032942,Kevon Seymour,CB,,41,72,185,1993-11-30,Southern California,4,14,,,,nflverse
+00-0030561,Lane Johnson,LT,RT,65,78,317,1990-05-08,Oklahoma,7,14,,,,nflverse
+00-0035999,Luke Juriga,C,,74,75,295,1997-06-07,Western Michigan,0,14,,,,nflverse
+00-0029568,Malik Jackson,DT,,97,77,290,1990-01-11,Tennessee,8,14,,,,nflverse
+00-0034993,Marcus Epps,S,,22,72,191,1996-01-27,Wyoming,1,14,,,,nflverse
+00-0030068,Marquise Goodwin,WR,,13,69,179,1990-11-19,Texas,7,14,,,,nflverse
+00-0034417,Matt Pryor,LG,RG,69,79,332,1994-12-16,Texas Christian,2,14,,,,nflverse
+00-0035998,Michael Jacquet,CB,,38,74,201,1997-01-29,Louisiana-Lafayette,0,14,,,,nflverse
+00-0035383,Nate Herbig,LG,RG,67,76,334,1998-07-10,Stanford,1,14,,,,nflverse
+00-0033577,Nathan Gerry,LB,,47,74,230,1995-02-23,Nebraska,3,14,,,,nflverse
+00-0030041,Nickell Robey,CB,,31,68,178,1992-01-17,Southern California,7,14,,,,nflverse
+00-0036007,Raequan Williams,DT,,61,76,303,1997-02-14,Michigan State,0,14,,,,nflverse
+00-0036209,Rashad Smith,LB,,53,73,220,1997-04-20,Florida Atlantic,0,14,,,,nflverse
+00-0028899,Rodney McLeod,S,,23,70,195,1990-06-23,Virginia,8,14,,,,nflverse
+00-0035274,Ross Pierschbacher,C,,66,76,315,1995-05-05,Alabama,1,14,,,,nflverse
+00-0033792,Rudy Ford,S,,36,72,204,1994-11-01,Auburn,3,14,,,,nflverse
+00-0036401,Shaun Bradley,LB,,54,73,230,1997-04-08,Temple,0,14,,,,nflverse
+00-0035386,T.J. Edwards,LB,,57,73,240,1996-08-12,Wisconsin,1,14,,,,nflverse
+00-0032162,T.Y. McGill,DT,,76,72,299,1992-11-23,North Carolina State,5,14,,,,nflverse
+00-0029412,Vinny Curry,EDGE,,75,75,279,1988-06-30,Marshall,8,14,,,,nflverse
+00-0032950,Carson Wentz,QB,,11,77,237,1992-12-30,North Dakota State,4,12,12,,,nflverse
+00-0035243,Miles Sanders,RB,,26,71,211,1997-05-01,Penn State,1,12,12,,,nflverse
+00-0035592,Travis Fulgham,WR,,13,74,215,1995-09-13,Old Dominion,1,12,12,,,nflverse
+00-0034351,Dallas Goedert,TE,,88,77,256,1995-01-03,South Dakota State,2,11,11,,,nflverse
+00-0036387,Jalen Reagor,WR,,18,71,195,1999-01-02,Texas Christian,0,11,11,,,nflverse
+00-0030061,Zach Ertz,TE,,86,77,250,1990-11-10,Stanford,7,11,11,,,nflverse
+00-0036398,John Hightower,WR,,82,74,172,1996-05-31,Boise State,0,10,10,,,nflverse
+00-0033725,Corey Clement,RB,,30,70,220,1994-11-02,Wisconsin,3,8,8,,,nflverse
+00-0031384,Richard Rodgers,TE,,85,76,257,1992-01-22,California,6,8,8,,,nflverse
+00-0029137,Alshon Jeffery,WR,,17,75,218,1990-02-14,South Carolina,8,7,,,,nflverse
+00-0026189,DeSean Jackson,WR,,10,70,175,1986-12-01,California,12,5,,,,nflverse
+00-0035246,J.J. Arcega-Whiteside,WR,,19,74,225,1996-12-31,Stanford,1,5,,,,nflverse
+00-0036271,Quez Watkins,WR,,80,72,190,1998-06-09,Southern Mississippi,0,4,,,,nflverse
+00-0036278,Jason Huntley,RB,,32,69,193,1998-04-20,New Mexico State,0,3,,,,nflverse
+00-0033627,Jason Croom,TE,,81,77,246,1994-02-28,Tennessee,3,1,,,,nflverse
+00-0032792,Nate Sudfeld,QB,,7,78,227,1993-10-07,Indiana,4,1,,,,nflverse

@@ -1,0 +1,101 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+,Adam Bethea,EDGE,,,75,260,1962-04-17,,,14,,,,nflverse
+00-0016552,Al Toon,WR,,,76,200,1963-04-30,Wisconsin,2,14,,,,nflverse
+00-0006143,Alex Gordon,LB,,,77,246,1964-09-14,Cincinnati,0,14,,,,nflverse
+,Anthony Corvino,LG,RG,,73,262,1965-09-15,,,14,,,,nflverse
+,Barry Bennett,DT,,,76,257,1955-12-10,,,14,,,,nflverse
+,Billy Griggs,TE,,,75,230,1962-08-04,,,14,,,,nflverse
+,Bob Crable,LB,,,75,228,1959-09-22,,,14,,,,nflverse
+,Bobby Humphery,WR,,,70,170,1961-08-23,,,14,,,,nflverse
+,Bobby Riley,WR,,,68,168,1964-10-17,,,14,,,,nflverse
+,Carl Howard,CB,,,74,188,1961-09-20,,,14,,,,nflverse
+,Chris Brown,LT,RT,,73,295,1963-07-16,,,14,,,,nflverse
+,Dan Alexander,LG,RG,,76,260,1955-06-17,,,14,,,,nflverse
+,Dave Jennings,P,,,76,203,1952-06-08,,,14,,,,nflverse
+,David Norrie,QB,,,76,220,1963-11-30,,,14,,,,nflverse
+,Dennis Bligen,RB,,,71,215,1962-03-03,,,14,,,,nflverse
+,Derrick Foster,RB,,,71,205,1963-10-12,,,14,,,,nflverse
+,Derrick Gaffney,WR,,,73,181,1955-05-24,,,14,,,,nflverse
+,Don Baldwin,EDGE,,,75,263,1964-07-09,,,14,,,,nflverse
+,Don Smith,DT,,,77,256,1957-05-09,,,14,,,,nflverse
+,Eric Coss,C,,,75,270,1963-06-12,,,14,,,,nflverse
+,Eric Riley,TE,,,75,230,1964-10-10,,,14,,,,nflverse
+00-0011035,Freeman McNeil,RB,,,71,216,1959-04-22,UCLA,6,14,,,,nflverse
+,George Radachowsky,CB,,,71,178,1962-09-07,,,14,,,,nflverse
+00-0012092,Gerald Nichols,DT,,,74,261,1964-02-10,Florida State,0,14,,,,nflverse
+,Gordon King,LT,RT,,78,275,1956-02-03,,,14,,,,nflverse
+00-0001251,Guy Bingham,C,,,75,255,1958-02-25,Montana,7,14,,,,nflverse
+00-0006715,Harry Hamilton,CB,,,72,190,1962-11-29,Penn State,3,14,,,,nflverse
+,Henry Walls,LB,,,74,220,1964-02-13,,,14,,,,nflverse
+,Jamie Kurisko,TE,,,76,236,1963-12-22,,,14,,,,nflverse
+,Jay Brophy,LB,,,75,233,1960-07-27,,,14,,,,nflverse
+,Jerome Foster,DT,,,74,268,1960-07-25,,,14,,,,nflverse
+,Jerry Holmes,CB,,,74,175,1957-12-22,,,14,,,,nflverse
+,Jim Haslett,LB,,,75,232,1955-12-09,,,14,,,,nflverse
+00-0015962,Jim Sweeney,LT,RT,,76,260,1962-08-08,Pittsburgh,3,14,,,,nflverse
+,Jo Jo Heath,CB,,,70,182,1957-03-09,,,14,,,,nflverse
+00-0016574,Jo-Jo Townsell,WR,,83,69,180,1960-11-04,UCLA,2,14,,,,nflverse
+,Joe Burke,RB,,,72,200,1961-02-09,,,14,,,,nflverse
+,Joe Fields,LG,RG,,74,250,1953-11-14,,,14,,,,nflverse
+,Joe Klecko,DT,,,75,256,1953-10-15,,,14,,,,nflverse
+,John Chirico,RB,,,72,220,1965-08-15,,,14,,,,nflverse
+,John Thomas,LT,RT,,76,280,1964-03-06,,,14,,,,nflverse
+00-0007197,Johnny Hector,RB,,,71,200,1960-11-26,Texas A&M,4,14,,,,nflverse
+,Ken Jones,LT,RT,,77,260,1952-12-01,,,14,,,,nflverse
+00-0012246,Ken O'Brien,QB,,,76,210,1960-11-27,UC Davis; Sacramento State,4,14,,,,nflverse
+00-0014038,Ken Rose,LB,,,73,215,1962-06-09,UNLV,0,14,,,,nflverse
+00-0006036,Kerry Glenn,CB,,,69,175,1962-01-03,Minnesota,2,14,,,,nflverse
+,Kevin McArthur,LB,,,74,230,1962-05-11,,,14,,,,nflverse
+,Kurt Sohn,WR,,87,71,180,1957-06-26,,,14,,,,nflverse
+00-0003125,Kyle Clifton,LB,,,76,230,1962-08-23,TCU,3,14,,,,nflverse
+,Ladell Wills,LB,,,75,240,1962-05-30,,,14,,,,nflverse
+,Lance Mehl,LB,,,75,235,1958-02-14,,,14,,,,nflverse
+,Larry Robinson,CB,,,69,194,1962-04-30,,,14,,,,nflverse
+,Lester Lyles,CB,,,75,209,1962-12-27,,,14,,,,nflverse
+,Lynwood Alford,LB,,,75,220,1963-08-22,,,14,,,,nflverse
+,Marc Hogan,CB,,,72,180,1962-04-21,,,14,,,,nflverse
+,Marion Barber,RB,,,75,224,1959-12-06,,,14,,,,nflverse
+,Mark Gastineau,EDGE,,,77,253,1956-11-20,,,14,,,,nflverse
+,Martin Cornelson,C,,,73,230,1961-06-04,,,14,,,,nflverse
+,Marty Lyons,DT,,,77,269,1957-01-05,,,14,,,,nflverse
+,Matt Monger,LB,,,73,235,1961-11-15,,,14,,,,nflverse
+,Maurice Turner,RB,,,71,200,1960-09-10,,,14,,,,nflverse
+,Michael Harper,RB,,,70,180,1961-05-11,,,14,,,,nflverse
+00-0014844,Mickey Shuler,TE,,,75,236,1956-08-21,Penn State,9,14,,,,nflverse
+00-0006612,Mike Haight,LT,RT,,76,270,1962-10-06,Iowa,1,14,,,,nflverse
+,Mike Witteck,LB,,,74,225,1964-02-21,,,14,,,,nflverse
+00-0018521,Mike Zordich,CB,,,73,208,1963-10-12,Penn State,0,14,,,,nflverse
+,Mitch Geier,LT,RT,,76,280,1962-03-15,,,14,,,,nflverse
+,Nuu Faaola,RB,,,71,215,1964-01-15,,,14,,,,nflverse
+,Onzy Elam,LB,,,74,225,1964-12-01,,,14,,,,nflverse
+00-0009716,Pat Leahy,K,,,72,189,1951-03-19,Saint Louis University,13,14,,,,nflverse
+,Pat Ragusa,K,,,68,180,1963-03-17,,,14,,,,nflverse
+00-0014225,Pat Ryan,QB,,,75,210,1955-09-16,Tennessee,9,14,,,,nflverse
+,Pete McCartney,LT,RT,,78,260,1962-06-15,,,14,,,,nflverse
+00-0010829,Reggie McElroy,LT,RT,,78,270,1960-03-04,West Texas State,4,14,,,,nflverse
+,Reggie Smith,WR,,,64,168,1956-07-15,,,14,,,,nflverse
+00-0011169,Rich Miano,CB,,,73,200,1962-09-03,Hawaii,2,14,,,,nflverse
+,Rocky Klever,RB,,,75,225,1959-07-10,,,14,,,,nflverse
+,Roger Vick,RB,,,75,232,1964-08-11,,,14,,,,nflverse
+,Russell Carter,CB,,,74,195,1962-02-10,,,14,,,,nflverse
+,Scott Holman,WR,,,74,195,1962-09-27,,,14,,,,nflverse
+00-0011143,Scott Mersereau,EDGE,,,76,275,1965-04-08,Southern Connecticut State,0,14,,,,nflverse
+,Sean Dykes,CB,,,70,170,1964-08-08,,,14,,,,nflverse
+,Sid Lewis,CB,,,71,180,1964-05-30,,,14,,,,nflverse
+,Stan Hunter,WR,,,74,184,1963-11-29,,,14,,,,nflverse
+,Ted Banker,LG,RG,,74,260,1961-02-17,,,14,,,,nflverse
+,Tim Newman,RB,,,72,220,1964-06-11,,,14,,,,nflverse
+,Tom Flick,QB,,,74,190,1958-08-30,,,14,,,,nflverse
+,Tom Humphrey,LG,RG,,75,280,1962-12-16,,,14,,,,nflverse
+,Tom O'Connor,P,,,73,190,1963-11-08,,,14,,,,nflverse
+,Tony Chickillo,DT,,,75,262,1960-07-08,,,14,,,,nflverse
+,Tony Garbarczyk,EDGE,,,76,275,1964-01-20,,,14,,,,nflverse
+,Tony Sweet,TE,,,76,230,1963-12-13,,,14,,,,nflverse
+,Tracy Martin,WR,,,75,205,1964-12-04,,,14,,,,nflverse
+,Treg Songy,CB,,,74,200,1962-06-15,,,14,,,,nflverse
+,Trent Collins,CB,,,73,187,1961-05-18,,,14,,,,nflverse
+,Troy Benson,LB,,,74,227,1963-07-30,,,14,,,,nflverse
+,Vince Jasper,LG,RG,,76,270,1964-11-30,,,14,,,,nflverse
+,Vinny Tuzeo,C,,,75,260,1965-09-24,,,14,,,,nflverse
+,Walter Briggs,QB,,,73,205,1965-08-06,,,14,,,,nflverse
+,Wesley Walker,WR,,,72,179,1955-05-26,,,14,,,,nflverse

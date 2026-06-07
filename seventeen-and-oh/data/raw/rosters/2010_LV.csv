@@ -1,0 +1,41 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0026393,Marcel Reece,RB,,45,75,240,1985-06-23,Washington,2,16,16,,,nflverse
+00-0025425,Zach Miller,TE,,80,77,255,1985-12-11,,3,15,15,,,nflverse
+00-0027707,Bruce Campbell,LG,RG,74,78,315,1988-05-25,,0,14,,,,nflverse
+00-0021949,Chris Johnson,CB,,37,73,200,1979-09-25,,7,14,,,,nflverse
+00-0019632,Cooper Carlisle,LG,RG,66,77,295,1977-08-11,,10,14,,,,nflverse
+00-0023583,Daniel Loper,LG,RG,60,78,320,1982-01-15,,5,14,,,,nflverse
+00-0026983,Darrius Heyward-Bey,WR,,85,74,210,1987-02-26,Maryland,1,14,14,,,nflverse
+00-0026533,Desmond Bryant,DT,,90,77,290,1985-12-15,Harvard,1,14,,,,nflverse
+00-0021296,J.T. O'Sullivan,QB,,13,74,232,1979-08-25,,8,14,,,,nflverse
+00-0027674,Jared Veldheer,C,,68,80,315,1987-06-14,Hillsdale,0,14,,,,nflverse
+00-0027810,Jeremy Ware,CB,,23,70,185,1986-09-18,,0,14,,,,nflverse
+00-0021144,John Henderson,DT,,79,79,335,1979-01-09,,8,14,,,,nflverse
+00-0027657,Lamarr Houston,EDGE,,99,75,305,1987-06-24,Texas,0,14,,,,nflverse
+00-0021181,Langston Walker,LT,RT,70,80,360,1979-09-03,,8,14,,,,nflverse
+00-0027089,Louis Murphy,WR,,18,74,200,1987-05-11,Florida,1,14,14,,,nflverse
+00-0025478,Mario Henderson,LT,RT,75,79,300,1984-10-29,,3,14,,,,nflverse
+00-0027045,Matt Shaughnessy,EDGE,,77,77,270,1986-09-23,,1,14,,,,nflverse
+00-0025487,Michael Bush,RB,,29,73,245,1984-06-16,,3,14,14,,,nflverse
+00-0022077,Nnamdi Asomugha,CB,,21,74,210,1981-07-06,,7,14,,,,nflverse
+00-0020442,Richard Seymour,DT,,92,78,310,1979-10-06,,9,14,,,,nflverse
+00-0022836,Robert Gallery,LG,RG,76,79,325,1980-07-26,,6,14,,,,nflverse
+00-0019646,Sebastian Janikowski,K,,11,74,250,1978-03-02,Florida State,10,14,,,,nflverse
+00-0019714,Shane Lechler,P,,9,74,225,1976-08-07,Texas A&M,10,14,,,,nflverse
+00-0023473,Stanford Routt,CB,,26,73,195,1983-07-26,,5,14,,,,nflverse
+00-0027842,Stevie Brown,S,,27,71,215,1987-07-17,,0,14,,,,nflverse
+00-0022539,Tommy Kelly,DT,,93,78,300,1980-12-27,,6,14,,,,nflverse
+00-0027738,Walter McFadden,CB,,22,70,180,1987-01-21,,0,14,,,,nflverse
+00-0026144,Darren McFadden,RB,,20,74,210,1987-08-27,Arkansas,2,13,13,,,nflverse
+00-0023460,Jason Campbell,QB,,8,77,230,1981-12-31,,5,13,13,,,nflverse
+00-0027709,Jacoby Ford,WR,,12,69,185,1987-07-27,,0,12,12,,,nflverse
+00-0025486,Johnnie Lee Higgins,WR,,15,71,185,1983-09-08,,3,10,10,,,nflverse
+00-0027135,Brandon Myers,TE,,83,76,250,1985-09-04,Iowa,1,9,9,,,nflverse
+00-0024408,Bruce Gradkowski,QB,,5,73,220,1983-01-27,,4,6,,,,nflverse
+00-0021357,Rock Cartwright,RB,,25,68,215,1979-12-03,,8,6,,,,nflverse
+00-0026366,Chaz Schilens,WR,,81,76,225,1985-11-07,,2,4,,,,nflverse
+00-0022164,Kyle Boller,QB,,7,75,220,1981-06-17,,7,3,,,,nflverse
+00-0026536,Nick Miller,WR,,89,69,180,1987-03-29,,1,3,,,,nflverse
+00-0023487,Khalif Barnes,LT,RT,69,77,325,1982-04-21,Washington,5,2,,,,nflverse
+00-0020514,Michael Bennett,RB,,32,69,205,1978-08-13,,9,2,,,,nflverse
+00-0025447,Samson Satele,C,,64,75,300,1984-11-29,,3,1,,,,nflverse

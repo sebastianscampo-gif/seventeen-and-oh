@@ -1,0 +1,32 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+joe-montana,Joe Montana,QB,,16,6-2,200,1956-06-11,Notre Dame,10,13,13,,MVP;First-Team All-Pro;Pro Bowl;Hall of Fame,Led NFL in passer rating
+steve-young,Steve Young,QB,,8,6-2,205,1961-10-11,BYU,5,10,3,,Hall of Fame,Backup; took over in 1991
+roger-craig,Roger Craig,RB,,33,6-0,224,1960-07-10,Nebraska,7,16,16,,Pro Bowl,
+tom-rathman,Tom Rathman,RB,,44,6-1,232,1962-10-07,Nebraska,4,16,16,,,Lead-blocking / receiving back
+jerry-rice,Jerry Rice,WR,,80,6-2,200,1962-10-13,Mississippi Valley State,4,16,16,,First-Team All-Pro;Pro Bowl;Hall of Fame,
+john-taylor,John Taylor,WR,,82,6-1,185,1962-03-31,Delaware State,3,16,14,,Pro Bowl,
+mike-wilson,Mike Wilson,WR,,85,6-3,215,1958-12-19,Washington State,9,16,2,,,
+brent-jones,Brent Jones,TE,,84,6-4,230,1963-02-12,Santa Clara,3,16,15,,,
+wesley-walls,Wesley Walls,TE,,86,6-5,250,1966-02-26,Ole Miss,1,15,1,,,Rookie
+bubba-paris,Bubba Paris,LT,,77,6-6,299,1960-01-06,Michigan,8,16,16,,,
+guy-mcintyre,Guy McIntyre,LG,,62,6-3,265,1961-02-17,Georgia,5,16,16,,Pro Bowl,
+jesse-sapolu,Jesse Sapolu,C,LG,61,6-4,260,1961-03-10,Hawaii,6,16,16,,,
+bruce-collie,Bruce Collie,RG,,69,6-6,275,1962-06-27,Texas-Arlington,5,16,13,,,
+harris-barton,Harris Barton,RT,,79,6-4,280,1964-04-19,North Carolina,3,16,16,,,
+steve-wallace,Steve Wallace,LT,RT,74,6-5,276,1964-12-27,Auburn,4,16,2,,,Swing tackle
+charles-haley,Charles Haley,EDGE,LB,94,6-5,255,1964-01-06,James Madison,4,16,16,,Pro Bowl;Hall of Fame,
+kevin-fagan,Kevin Fagan,EDGE,DT,75,6-4,260,1963-04-25,Miami,4,16,16,,,
+pierce-holt,Pierce Holt,DT,EDGE,78,6-4,280,1962-01-01,Angelo State,2,16,16,,,
+michael-carter,Michael Carter,DT,,95,6-2,285,1960-10-29,SMU,5,15,15,,Pro Bowl,
+danny-stubbs,Danny Stubbs,EDGE,DT,96,6-4,261,1965-05-10,Miami,2,16,1,,,Rotational pass rusher
+matt-millen,Matt Millen,LB,,55,6-2,260,1958-03-12,Penn State,9,16,14,,,
+keena-turner,Keena Turner,LB,,58,6-2,222,1958-10-22,Purdue,9,15,15,,,
+mike-walter,Mike Walter,LB,,99,6-3,238,1960-01-02,Oregon,7,16,16,,,
+bill-romanowski,Bill Romanowski,LB,,53,6-4,231,1966-04-02,Boston College,1,16,16,,,Rookie
+ronnie-lott,Ronnie Lott,S,CB,42,6-0,203,1959-05-08,USC,8,16,16,,First-Team All-Pro;Pro Bowl;Hall of Fame,
+chet-brooks,Chet Brooks,S,,38,5-11,194,1966-03-10,Texas A&M,1,15,13,,,
+don-griffin,Don Griffin,CB,,29,6-0,176,1964-03-17,Middle Tennessee State,4,16,16,,,
+eric-wright,Eric Wright,CB,,21,6-1,180,1959-04-18,Missouri,8,11,9,,,
+darryl-pollard,Darryl Pollard,CB,,41,5-11,188,1963-11-21,Weber State,3,16,7,,,
+mike-cofer,Mike Cofer,K,,6,6-1,190,1964-02-12,North Carolina State,2,16,0,,Pro Bowl,Led NFL in scoring
+barry-helton,Barry Helton,P,,2,6-3,205,1965-02-16,Colorado,2,16,0,,,

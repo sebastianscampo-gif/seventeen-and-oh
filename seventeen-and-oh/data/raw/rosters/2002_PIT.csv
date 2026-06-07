@@ -1,0 +1,47 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0018501,Amos Zereoue,RB,,21,68,207,1976-10-08,,3,16,16,,,nflverse
+00-0021190,Antwaan Randle El,WR,,82,70,184,1979-08-17,,0,16,16,,,nflverse
+00-0017162,Hines Ward,WR,,86,72,200,1976-03-08,,4,16,16,,,nflverse
+00-0019642,Plaxico Burress,WR,,80,77,226,1977-08-12,,2,16,16,,,nflverse
+00-0015080,Aaron Smith,EDGE,,91,77,300,1976-04-19,,3,14,,,,nflverse
+00-0005058,Alan Faneca,LG,RG,66,77,305,1976-12-07,,4,14,,,,nflverse
+00-0021344,Brett Keisel,EDGE,,99,77,269,1978-09-19,,0,14,,,,nflverse
+00-0020426,Casey Hampton,DT,,98,73,320,1977-09-03,,1,14,,,,nflverse
+00-0014539,Chad Scott,CB,,30,73,201,1974-09-06,,5,14,,,,nflverse
+00-0000865,Charlie Batch,QB,,16,74,220,1974-12-05,,4,14,,,,nflverse
+00-0020082,Chidi Iwuoma,CB,,29,68,182,1978-02-19,,1,14,,,,nflverse
+00-0019940,Chris Hoke,DT,,76,75,290,1976-04-06,,1,14,,,,nflverse
+00-0020255,Chukky Okobi,C,,56,73,310,1978-10-18,,1,14,,,,nflverse
+00-0020326,Dan O'Leary,TE,,81,75,248,1977-09-01,,1,14,,,,nflverse
+00-0016577,Deshea Townsend,CB,,26,69,191,1975-09-08,,4,14,,,,nflverse
+00-0017241,DeWayne Washington,CB,,20,71,193,1972-12-27,,8,14,,,,nflverse
+00-0020718,Erik Totten,S,,39,69,194,1980-01-21,,0,14,,,,nflverse
+00-0019710,Hank Poteat,CB,,22,69,192,1977-08-31,,2,14,,,,nflverse
+00-0020712,James Harrison,LB,,93,72,242,1978-05-04,Kent State,0,14,,,,nflverse
+00-0007051,Jeff Hartings,C,,64,75,295,1972-09-07,,6,14,,,,nflverse
+00-0020737,Jeff Reed,K,,3,71,215,1979-04-09,,0,14,,,,nflverse
+00-0011279,Josh Miller,P,,4,76,220,1970-07-14,,9,14,,,,nflverse
+00-0021161,Kendall Simmons,LG,RG,73,75,313,1979-03-11,,0,14,,,,nflverse
+00-0019630,Kendrick Clancy,DT,,96,73,289,1978-08-17,,2,14,,,,nflverse
+00-0019954,Keydrick Vincent,LG,RG,68,77,330,1978-04-13,,1,14,,,,nflverse
+00-0016956,Kimo Von Oelhoffen,EDGE,,67,76,300,1971-01-30,,8,14,,,,nflverse
+00-0019628,Marvel Smith,LT,RT,77,77,308,1978-08-06,,2,14,,,,nflverse
+00-0020261,Mathias Nkwenti,LT,RT,78,75,300,1978-05-11,,1,14,,,,nflverse
+00-0018926,Mike Schneck,C,,54,72,246,1977-08-04,,3,14,,,,nflverse
+00-0014063,Oliver Ross,LG,RG,79,77,309,1974-09-27,,4,14,,,,nflverse
+00-0020299,Rodney Bailey,EDGE,,94,75,300,1979-10-07,,1,14,,,,nflverse
+00-0012875,Todd Peterson,K,,2,70,177,1970-02-04,,9,14,,,,nflverse
+00-0005736,Wayne Gandy,LT,RT,72,76,308,1971-02-10,,8,14,,,,nflverse
+00-0019135,Dan Kreider,RB,,35,71,246,1977-03-11,,2,13,13,,,nflverse
+00-0001215,Jerome Bettis,RB,,36,71,256,1972-02-16,,9,12,12,,,nflverse
+00-0010261,Tommy Maddox,QB,,8,76,220,1971-09-02,,10,12,12,,,nflverse
+00-0010539,Terance Mathis,WR,,88,70,185,1967-06-07,,12,11,11,,,nflverse
+00-0002102,Mark Bruener,TE,,87,76,260,1972-09-16,,7,10,10,,,nflverse
+00-0016677,Jerame Tuman,TE,,84,76,270,1976-03-24,,3,9,9,,,nflverse
+00-0015700,Kordell Stewart,QB,,10,73,217,1972-10-16,,7,7,,,,nflverse
+00-0005620,Chris Fuamatu-Ma'afala,RB,,45,71,254,1977-03-04,,4,6,,,,nflverse
+00-0021279,Verron Haynes,RB,,34,70,223,1979-02-17,,0,6,,,,nflverse
+00-0000242,John Allred,TE,,85,76,246,1974-09-09,,5,1,,,,nflverse
+00-0021309,Lee Mays,WR,,89,74,192,1978-09-18,,0,1,,,,nflverse
+00-0000883,Marco Battaglia,TE,,81,75,249,1973-01-25,,6,1,,,,nflverse
+00-0003803,Matt Cushing,TE,,48,76,260,1975-07-02,,4,1,,,,nflverse

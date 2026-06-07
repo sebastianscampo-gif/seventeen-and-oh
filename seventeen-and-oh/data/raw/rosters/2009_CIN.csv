@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0026237,Andre Caldwell,WR,,87,72,200,1985-04-15,,1,16,16,,,nflverse
+00-0021429,Carson Palmer,QB,,9,77,235,1979-12-27,USC,6,16,16,,,nflverse
+00-0020397,Chad Ochocinco,WR,,85,73,192,1978-01-09,,8,16,16,,,nflverse
+00-0018958,Laveranues Coles,WR,,11,71,200,1977-12-29,,9,15,15,,,nflverse
+00-0026982,Andre Smith,LT,RT,71,76,335,1987-01-25,Alabama,0,14,,,,nflverse
+00-0024270,Andrew Whitworth,LT,RT,77,79,335,1981-12-12,Louisiana State,3,14,,,,nflverse
+00-0026252,Anthony Collins,LT,RT,73,77,315,1985-11-02,,1,14,,,,nflverse
+00-0022918,Antwan Odom,EDGE,,98,77,280,1981-09-24,,5,14,,,,nflverse
+00-0019629,Bobbie Williams,LG,RG,63,76,345,1976-09-25,,9,14,,,,nflverse
+00-0025439,Brian Leonard,RB,,40,73,229,1984-02-03,,2,14,14,,,nflverse
+00-0027069,Chase Coffman,TE,,80,78,257,1986-11-10,,0,14,,,,nflverse
+00-0026725,Dan Skuta,LB,,51,74,251,1986-04-21,Grand Valley State,0,14,,,,nflverse
+00-0026809,Darius Hill,TE,,49,79,245,1985-08-26,,0,14,,,,nflverse
+00-0025532,David Jones,CB,,20,72,196,1985-09-19,,2,14,,,,nflverse
+00-0024338,Domata Peko,DT,,94,75,318,1984-11-27,Michigan State,3,14,,,,nflverse
+00-0023514,Evan Mathis,LG,RG,66,77,295,1981-11-01,Alabama,4,14,,,,nflverse
+00-0024306,Frostee Rucker,EDGE,,92,75,285,1983-09-14,USC,3,14,,,,nflverse
+00-0027143,Fui Vakapuna,RB,,37,72,260,1984-03-09,,0,14,,,,nflverse
+00-0024638,Geoffrey Pope,CB,,24,72,186,1984-06-21,,2,14,,,,nflverse
+00-0022484,J.P. Foschi,TE,,88,75,265,1982-05-19,,5,14,14,,,nflverse
+00-0024239,Johnathan Joseph,CB,,22,71,193,1984-04-16,South Carolina,3,14,,,,nflverse
+00-0023665,Jonathan Fanene,DT,,68,76,292,1982-03-19,,4,14,,,,nflverse
+00-0027075,Jonathan Luigs,C,,50,76,315,1986-08-11,,0,14,,,,nflverse
+00-0025592,Jordan Palmer,QB,,5,77,235,1984-05-30,,2,14,,,,nflverse
+00-0024670,Kyle Cook,C,,64,75,312,1983-07-25,,2,14,,,,nflverse
+00-0021976,Larry Johnson,RB,,27,73,230,1979-11-19,,6,14,14,,,nflverse
+00-0025405,Leon Hall,CB,,29,71,199,1984-12-09,Michigan,2,14,,,,nflverse
+00-0027044,Michael Johnson,EDGE,,93,79,260,1987-02-07,Georgia Tech,0,14,,,,nflverse
+00-0026928,Morgan Trent,CB,,25,73,195,1985-12-14,,0,14,,,,nflverse
+00-0023958,Nate Livings,LG,RG,62,77,330,1982-03-16,,3,14,,,,nflverse
+00-0026217,Pat Sims,DT,,90,74,325,1985-11-29,Auburn,1,14,,,,nflverse
+00-0026720,Rico Murray,S,,44,71,202,1987-08-21,,0,14,,,,nflverse
+00-0022867,Robert Geathers,EDGE,,91,75,280,1983-08-11,,5,14,,,,nflverse
+00-0021679,Shaun Smith,DT,,96,74,325,1981-08-19,,6,14,,,,nflverse
+00-0019536,Shayne Graham,K,,17,72,205,1977-12-09,,9,14,,,,nflverse
+00-0022696,Tank Johnson,DT,,99,75,305,1981-12-07,,5,14,,,,nflverse
+00-0023439,Cedric Benson,RB,,32,71,225,1982-12-28,,4,13,13,,,nflverse
+00-0024607,Daniel Coats,TE,,86,75,264,1984-04-16,,2,12,12,,,nflverse
+00-0022141,Jeremi Johnson,RB,,23,71,275,1980-09-04,,6,12,12,,,nflverse
+00-0026941,Bernard Scott,RB,,28,70,200,1984-02-10,,0,9,9,,,nflverse
+00-0026716,Quan Cosby,WR,,12,69,196,1982-12-23,,0,5,,,,nflverse
+00-0021296,J.T. O'Sullivan,QB,,4,74,230,1979-08-25,,7,3,,,,nflverse
+00-0023920,Dennis Roland,LT,RT,74,81,325,1983-03-10,,3,1,,,,nflverse
+00-0026186,Jerome Simpson,WR,,89,74,195,1986-02-04,,1,1,,,,nflverse
+00-0027103,Kevin Huber,P,,10,73,210,1985-07-16,Cincinnati,0,1,,,,nflverse

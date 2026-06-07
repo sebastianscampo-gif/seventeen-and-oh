@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022001,Kevin Curtis,WR,,80,72,186,1978-07-17,,4,16,16,,,nflverse
+00-0023470,Reggie Brown,WR,,86,73,197,1981-01-13,,2,16,16,,,nflverse
+00-0021216,Brian Westbrook,RB,,36,70,203,1979-09-02,,5,15,15,,,nflverse
+00-0025719,Akeem Jordan,LB,,56,73,226,1985-08-17,,0,14,,,,nflverse
+00-0024229,Brodrick Bunkley,DT,,97,74,306,1983-11-23,,1,14,,,,nflverse
+00-0019605,Darren Howard,EDGE,,90,75,275,1976-11-19,,7,14,,,,nflverse
+00-0000108,David Akers,K,,2,70,200,1974-12-09,,10,14,,,,nflverse
+00-0011022,Donovan McNabb,QB,,5,74,240,1976-11-25,,8,14,14,,,nflverse
+00-0021504,Jamaal Jackson,C,,67,76,330,1980-05-08,,4,14,,,,nflverse
+00-0009056,Jevon Kearse,EDGE,,93,76,265,1976-09-03,,8,14,,,,nflverse
+00-0014169,Jon Runyan,LT,RT,69,79,330,1973-11-27,,11,14,,,,nflverse
+00-0021654,Joselio Hanson,CB,,22,69,185,1981-08-13,,4,14,,,,nflverse
+00-0019986,Juqua Parker,EDGE,,75,74,250,1978-05-15,,6,14,,,,nflverse
+00-0016956,Kimo Von Oelhoffen,DT,,66,76,299,1971-01-30,,13,14,,,,nflverse
+00-0024418,LaJuan Ramsey,DT,,77,75,300,1984-03-19,,1,14,,,,nflverse
+00-0021157,Lito Sheppard,CB,,26,70,194,1981-04-08,,5,14,,,,nflverse
+00-0025721,Marcus Paschal,S,,32,72,201,1984-08-31,,0,14,,,,nflverse
+00-0024314,Max Jean-Gilles,LG,RG,62,75,358,1983-11-19,,1,14,,,,nflverse
+00-0023466,Mike Patterson,DT,,98,72,292,1983-09-01,,2,14,,,,nflverse
+00-0013471,Montae Reagor,DT,,94,75,285,1977-06-29,,8,14,,,,nflverse
+00-0024156,Nick Cole,C,,59,72,350,1984-07-28,,1,14,,,,nflverse
+00-0025717,Nick Graham,CB,,35,70,191,1984-01-19,,0,14,,,,nflverse
+00-0024515,Saverio Rocca,P,,6,77,265,1973-11-20,,0,14,,,,nflverse
+00-0023605,Scott Young,LG,RG,71,76,312,1981-07-15,,2,14,,,,nflverse
+00-0022779,Shawn Andrews,LG,RG,73,76,335,1982-12-25,,3,14,,,,nflverse
+00-0021186,Sheldon Brown,CB,,24,70,200,1979-03-19,,5,14,,,,nflverse
+00-0023988,Tanard Davis,S,,41,69,184,1983-01-27,,1,14,,,,nflverse
+00-0023560,Todd Herremans,LG,RG,79,78,321,1982-10-13,Saginaw Valley,2,14,,,,nflverse
+00-0016334,Tra Thomas,LT,RT,72,79,335,1974-11-20,,9,14,,,,nflverse
+00-0023579,Trent Cole,EDGE,,58,75,270,1982-10-05,Cincinnati,2,14,,,,nflverse
+00-0025444,Victor Abiamiri,EDGE,,78,76,267,1986-01-14,,0,14,,,,nflverse
+00-0020384,William James,CB,,21,72,200,1979-06-15,,6,14,,,,nflverse
+00-0024254,Winston Justice,LT,RT,74,78,320,1984-09-14,,1,14,,,,nflverse
+00-0020270,Correll Buckhalter,RB,,28,72,217,1978-10-06,,6,13,13,,,nflverse
+00-0024324,Jason Avant,WR,,81,72,212,1983-04-20,Michigan,1,11,11,,,nflverse
+00-0021084,Matt Schobel,TE,,89,77,255,1978-11-04,,5,10,10,,,nflverse
+00-0024013,Hank Baskett,WR,,84,76,220,1982-09-04,,1,9,9,,,nflverse
+00-0022126,L.J. Smith,TE,,82,75,258,1980-05-13,,4,9,9,,,nflverse
+00-0025549,Brent Celek,TE,,87,76,255,1985-01-25,Cincinnati,0,8,8,,,nflverse
+00-0022797,Thomas Tapeh,RB,,38,73,243,1980-03-28,,3,8,8,,,nflverse
+00-0021508,Greg Lewis,WR,,83,72,180,1980-02-12,,4,7,,,,nflverse
+00-0025477,Tony Hunt,RB,,29,73,233,1985-11-24,,0,5,,,,nflverse
+00-0020305,A.J. Feeley,QB,,14,75,220,1977-05-16,,6,3,,,,nflverse
+00-0025423,Kevin Kolb,QB,,4,75,218,1984-08-24,,0,1,,,,nflverse
+00-0021509,Reno Mahe,RB,,25,70,212,1980-06-03,,4,1,,,,nflverse

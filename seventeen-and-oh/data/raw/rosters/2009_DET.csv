@@ -1,0 +1,50 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022156,Bryant Johnson,WR,,80,75,215,1981-03-07,,6,16,16,,,nflverse
+00-0021756,Will Heller,TE,,89,78,275,1981-02-28,,6,16,16,,,nflverse
+00-0027129,Aaron Brown,RB,,21,73,196,1985-10-10,,0,14,14,,,nflverse
+00-0026227,Andre Fluellen,EDGE,,96,74,302,1985-03-07,Florida State,1,14,,,,nflverse
+00-0020329,Anthony Henry,CB,,32,73,207,1976-11-03,,8,14,,,,nflverse
+00-0026444,Brian Witherspoon,CB,,36,70,180,1985-06-05,,1,14,,,,nflverse
+00-0025389,Calvin Johnson,WR,,81,77,236,1985-09-29,Georgia Tech,2,14,14,,,nflverse
+00-0026932,Cedric Peerman,RB,,35,69,210,1986-10-10,Virginia,0,14,,,,nflverse
+00-0026232,Cliff Avril,EDGE,,92,75,260,1986-04-08,Purdue,1,14,,,,nflverse
+00-0023814,Copeland Bryan,EDGE,,94,76,253,1983-07-14,,3,14,,,,nflverse
+00-0025596,Corey Hilliard,LT,RT,78,78,300,1985-04-26,,2,14,,,,nflverse
+00-0026677,Dan Gerberry,C,,64,75,302,1985-11-10,,0,14,,,,nflverse
+00-0023583,Daniel Loper,LG,RG,70,78,320,1982-01-15,,4,14,,,,nflverse
+00-0019650,Dennis Northcutt,WR,,86,71,172,1977-12-22,,9,14,14,,,nflverse
+00-0021997,Dewayne White,EDGE,,99,74,273,1979-10-19,,6,14,,,,nflverse
+00-0020445,Dominic Raiola,C,,51,73,295,1978-12-30,,8,14,,,,nflverse
+00-0023563,Dylan Gandy,C,,65,75,295,1982-03-08,,4,14,,,,nflverse
+00-0014255,Ephraim Salaam,LT,RT,74,79,310,1976-06-19,,11,14,,,,nflverse
+00-0024840,Eric Fowler,WR,,18,75,210,1984-10-17,,2,14,,,,nflverse
+00-0023589,Eric King,CB,,29,70,190,1982-05-10,,4,14,,,,nflverse
+00-0008124,Grady Jackson,DT,,90,74,345,1973-01-21,,12,14,,,,nflverse
+00-0006800,Jason Hanson,K,,4,72,190,1970-06-17,,17,14,,,,nflverse
+00-0023890,Jason Hunter,EDGE,,97,76,271,1983-08-28,,3,14,,,,nflverse
+00-0020444,Jeff Backus,LT,RT,76,77,305,1977-09-21,,8,14,,,,nflverse
+00-0025522,Joe Cohen,DT,,60,74,310,1984-06-06,,2,14,,,,nflverse
+00-0008271,Jon Jansen,LT,RT,68,78,306,1976-01-28,,10,14,,,,nflverse
+00-0023902,Kevin Hobbs,CB,,23,72,188,1983-04-30,,3,14,,,,nflverse
+00-0026356,Landon Cohen,DT,,98,75,300,1986-08-03,,1,14,,,,nflverse
+00-0025504,Manuel Ramirez,LG,RG,63,75,326,1983-02-19,Texas Tech,2,14,,,,nflverse
+00-0021182,Maurice Morris,RB,,28,71,216,1979-12-01,,7,14,14,,,nflverse
+00-0020267,Nick Harris,P,,2,74,218,1978-07-23,,8,14,,,,nflverse
+00-0024347,Orien Harris,DT,,60,75,300,1983-06-03,,3,14,,,,nflverse
+00-0021379,Patrick Ramsey,QB,,14,74,225,1979-02-14,,7,14,,,,nflverse
+00-0021151,Phillip Buchanon,CB,,31,71,186,1980-09-19,,7,14,,,,nflverse
+00-0027084,Sammie Lee Hill,DT,,79,76,331,1986-11-08,Stillman,0,14,,,,nflverse
+00-0022808,Stephen Peterman,LG,RG,66,76,323,1982-01-11,,5,14,,,,nflverse
+00-0020384,William James,CB,,41,72,200,1979-06-15,,8,14,,,,nflverse
+00-0027152,Zack Follett,LB,,49,74,232,1987-07-03,,0,14,,,,nflverse
+00-0026204,Kevin Smith,RB,,34,73,217,1986-12-17,,1,13,13,,,nflverse
+00-0026286,Jerome Felton,RB,,45,72,246,1986-07-03,Furman,1,12,12,,,nflverse
+00-0026996,Brandon Pettigrew,TE,,84,77,263,1985-02-23,,0,10,10,,,nflverse
+00-0026498,Matthew Stafford,QB,,9,75,232,1988-02-07,Georgia,0,10,10,,,nflverse
+00-0003739,Daunte Culpepper,QB,,11,76,260,1977-01-28,,10,8,8,,,nflverse
+00-0021525,Casey Fitzsimmons,TE,,82,76,260,1980-10-10,,6,7,,,,nflverse
+00-0027056,Derrick Williams,WR,,12,72,194,1986-07-06,,0,6,,,,nflverse
+00-0025430,Drew Stanton,QB,,5,75,230,1984-05-07,Michigan State,2,3,,,,nflverse
+00-0024825,Jake Nordin,TE,,85,75,262,1984-07-08,,2,2,,,,nflverse
+00-0026157,Gosder Cherilus,LT,RT,77,79,325,1984-06-28,Boston College,1,1,,,,nflverse
+00-0024682,Michael Matthews,TE,,83,76,270,1983-10-09,,2,1,,,,nflverse

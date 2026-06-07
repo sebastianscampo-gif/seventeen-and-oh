@@ -1,0 +1,47 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027531,Chris Ivory,RB,,33,72,222,1988-03-22,Tiffin University,4,16,16,,,nflverse
+00-0026164,Chris Johnson,RB,,21,71,203,1985-09-23,East Carolina,6,16,16,,,nflverse
+00-0028091,Jeremy Kerley,WR,,11,69,188,1988-11-08,Texas Christian,3,16,16,,,nflverse
+00-0027690,Eric Decker,WR,,87,75,214,1987-03-15,Minnesota,4,15,15,,,nflverse
+00-0027321,Jeff Cumberland,TE,,85,76,260,1987-05-02,Illinois,4,15,15,,,nflverse
+00-0029553,Antonio Allen,CB,,39,73,210,1988-09-23,South Carolina,2,14,,,,nflverse
+00-0027987,Ben Ijalana,LT,RT,71,76,322,1989-08-06,Villanova,3,14,,,,nflverse
+00-0028064,Bilal Powell,RB,,29,70,204,1988-10-27,Louisville,3,14,14,,,nflverse
+00-0026290,Breno Giacomini,LT,RT,68,79,318,1985-09-27,Louisville,6,14,,,,nflverse
+00-0030066,Brian Winters,LT,RT,67,76,320,1991-07-10,Kent State,1,14,,,,nflverse
+00-0030171,Chris Pantale,TE,,83,77,254,1990-03-22,Boston College,1,14,,,,nflverse
+00-0024219,D'Brickashaw Ferguson,LT,RT,60,78,310,1983-12-10,Virginia,8,14,,,,nflverse
+00-0031017,Dakota Dozier,LT,RT,70,76,312,1991-04-30,Furman,0,14,,,,nflverse
+00-0030166,Dalton Freeman,C,,63,76,291,1990-06-18,,1,14,,,,nflverse
+00-0029040,Damon Harrison,DT,,94,76,350,1988-11-29,William Penn,2,14,,,,nflverse
+00-0028334,Darrin Walls,CB,,30,72,190,1988-06-20,,3,14,,,,nflverse
+00-0030592,Dee Milliner,CB,,27,72,201,1991-09-14,,1,14,,,,nflverse
+00-0030565,Geno Smith,QB,,7,75,221,1990-10-10,West Virginia,1,14,14,,,nflverse
+00-0028081,Josh Thomas,CB,,41,71,185,1989-05-03,Buffalo,3,14,,,,nflverse
+00-0028032,Kenrick Ellis,DT,,93,76,346,1987-12-10,,3,14,,,,nflverse
+00-0027879,Kyle Wilson,CB,,20,70,190,1987-09-08,Boise State,4,14,,,,nflverse
+00-0025942,Leger Douzable,EDGE,,78,76,284,1986-05-31,Central Florida,6,14,,,,nflverse
+00-0030556,Leon McFadden,CB,,22,70,190,1990-10-26,San Diego State,1,14,,,,nflverse
+00-0031151,Marcus Williams,CB,,22,71,196,1991-03-24,North Dakota State,0,14,,,,nflverse
+00-0027968,Muhammad Wilkerson,EDGE,,96,76,315,1989-10-22,Temple,3,14,,,,nflverse
+00-0025565,Nick Folk,K,,2,73,222,1984-11-05,Arizona,7,14,,,,nflverse
+00-0024244,Nick Mangold,C,,74,76,307,1984-01-13,Ohio State,8,14,,,,nflverse
+00-0030083,Oday Aboushi,LT,RT,75,76,308,1991-06-05,Virginia,1,14,,,,nflverse
+00-0027610,Phillip Adams,CB,,24,71,195,1988-07-20,South Carolina State,4,14,,,,nflverse
+00-0031023,Quincy Enunwa,WR,,82,74,225,1992-05-31,Nebraska,0,14,,,,nflverse
+00-0030170,Rontez Miles,S,,45,72,202,1988-11-25,California (PA),1,14,,,,nflverse
+00-0029006,Saalim Hakim,WR,,15,71,188,1990-02-01,Palomar Coll. CA (J.C.),2,14,,,,nflverse
+00-0030573,Sheldon Richardson,DT,,91,75,294,1990-11-29,Missouri,1,14,,,,nflverse
+00-0029940,T.J. Barnes,DT,,99,79,364,1990-06-14,Georgia Tech,1,14,,,,nflverse
+00-0031268,Walter Powell,WR,,18,71,189,1991-11-23,Murray State,0,14,,,,nflverse
+00-0031314,Wesley Johnson,LT,RT,72,77,297,1991-01-09,Vanderbilt,0,14,,,,nflverse
+00-0024193,Willie Colon,LG,RG,66,75,315,1983-04-09,Hofstra,8,14,,,,nflverse
+00-0031042,Jace Amaro,TE,,88,77,265,1992-06-26,Texas Tech,0,13,13,,,nflverse
+00-0026998,Percy Harvin,WR,,16,71,184,1988-05-28,Florida,5,13,13,,,nflverse
+00-0020245,Michael Vick,QB,,1,72,215,1980-06-26,Virginia Tech,13,9,9,,,nflverse
+00-0028050,Greg Salas,WR,,17,74,210,1988-08-25,,3,8,8,,,nflverse
+00-0027739,John Conner,RB,,38,71,245,1987-06-08,,4,6,,,,nflverse
+00-0029999,Zach Sudfeld,TE,,44,79,260,1989-04-18,,1,6,,,,nflverse
+00-0029151,Matt Simms,QB,,8,75,210,1988-09-27,Tennessee,2,1,,,,nflverse
+00-0029493,Ryan Quigley,P,,4,75,188,1990-01-26,Boston College,2,1,,,,nflverse
+00-0030112,Tommy Bohanon,RB,,40,73,246,1990-09-10,Wake Forest,1,1,,,,nflverse

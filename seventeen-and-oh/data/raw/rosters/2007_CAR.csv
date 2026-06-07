@@ -1,0 +1,47 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0024242,DeAngelo Williams,RB,,34,69,217,1983-04-25,Memphis,1,16,16,,,nflverse
+00-0021164,DeShaun Foster,RB,,26,72,222,1980-01-10,,5,16,16,,,nflverse
+00-0022879,Drew Carter,WR,,18,75,200,1981-09-05,,3,15,15,,,nflverse
+00-0024369,Jeff King,TE,,87,75,253,1983-02-19,,1,15,15,,,nflverse
+00-0020337,Steve Smith,WR,,89,69,185,1979-05-12,Utah,6,15,15,,,nflverse
+00-0025613,C.J. Wilson,S,,27,73,195,1985-04-02,,0,14,,,,nflverse
+00-0025470,Charles Johnson,EDGE,,95,74,270,1986-07-10,Georgia,0,14,,,,nflverse
+00-0022914,Chris Gamble,CB,,20,73,200,1983-03-11,,3,14,,,,nflverse
+00-0022592,Curtis Deloatch,CB,,41,74,217,1981-10-04,,3,14,,,,nflverse
+00-0020491,Damione Lewis,DT,,92,74,301,1978-03-01,,6,14,,,,nflverse
+00-0021224,Dante Wesley,CB,,23,73,210,1979-04-05,,5,14,,,,nflverse
+00-0024149,Drew Olson,QB,,9,74,222,1983-04-06,,1,14,,,,nflverse
+00-0023514,Evan Mathis,LG,RG,71,77,304,1981-11-01,Alabama,2,14,,,,nflverse
+00-0023596,Frank Omiyale,LT,RT,76,76,310,1982-11-23,,2,14,,,,nflverse
+00-0023327,Gary Gibson,DT,,91,75,285,1982-05-05,,2,14,,,,nflverse
+00-0023602,Geoff Hangartner,LG,RG,63,77,301,1982-04-22,,2,14,,,,nflverse
+00-0019921,Jason Baker,P,,7,74,205,1978-05-17,,6,14,,,,nflverse
+00-0023782,Jason Carter,WR,,11,72,205,1982-09-15,,1,14,,,,nflverse
+00-0021974,Jeremy Bridges,LG,RG,73,76,325,1980-04-19,,4,14,,,,nflverse
+00-0009028,John Kasay,K,,4,70,198,1969-10-27,,16,14,,,,nflverse
+00-0022117,Jordan Gross,LT,RT,69,76,300,1980-07-20,,4,14,,,,nflverse
+00-0021140,Julius Peppers,EDGE,,90,79,283,1980-01-18,North Carolina,5,14,,,,nflverse
+00-0021297,Justin Hartwig,C,,75,76,312,1978-11-21,,5,14,,,,nflverse
+00-0020499,Ken Lucas,CB,,21,72,205,1979-01-23,,6,14,,,,nflverse
+00-0022146,Kindal Moorehead,DT,,94,74,285,1978-10-14,,4,14,,,,nflverse
+00-0020380,Kris Jenkins,DT,,77,76,335,1979-08-03,,6,14,,,,nflverse
+00-0020867,Ma'ake Kemoeatu,DT,,99,77,350,1979-01-10,,5,14,,,,nflverse
+00-0014132,Mike Rucker,EDGE,,93,77,275,1975-02-28,,8,14,,,,nflverse
+00-0016990,Mike Wahle,LG,RG,68,78,304,1977-03-29,,9,14,,,,nflverse
+00-0019831,Nick Goings,RB,,37,72,225,1978-01-26,,6,14,,,,nflverse
+00-0023068,Patrick Dendy,CB,,29,72,190,1982-03-10,,2,14,,,,nflverse
+00-0024273,Richard Marshall,CB,,31,71,189,1984-12-12,,1,14,,,,nflverse
+00-0025446,Ryan Kalil,LG,RG,65,74,291,1985-03-29,USC,0,14,,,,nflverse
+00-0024451,Stanley McClover,EDGE,,74,74,263,1984-12-16,,1,14,,,,nflverse
+00-0022214,Travelle Wharton,LT,RT,70,76,312,1981-05-19,,3,14,,,,nflverse
+00-0019100,Brad Hoover,RB,,45,72,245,1976-11-11,,7,13,13,,,nflverse
+00-0022726,Keary Colbert,WR,,83,73,200,1982-05-21,,3,11,11,,,nflverse
+00-0025708,Matt Moore,QB,,3,75,202,1984-08-09,Oregon State,0,8,8,,,nflverse
+00-0016193,Vinny Testaverde,QB,,16,77,233,1963-11-13,,20,7,,,,nflverse
+00-0020608,David Carr,QB,,8,75,216,1979-07-21,,5,6,,,,nflverse
+00-0005101,Christian Fauria,TE,,86,76,250,1971-09-22,,12,5,,,,nflverse
+00-0025542,Dante Rosario,TE,,88,75,240,1984-10-25,,0,4,,,,nflverse
+00-0025432,Dwayne Jarrett,WR,,80,76,219,1986-09-11,,0,4,,,,nflverse
+00-0023714,Alex Haynes,RB,,24,70,223,1982-02-13,,2,3,,,,nflverse
+00-0004161,Jake Delhomme,QB,,17,74,215,1975-01-10,,10,3,,,,nflverse
+00-0025505,Ryne Robinson,WR,,10,69,179,1984-11-04,,0,3,,,,nflverse

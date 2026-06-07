@@ -1,0 +1,57 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0004147,Al Del Greco,K,,3,70,200,1962-03-02,,,14,,,,nflverse
+00-0015083,Al Smith,LB,,54,73,244,1964-11-26,,,14,,,,nflverse
+00-0018259,Barron Wortham,LB,,52,71,244,1969-11-01,,,14,,,,nflverse
+00-0014508,Bill Schultz,LT,RT,0,77,305,1967-05-01,,,14,,,,nflverse
+00-0016534,Billy Joe Tolliver,QB,,0,73,218,1966-02-07,,,14,,,,nflverse
+00-0001266,Blaine Bishop,S,,23,69,197,1970-07-24,,,14,,,,nflverse
+00-0012401,Bo Orlando,S,,0,70,180,1966-04-03,,,14,,,,nflverse
+00-0007719,Brad Hopkins,LT,RT,72,75,306,1970-09-05,,,14,,,,nflverse
+00-0005088,Brett Faryniarz,LB,,0,75,230,1965-07-23,,,14,,,,nflverse
+00-0010550,Bruce Matthews,C,,74,77,298,1961-08-08,,,14,,,,nflverse
+00-0010819,Bubba McDowell,S,,0,73,198,1966-11-04,,,14,,,,nflverse
+00-0013671,Bucky Richardson,QB,,0,73,228,1969-02-07,,,14,,,,nflverse
+00-0002642,Cody Carlson,QB,,0,75,202,1963-11-05,,,14,,,,nflverse
+00-0004337,Cris Dishman,CB,,28,72,188,1965-08-13,,,14,,,,nflverse
+00-0009849,Darryll Lewis,CB,,29,69,183,1968-12-16,,,14,,,,nflverse
+00-0017769,David Williams,LT,RT,0,77,292,1966-06-21,,,14,,,,nflverse
+00-0013858,Eddie Robinson,LB,,0,73,245,1970-04-13,,,14,,,,nflverse
+00-0012166,Erik Norgard,LG,RG,64,73,282,1965-11-04,,,14,,,,nflverse
+00-0006015,Ernest Givins,WR,,0,69,178,1964-09-03,,,14,,,,nflverse
+00-0001938,Gary Brown,RB,,0,71,233,1969-07-01,,,14,,,,nflverse
+00-0017416,Gary Wellman,WR,,0,69,173,1967-08-09,,,14,,,,nflverse
+00-0011504,Glenn Montgomery,DT,,0,72,282,1967-03-31,,,14,,,,nflverse
+00-0008319,Haywood Jeffires,WR,,0,74,201,1964-12-12,,,14,,,,nflverse
+00-0005417,Henry Ford,EDGE,,92,75,284,1971-10-30,,,14,,,,nflverse
+00-0012223,Jeremy Nunley,EDGE,,0,77,278,1971-09-19,,,14,,,,nflverse
+00-0013566,Jim Reid,LT,RT,0,78,306,1971-02-13,,,14,,,,nflverse
+00-0001557,Joe Bowden,LB,,58,71,230,1970-02-25,,,14,,,,nflverse
+00-0005298,John Flannery,LG,RG,0,76,304,1969-01-13,,,14,,,,nflverse
+00-0011333,John Henry Mills,TE,,55,72,222,1969-10-31,,,14,,,,nflverse
+00-0003936,Kenny Davidson,EDGE,,0,77,288,1967-08-17,,,14,,,,nflverse
+00-0004419,Kevin Donnalley,LG,RG,77,77,305,1968-06-10,,,14,,,,nflverse
+00-0009663,Lamar Lathon,EDGE,,0,75,252,1967-12-23,,,14,,,,nflverse
+00-0010522,Le'Shai Maston,RB,,0,72,215,1970-10-07,,,14,,,,nflverse
+,Lee Williamson,QB,,0,76,206,1968-08-10,,,14,,,,nflverse
+00-0006668,Lemanski Hall,LB,,51,72,229,1970-11-24,,,14,,,,nflverse
+00-0017552,Lorenzo White,RB,,0,71,222,1966-04-12,,,14,,,,nflverse
+00-0005355,Malcolm Floyd,WR,,83,72,194,1972-12-19,,,14,,,,nflverse
+00-0013835,Marcus Robertson,S,,31,71,197,1969-10-02,,,14,,,,nflverse
+00-0000829,Micheal Barrow,LB,,56,74,236,1970-04-19,,,14,,,,nflverse
+00-0004017,Mike Davis,CB,,0,73,192,1972-01-14,,,14,,,,nflverse
+00-0016164,Mike Teeter,EDGE,,0,74,260,1967-10-04,,,14,,,,nflverse
+00-0002753,Pat Carter,TE,,0,76,258,1966-08-01,,,14,,,,nflverse
+00-0003234,Pat Coleman,WR,,0,67,176,1967-04-08,,,14,,,,nflverse
+00-0002947,Ray Childress,DT,,0,78,272,1962-10-20,,,14,,,,nflverse
+,Reggie Brown,WR,,0,73,195,1970-05-05,,,14,,,,nflverse
+00-0002549,Rich Camarillo,P,,0,71,195,1959-11-29,,,14,,,,nflverse
+00-0009893,Roderick Lewis,TE,,88,77,254,1971-06-09,,,14,,,,nflverse
+00-0008188,Sean Jackson,RB,,0,73,222,1971-02-06,,,14,,,,nflverse
+00-0016480,Spencer Tillman,RB,,0,71,206,1964-04-21,,,14,,,,nflverse
+00-0016328,Stan Thomas,LT,RT,0,77,295,1968-10-28,,,14,,,,nflverse
+00-0008193,Steve Jackson,CB,,24,68,182,1969-04-08,,,14,,,,nflverse
+00-0013825,Tim Roberts,DT,,0,78,318,1969-04-14,,,14,,,,nflverse
+00-0011025,Todd McNair,RB,,0,73,185,1965-10-07,,,14,,,,nflverse
+00-0000792,Tomur Barnes,CB,,22,70,185,1970-09-08,,,14,,,,nflverse
+00-0006786,Travis Hannah,WR,,0,67,161,1970-01-31,,,14,,,,nflverse
+00-0015042,Webster Slaughter,WR,,0,73,175,1964-10-19,,,14,,,,nflverse

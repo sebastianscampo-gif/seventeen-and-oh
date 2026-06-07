@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0020446,Chris Chambers,WR,,84,71,210,1978-08-12,,4,16,16,,,nflverse
+00-0005589,Gus Frerotte,QB,,11,75,233,1971-07-31,,11,16,16,,,nflverse
+00-0021236,Randy McMichael,TE,,81,75,255,1979-06-28,,3,15,15,,,nflverse
+00-0023437,Ronnie Brown,RB,,23,72,232,1981-12-12,,0,15,15,,,nflverse
+00-0020305,A.J. Feeley,QB,,7,75,220,1977-05-16,,4,14,,,,nflverse
+00-0021499,Alonzo Ephraim,C,,63,76,312,1981-11-08,,2,14,,,,nflverse
+00-0023595,Anthony Alabi,LT,RT,79,77,315,1981-02-16,,0,14,,,,nflverse
+00-0023007,C.J. Brooks,LG,RG,70,77,310,1982-08-21,,0,14,,,,nflverse
+00-0020565,Cleo Lemon,QB,,17,74,215,1979-08-16,,3,14,,,,nflverse
+00-0021212,Cliff Russell,WR,,88,71,193,1979-02-08,,3,14,,,,nflverse
+00-0019664,Damion McIntosh,LT,RT,77,76,320,1977-03-25,,5,14,,,,nflverse
+00-0021371,Darian Barnes,RB,,36,74,241,1980-02-29,,3,14,,,,nflverse
+00-0001563,David Bowens,EDGE,,96,75,265,1977-07-03,,6,14,,,,nflverse
+00-0022366,Eddie Jackson,CB,,35,72,200,1980-12-19,,1,14,,,,nflverse
+00-0016112,Jason Taylor,EDGE,,99,78,255,1974-09-01,,8,14,,,,nflverse
+00-0018503,Jeff Zgonina,DT,,90,74,290,1970-05-24,,12,14,,,,nflverse
+00-0019493,Jeno James,LG,RG,78,76,320,1977-01-12,,5,14,,,,nflverse
+00-0023639,Joe Berger,LG,RG,65,77,303,1982-05-25,Michigan Tech,0,14,,,,nflverse
+00-0016599,Keith Traylor,DT,,94,74,337,1969-09-03,,14,14,,,,nflverse
+00-0002742,Kevin Carter,EDGE,,93,78,305,1973-09-21,,10,14,,,,nflverse
+00-0019485,Kiwaukee Thomas,CB,,20,71,192,1977-06-19,,5,14,,,,nflverse
+00-0023696,Manuel Wright,DT,,75,78,329,1984-04-13,,0,14,,,,nflverse
+00-0023481,Matt Roth,EDGE,,98,75,272,1982-10-14,,0,14,,,,nflverse
+00-0021903,Norman LeJeune,S,,42,72,200,1980-05-10,,2,14,,,,nflverse
+00-0010373,Olindo Mare,K,,10,70,190,1973-06-06,,9,14,,,,nflverse
+00-0019101,Reggie Howard,CB,,25,72,185,1977-05-17,,5,14,,,,nflverse
+00-0022905,Rex Hadnot,C,,66,74,325,1982-01-28,,1,14,,,,nflverse
+00-0010264,Sam Madison,CB,,29,71,180,1974-04-23,,8,14,,,,nflverse
+00-0021215,Seth McKinney,C,,68,75,310,1979-06-12,,3,14,,,,nflverse
+00-0019601,Stockar McDougle,LT,RT,73,78,348,1977-01-11,,5,14,,,,nflverse
+00-0023539,Travis Daniels,CB,,21,73,192,1982-09-08,,0,14,,,,nflverse
+00-0022890,Vernon Carey,LT,RT,72,77,335,1981-07-31,,1,14,,,,nflverse
+00-0007611,Vonnie Holliday,DT,,91,77,288,1975-12-11,,7,14,,,,nflverse
+00-0022427,Wes Welker,WR,,83,69,185,1981-05-01,Texas Tech,1,14,14,,,nflverse
+00-0001477,Marty Booker,WR,,86,72,210,1976-07-31,,6,13,13,,,nflverse
+00-0017915,Ricky Williams,RB,,34,70,228,1977-05-21,,6,12,12,,,nflverse
+00-0019484,Sammy Morris,RB,,31,72,218,1977-03-23,,5,8,8,,,nflverse
+00-0021554,Lorenzo Diamond,TE,,87,75,260,1978-12-15,,2,6,,,,nflverse
+00-0019302,Bryan Gilmore,WR,,82,72,193,1978-07-21,,5,5,,,,nflverse
+00-0020480,Sage Rosenfels,QB,,18,76,225,1978-03-06,,4,4,,,,nflverse
+00-0001532,David Boston,WR,,80,74,228,1978-08-19,,6,3,,,,nflverse
+00-0023163,Alex Holmes,TE,,89,73,265,1981-08-22,,0,1,,,,nflverse
+00-0022684,Donnie Jones,P,,5,74,222,1980-07-05,LSU,1,1,,,,nflverse
+00-0020448,Travis Minor,RB,,28,70,203,1979-06-30,,4,1,,,,nflverse
+00-0021756,Will Heller,TE,,85,78,265,1981-02-28,,2,1,,,,nflverse

@@ -1,0 +1,44 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0023564,Darren Sproles,RB,,43,66,190,1983-06-20,Kansas State,5,16,16,,,nflverse
+00-0022942,Philip Rivers,QB,,17,77,228,1981-12-08,North Carolina State,6,16,16,,,nflverse
+00-0026069,Mike Tolbert,RB,,35,69,243,1985-11-23,Coastal Carolina,2,15,15,,,nflverse
+00-0026167,Antoine Cason,CB,,20,73,195,1986-07-09,,2,14,,,,nflverse
+00-0022169,Antonio Garay,DT,,71,76,320,1979-11-30,,7,14,,,,nflverse
+00-0024659,Billy Latsko,RB,,34,70,233,1984-02-16,,3,14,,,,nflverse
+00-0026061,Brandyn Dombrowski,LT,RT,62,77,323,1985-04-03,,2,14,,,,nflverse
+00-0027745,Cam Thomas,DT,,76,76,335,1986-12-12,North Carolina,0,14,,,,nflverse
+00-0025482,Dante Hughes,CB,,33,70,190,1985-08-21,,3,14,,,,nflverse
+00-0026744,Darry Beckwith,LB,,46,72,242,1987-05-15,,1,14,,,,nflverse
+00-0022158,Donald Strickland,CB,,30,70,185,1980-11-24,,7,14,,,,nflverse
+00-0025510,Fred Bennett,CB,,29,73,200,1983-12-31,,3,14,,,,nflverse
+00-0026209,Jacob Hester,RB,,22,71,235,1985-05-08,,2,14,14,,,nflverse
+00-0021542,Jacques Cesaire,EDGE,,74,74,295,1980-08-30,,7,14,,,,nflverse
+00-0024401,Jeromey Clary,LT,RT,66,78,320,1983-11-05,,4,14,,,,nflverse
+00-0027597,Kion Wilson,LB,,42,72,240,1986-10-24,,0,14,,,,nflverse
+00-0021546,Kris Dielman,LG,RG,68,76,320,1981-02-03,,7,14,,,,nflverse
+00-0027052,Louis Vasquez,LG,RG,65,77,335,1987-04-11,Texas Tech,1,14,,,,nflverse
+00-0023463,Luis Castillo,EDGE,,93,75,290,1983-08-04,,5,14,,,,nflverse
+00-0024265,Marcus McNeill,LT,RT,73,79,336,1983-11-16,,4,14,,,,nflverse
+00-0022737,Nate Kaeding,K,,10,72,187,1982-03-26,,6,14,,,,nflverse
+00-0022804,Nick Hardwick,C,,61,76,305,1981-09-02,,6,14,,,,nflverse
+00-0025857,Ogemdi Nwagbuo,DT,,91,76,312,1985-12-24,,2,14,,,,nflverse
+00-0021381,Quentin Jammer,CB,,23,72,204,1979-06-19,,8,14,,,,nflverse
+00-0021236,Randy McMichael,TE,,81,75,255,1979-06-28,,8,14,14,,,nflverse
+00-0023674,Scott Mruczkowski,C,,63,77,310,1982-04-05,,5,14,,,,nflverse
+00-0023450,Travis Johnson,EDGE,,96,75,311,1982-04-26,,5,14,,,,nflverse
+00-0027097,Tyronne Green,LG,RG,69,74,316,1986-04-06,Auburn,1,14,,,,nflverse
+00-0027082,Vaughn Martin,EDGE,,92,76,330,1986-04-18,,1,14,,,,nflverse
+00-0027864,Ryan Mathews,RB,,24,72,218,1987-10-10,Fresno State,0,12,12,,,nflverse
+00-0022414,Malcom Floyd,WR,,80,77,225,1981-09-08,Wyoming,6,11,11,,,nflverse
+00-0021547,Antonio Gates,TE,,85,76,260,1980-06-18,Kent State,7,10,10,,,nflverse
+00-0025559,Legedu Naanee,WR,,11,74,220,1983-09-16,,3,9,9,,,nflverse
+00-0022766,Patrick Crayton,WR,,12,72,205,1979-04-07,,6,8,8,,,nflverse
+00-0025417,Craig Davis,WR,,84,73,210,1985-10-02,,3,7,,,,nflverse
+00-0022714,Kris Wilson,TE,,88,74,245,1981-08-22,,6,6,,,,nflverse
+00-0027581,Seyi Ajirotutu,WR,,89,75,211,1987-06-12,Fresno State,0,6,,,,nflverse
+00-0022171,Kelley Washington,WR,,87,75,217,1979-08-21,,7,5,,,,nflverse
+00-0023496,Vincent Jackson,WR,,83,77,230,1983-01-14,Northern Colorado,5,4,,,,nflverse
+00-0019041,Billy Volek,QB,,7,74,214,1976-04-28,,10,3,,,,nflverse
+00-0026757,Kory Sperry,TE,,82,76,238,1985-04-10,,1,3,,,,nflverse
+00-0026745,Curtis Brinkley,RB,,44,69,208,1985-09-20,,1,2,,,,nflverse
+00-0022017,Mike Scifres,P,,5,74,221,1980-10-08,,7,1,,,,nflverse

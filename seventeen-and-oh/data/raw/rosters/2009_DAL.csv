@@ -1,0 +1,39 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022127,Jason Witten,TE,,82,77,262,1982-05-06,Tennessee,6,16,16,,,nflverse
+00-0023921,Miles Austin,WR,,19,75,216,1984-06-30,"Monmouth, N.J.",3,16,16,,,nflverse
+00-0022766,Patrick Crayton,WR,,84,72,203,1979-04-07,,5,16,16,,,nflverse
+00-0021678,Tony Romo,QB,,9,74,224,1980-04-21,Eastern Illinois,6,16,16,,,nflverse
+00-0023544,Marion Barber,RB,,24,72,225,1983-06-10,,4,15,15,,,nflverse
+00-0022909,Roy Williams,WR,,11,75,220,1981-12-20,,5,15,15,,,nflverse
+00-0026262,Tashard Choice,RB,,23,70,208,1984-11-20,,1,15,15,,,nflverse
+00-0025624,Alan Ball,CB,,20,73,186,1985-03-29,,2,14,,,,nflverse
+00-0021385,Andre Gurode,C,,65,76,318,1979-03-06,,7,14,,,,nflverse
+00-0024075,Cletis Gordon,CB,,27,73,205,1983-04-23,,3,14,,,,nflverse
+00-0023023,Cory Procter,LG,RG,71,76,308,1982-10-18,,4,14,,,,nflverse
+00-0027119,David Buehler,K,,18,74,227,1987-02-05,,0,14,,,,nflverse
+00-0025509,Doug Free,LT,RT,68,78,311,1984-01-16,Northern Illinois,2,14,,,,nflverse
+00-0023556,Duke Preston,C,,69,77,320,1982-06-12,,4,14,,,,nflverse
+00-0026162,Felix Jones,RB,,28,72,212,1987-05-08,,1,14,14,,,nflverse
+00-0000045,Flozell Adams,LT,RT,76,79,340,1975-05-18,,11,14,,,,nflverse
+00-0022915,Igor Olshansky,EDGE,,99,78,309,1982-05-03,,5,14,,,,nflverse
+00-0024307,Jason Hatcher,EDGE,,97,78,304,1982-07-13,Grambling State,3,14,,,,nflverse
+00-0023656,Jay Ratliff,DT,,90,76,302,1981-08-29,Auburn,4,14,,,,nflverse
+00-0009311,Jon Kitna,QB,,3,74,220,1972-09-21,,13,14,,,,nflverse
+00-0022722,Junior Siavii,DT,,95,77,320,1978-11-14,,5,14,,,,nflverse
+00-0021348,Kyle Kosier,LG,RG,63,77,305,1978-11-27,,7,14,,,,nflverse
+00-0020533,Leonard Davis,LG,RG,70,78,353,1978-09-05,,8,14,,,,nflverse
+00-0021160,Marc Colombo,LT,RT,75,80,318,1978-10-08,,7,14,,,,nflverse
+00-0023455,Marcus Spears,EDGE,,96,76,315,1983-03-08,,4,14,,,,nflverse
+00-0021488,Mat McBriar,P,,1,73,222,1979-07-08,,6,14,,,,nflverse
+00-0026165,Mike Jenkins,CB,,21,70,190,1985-03-22,South Florida,1,14,,,,nflverse
+00-0022094,Montrae Holland,LG,RG,64,74,322,1980-05-21,,6,14,,,,nflverse
+00-0026283,Orlando Scandrick,CB,,32,70,192,1987-02-10,Boise State,1,14,,,,nflverse
+00-0024425,Pat McQuistan,LT,RT,77,78,315,1983-04-30,,3,14,,,,nflverse
+00-0023954,Stephen Bowen,EDGE,,72,77,304,1984-03-28,Hofstra,3,14,,,,nflverse
+00-0027071,Stephen McGee,QB,,7,75,225,1985-09-27,,0,14,,,,nflverse
+00-0022045,Terence Newman,CB,,41,71,190,1978-09-04,Kansas State,6,14,,,,nflverse
+00-0026201,Martellus Bennett,TE,,80,78,265,1987-03-10,Texas A&M,1,13,13,,,nflverse
+00-0027139,John Phillips,TE,,89,77,251,1987-06-11,Virginia,0,6,,,,nflverse
+00-0026780,Kevin Ogletree,WR,,85,72,196,1987-08-05,,0,6,,,,nflverse
+00-0023953,Sam Hurd,WR,,17,74,205,1985-04-24,,3,6,,,,nflverse
+00-0025582,Deon Anderson,RB,,34,70,245,1983-01-27,,2,3,,,,nflverse

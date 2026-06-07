@@ -1,0 +1,44 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0030578,Cordarrelle Patterson,WR,,84,74,220,1991-03-17,Tennessee,0,16,16,,,nflverse
+00-0026186,Jerome Simpson,WR,,81,74,190,1986-02-04,,5,16,16,,,nflverse
+00-0024267,Greg Jennings,WR,,15,72,195,1983-09-21,Western Michigan,7,15,15,,,nflverse
+00-0029572,Jarius Wright,WR,,17,70,180,1989-11-25,Arkansas,1,15,15,,,nflverse
+00-0025394,Adrian Peterson,RB,,28,73,217,1985-03-21,Oklahoma,6,14,14,,,nflverse
+00-0029576,Blair Walsh,K,,3,70,192,1990-01-08,Georgia,1,14,,,,nflverse
+00-0028110,Brandon Fusco,LG,RG,63,76,306,1988-07-26,Slippery Rock,2,14,,,,nflverse
+00-0025489,Brian Robison,EDGE,,96,75,259,1983-04-27,Texas,6,14,,,,nflverse
+00-0024413,Charlie Johnson,LG,RG,74,76,305,1984-05-02,,7,14,,,,nflverse
+00-0029067,Chase Baker,DT,,91,73,300,1988-05-21,,1,14,,,,nflverse
+00-0027649,Chris Cook,CB,,20,74,212,1987-02-15,,3,14,,,,nflverse
+00-0027701,Everson Griffen,EDGE,,97,75,273,1987-12-22,Southern California,3,14,,,,nflverse
+00-0024426,Fred Evans,DT,,90,76,305,1983-11-06,,7,14,,,,nflverse
+00-0027609,J'Marcus Webb,LT,RT,73,79,333,1988-08-08,West Texas A&amp;M,3,14,,,,nflverse
+00-0030406,Jeff Baca,LG,RG,60,75,302,1990-01-10,,0,14,,,,nflverse
+00-0030405,Jeff Locke,P,,18,72,203,1989-09-27,UCLA,0,14,,,,nflverse
+00-0023639,Joe Berger,C,,61,77,305,1982-05-25,Michigan Tech,8,14,,,,nflverse
+00-0026327,John Sullivan,C,,65,76,301,1985-08-08,Notre Dame,5,14,,,,nflverse
+00-0029691,Josh Robinson,CB,,21,70,199,1991-01-08,Central Florida,1,14,,,,nflverse
+00-0028495,Justin Trattou,EDGE,,94,76,255,1988-08-28,Florida,2,14,,,,nflverse
+00-0022073,Kevin Williams,DT,,93,77,311,1980-08-16,Oklahoma State,10,14,,,,nflverse
+00-0026292,Letroy Guion,DT,,98,76,303,1987-06-21,Florida State,5,14,,,,nflverse
+00-0029687,Matt Kalil,LT,RT,75,79,308,1989-07-06,USC,1,14,,,,nflverse
+00-0027030,Phil Loadholt,LT,RT,71,80,343,1986-01-21,Oklahoma,4,14,,,,nflverse
+00-0029767,Robert Steeples,S,,26,73,194,1989-11-27,,0,14,,,,nflverse
+00-0029934,Rodney Smith,WR,,83,76,219,1990-03-11,Florida State,0,14,,,,nflverse
+00-0030574,Sharrif Floyd,DT,,95,75,305,1991-05-28,Florida,0,14,,,,nflverse
+00-0030575,Xavier Rhodes,CB,,29,73,210,1990-06-19,Florida State,0,14,,,,nflverse
+00-0026178,John Carlson,TE,,89,77,248,1984-05-12,,5,13,13,,,nflverse
+00-0027888,Toby Gerhart,RB,,32,72,231,1987-03-28,Stanford,3,12,12,,,nflverse
+00-0027950,Christian Ponder,QB,,7,74,229,1988-02-25,Florida State,2,9,9,,,nflverse
+00-0023662,Matt Cassel,QB,,16,76,228,1982-05-17,USC,8,9,9,,,nflverse
+00-0029432,Chase Ford,TE,,86,78,255,1990-07-19,Miami,1,8,8,,,nflverse
+00-0027981,Kyle Rudolph,TE,,82,78,258,1989-11-09,Notre Dame,2,8,8,,,nflverse
+00-0026286,Jerome Felton,RB,,42,72,248,1986-07-03,Furman,5,6,,,,nflverse
+00-0027796,Joe Webb,WR,,14,76,220,1986-11-14,Alabama-Birmingham,3,6,,,,nflverse
+00-0029587,Rhett Ellison,TE,,40,77,250,1988-10-03,USC,1,5,,,,nflverse
+00-0026993,Josh Freeman,QB,,12,78,240,1988-01-13,Kansas State,4,4,,,,nflverse
+00-0029931,Zach Line,RB,,48,73,233,1990-04-26,Southern Methodist,0,3,,,,nflverse
+00-0028198,Matt Asiata,RB,,44,72,234,1987-07-24,Utah,2,2,,,,nflverse
+00-0022740,Jared Allen,EDGE,,69,78,270,1982-04-03,Idaho State,9,1,,,,nflverse
+00-0029048,Joe Banyard,RB,,23,71,205,1988-11-12,Texas-El Paso,1,1,,,,nflverse
+00-0027547,Marcus Sherels,CB,,35,70,175,1987-09-30,Minnesota,3,1,,,,nflverse

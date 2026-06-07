@@ -1,0 +1,78 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027939,Cam Newton,QB,,1,77,245,1989-05-11,Auburn,9,15,15,,,nflverse
+00-0033381,Adam Butler,DT,,70,77,300,1994-04-12,Vanderbilt,3,14,,,,nflverse
+00-0031404,Adrian Phillips,S,,21,71,210,1992-03-28,Texas,6,14,,,,nflverse
+00-0030402,Akeem Spence,DT,,52,73,307,1991-11-29,Illinois,7,14,,,,nflverse
+00-0036193,Anfernee Jennings,LB,,58,75,259,1997-09-01,Alabama,0,14,,,,nflverse
+00-0031089,Beau Allen,DT,,94,75,327,1991-11-14,Wisconsin,6,14,,,,nflverse
+00-0029239,Brandon Bolden,RB,,38,71,220,1990-01-26,Mississippi,8,14,,,,nflverse
+00-0030010,Brandon Copeland,LB,,52,75,263,1991-07-02,Pennsylvania,7,14,,,,nflverse
+00-0031856,Brandon King,LB,,36,74,220,1993-06-08,Auburn,5,14,,,,nflverse
+00-0035278,Byron Cowart,DT,,99,75,300,1996-05-20,Maryland,1,14,,,,nflverse
+00-0031938,Carl Davis,DT,,98,77,320,1992-03-02,Iowa,5,14,,,,nflverse
+00-0036164,Cassh Maluia,LB,,46,72,248,1998-10-03,Wyoming,0,14,,,,nflverse
+00-0035654,Chase Winovich,EDGE,,50,75,251,1995-04-19,Michigan,1,14,,,,nflverse
+00-0029764,Cody Davis,S,,22,74,203,1989-06-06,Texas Tech,7,14,,,,nflverse
+00-0034966,D'Angelo Ross,CB,,39,69,190,1996-10-29,New Mexico,1,14,,,,nflverse
+00-0031868,Damiere Byrd,WR,,10,69,180,1993-01-27,South Carolina,5,14,14,,,nflverse
+00-0032794,Dan Vitale,RB,,45,72,239,1993-10-26,Northwestern,4,14,,,,nflverse
+00-0031852,David Andrews,C,,60,75,300,1992-07-10,Georgia,5,14,,,,nflverse
+00-0033947,Deatrich Wise,EDGE,,91,77,275,1994-07-26,Arkansas,3,14,,,,nflverse
+00-0033779,Dee Virgin,CB,,38,69,195,1993-10-29,West Alabama,3,14,,,,nflverse
+00-0029669,Dont'a Hightower,LB,,54,75,260,1990-03-12,Alabama,8,14,,,,nflverse
+00-0036200,Dustin Woodard,C,,0,74,291,,Memphis,0,14,,,,nflverse
+00-0034833,Isaiah Wynn,LT,RT,76,74,310,1995-12-09,Georgia,2,14,,,,nflverse
+00-0034591,J.C. Jackson,CB,,27,73,198,1995-11-17,Maryland,2,14,,,,nflverse
+00-0034385,Ja'Whaun Bentley,LB,,51,74,255,1996-08-24,Purdue,2,14,,,,nflverse
+00-0035280,Jake Bailey,P,,7,74,205,1997-06-18,Stanford,1,14,,,,nflverse
+00-0031039,James Ferentz,C,,66,74,300,1989-06-05,Iowa,6,14,,,,nflverse
+00-0031062,James White,RB,,28,70,205,1992-02-03,Wisconsin,6,14,14,,,nflverse
+00-0027136,Jason McCourty,CB,,30,71,195,1987-08-13,Rutgers,11,14,,,,nflverse
+00-0033290,Jermaine Eluemunor,LT,RT,72,76,335,1994-12-13,Texas A&amp;M,3,14,,,,nflverse
+00-0032391,Joe Thuney,LT,RT,62,77,308,1992-11-18,North Carolina State,4,14,,,,nflverse
+00-0035241,Joejuan Williams,CB,,33,75,212,1997-12-06,Vanderbilt,1,14,,,,nflverse
+00-0030442,John Simon,EDGE,,55,74,260,1990-10-14,Ohio State,7,14,,,,nflverse
+00-0032580,Jonathan Jones,CB,,31,70,190,1993-09-20,Auburn,4,14,,,,nflverse
+00-0036159,Josh Uche,LB,,53,75,250,1998-09-18,Michigan,0,14,,,,nflverse
+00-0029530,Justin Bethel,CB,,29,72,200,1990-06-17,Presbyterian,8,14,,,,nflverse
+00-0036163,Justin Herron,LT,RT,75,77,290,1995-11-27,Wake Forest,0,14,,,,nflverse
+00-0034687,Korey Cunningham,LT,RT,74,78,305,1995-05-17,Cincinnati,2,14,,,,nflverse
+00-0036231,Kyle Dugger,S,,35,74,216,1996-03-22,Lenoir-Rhyne,0,14,,,,nflverse
+00-0028171,Lawrence Guy,DT,,93,76,315,1990-03-17,Arizona State,9,14,,,,nflverse
+00-0028076,Marcus Cannon,LT,RT,61,78,335,1988-05-06,Texas Christian,9,14,,,,nflverse
+00-0031337,Marcus Martin,C,,68,75,330,1993-11-29,Southern California,6,14,,,,nflverse
+00-0031431,Marqise Lee,WR,,13,72,196,1991-11-25,Southern California,6,14,,,,nflverse
+00-0031744,Matt LaCosse,TE,,83,78,255,1992-09-21,Illinois,5,14,,,,nflverse
+00-0026293,Matt Slater,WR,,18,72,205,1985-09-09,UCLA,12,14,,,,nflverse
+00-0035277,Michael Jackson,CB,,45,73,210,1997-01-10,Miami,1,14,,,,nflverse
+00-0036198,Michael Onwenu,LG,RG,71,75,350,1997-12-10,Michigan,0,14,,,,nflverse
+00-0036087,Myles Bryant,CB,,41,69,180,1998-01-02,Washington,0,14,,,,nflverse
+00-0034097,Najee Toran,LG,RG,68,74,305,1995-11-15,UCLA,2,14,,,,nflverse
+00-0025565,Nick Folk,K,,6,73,222,1984-11-05,Arizona,13,14,,,,nflverse
+00-0027010,Patrick Chung,S,,23,71,215,1987-08-19,Oregon,11,14,,,,nflverse
+00-0033366,Quincy Adeboyejo,WR,,19,75,200,1995-05-26,Mississippi,3,14,,,,nflverse
+00-0036086,Rashod Berry,TE,,43,76,255,1996-10-14,Ohio State,0,14,,,,nflverse
+00-0035036,Ross Reynolds,LG,RG,64,76,295,1995-09-14,Iowa,1,14,,,,nflverse
+00-0031580,Shaquille Mason,LG,RG,69,73,310,1993-08-28,Georgia Tech,5,14,,,,nflverse
+00-0033122,Shilique Calhoun,LB,,90,76,260,1992-03-20,Michigan State,4,14,,,,nflverse
+00-0029542,Stephon Gilmore,CB,,24,73,202,1990-09-19,South Carolina,8,14,,,,nflverse
+00-0033324,Tashawn Bower,EDGE,,96,77,250,1995-02-18,Louisiana State,3,14,,,,nflverse
+00-0034962,Terez Hall,LB,,59,74,235,1996-11-18,Missouri,1,14,,,,nflverse
+00-0031338,Terrence Brooks,S,,25,71,205,1992-03-02,Florida State,6,14,,,,nflverse
+00-0035252,Yodny Cajuste,LT,RT,77,77,310,1996-02-21,West Virginia,1,14,,,,nflverse
+00-0035624,N'Keal Harry,WR,,15,76,225,1997-12-17,Arizona State,1,13,13,,,nflverse
+00-0034960,Jakobi Meyers,WR,,16,74,200,1996-11-09,North Carolina State,1,12,12,,,nflverse
+00-0035657,Damien Harris,RB,,37,71,215,1997-02-11,Alabama,1,10,10,,,nflverse
+00-0030288,Rex Burkhead,RB,,34,70,215,1990-07-02,Nebraska,7,10,10,,,nflverse
+00-0034439,Ryan Izzo,TE,,85,77,255,1995-12-21,Florida State,2,10,10,,,nflverse
+00-0034845,Sony Michel,RB,,26,71,215,1995-02-17,Georgia,2,8,8,,,nflverse
+00-0035726,Jakob Johnson,RB,,47,75,255,1994-12-15,Tennessee,1,7,,,,nflverse
+00-0035645,Gunner Olszewski,WR,,80,72,190,1996-11-26,Bemidji State,1,6,,,,nflverse
+00-0027150,Julian Edelman,WR,,11,70,200,1986-05-22,Kent State,11,6,,,,nflverse
+00-0036096,J.J. Taylor,RB,,42,66,185,1998-01-04,Arizona,0,5,,,,nflverse
+00-0035264,Jarrett Stidham,QB,,4,75,214,1996-08-08,Auburn,1,5,,,,nflverse
+00-0036194,Devin Asiasi,TE,,86,75,260,1997-08-14,UCLA,0,4,,,,nflverse
+00-0036225,Dalton Keene,TE,,44,76,251,1999-04-14,Virginia Tech,0,3,,,,nflverse
+00-0031339,Donte Moncrief,WR,,14,74,216,1993-08-06,Mississippi,6,2,,,,nflverse
+00-0026625,Brian Hoyer,QB,,2,74,215,1985-10-13,Michigan State,11,1,,,,nflverse
+00-0027647,Devin McCourty,S,,32,70,195,1987-08-13,Rutgers,10,1,,,,nflverse

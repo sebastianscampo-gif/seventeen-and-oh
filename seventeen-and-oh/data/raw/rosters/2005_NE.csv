@@ -1,0 +1,47 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0021192,Deion Branch,WR,,83,69,193,1979-07-18,,3,16,16,,,nflverse
+00-0019596,Tom Brady,QB,,12,76,225,1977-08-03,Michigan,5,16,16,,,nflverse
+00-0016919,Adam Vinatieri,K,,4,72,202,1972-12-28,South Dakota State,9,14,,,,nflverse
+00-0007115,Artrell Hawkins,CB,,25,70,190,1976-11-24,,7,14,,,,nflverse
+00-0021956,Asante Samuel,CB,,22,70,185,1981-01-06,,2,14,,,,nflverse
+00-0022943,Benjamin Watson,TE,,84,75,253,1980-12-18,Georgia,1,14,14,,,nflverse
+00-0021798,Billy Yates,LG,RG,74,74,305,1980-04-15,,2,14,,,,nflverse
+00-0020344,Brandon Gorin,LT,RT,76,78,308,1978-08-17,,4,14,,,,nflverse
+00-0014539,Chad Scott,CB,,30,73,202,1974-09-06,,8,14,,,,nflverse
+00-0021955,Dan Klecko,DT,,90,71,275,1981-01-12,,2,14,,,,nflverse
+00-0022019,Dan Koppen,C,,67,74,296,1979-09-12,,2,14,,,,nflverse
+00-0015577,Duane Starks,CB,,23,70,174,1974-05-23,,7,14,,,,nflverse
+00-0023519,Ellis Hobbs,CB,,27,69,188,1983-05-16,,0,14,,,,nflverse
+00-0021875,Gene Mruczkowski,C,,64,74,305,1980-06-06,,2,14,,,,nflverse
+00-0019710,Hank Poteat,CB,,32,69,192,1977-08-31,,5,14,,,,nflverse
+00-0021244,Jarvis Green,EDGE,,97,75,290,1979-01-12,,3,14,,,,nflverse
+00-0011279,Josh Miller,P,,8,76,225,1970-07-14,,12,14,,,,nflverse
+00-0023467,Logan Mankins,LG,RG,70,76,307,1982-03-10,Fresno State,0,14,,,,nflverse
+00-0022689,Marquise Hill,EDGE,,91,78,300,1982-08-07,,1,14,,,,nflverse
+00-0020543,Matt Light,LT,RT,72,76,305,1978-06-23,,4,14,,,,nflverse
+00-0023255,Mike Wright,EDGE,,99,76,295,1982-03-01,,0,14,,,,nflverse
+00-0023535,Nick Kaczur,LT,RT,77,76,319,1979-07-28,,0,14,,,,nflverse
+00-0022344,Randall Gay,CB,,21,71,186,1982-05-05,,1,14,,,,nflverse
+00-0020442,Richard Seymour,EDGE,,93,78,310,1979-10-06,,4,14,,,,nflverse
+00-0019807,Ross Tucker,C,,69,76,316,1979-03-02,,4,14,,,,nflverse
+00-0020389,Russ Hochstein,LG,RG,71,76,305,1977-10-07,,4,14,,,,nflverse
+00-0023351,Santonio Thomas,DT,,92,76,308,1981-07-02,,0,14,,,,nflverse
+00-0020457,Steve Neal,LG,RG,61,76,305,1976-10-09,,4,14,,,,nflverse
+00-0021989,Ty Warren,EDGE,,94,77,307,1981-02-06,,2,14,,,,nflverse
+00-0013102,Tyrone Poole,CB,,38,68,188,1972-02-03,,10,14,,,,nflverse
+00-0022712,Vince Wilfork,DT,,75,74,325,1981-11-04,Miami (Fla.),1,14,,,,nflverse
+00-0021353,David Givens,WR,,87,72,212,1980-08-16,,3,13,13,,,nflverse
+00-0004304,Corey Dillon,RB,,28,73,225,1974-10-24,,8,11,11,,,nflverse
+00-0002068,Troy Brown,WR,,80,70,196,1971-07-02,,12,11,11,,,nflverse
+00-0019533,Patrick Pass,RB,,35,70,217,1977-12-31,,5,10,10,,,nflverse
+00-0004673,Tim Dwight,WR,,86,68,180,1975-07-13,,7,10,10,,,nflverse
+00-0020507,Heath Evans,RB,,44,72,250,1978-12-30,,4,9,9,,,nflverse
+00-0005091,Kevin Faulk,RB,,33,68,202,1976-06-05,,6,8,8,,,nflverse
+00-0021175,Andre Davis,WR,,18,73,195,1979-06-12,,3,7,,,,nflverse
+00-0021154,Daniel Graham,TE,,82,75,257,1978-11-16,,3,7,,,,nflverse
+00-0005101,Christian Fauria,TE,,88,76,250,1971-09-22,,10,5,,,,nflverse
+00-0005363,Doug Flutie,QB,,2,70,180,1962-10-23,,20,4,,,,nflverse
+00-0021993,Bethel Johnson,WR,,81,71,200,1979-02-11,,2,3,,,,nflverse
+00-0023662,Matt Cassel,QB,,16,76,230,1982-05-17,USC,0,2,,,,nflverse
+00-0023701,Brandon Childress,WR,,13,70,185,1982-03-31,,0,1,,,,nflverse
+00-0019995,Tom Ashworth,LT,RT,68,78,305,1977-10-10,,4,1,,,,nflverse

@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0026314,Josh Morgan,WR,,84,72,219,1985-06-20,,2,16,16,,,nflverse
+00-0026986,Michael Crabtree,WR,,15,73,214,1987-09-14,Texas Tech,1,16,16,,,nflverse
+00-0024221,Vernon Davis,TE,,85,75,250,1984-01-31,Maryland,4,16,16,,,nflverse
+00-0026762,Alex Boone,LT,RT,75,79,328,1987-05-04,Ohio State,1,14,,,,nflverse
+00-0027433,Alex Joseph,LB,,58,74,240,1988-07-06,,0,14,,,,nflverse
+00-0022824,Andy Lee,P,,4,74,180,1982-08-11,Pittsburgh,6,14,,,,nflverse
+00-0027863,Anthony Davis,LT,RT,76,77,323,1989-10-11,,0,14,,,,nflverse
+00-0022147,Aubrayo Franklin,DT,,92,73,317,1980-08-27,,7,14,,,,nflverse
+00-0018925,Barry Sims,LT,RT,65,77,300,1974-12-01,,11,14,,,,nflverse
+00-0026179,Chilo Rachal,LG,RG,62,77,323,1986-03-15,,2,14,,,,nflverse
+00-0027378,Chris Maragos,S,,40,70,200,1987-01-06,Wisconsin,0,14,,,,nflverse
+00-0026669,Colin Cloherty,TE,,83,74,245,1987-09-16,,1,14,,,,nflverse
+00-0023468,David Baas,C,,64,76,330,1981-09-28,,5,14,,,,nflverse
+00-0020055,Demetric Evans,EDGE,,93,76,275,1979-09-03,,9,14,,,,nflverse
+00-0021341,Eric Heitmann,C,,66,75,312,1980-02-24,,8,14,,,,nflverse
+00-0022863,Isaac Sopoaga,EDGE,,90,74,330,1981-09-04,,6,14,,,,nflverse
+00-0020737,Jeff Reed,K,,3,71,225,1979-04-09,,8,14,,,,nflverse
+00-0011970,Joe Nedney,K,,6,77,220,1973-03-22,,15,14,,,,nflverse
+00-0025415,Joe Staley,LT,RT,74,77,315,1984-08-30,Central Michigan,3,14,,,,nflverse
+00-0020535,Justin Smith,EDGE,,94,76,285,1979-09-30,,9,14,,,,nflverse
+00-0027377,Keaton Kristick,LB,,57,75,234,1988-04-25,,0,14,,,,nflverse
+00-0027869,Mike Iupati,LG,RG,77,77,331,1987-05-12,Idaho,0,14,,,,nflverse
+00-0020495,Nate Clements,CB,,22,72,205,1979-12-12,,9,14,,,,nflverse
+00-0027610,Phillip Adams,CB,,35,71,193,1988-07-20,South Carolina State,0,14,,,,nflverse
+00-0025484,Ray McDonald,EDGE,,91,75,290,1984-09-02,,3,14,,,,nflverse
+00-0026502,Ricky Jean Francois,DT,,95,75,295,1986-11-23,LSU,1,14,,,,nflverse
+00-0022843,Shawntae Spencer,CB,,36,73,190,1982-02-22,,6,14,,,,nflverse
+00-0025534,Tarell Brown,CB,,25,70,193,1985-01-06,Texas,3,14,,,,nflverse
+00-0021064,Tony Wragge,C,,69,76,310,1979-08-14,,8,14,,,,nflverse
+00-0027375,Tramaine Brock,CB,,26,70,197,1988-08-20,Belhaven,0,14,,,,nflverse
+00-0027905,Will Tukuafu,EDGE,,63,75,272,1984-01-03,Oregon,0,14,,,,nflverse
+00-0020384,William James,CB,,31,72,200,1979-06-15,,9,14,,,,nflverse
+00-0021216,Brian Westbrook,RB,,20,70,203,1979-09-02,,8,13,13,,,nflverse
+00-0024389,Delanie Walker,TE,,46,72,242,1984-08-12,Central Missouri State,4,13,13,,,nflverse
+00-0025396,Ted Ginn,WR,,19,71,180,1985-04-12,Ohio State,3,13,13,,,nflverse
+00-0027772,Anthony Dixon,RB,,24,73,233,1987-09-24,Mississippi State,0,12,12,,,nflverse
+00-0023436,Alex Smith,QB,,11,76,217,1984-05-07,Utah,5,11,11,,,nflverse
+00-0023500,Frank Gore,RB,,21,69,217,1983-05-14,Miami,5,11,11,,,nflverse
+00-0024687,Dominique Zeigler,WR,,17,75,185,1984-10-11,,3,8,8,,,nflverse
+00-0020508,Moran Norris,RB,,44,73,250,1978-06-16,,9,7,,,,nflverse
+00-0027780,Nate Byham,TE,,82,76,268,1988-06-27,,0,6,,,,nflverse
+00-0025561,Troy Smith,QB,,1,72,217,1984-07-20,,3,6,,,,nflverse
+00-0023529,Adam Snyder,LG,RG,68,78,325,1982-01-30,,5,1,,,,nflverse
+00-0020608,David Carr,QB,,5,75,216,1979-07-21,,8,1,,,,nflverse
+00-0027608,Kyle Williams,WR,,10,70,186,1988-07-19,,0,1,,,,nflverse

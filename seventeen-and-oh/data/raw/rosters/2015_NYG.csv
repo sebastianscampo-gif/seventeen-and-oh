@@ -1,0 +1,53 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0031055,Andre Williams,RB,,44,71,230,1992-08-28,Boston College,1,16,16,,,nflverse
+00-0022803,Eli Manning,QB,,10,76,218,1981-01-03,Mississippi,11,16,16,,,nflverse
+00-0027155,Rashad Jennings,RB,,23,73,231,1985-03-26,Liberty,6,16,16,,,nflverse
+00-0029262,Rueben Randle,WR,,82,74,208,1991-05-07,LSU,3,16,16,,,nflverse
+00-0027994,Shane Vereen,RB,,34,70,205,1989-03-02,California,4,16,16,,,nflverse
+00-0031235,Odell Beckham,WR,,13,71,198,1992-11-05,Louisiana State,1,15,15,,,nflverse
+00-0029139,Adam Gettis,LG,RG,60,74,305,1988-12-09,Iowa,3,14,,,,nflverse
+00-0024339,Barry Cofield,DT,,98,76,303,1984-03-19,Northwestern,9,14,,,,nflverse
+00-0031622,Bobby Hart,LT,RT,68,76,334,1994-08-21,Florida State,0,14,,,,nflverse
+00-0032284,Brad Bars,EDGE,,66,75,263,1992-04-24,,0,14,,,,nflverse
+00-0030142,Brad Wing,P,,9,75,205,1991-01-27,LSU,2,14,,,,nflverse
+00-0021706,Cullen Jenkins,EDGE,,99,74,305,1981-01-20,Central Michigan,12,14,,,,nflverse
+00-0026574,Dallas Reynolds,C,,61,76,320,1984-04-23,Brigham Young,6,14,,,,nflverse
+00-0026156,Dominique Rodgers-Cromartie,CB,,41,74,193,1986-04-07,Tennessee State,7,14,,,,nflverse
+00-0028114,Dwayne Harris,WR,,17,70,202,1987-09-16,East Carolina,4,14,14,,,nflverse
+00-0029821,Emmett Cleary,LT,RT,63,79,324,1990-04-27,Boston College,2,14,,,,nflverse
+00-0026381,Geoff Schwartz,LG,RG,74,78,340,1986-07-11,,7,14,,,,nflverse
+00-0027818,George Selvie,EDGE,,93,76,270,1987-03-06,South Florida,5,14,,,,nflverse
+00-0031155,James Morris,LB,,46,73,245,1991-11-20,,1,14,,,,nflverse
+00-0027867,Jason Pierre-Paul,EDGE,,90,77,278,1989-01-01,South Florida,5,14,,,,nflverse
+00-0031403,Jay Bromley,DT,,96,75,310,1992-05-28,Syracuse,1,14,,,,nflverse
+00-0029267,Jayron Hosley,CB,,28,70,178,1990-09-18,Virginia Tech,3,14,,,,nflverse
+00-0027678,John Jerry,LG,RG,77,77,340,1986-06-14,Mississippi,5,14,,,,nflverse
+00-0030063,Johnathan Hankins,DT,,95,74,320,1992-03-30,Ohio State,2,14,,,,nflverse
+00-0021940,Josh Brown,K,,3,72,202,1979-04-29,,12,14,,,,nflverse
+00-0030585,Justin Pugh,LG,RG,67,76,301,1990-08-15,Syracuse,2,14,,,,nflverse
+00-0028032,Kenrick Ellis,DT,,71,76,346,1987-12-10,,4,14,,,,nflverse
+00-0030776,Kerry Wynn,EDGE,,72,77,264,1991-02-12,Richmond,1,14,,,,nflverse
+00-0029312,Markus Kuhn,DT,,78,76,303,1986-05-05,,3,14,,,,nflverse
+00-0027768,Marshall Newhouse,LT,RT,73,76,328,1988-09-29,Texas Christian,5,14,,,,nflverse
+00-0030082,Montori Hughes,DT,,79,76,350,1990-08-25,Tennessee-Martin,2,14,,,,nflverse
+00-0030785,Nikita Whitlock,RB,,49,70,250,1991-05-16,,1,14,,,,nflverse
+00-0027957,Prince Amukamara,CB,,20,72,207,1989-06-06,Nebraska,4,14,,,,nflverse
+00-0026994,Robert Ayers,EDGE,,91,75,275,1985-09-06,Tennessee,6,14,,,,nflverse
+00-0030425,Stansly Maponga,EDGE,,71,74,265,1991-03-05,Texas Christian,2,14,,,,nflverse
+00-0030695,Tramain Jacobs,S,,25,71,191,1992-05-20,Texas A&M,1,14,,,,nflverse
+00-0029314,Trevin Wade,CB,,31,70,190,1989-08-01,Arizona,3,14,,,,nflverse
+00-0025608,Trumaine McBride,CB,,38,69,185,1985-09-24,Mississippi,8,14,,,,nflverse
+00-0027265,Victor Cruz,WR,,80,72,204,1986-11-11,Massachusetts,5,14,,,,nflverse
+00-0031238,Weston Richburg,C,,70,75,298,1991-07-09,Colorado State,1,14,,,,nflverse
+00-0032004,Will Tye,TE,,45,74,262,1991-11-04,Stony Brook,0,13,13,,,nflverse
+00-0030274,Myles White,WR,,19,72,190,1990-03-30,Louisiana Tech,2,9,9,,,nflverse
+00-0028838,Larry Donnell,TE,,84,78,265,1988-11-01,Grambling State,3,8,8,,,nflverse
+00-0030860,Orleans Darkwa,RB,,26,72,215,1992-02-28,Tulane,1,8,8,,,nflverse
+00-0027005,Hakeem Nicks,WR,,88,73,208,1988-01-14,North Carolina,6,6,,,,nflverse
+00-0031462,Jerome Cunningham,TE,,86,75,250,1991-05-25,Southern Connecticut State,1,6,,,,nflverse
+00-0031953,Geremy Davis,WR,,18,74,217,1992-01-10,Connecticut,0,3,,,,nflverse
+00-0023752,Daniel Fells,TE,,85,76,260,1983-09-23,California-Davis,9,2,,,,nflverse
+00-0032001,Ben Edwards,WR,,83,72,200,1992-04-10,,0,1,,,,nflverse
+00-0032259,Ereck Flowers,LT,RT,76,77,329,1994-04-25,Miami,0,1,,,,nflverse
+00-0031744,Matt LaCosse,TE,,81,78,245,1992-09-21,Illinois,0,1,,,,nflverse
+00-0030586,Ryan Nassib,QB,,12,74,223,1990-03-10,Syracuse,2,1,,,,nflverse

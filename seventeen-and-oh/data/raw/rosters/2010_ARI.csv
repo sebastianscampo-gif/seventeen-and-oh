@@ -1,0 +1,45 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022921,Larry Fitzgerald,WR,,11,75,218,1983-08-31,Pittsburgh,6,16,16,,,nflverse
+00-0026289,Tim Hightower,RB,,34,72,222,1986-05-23,Richmond,2,16,16,,,nflverse
+00-0027350,A.J. Jefferson,CB,,20,73,190,1988-04-04,,0,14,,,,nflverse
+00-0025420,Alan Branch,DT,,78,78,338,1984-12-29,Michigan,3,14,,,,nflverse
+00-0005058,Alan Faneca,LG,RG,66,77,316,1976-12-07,,12,14,,,,nflverse
+00-0022018,Ben Claxton,C,,62,75,300,1980-07-30,,7,14,,,,nflverse
+00-0022954,Ben Graham,P,,5,77,236,1973-11-02,,5,14,,,,nflverse
+00-0026365,Brandon Keith,LT,RT,72,77,335,1984-11-21,,2,14,,,,nflverse
+00-0025527,Brandon McDonald,CB,,33,70,185,1985-08-26,,3,14,,,,nflverse
+00-0013845,Bryan Robinson,DT,,97,76,305,1974-06-22,,13,14,,,,nflverse
+00-0026190,Calais Campbell,EDGE,,93,80,300,1986-09-01,Miami,2,14,,,,nflverse
+00-0025906,Curtis Gatewood,LB,,57,75,250,1985-05-18,,2,14,,,,nflverse
+00-0027877,Dan Williams,DT,,92,74,327,1987-06-01,Tennessee,0,14,,,,nflverse
+00-0022930,Darnell Dockett,DT,,90,76,290,1981-05-27,,6,14,,,,nflverse
+00-0024256,Deuce Lutui,LG,RG,76,76,338,1983-05-05,,4,14,,,,nflverse
+00-0026156,Dominique Rodgers-Cromartie,CB,,29,74,182,1986-04-07,Tennessee State,2,14,,,,nflverse
+00-0024322,Gabe Watson,DT,,98,76,338,1983-09-24,,4,14,,,,nflverse
+00-0026910,Gregory Toler,CB,,28,72,192,1985-01-02,St. Paul's (VA),1,14,,,,nflverse
+00-0021974,Jeremy Bridges,LT,RT,73,77,318,1980-04-19,,7,14,,,,nflverse
+00-0026256,Kenny Iwebema,EDGE,,91,76,280,1985-02-06,,2,14,,,,nflverse
+00-0025392,Levi Brown,LT,RT,75,78,324,1984-03-16,,3,14,,,,nflverse
+00-0025682,Lyle Sendlein,C,,63,75,308,1984-03-16,Texas,3,14,,,,nflverse
+00-0027353,Marshay Green,S,,30,70,175,1986-01-14,,0,14,,,,nflverse
+00-0027730,O'Brien Schofield,LB,,50,74,231,1987-04-03,,0,14,,,,nflverse
+00-0022905,Rex Hadnot,LG,RG,70,74,310,1982-01-28,,6,14,,,,nflverse
+00-0025608,Trumaine McBride,CB,,23,69,185,1985-09-24,Mississippi,3,14,,,,nflverse
+00-0027007,Chris Wells,RB,,26,74,229,1988-08-07,,1,13,13,,,nflverse
+00-0026956,LaRod Stephens-Howling,RB,,36,67,185,1987-04-26,,1,13,13,,,nflverse
+00-0023645,Derek Anderson,QB,,3,78,235,1983-06-15,Oregon State,5,12,12,,,nflverse
+00-0025529,Steve Breaston,WR,,15,72,189,1983-08-20,,3,12,12,,,nflverse
+00-0027691,Andre Roberts,WR,,12,71,195,1988-01-09,Citadel,0,11,11,,,nflverse
+00-0023108,Stephen Spach,TE,,83,76,260,1982-07-18,,5,11,11,,,nflverse
+00-0026221,Early Doucet,WR,,80,72,212,1985-10-28,,2,10,10,,,nflverse
+00-0025602,Ben Patrick,TE,,89,75,264,1984-08-23,,3,9,9,,,nflverse
+00-0022288,Jason Wright,RB,,31,70,212,1982-07-12,,6,8,8,,,nflverse
+00-0027352,Max Komar,WR,,18,71,202,1987-04-30,,0,8,8,,,nflverse
+00-0027825,Jim Dray,TE,,81,77,255,1986-12-31,Stanford,0,7,,,,nflverse
+00-0027347,Max Hall,QB,,6,73,205,1985-10-01,,0,6,,,,nflverse
+00-0025568,Reagan Maui'a,RB,,45,72,260,1984-07-06,,3,6,,,,nflverse
+00-0027349,Stephen Williams,WR,,14,77,208,1986-06-29,,0,6,,,,nflverse
+00-0027754,John Skelton,QB,,19,77,244,1988-03-17,,0,5,,,,nflverse
+00-0019770,Jay Feely,K,,4,70,208,1976-05-23,,9,1,,,,nflverse
+00-0025668,Michael Adams,CB,,27,68,181,1985-06-17,,3,1,,,,nflverse
+00-0025749,Richard Bartel,QB,,2,75,230,1983-02-03,,3,1,,,,nflverse

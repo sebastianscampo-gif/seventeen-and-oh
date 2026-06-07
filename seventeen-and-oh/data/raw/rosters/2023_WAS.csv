@@ -1,0 +1,77 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0037741,Jahan Dotson,WR,,1,71,182,2000-03-22,Penn State,1,17,17,,,nflverse
+00-0037077,Sam Howell,QB,,14,73,225,2000-11-16,North Carolina,1,17,17,,,nflverse
+00-0035659,Terry McLaurin,WR,,17,72,210,1995-09-15,Ohio State,4,17,17,,,nflverse
+00-0036328,Antonio Gibson,RB,,24,74,221,1998-06-23,Memphis,3,16,16,,,nflverse
+00-0033282,Curtis Samuel,WR,,4,71,195,1996-08-11,Ohio State,6,16,16,,,nflverse
+00-0031260,Logan Thomas,TE,,82,78,250,1991-07-01,Virginia Tech,9,16,16,,,nflverse
+00-0037746,Brian Robinson,RB,,8,73,228,1999-03-22,Alabama,1,15,15,,,nflverse
+00-0034587,Abdullah Anderson,DT,,92,76,295,1996-01-24,Bucknell,5,14,,,,nflverse
+00-0038073,Alex Akingbulu,LT,RT,62,77,300,1997-12-28,Fresno State,1,14,,,,nflverse
+00-0038635,Andre Jones,EDGE,,50,77,258,1998-10-25,Louisiana-Lafayette,0,14,,,,nflverse
+00-0033831,Andrew Wylie,LT,RT,71,78,309,1994-08-19,Eastern Michigan,6,14,,,,nflverse
+00-0037168,Armani Rogers,TE,,88,77,227,1997-12-04,Ohio,1,14,,,,nflverse
+00-0036625,Benjamin St-Juste,CB,,25,75,205,1997-09-08,Minnesota,2,14,,,,nflverse
+00-0036050,Benning Potoa'e,EDGE,,79,75,290,1996-09-17,Washington,3,14,,,,nflverse
+00-0039010,Braeden Daniels,LT,RT,79,76,297,2000-08-22,Utah,0,14,,,,nflverse
+00-0035102,Brandon Dillon,TE,,46,77,250,1997-04-30,"Marian, Ind.",4,14,,,,nflverse
+00-0036403,Casey Toohill,EDGE,,95,77,247,1996-08-21,Stanford,3,14,,,,nflverse
+00-0031095,Charles Leno,LT,RT,72,75,305,1991-10-09,Boise State,9,14,,,,nflverse
+00-0037092,Chris Paul,LG,RG,75,76,324,1998-11-19,Tulsa,1,14,,,,nflverse
+00-0037095,Christian Holmes,CB,,34,73,201,1997-11-14,Oklahoma State,1,14,,,,nflverse
+00-0035672,Cody Barton,LB,,57,74,237,1996-11-13,Utah,4,14,,,,nflverse
+00-0030725,Cornelius Lucas,LT,RT,78,80,328,1991-07-18,Kansas State,9,14,,,,nflverse
+00-0037309,Curtis Brooks,DT,,68,74,285,1998-02-06,Cincinnati,1,14,,,,nflverse
+00-0037164,Curtis Hodges,TE,,80,80,240,1999-07-03,Arizona State,1,14,,,,nflverse
+00-0034333,Daron Payne,DT,,94,75,320,1997-05-27,Alabama,5,14,,,,nflverse
+00-0036638,Darrick Forrest,S,,22,71,200,1999-05-22,Cincinnati,2,14,,,,nflverse
+00-0036447,David Bada,DT,,64,76,292,1995-04-24,No College,3,14,,,,nflverse
+00-0031596,David Mayo,LB,,51,74,245,1993-08-18,Texas State,8,14,,,,nflverse
+00-0036671,Dax Milne,WR,,15,73,190,1999-06-23,Brigham Young,2,14,,,,nflverse
+00-0036090,De'Jon Harris,LB,,45,72,244,1997-11-01,Arkansas,3,14,,,,nflverse
+00-0037171,Drew White,LB,,58,72,228,1998-09-15,Notre Dame,1,14,,,,nflverse
+00-0031500,Efe Obada,EDGE,,97,78,265,1992-04-13,No College,8,14,,,,nflverse
+00-0039151,Emmanuel Forbes,CB,,13,72,180,2001-01-13,Mississippi State,0,14,,,,nflverse
+00-0036882,Jabril Cox,LB,,41,75,233,1998-04-16,Louisiana State,2,14,,,,nflverse
+00-0036043,Jace Whittaker,CB,,0,71,185,1995-07-16,Arizona,3,14,,,,nflverse
+00-0036197,Jake Fromm,QB,,11,74,222,1998-07-30,Georgia,3,14,,,,nflverse
+00-0038423,Jalen Harris,EDGE,,56,76,250,1999-02-26,Arizona,0,14,,,,nflverse
+00-0036351,James Smith-Williams,EDGE,,96,76,265,1997-07-30,North Carolina State,3,14,,,,nflverse
+00-0036614,Jamin Davis,LB,,52,76,234,1998-12-12,Kentucky,2,14,,,,nflverse
+00-0034465,Jeremy Reaves,S,,39,71,205,1996-08-29,South Alabama,5,14,,,,nflverse
+00-0035192,Joey Slye,K,,6,71,213,1996-04-10,Virginia Tech,4,14,,,,nflverse
+00-0036628,John Bates,TE,,87,78,256,1997-11-06,Boise State,2,14,14,,,nflverse
+00-0037283,John Ridgeway,DT,,91,77,320,1999-05-07,Arkansas,1,14,,,,nflverse
+00-0033523,Jonathan Allen,DT,,93,75,300,1995-01-16,Alabama,6,14,,,,nflverse
+00-0038835,Joshua Pryor,DT,,59,76,280,1999-10-25,Bowie State,0,14,,,,nflverse
+00-0035997,Julian Good-Jones,LT,RT,61,77,308,1997-03-02,Iowa State,3,14,,,,nflverse
+00-0038581,K.J. Henry,EDGE,,55,76,255,1999-01-27,Clemson,0,14,,,,nflverse
+00-0036349,Kamren Curl,S,,31,74,203,1999-03-03,Arkansas,3,14,,,,nflverse
+00-0033084,Kendall Fuller,CB,,29,71,198,1995-02-13,Virginia Tech,7,14,,,,nflverse
+00-0036343,Khaleke Hudson,LB,,47,72,220,1997-12-06,Michigan,3,14,,,,nflverse
+00-0037172,Kyric McGowan,WR,,83,70,200,,Georgia Tech,1,14,,,,nflverse
+00-0038381,Kyu Blu Kelly,CB,,36,72,185,2001-05-22,Stanford,0,14,,,,nflverse
+00-0038839,Mitchell Tinsley,WR,,86,73,205,1999-09-15,Penn State,0,14,,,,nflverse
+00-0034445,Nick Gates,C,,63,77,307,1995-11-27,Nebraska,5,14,,,,nflverse
+00-0038841,Nick Whiteside,CB,,37,73,200,2000-05-01,Saginaw Valley State,0,14,,,,nflverse
+00-0038100,Percy Butler,S,,35,72,191,2000-05-05,Louisiana-Lafayette,1,14,,,,nflverse
+00-0038099,Phidarian Mathis,DT,,98,76,312,1998-04-26,Alabama,1,14,,,,nflverse
+00-0039149,Quan Martin,CB,,20,72,195,2000-04-17,Illinois,0,14,,,,nflverse
+00-0039008,Ricky Stromberg,C,,53,76,315,2000-11-10,Arkansas,0,14,,,,nflverse
+00-0036334,Saahdiq Charles,LG,RG,77,76,295,1999-07-26,Louisiana State,3,14,,,,nflverse
+00-0036618,Samuel Cosmi,LG,RG,76,78,295,1999-02-16,Texas,2,14,,,,nflverse
+00-0034496,Sean Chandler,S,,48,70,205,1996-04-27,Temple,5,14,,,,nflverse
+00-0036666,Shaka Toney,EDGE,,58,74,252,1998-01-07,Penn State,2,14,,,,nflverse
+00-0037833,Tariq Castro-Fields,CB,,26,73,195,1999-01-14,Penn State,1,14,,,,nflverse
+00-0036421,Terrell Burgess,S,,32,71,198,1998-11-12,Utah,3,14,,,,nflverse
+00-0034571,Trenton Scott,LT,RT,73,77,320,1994-01-25,Grambling,5,14,,,,nflverse
+00-0030869,Tyler Larsen,C,,69,76,325,1991-07-08,Utah State,9,14,,,,nflverse
+00-0036626,Dyami Brown,WR,,2,72,185,1999-11-01,North Carolina,2,13,13,,,nflverse
+00-0034297,Byron Pringle,WR,,3,73,205,1993-11-17,Kansas State,5,12,12,,,nflverse
+00-0038611,Chris Rodriguez,RB,,23,71,224,1999-09-26,Kentucky,0,8,8,,,nflverse
+00-0037078,Cole Turner,TE,,85,78,240,2000-03-16,Nevada,1,7,,,,nflverse
+00-0031941,Jamison Crowder,WR,,83,69,177,1993-06-17,Duke,8,7,,,,nflverse
+00-0033296,Alex Armah,RB,,40,74,255,1994-05-17,West Georgia,6,3,,,,nflverse
+00-0035715,Derrick Gore,RB,,38,69,212,1994-12-13,Louisiana-Monroe,4,2,,,,nflverse
+00-0033119,Jacoby Brissett,QB,,12,76,235,1992-12-11,North Carolina State,7,2,,,,nflverse
+00-0030140,Tress Way,P,,5,73,220,1990-04-18,Oklahoma,10,1,,,,nflverse

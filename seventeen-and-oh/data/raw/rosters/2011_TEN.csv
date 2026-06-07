@@ -1,0 +1,44 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0026164,Chris Johnson,RB,,28,71,191,1985-09-23,East Carolina,3,16,16,,,nflverse
+00-0027061,Jared Cook,TE,,89,77,248,1987-04-07,South Carolina,2,16,16,,,nflverse
+00-0007091,Matt Hasselbeck,QB,,8,76,225,1975-09-25,Boston College,13,16,16,,,nflverse
+00-0023367,Nate Washington,WR,,85,73,177,1983-08-28,,6,16,16,,,nflverse
+00-0027893,Damian Williams,WR,,17,73,199,1988-05-26,,1,15,15,,,nflverse
+00-0026266,Lavelle Hawkins,WR,,87,71,194,1986-07-12,,3,15,15,,,nflverse
+00-0027705,Alterraun Verner,CB,,20,70,187,1988-12-13,UCLA,1,14,,,,nflverse
+00-0028113,Byron Stingily,LT,RT,68,77,313,1988-09-09,,0,14,,,,nflverse
+00-0027507,Chris Hawkins,CB,,35,73,184,1986-04-12,,1,14,,,,nflverse
+00-0024429,Cortland Finnegan,CB,,31,70,188,1984-02-02,,5,14,,,,nflverse
+00-0022814,Dave Ball,EDGE,,98,77,255,1981-01-04,,7,14,,,,nflverse
+00-0023548,David Stewart,LT,RT,76,79,315,1982-08-28,,6,14,,,,nflverse
+00-0027868,Derrick Morgan,EDGE,,90,75,278,1989-01-06,Georgia Tech,1,14,,,,nflverse
+00-0025925,Fernando Velasco,C,,61,76,312,1985-02-22,,3,14,,,,nflverse
+00-0022755,Jake Scott,LG,RG,73,77,292,1981-04-16,,7,14,,,,nflverse
+00-0026194,Jason Jones,EDGE,,91,77,276,1986-05-23,Eastern Michigan,3,14,,,,nflverse
+00-0028015,Jurrell Casey,DT,,99,73,300,1989-12-05,Southern California,0,14,,,,nflverse
+00-0028080,Karl Klug,DT,,97,75,275,1988-03-31,Iowa,0,14,,,,nflverse
+00-0026554,Kevin Malast,LB,,50,73,233,1986-06-06,,2,14,,,,nflverse
+00-0027333,Kevin Matthews,C,,60,75,302,1987-02-04,,1,14,,,,nflverse
+00-0025502,Leroy Harris,LG,RG,64,75,303,1984-06-06,,4,14,,,,nflverse
+00-0027571,Malcolm Sheppard,EDGE,,96,74,289,1988-02-13,,1,14,,,,nflverse
+00-0023476,Michael Roos,LT,RT,71,79,320,1982-10-05,,6,14,,,,nflverse
+00-0020962,Rob Bironas,K,,2,72,210,1978-01-29,,9,14,,,,nflverse
+00-0027775,Rusty Smith,QB,,11,77,226,1987-01-28,,1,14,,,,nflverse
+00-0027038,Sen'Derrick Marks,DT,,94,74,294,1987-02-23,Auburn,2,14,,,,nflverse
+00-0021679,Shaun Smith,DT,,93,74,325,1981-08-19,,8,14,,,,nflverse
+00-0026243,William Hayes,EDGE,,95,75,272,1985-05-02,Winston-Salem State,3,14,,,,nflverse
+00-0028150,Zach Clayton,DT,,69,74,299,1988-01-01,,0,14,,,,nflverse
+00-0027120,Javon Ringer,RB,,21,69,207,1987-02-02,,2,12,12,,,nflverse
+00-0027816,Marc Mariani,WR,,83,73,190,1987-05-02,Montana,1,11,11,,,nflverse
+00-0026225,Craig Stevens,TE,,88,75,268,1984-09-01,,3,9,9,,,nflverse
+00-0024489,Ahmard Hall,RB,,45,71,241,1979-11-13,,5,8,8,,,nflverse
+00-0028068,Jamie Harper,RB,,23,71,233,1989-09-11,,0,8,8,,,nflverse
+00-0021154,Daniel Graham,TE,,86,75,257,1978-11-16,,9,5,,,,nflverse
+00-0027946,Jake Locker,QB,,10,74,234,1988-06-15,,0,5,,,,nflverse
+00-0026173,Donnie Avery,WR,,82,71,183,1984-06-12,,3,4,,,,nflverse
+00-0027006,Kenny Britt,WR,,18,75,215,1988-09-19,Rutgers,2,3,,,,nflverse
+00-0025825,Brett Kern,P,,6,74,217,1986-02-17,Toledo,3,1,,,,nflverse
+00-0022771,Eugene Amano,C,,54,75,300,1982-03-01,,7,1,,,,nflverse
+00-0027136,Jason McCourty,CB,,30,72,188,1987-08-13,Rutgers,2,1,,,,nflverse
+00-0025610,Mike Otto,LT,RT,66,77,310,1983-07-24,,4,1,,,,nflverse
+00-0028189,Tommie Campbell,CB,,37,75,205,1987-09-19,,0,1,,,,nflverse

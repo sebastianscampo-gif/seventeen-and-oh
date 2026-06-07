@@ -1,0 +1,44 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0029141,Alfred Morris,RB,,46,70,218,1988-12-12,Florida Atlantic,1,16,16,,,nflverse
+00-0026345,Pierre Garcon,WR,,88,72,212,1986-08-08,Mount Union,5,16,16,,,nflverse
+00-0028043,Roy Helu,RB,,29,71,215,1988-12-07,Nebraska,2,16,16,,,nflverse
+00-0020494,Santana Moss,WR,,89,70,189,1979-06-01,,12,16,16,,,nflverse
+00-0029139,Adam Gettis,LG,RG,73,74,292,1988-12-09,Iowa,1,14,,,,nflverse
+00-0024339,Barry Cofield,DT,,96,76,318,1984-03-19,Northwestern,7,14,,,,nflverse
+00-0028970,Chase Minnifield,S,,25,72,185,1989-03-31,,1,14,,,,nflverse
+00-0026512,Chris Baker,EDGE,,92,74,333,1987-10-08,Hampton,4,14,,,,nflverse
+00-0024271,Chris Chester,LG,RG,66,75,309,1983-01-12,Oklahoma,7,14,,,,nflverse
+00-0028191,Chris Neild,DT,,95,74,325,1987-12-01,,2,14,,,,nflverse
+00-0030404,Chris Thompson,RB,,25,68,187,1990-10-20,Florida State,0,14,,,,nflverse
+00-0030420,David Amerson,CB,,39,73,205,1991-12-08,North Carolina State,0,14,,,,nflverse
+00-0022923,DeAngelo Hall,CB,,23,70,193,1983-11-19,Virginia Tech,9,14,,,,nflverse
+00-0026945,E.J. Biggers,CB,,30,72,185,1987-06-13,,4,14,,,,nflverse
+00-0027979,Jarvis Jenkins,EDGE,,99,76,315,1988-04-24,Clemson,2,14,,,,nflverse
+00-0030415,Jawan Jamison,RB,,47,67,203,1991-11-23,,0,14,,,,nflverse
+00-0029319,Josh Bellamy,WR,,17,72,206,1989-05-18,Louisville,1,14,,,,nflverse
+00-0029666,Josh LeRibeus,LG,RG,67,74,315,1989-07-02,Southern Methodist,1,14,,,,nflverse
+00-0025442,Josh Wilson,CB,,26,69,188,1985-03-11,Maryland,6,14,,,,nflverse
+00-0028787,Kai Forbath,K,,2,71,197,1987-09-02,UCLA,2,14,,,,nflverse
+00-0024410,Kedric Golston,EDGE,,64,76,318,1983-05-30,Georgia,7,14,,,,nflverse
+00-0026248,Kory Lichtensteiger,LG,RG,78,74,284,1985-03-22,Bowling Green,5,14,,,,nflverse
+00-0027215,Logan Paulsen,TE,,82,77,261,1987-02-26,UCLA,3,14,14,,,nflverse
+00-0022121,Rex Grossman,QB,,8,73,225,1980-08-23,,10,14,,,,nflverse
+00-0024515,Saverio Rocca,P,,6,77,263,1973-11-20,,6,14,,,,nflverse
+00-0023954,Stephen Bowen,EDGE,,72,77,310,1984-03-28,Hofstra,7,14,,,,nflverse
+00-0029144,Tom Compton,LT,RT,68,77,308,1989-05-10,South Dakota,1,14,,,,nflverse
+00-0027857,Trent Williams,LT,RT,71,77,325,1988-07-19,Oklahoma,3,14,,,,nflverse
+00-0029297,Trenton Robinson,S,,34,69,193,1990-02-16,,1,14,,,,nflverse
+00-0025826,Tyler Polumbus,LT,RT,74,80,305,1985-04-10,Colorado,5,14,,,,nflverse
+00-0029869,Will Compton,LB,,53,74,230,1989-09-19,Nebraska,0,14,,,,nflverse
+00-0024448,Will Montgomery,C,,63,75,304,1983-02-13,Virginia Tech,7,14,,,,nflverse
+00-0028116,Aldrick Robinson,WR,,11,70,181,1988-09-24,Southern Methodist,2,13,13,,,nflverse
+00-0026314,Josh Morgan,WR,,15,73,220,1985-06-20,,5,13,13,,,nflverse
+00-0029665,Robert Griffin,QB,,10,74,217,1990-02-12,Baylor,1,13,13,,,nflverse
+00-0028017,Leonard Hankerson,WR,,85,74,211,1989-01-30,,2,10,10,,,nflverse
+00-0026852,Darrel Young,RB,,36,71,251,1987-04-08,Villanova,4,9,9,,,nflverse
+00-0030472,Jordan Reed,TE,,86,74,243,1990-07-03,Florida,0,9,9,,,nflverse
+00-0026188,Fred Davis,TE,,83,76,247,1986-01-15,,5,7,,,,nflverse
+00-0029604,Kirk Cousins,QB,,12,75,209,1988-08-19,Michigan State,1,5,,,,nflverse
+00-0028093,Niles Paul,TE,,84,73,233,1989-08-09,Nebraska,2,5,,,,nflverse
+00-0029848,Nick Williams,WR,,13,70,184,1990-11-23,Connecticut,0,4,,,,nflverse
+00-0028115,Evan Royster,RB,,22,73,216,1987-11-26,,2,2,,,,nflverse

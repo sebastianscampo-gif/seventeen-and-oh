@@ -1,0 +1,49 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022156,Bryant Johnson,WR,,80,75,213,1981-03-07,,4,16,16,,,nflverse
+00-0008241,Edgerrin James,RB,,32,72,220,1978-08-01,,8,16,16,,,nflverse
+00-0022921,Larry Fitzgerald,WR,,11,75,226,1983-08-31,Pittsburgh,3,15,15,,,nflverse
+00-0022079,Al Johnson,C,,50,77,305,1979-01-27,,4,14,,,,nflverse
+00-0025420,Alan Branch,DT,,78,77,332,1984-12-29,Michigan,0,14,,,,nflverse
+00-0022793,Antonio Smith,EDGE,,94,76,282,1981-10-21,Oklahoma State,3,14,,,,nflverse
+00-0023443,Antrel Rolle,CB,,21,72,208,1982-12-16,Miami (Fla.),2,14,,,,nflverse
+00-0001176,Bert Berry,EDGE,,92,75,264,1975-08-15,,10,14,,,,nflverse
+00-0022862,Bo Schobel,EDGE,,95,77,264,1981-03-24,,3,14,,,,nflverse
+00-0020422,Chris Cooper,DT,,93,77,280,1977-02-27,,6,14,,,,nflverse
+00-0022930,Darnell Dockett,DT,,90,76,285,1981-05-27,,3,14,,,,nflverse
+00-0025675,David Holloway,LB,,57,74,230,1983-12-04,,0,14,,,,nflverse
+00-0024256,Deuce Lutui,LG,RG,76,76,328,1983-05-05,,1,14,,,,nflverse
+00-0023546,Elton Brown,LG,RG,61,77,332,1982-05-22,,2,14,,,,nflverse
+00-0023510,Eric Green,CB,,25,71,195,1982-03-16,,2,14,,,,nflverse
+00-0024322,Gabe Watson,DT,,98,75,332,1983-09-24,,1,14,,,,nflverse
+00-0023479,J.J. Arrington,RB,,28,69,212,1983-01-23,,2,14,14,,,nflverse
+00-0023188,Jamaica Rector,WR,,10,70,183,1981-08-10,,2,14,,,,nflverse
+00-0020402,Joe Tafoya,EDGE,,71,76,258,1978-09-06,,6,14,,,,nflverse
+00-0019954,Keydrick Vincent,LG,RG,73,77,325,1978-04-13,,6,14,,,,nflverse
+00-0017200,Kurt Warner,QB,,13,74,222,1971-06-22,,13,14,14,,,nflverse
+00-0025392,Levi Brown,LT,RT,75,76,322,1984-03-16,,0,14,,,,nflverse
+00-0025682,Lyle Sendlein,C,,63,74,300,1984-03-16,Texas,0,14,,,,nflverse
+00-0025668,Michael Adams,S,,27,68,178,1985-06-17,,0,14,,,,nflverse
+00-0020406,Mike Gandy,LT,RT,69,76,308,1979-01-03,,6,14,,,,nflverse
+00-0019676,Neil Rackers,K,,1,73,202,1976-08-16,,7,14,,,,nflverse
+00-0022904,Nick Leckey,C,,60,75,300,1982-03-12,,3,14,,,,nflverse
+00-0025452,Quentin Moses,EDGE,,95,77,260,1983-11-18,,0,14,,,,nflverse
+00-0019613,Ralph Brown,CB,,20,70,185,1978-09-16,,7,14,,,,nflverse
+00-0021911,Reggie Wells,LG,RG,74,76,305,1980-11-03,,4,14,,,,nflverse
+00-0021503,Roderick Hood,CB,,26,71,198,1981-10-03,,4,14,,,,nflverse
+00-0020299,Rodney Bailey,DT,,91,75,309,1979-10-07,,6,14,,,,nflverse
+00-0020412,Ross Kolodziej,EDGE,,96,75,289,1978-05-11,,6,14,,,,nflverse
+00-0025672,Tim Castille,RB,,46,71,234,1984-05-29,,0,14,,,,nflverse
+00-0022215,Tim Euhus,TE,,84,77,256,1980-10-02,,3,14,,,,nflverse
+00-0022084,Anquan Boldin,WR,,81,73,217,1980-10-03,Florida State,4,12,12,,,nflverse
+00-0024287,Leonard Pope,TE,,82,80,258,1983-09-10,,1,10,10,,,nflverse
+00-0020022,Marcel Shipp,RB,,31,71,224,1978-08-08,,6,9,9,,,nflverse
+00-0021647,Jerheme Urban,WR,,85,75,212,1980-11-26,,4,8,8,,,nflverse
+00-0024069,Troy Bienemann,TE,,83,77,253,1983-02-19,,1,7,,,,nflverse
+00-0025602,Ben Patrick,TE,,89,76,270,1984-08-23,,0,5,,,,nflverse
+00-0024225,Matt Leinart,QB,,7,77,232,1983-05-11,,1,5,,,,nflverse
+00-0025529,Steve Breaston,WR,,15,72,189,1983-08-20,,0,5,,,,nflverse
+00-0019587,Terrelle Smith,RB,,45,72,250,1978-03-12,,7,5,,,,nflverse
+00-0011641,Sean Morey,WR,,87,71,193,1976-02-26,,8,4,,,,nflverse
+00-0019623,Tim Rattay,QB,,12,72,200,1977-03-15,,7,4,,,,nflverse
+00-0001157,Mitch Berger,P,,17,76,228,1972-06-24,,13,1,,,,nflverse
+00-0019816,Tim Hasselbeck,QB,,4,73,214,1978-04-06,,6,1,,,,nflverse

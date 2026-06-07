@@ -1,0 +1,48 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0023564,Darren Sproles,RB,,43,66,190,1983-06-20,Kansas State,6,16,16,,,nflverse
+00-0020531,Drew Brees,QB,,9,72,209,1979-01-15,Purdue,10,16,16,,,nflverse
+00-0027696,Jimmy Graham,TE,,80,78,260,1986-11-24,Miami,1,16,16,,,nflverse
+00-0024813,Pierre Thomas,RB,,23,71,215,1984-12-18,Illinois,4,16,16,,,nflverse
+00-0022929,Devery Henderson,WR,,19,71,200,1982-03-26,,7,15,15,,,nflverse
+00-0025414,Robert Meachem,WR,,17,74,210,1984-09-28,,4,15,15,,,nflverse
+00-0022147,Aubrayo Franklin,DT,,99,73,317,1980-08-27,,8,14,,,,nflverse
+00-0025980,Brian De La Puente,LG,RG,60,74,306,1985-05-13,California,3,14,,,,nflverse
+00-0027962,Cameron Jordan,EDGE,,94,76,287,1989-07-10,California,0,14,,,,nflverse
+00-0026304,Carl Nicks,LG,RG,77,77,343,1985-05-14,,3,14,,,,nflverse
+00-0027669,Charles Brown,LT,RT,71,77,297,1987-04-10,USC,1,14,,,,nflverse
+00-0023503,Courtney Roby,WR,,15,72,189,1983-01-10,,6,14,,,,nflverse
+00-0027781,Eric Olsen,LG,RG,70,75,305,1988-06-16,,1,14,,,,nflverse
+00-0025824,Garrett Hartley,K,,5,68,196,1986-05-16,,3,14,,,,nflverse
+00-0022527,Jabari Greer,CB,,33,71,180,1982-02-11,,7,14,,,,nflverse
+00-0024323,Jahri Evans,LG,RG,73,76,318,1983-08-22,Bloomsburg,5,14,,,,nflverse
+00-0023847,Jeff Charleston,EDGE,,97,76,265,1983-01-19,,5,14,,,,nflverse
+00-0025512,Jermon Bushrod,LT,RT,74,77,315,1984-08-19,Towson,4,14,,,,nflverse
+00-0009028,John Kasay,K,,2,70,210,1969-10-27,,20,14,,,,nflverse
+00-0028026,Johnny Patrick,CB,,32,71,191,1988-08-17,,0,14,,,,nflverse
+00-0027551,Junior Galette,EDGE,,93,74,258,1988-03-27,Stillman,1,14,,,,nflverse
+00-0025578,Korey Hall,RB,,35,72,236,1983-08-05,,4,14,,,,nflverse
+00-0023310,Lance Moore,WR,,16,69,190,1983-08-31,Toledo,6,14,14,,,nflverse
+00-0023186,Leigh Torrence,CB,,24,71,179,1982-01-04,,6,14,,,,nflverse
+00-0024466,Marques Colston,WR,,12,76,225,1983-06-05,Hofstra,5,14,14,,,nflverse
+00-0027757,Matt Tennant,C,,65,76,300,1987-03-19,,1,14,,,,nflverse
+00-0028181,Nate Bussey,LB,,59,74,220,1989-02-20,,0,14,,,,nflverse
+00-0024425,Pat McQuistan,LT,RT,76,78,319,1983-04-30,,5,14,,,,nflverse
+00-0027882,Patrick Robinson,CB,,21,71,191,1987-09-07,Florida State,1,14,,,,nflverse
+00-0026147,Sedrick Ellis,DT,,98,73,307,1985-07-09,,3,14,,,,nflverse
+00-0020528,Shaun Rogers,DT,,92,76,350,1979-03-12,,10,14,,,,nflverse
+00-0027114,Thomas Morstead,P,,6,76,225,1986-03-08,Southern Methodist,2,14,,,,nflverse
+00-0024030,Tom Johnson,DT,,96,75,288,1984-08-30,Southern Mississippi,5,14,,,,nflverse
+00-0023210,Tory Humphrey,TE,,84,74,255,1983-01-20,,6,14,,,,nflverse
+00-0026180,Tracy Porter,CB,,22,71,186,1986-08-11,Indiana,3,14,,,,nflverse
+00-0025441,Turk McBride,EDGE,,90,74,278,1985-05-30,,4,14,,,,nflverse
+00-0022911,Will Smith,EDGE,,91,75,282,1981-07-04,,7,14,,,,nflverse
+00-0025897,William Robinson,LT,RT,70,77,297,1984-12-20,,3,14,,,,nflverse
+00-0024424,Zach Strief,LT,RT,64,79,320,1983-09-22,Northwestern,5,14,,,,nflverse
+00-0026072,Jed Collins,RB,,45,73,255,1986-03-03,,3,10,10,,,nflverse
+00-0027966,Mark Ingram,RB,,28,69,215,1989-12-21,Alabama,0,10,10,,,nflverse
+00-0027531,Chris Ivory,RB,,29,72,222,1988-03-22,Tiffin University,1,6,,,,nflverse
+00-0024301,David Thomas,TE,,85,75,248,1983-07-05,,5,5,,,,nflverse
+00-0021304,John Gilmore,TE,,89,77,257,1979-09-21,,9,5,,,,nflverse
+00-0026544,Chase Daniel,QB,,10,72,225,1986-10-07,Missouri,2,3,,,,nflverse
+00-0026377,Adrian Arrington,WR,,87,75,192,1985-11-07,,3,2,,,,nflverse
+00-0028522,Mike Higgins,TE,,81,77,242,1987-12-07,,0,1,,,,nflverse

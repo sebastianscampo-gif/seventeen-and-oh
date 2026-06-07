@@ -1,0 +1,49 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0004915,Bobby Engram,WR,,84,70,192,1973-01-07,,11,16,16,,,nflverse
+00-0007091,Matt Hasselbeck,QB,,8,76,225,1975-09-25,Boston College,9,16,16,,,nflverse
+00-0021999,Nate Burleson,WR,,81,72,198,1981-08-19,,4,16,16,,,nflverse
+00-0023063,Leonard Weaver,RB,,43,72,242,1982-09-23,,2,15,15,,,nflverse
+00-0025507,Baraka Atkins,EDGE,,98,76,268,1984-09-28,,0,14,,,,nflverse
+00-0022082,Bennie Joppru,TE,,47,76,255,1980-01-05,,4,14,,,,nflverse
+00-0025472,Brandon Mebane,DT,,92,73,314,1985-01-15,California,0,14,,,,nflverse
+00-0005243,Bryce Fisher,EDGE,,94,75,265,1977-05-12,,8,14,,,,nflverse
+00-0006268,Chris Gray,LG,RG,62,76,305,1970-06-19,,14,14,,,,nflverse
+00-0023461,Chris Spencer,C,,65,75,312,1982-03-28,,2,14,,,,nflverse
+00-0003888,Chuck Darby,DT,,91,72,297,1975-10-22,,9,14,,,,nflverse
+00-0022692,Craig Terrill,DT,,93,74,295,1980-06-27,,3,14,,,,nflverse
+00-0024278,Darryl Tapp,EDGE,,55,73,270,1984-09-13,Virginia Tech,1,14,,,,nflverse
+00-0024377,David Kirtman,RB,,34,72,232,1983-02-12,,1,14,,,,nflverse
+00-0020392,Ellis Wyms,DT,,95,75,290,1979-04-12,,6,14,,,,nflverse
+00-0020348,Floyd Womack,LT,RT,77,76,328,1978-11-15,,6,14,,,,nflverse
+00-0021099,Howard Green,DT,,94,74,320,1979-01-12,,5,14,,,,nflverse
+00-0022695,Jason Babin,EDGE,,52,75,267,1980-05-24,Western Michigan,3,14,,,,nflverse
+00-0013872,Jeff Robinson,TE,,49,76,250,1970-02-20,,14,14,,,,nflverse
+00-0022409,Jordan Babineaux,CB,,27,72,206,1982-08-31,,3,14,,,,nflverse
+00-0021940,Josh Brown,K,,3,72,212,1979-04-29,,4,14,,,,nflverse
+00-0021098,Josh Scobey,RB,,33,72,220,1979-12-11,,5,14,,,,nflverse
+00-0024246,Kelly Jennings,CB,,21,71,180,1982-11-30,,1,14,,,,nflverse
+00-0023902,Kevin Hobbs,CB,,32,72,195,1983-04-30,,1,14,,,,nflverse
+00-0024595,Logan Payne,WR,,19,74,205,1985-01-21,,0,14,,,,nflverse
+00-0025511,Mansfield Wrotto,LG,RG,66,75,320,1984-10-12,,0,14,,,,nflverse
+00-0022046,Marcus Trufant,CB,,23,71,197,1980-12-25,,4,14,,,,nflverse
+00-0009173,Patrick Kerney,EDGE,,97,77,272,1976-12-30,,8,14,,,,nflverse
+00-0023540,Ray Willis,LT,RT,74,78,315,1982-08-13,,2,14,,,,nflverse
+00-0024343,Rob Sims,LG,RG,67,75,312,1983-12-06,,1,14,,,,nflverse
+00-0021261,Rocky Bernard,DT,,99,75,308,1979-04-19,,5,14,,,,nflverse
+00-0022855,Sean Locklear,LT,RT,75,76,308,1981-05-29,,3,14,,,,nflverse
+00-0019995,Tom Ashworth,LT,RT,68,78,306,1977-10-10,,6,14,,,,nflverse
+00-0008894,Walter Jones,LT,RT,71,77,325,1974-01-19,,10,14,,,,nflverse
+00-0021182,Maurice Morris,RB,,20,71,216,1979-12-01,,5,13,13,,,nflverse
+00-0019647,Shaun Alexander,RB,,37,71,228,1977-08-30,,7,13,13,,,nflverse
+00-0013080,Marcus Pollard,TE,,88,75,255,1972-02-08,,12,12,12,,,nflverse
+00-0021192,Deion Branch,WR,,83,69,192,1979-07-18,,5,10,10,,,nflverse
+00-0024463,Ben Obomanu,WR,,87,72,206,1983-10-30,,1,8,8,,,nflverse
+00-0021756,Will Heller,TE,,85,78,270,1981-02-28,,4,8,8,,,nflverse
+00-0022701,D.J. Hackett,WR,,18,74,208,1981-07-03,,3,6,,,,nflverse
+00-0022055,Seneca Wallace,QB,,15,71,205,1980-08-06,,4,5,,,,nflverse
+00-0015830,Mack Strong,RB,,38,72,253,1971-09-11,,14,4,,,,nflverse
+00-0025584,Courtney Taylor,WR,,86,73,205,1984-04-07,,0,3,,,,nflverse
+00-0023561,Alvin Pearman,RB,,36,70,206,1982-08-10,,2,1,,,,nflverse
+00-0023502,Charlie Frye,QB,,5,76,217,1981-08-28,,2,1,,,,nflverse
+00-0025442,Josh Wilson,CB,,26,69,192,1985-03-11,Maryland,0,1,,,,nflverse
+00-0024453,Ryan Plackemeier,P,,1,75,247,1984-03-05,,1,1,,,,nflverse

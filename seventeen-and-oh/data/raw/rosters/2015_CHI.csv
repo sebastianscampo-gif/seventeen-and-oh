@@ -1,0 +1,52 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0024226,Jay Cutler,QB,,6,75,220,1983-04-29,Vanderbilt,9,15,15,,,nflverse
+00-0031569,Jeremy Langford,RB,,33,72,208,1991-12-06,Michigan State,0,15,15,,,nflverse
+00-0031584,Adrian Amos,S,,38,72,218,1993-04-29,Penn State,0,14,,,,nflverse
+00-0025624,Alan Ball,CB,,24,74,195,1985-03-29,,8,14,,,,nflverse
+00-0023443,Antrel Rolle,S,,26,72,206,1982-12-16,Miami (Fla.),10,14,,,,nflverse
+00-0031127,Brandon Dunn,DT,,98,74,300,1992-09-05,Louisville,1,14,,,,nflverse
+00-0030892,Bruce Gaston,DT,,76,74,310,1991-11-29,Purdue,1,14,,,,nflverse
+00-0031904,Bryce Callahan,CB,,37,69,183,1991-10-23,Rice,0,14,,,,nflverse
+00-0031095,Charles Leno,LT,RT,72,75,302,1991-10-09,Boise State,1,14,,,,nflverse
+00-0030048,Cornelius Washington,EDGE,,94,76,285,1989-09-10,Georgia,2,14,,,,nflverse
+00-0027679,D'Anthony Smith,DT,,70,74,300,1988-06-09,Louisiana Tech,5,14,,,,nflverse
+00-0031076,David Fales,QB,,12,73,219,1990-10-04,San Jose State,1,14,,,,nflverse
+00-0030275,Demontre Hurst,S,,30,70,183,1991-03-24,Oklahoma,2,14,,,,nflverse
+00-0031551,Eddie Goldman,DT,,91,75,332,1994-01-06,Florida State,0,14,,,,nflverse
+00-0031043,Ego Ferguson,EDGE,,95,74,300,1991-09-22,LSU,1,14,,,,nflverse
+00-0029308,Greg Scruggs,EDGE,,90,75,310,1990-08-17,Louisville,3,14,,,,nflverse
+00-0031989,Harold Jones-Quartey,S,,29,71,215,1993-08-06,Findlay,0,14,,,,nflverse
+00-0031561,Hroniss Grasu,C,,55,75,300,1991-08-12,Oregon,0,14,,,,nflverse
+00-0031907,Jacoby Glenn,CB,,39,72,179,1993-08-04,Central Florida,0,14,,,,nflverse
+00-0027979,Jarvis Jenkins,EDGE,,96,76,300,1988-04-24,Clemson,4,14,,,,nflverse
+00-0025512,Jermon Bushrod,LT,RT,74,77,320,1984-08-19,Towson,8,14,,,,nflverse
+00-0031902,Jonathan Anderson,LB,,58,73,231,1991-10-27,Texas Christian,0,14,,,,nflverse
+00-0031041,Kyle Fuller,CB,,23,71,190,1992-02-16,Virginia Tech,1,14,,,,nflverse
+00-0030441,Kyle Long,LT,RT,75,78,328,1988-12-05,Oregon,2,14,,,,nflverse
+00-0026500,Matt Slauson,C,,68,77,320,1986-02-18,Nebraska,6,14,,,,nflverse
+00-0030313,Nick Becton,LT,RT,71,78,323,1990-02-11,Virginia Tech,2,14,,,,nflverse
+00-0031079,Pat O'Donnell,P,,16,76,220,1991-02-22,Miami,1,14,,,,nflverse
+00-0029889,Patrick Omameh,LG,RG,65,76,305,1989-12-29,Michigan,2,14,,,,nflverse
+00-0023252,Robbie Gould,K,,9,72,185,1982-12-06,Penn State,10,14,,,,nflverse
+00-0027743,Sherrick McManis,CB,,27,73,197,1987-12-19,Northwestern,5,14,,,,nflverse
+00-0031603,Tayo Fabuluje,LT,RT,73,78,342,1991-07-17,Texas Christian,0,14,,,,nflverse
+00-0031097,Terrance Mitchell,CB,,20,71,190,1992-05-17,Oregon,1,14,,,,nflverse
+00-0032020,Terry Williams,DT,,79,72,329,1992-04-15,,0,14,,,,nflverse
+00-0026180,Tracy Porter,CB,,21,71,190,1986-08-11,Indiana,7,14,,,,nflverse
+00-0027667,Vladimir Ducasse,LG,RG,62,77,325,1987-10-15,Massachusetts,5,14,,,,nflverse
+00-0024448,Will Montgomery,C,,64,75,304,1983-02-13,Virginia Tech,9,14,,,,nflverse
+00-0031048,Will Sutton,EDGE,,93,72,303,1991-10-03,Arizona State,1,14,,,,nflverse
+00-0026184,Matt Forte,RB,,22,74,218,1985-12-10,Tulane,7,13,13,,,nflverse
+00-0027125,Zach Miller,TE,,86,77,240,1984-10-04,Nebraska-Omaha,6,12,12,,,nflverse
+00-0027816,Marc Mariani,WR,,80,73,187,1987-05-02,Montana,5,11,11,,,nflverse
+00-0030047,Marquess Wilson,WR,,10,76,199,1992-09-14,Washington State,2,11,11,,,nflverse
+00-0026201,Martellus Bennett,TE,,83,78,273,1987-03-10,Texas A&M,7,11,11,,,nflverse
+00-0029319,Josh Bellamy,WR,,11,72,208,1989-05-18,Louisville,3,10,10,,,nflverse
+00-0029137,Alshon Jeffery,WR,,17,75,216,1990-02-14,South Carolina,3,9,9,,,nflverse
+00-0026182,Eddie Royal,WR,,19,70,185,1986-05-21,Virginia Tech,7,9,9,,,nflverse
+00-0031057,Ka'Deem Carey,RB,,25,70,210,1992-10-30,Arizona,1,7,,,,nflverse
+00-0031912,Cameron Meredith,WR,,81,75,207,1992-09-21,Illinois State,0,6,,,,nflverse
+00-0028083,Jacquizz Rodgers,RB,,35,66,199,1990-02-06,Oregon State,4,5,,,,nflverse
+00-0028007,Rob Housler,TE,,88,77,250,1988-03-17,Florida Atlantic,4,5,,,,nflverse
+00-0031922,Khari Lee,TE,,82,76,235,1992-01-16,Bowie State,0,3,,,,nflverse
+00-0029388,Deonte Thompson,WR,,14,72,203,1989-02-14,Florida,3,2,,,,nflverse

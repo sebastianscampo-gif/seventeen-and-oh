@@ -1,0 +1,51 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0010346,Peyton Manning,QB,,18,77,230,1976-03-24,Tennessee,12,16,16,,,nflverse
+00-0020498,Reggie Wayne,WR,,87,72,198,1978-11-17,,9,16,16,,,nflverse
+00-0016919,Adam Vinatieri,K,,4,72,202,1972-12-28,South Dakota State,14,14,,,,nflverse
+00-0025539,Antonio Johnson,DT,,99,75,310,1984-12-08,,3,14,,,,nflverse
+00-0024413,Charlie Johnson,LT,RT,74,76,305,1984-05-02,,4,14,,,,nflverse
+00-0027085,Chip Vaughn,S,,49,74,221,1985-10-26,,1,14,,,,nflverse
+00-0027362,Cornelius Brown,S,,39,71,198,1988-02-26,,0,14,,,,nflverse
+00-0027134,Curtis Painter,QB,,7,76,230,1985-06-24,,1,14,,,,nflverse
+00-0024692,Daniel Muir,DT,,90,74,312,1983-09-12,,3,14,,,,nflverse
+00-0027302,David Pender,S,,34,72,180,1987-12-04,,0,14,,,,nflverse
+00-0021146,Dwight Freeney,EDGE,,93,73,268,1980-02-19,Syracuse,8,14,,,,nflverse
+00-0025991,Eric Foster,EDGE,,68,74,265,1985-04-05,,2,14,,,,nflverse
+00-0027032,Fili Moala,DT,,95,76,303,1985-06-23,,1,14,,,,nflverse
+00-0026674,Jacob Lacey,CB,,27,70,177,1987-05-28,,1,14,,,,nflverse
+00-0027729,Jacques McClendon,LG,RG,65,74,324,1987-12-10,,0,14,,,,nflverse
+00-0027153,Jaimie Thomas,LG,RG,73,76,330,1986-08-24,,1,14,,,,nflverse
+00-0026376,Jamey Richard,LG,RG,61,77,295,1984-10-09,,2,14,,,,nflverse
+00-0027469,Jeff Linkenbach,LT,RT,72,76,311,1987-06-09,,0,14,,,,nflverse
+00-0014375,Jeff Saturday,C,,63,74,295,1975-06-18,,12,14,,,,nflverse
+00-0025786,Jeremy Kapinos,P,,3,73,233,1984-08-23,,3,14,,,,nflverse
+00-0027064,Jerraud Powers,CB,,25,70,192,1987-07-19,Auburn,1,14,,,,nflverse
+00-0027881,Jerry Hughes,EDGE,,92,74,255,1988-08-13,Texas Christian,0,14,,,,nflverse
+00-0026408,Joe Reitz,LT,RT,76,79,320,1985-08-24,Western Michigan,2,14,,,,nflverse
+00-0026264,Justin Tryon,CB,,20,69,185,1984-05-29,,2,14,,,,nflverse
+00-0023495,Kelvin Hayden,CB,,26,72,195,1983-07-23,,5,14,,,,nflverse
+00-0025629,Keyunta Dawson,EDGE,,96,75,254,1985-09-13,,3,14,,,,nflverse
+00-0025872,Kyle DeVan,LG,RG,66,74,306,1985-02-10,,2,14,,,,nflverse
+00-0024376,Michael Toudouze,LT,RT,75,78,303,1983-04-27,,4,14,,,,nflverse
+00-0027471,Mike Newton,S,,38,70,197,1987-11-11,,0,14,,,,nflverse
+00-0026199,Mike Pollak,C,,78,75,301,1985-02-16,,2,14,,,,nflverse
+00-0027766,Nate Triplett,LB,,54,75,247,1987-03-15,,0,14,,,,nflverse
+00-0027145,Pat McAfee,P,,1,73,220,1987-05-02,West Virginia,1,14,,,,nflverse
+00-0026345,Pierre Garcon,WR,,85,72,210,1986-08-08,Mount Union,2,14,14,,,nflverse
+00-0027829,Ricardo Mathews,EDGE,,91,74,294,1987-07-30,Cincinnati,0,14,,,,nflverse
+00-0022059,Robert Mathis,EDGE,,98,74,245,1981-02-26,Alabama A&M,7,14,,,,nflverse
+00-0020399,Ryan Diem,LT,RT,71,78,320,1979-07-01,,9,14,,,,nflverse
+00-0027003,Donald Brown,RB,,31,70,210,1987-04-11,,1,13,13,,,nflverse
+00-0027477,Blair White,WR,,15,74,205,1987-02-20,,0,11,11,,,nflverse
+00-0026267,Jacob Tamme,TE,,84,75,236,1985-03-15,Kentucky,2,10,10,,,nflverse
+00-0027092,Austin Collie,WR,,17,72,200,1985-11-11,,1,9,9,,,nflverse
+00-0027467,Javarris James,RB,,42,72,215,1987-09-18,,0,8,8,,,nflverse
+00-0024245,Joseph Addai,RB,,29,71,214,1983-05-03,,4,8,8,,,nflverse
+00-0027761,Brody Eldridge,RB,,81,77,265,1987-03-31,,0,6,,,,nflverse
+00-0022165,Dallas Clark,TE,,44,75,252,1979-06-12,,7,6,,,,nflverse
+00-0026342,Mike Hart,RB,,32,69,206,1986-04-09,,2,6,,,,nflverse
+00-0024529,Gijon Robinson,TE,,47,73,255,1984-10-12,,3,5,,,,nflverse
+00-0019863,Dominic Rhodes,RB,,30,69,203,1979-01-17,,9,3,,,,nflverse
+00-0025419,Anthony Gonzalez,WR,,11,72,193,1984-09-18,,3,2,,,,nflverse
+00-0026620,Devin Moore,RB,,45,70,191,1985-11-06,,1,1,,,,nflverse
+00-0026032,Taj Smith,WR,,10,72,192,1983-09-30,,2,1,,,,nflverse

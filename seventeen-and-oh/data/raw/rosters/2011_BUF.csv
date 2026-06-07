@@ -1,0 +1,53 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027861,C.J. Spiller,RB,,28,71,197,1987-08-05,Clemson,1,16,16,,,nflverse
+00-0027322,David Nelson,WR,,86,77,215,1986-11-07,,1,16,16,,,nflverse
+00-0023682,Ryan Fitzpatrick,QB,,14,74,225,1982-11-24,Harvard,6,16,16,,,nflverse
+00-0026364,Steve Johnson,WR,,13,74,210,1986-07-22,Kentucky,3,16,16,,,nflverse
+00-0027972,Aaron Williams,CB,,23,72,200,1990-04-23,Texas,0,14,,,,nflverse
+00-0027677,Alex Carrington,LB,,92,77,305,1987-06-19,,1,14,,,,nflverse
+00-0027027,Andy Levitre,LG,RG,67,74,303,1986-05-15,Oregon State,2,14,,,,nflverse
+00-0026375,Brandon Coutu,K,,10,71,188,1984-09-29,,3,14,,,,nflverse
+00-0011626,Brian Moorman,P,,8,72,176,1976-02-05,,12,14,,,,nflverse
+00-0026236,Chad Rinehart,LG,RG,76,77,323,1985-05-04,,3,14,,,,nflverse
+00-0028060,Chris Hairston,LT,RT,75,78,332,1989-04-26,Clemson,0,14,,,,nflverse
+00-0027101,Colin Brown,LG,RG,74,79,328,1985-08-29,,2,14,,,,nflverse
+00-0023635,Dave Rayner,K,,3,74,215,1982-10-26,,6,14,,,,nflverse
+00-0026359,Demetress Bell,LT,RT,77,77,311,1984-05-03,,3,14,,,,nflverse
+00-0021994,Drayton Florence,CB,,29,72,193,1980-12-19,,8,14,,,,nflverse
+00-0022750,Dwan Edwards,EDGE,,98,75,300,1981-05-16,Oregon State,7,14,,,,nflverse
+00-0027004,Eric Wood,C,,70,76,311,1986-03-18,Louisville,2,14,,,,nflverse
+00-0023016,Erik Pears,LT,RT,79,80,314,1982-06-25,,6,14,,,,nflverse
+00-0026900,Jarron Gilbert,DT,,73,77,285,1986-09-30,,2,14,,,,nflverse
+00-0028508,Josh Nesbitt,S,,47,73,222,1988-04-15,,0,14,,,,nflverse
+00-0028144,Justin Rogers,CB,,26,70,181,1988-01-16,Richmond,0,14,,,,nflverse
+00-0028497,Kamar Aiken,WR,,88,74,213,1989-05-30,Central Florida,0,14,,,,nflverse
+00-0027431,Kellen Heard,EDGE,,72,78,346,1985-10-17,,1,14,,,,nflverse
+00-0027053,Kraig Urbik,LG,RG,60,77,329,1985-09-23,Wisconsin,2,14,,,,nflverse
+00-0026906,Kyle Moore,EDGE,,94,78,272,1986-10-25,,2,14,,,,nflverse
+00-0024348,Kyle Williams,DT,,95,73,301,1983-06-10,Louisiana State,5,14,,,,nflverse
+00-0026385,Lionel Dotson,EDGE,,97,76,290,1985-02-11,,3,14,,,,nflverse
+00-0027941,Marcell Dareus,EDGE,,99,75,340,1990-03-13,Alabama,0,14,,,,nflverse
+00-0027708,Marcus Easley,WR,,81,74,221,1987-11-02,Connecticut,1,14,,,,nflverse
+00-0028183,Michael Jasper,DT,,69,76,394,1986-10-08,,0,14,,,,nflverse
+00-0026254,Reggie Corner,CB,,27,69,181,1983-11-17,,3,14,,,,nflverse
+00-0019310,Rian Lindell,K,,9,75,227,1977-01-20,,11,14,,,,nflverse
+00-0027778,Sam Young,LT,RT,71,80,322,1987-06-24,Notre Dame,1,14,,,,nflverse
+00-0025516,Scott Chandler,TE,,84,79,263,1985-07-23,Iowa,4,14,14,,,nflverse
+00-0022610,Spencer Johnson,EDGE,,91,75,306,1981-12-12,,7,14,,,,nflverse
+00-0022008,Terrence McGee,CB,,24,69,208,1980-10-14,,8,14,,,,nflverse
+00-0027655,Torell Troup,DT,,96,75,326,1988-06-23,,1,14,,,,nflverse
+00-0024318,Brad Smith,WR,,16,74,212,1983-12-12,,5,13,13,,,nflverse
+00-0024204,Fred Jackson,RB,,22,73,215,1981-02-20,Coe,6,10,10,,,nflverse
+00-0027220,Naaman Roosevelt,WR,,18,72,201,1987-12-24,,1,10,10,,,nflverse
+00-0024297,Derek Hagan,WR,,80,74,215,1984-09-21,,5,9,9,,,nflverse
+00-0027518,Donald Jones,WR,,19,72,209,1987-12-17,,1,8,8,,,nflverse
+00-0022421,Ruvell Martin,WR,,82,76,220,1982-08-10,,7,6,,,,nflverse
+00-0028071,Johnny White,RB,,20,70,204,1988-02-03,,0,4,,,,nflverse
+00-0027500,Mike Caussin,TE,,83,77,252,1987-02-26,,1,3,,,,nflverse
+00-0026699,Kevin Brock,TE,,87,77,260,1986-04-09,,2,2,,,,nflverse
+00-0028097,Lee Smith,TE,,85,78,269,1987-11-21,Marshall,0,2,,,,nflverse
+00-0023490,Roscoe Parrish,WR,,11,69,175,1982-07-16,,6,2,,,,nflverse
+00-0025604,Tyler Thigpen,QB,,4,73,216,1984-04-14,,4,2,,,,nflverse
+00-0020804,Corey McIntyre,RB,,38,72,247,1979-01-25,,9,1,,,,nflverse
+00-0027769,Fendi Onobun,TE,,89,78,249,1986-11-17,,1,1,,,,nflverse
+00-0026151,Leodis McKelvin,CB,,21,70,186,1985-09-01,Troy,3,1,,,,nflverse

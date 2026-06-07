@@ -1,0 +1,49 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0026213,Jamaal Charles,RB,,25,71,199,1986-12-27,Texas,4,16,16,,,nflverse
+00-0027651,Dexter McCluster,WR,,22,68,170,1988-08-25,Mississippi,2,15,15,,,nflverse
+00-0028024,Allen Bailey,EDGE,,97,75,285,1989-03-25,Miami,1,14,,,,nflverse
+00-0026093,Anthony Toribio,DT,,98,73,315,1985-03-01,,4,14,,,,nflverse
+00-0026155,Branden Albert,LT,RT,76,77,316,1984-11-04,Virginia,4,14,,,,nflverse
+00-0026175,Brandon Flowers,CB,,24,69,187,1986-02-18,Virginia Tech,4,14,,,,nflverse
+00-0026015,Bryan Mattison,C,,64,75,310,1984-05-15,,4,14,,,,nflverse
+00-0029543,Donald Stephenson,LT,RT,79,78,312,1988-09-30,Oklahoma,0,14,,,,nflverse
+00-0029688,Dontari Poe,DT,,92,75,350,1990-08-18,Memphis,0,14,,,,nflverse
+00-0023534,Dustin Colquitt,P,,2,75,210,1982-05-06,Tennessee,7,14,,,,nflverse
+00-0024281,Eric Winston,LT,RT,74,79,302,1983-11-17,Miami (Fla.),6,14,,,,nflverse
+00-0026145,Glenn Dorsey,EDGE,,72,73,297,1985-08-01,LSU,4,14,,,,nflverse
+00-0029035,Hayworth Hicks,LG,RG,68,75,336,1988-10-03,,0,14,,,,nflverse
+00-0028056,Jalil Brown,CB,,30,73,205,1987-10-14,,1,14,,,,nflverse
+00-0027660,Javier Arenas,CB,,21,69,197,1987-10-28,Alabama,2,14,,,,nflverse
+00-0029524,Jeff Allen,LG,RG,71,76,315,1990-01-08,Illinois,0,14,,,,nflverse
+00-0028137,Jerrell Powe,DT,,95,74,335,1987-03-15,,1,14,,,,nflverse
+00-0027673,Jon Asamoah,LG,RG,73,76,305,1988-07-21,,2,14,,,,nflverse
+00-0027964,Jon Baldwin,WR,,89,76,230,1989-08-10,,1,14,14,,,nflverse
+00-0029319,Josh Bellamy,WR,,11,72,206,1989-05-18,Louisville,0,14,,,,nflverse
+00-0029311,Junior Hemingway,WR,,88,73,225,1988-12-27,,0,14,,,,nflverse
+00-0029329,Neiko Thorpe,S,,38,74,185,1990-02-11,Auburn,0,14,,,,nflverse
+00-0029540,Rich Ranglin,LG,RG,67,74,315,1984-09-27,,0,14,,,,nflverse
+00-0028073,Ricky Stanzi,QB,,12,76,228,1987-09-03,,1,14,,,,nflverse
+00-0027993,Rodney Hudson,C,,61,74,299,1989-07-12,Florida State,1,14,,,,nflverse
+00-0026016,Ropati Pitoitua,EDGE,,75,80,315,1985-04-06,,4,14,,,,nflverse
+00-0020389,Russ Hochstein,LG,RG,66,76,300,1977-10-07,,11,14,,,,nflverse
+00-0022350,Ryan Lilja,LG,RG,65,74,290,1981-10-15,,8,14,,,,nflverse
+00-0026968,Ryan Succop,K,,6,74,218,1986-09-19,South Carolina,3,14,,,,nflverse
+00-0028202,Shaun Draughn,RB,,20,72,205,1987-12-07,North Carolina,1,14,14,,,nflverse
+00-0021679,Shaun Smith,DT,,90,74,325,1981-08-19,,9,14,,,,nflverse
+00-0023473,Stanford Routt,CB,,26,73,195,1983-07-26,,7,14,,,,nflverse
+00-0027695,Tony Moeaki,TE,,81,75,252,1987-06-08,,2,14,14,,,nflverse
+00-0026980,Tyson Jackson,EDGE,,94,76,296,1986-06-06,LSU,3,14,,,,nflverse
+00-0025410,Dwayne Bowe,WR,,82,74,221,1984-09-21,LSU,5,13,13,,,nflverse
+00-0026367,Peyton Hillis,RB,,40,74,250,1986-01-21,,4,13,13,,,nflverse
+00-0025409,Brady Quinn,QB,,9,75,235,1984-10-27,,5,10,10,,,nflverse
+00-0023662,Matt Cassel,QB,,7,76,230,1982-05-17,USC,7,9,9,,,nflverse
+00-0025529,Steve Breaston,WR,,15,72,189,1983-08-20,,5,7,,,,nflverse
+00-0028417,Jamar Newsome,WR,,84,73,201,1987-11-05,,1,6,,,,nflverse
+00-0027567,Steve Maneri,TE,,87,78,280,1988-03-20,,2,5,,,,nflverse
+00-0022388,Terrance Copper,WR,,10,72,207,1982-03-12,,8,5,,,,nflverse
+00-0029298,Cyrus Gray,RB,,32,70,198,1989-11-18,,0,4,,,,nflverse
+00-0029274,Devon Wylie,WR,,19,69,187,1988-09-02,,0,4,,,,nflverse
+00-0025540,Kevin Boss,TE,,80,78,255,1984-01-11,,5,2,,,,nflverse
+00-0029358,Nate Eachus,RB,,45,70,212,1990-06-15,,0,2,,,,nflverse
+00-0027154,Jake O'Connell,TE,,85,75,250,1985-11-06,,3,1,,,,nflverse
+00-0028581,Patrick DiMarco,RB,,49,73,243,1989-04-30,South Carolina,1,1,,,,nflverse

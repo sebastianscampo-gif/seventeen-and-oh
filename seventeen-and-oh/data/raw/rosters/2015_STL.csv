@@ -1,0 +1,51 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027061,Jared Cook,TE,,89,77,254,1987-04-07,South Carolina,6,16,16,,,nflverse
+00-0027006,Kenny Britt,WR,,18,75,223,1988-09-19,Rutgers,6,16,16,,,nflverse
+00-0030525,Tavon Austin,WR,,11,68,176,1990-03-15,West Virginia,2,16,16,,,nflverse
+00-0031388,Aaron Donald,DT,,99,73,285,1991-05-23,Pittsburgh,1,14,,,,nflverse
+00-0032246,Andrew Donnal,LT,RT,64,78,316,1992-03-03,Iowa,0,14,,,,nflverse
+00-0029795,Benny Cunningham,RB,,36,70,217,1990-07-07,Middle Tennessee State,2,14,14,,,nflverse
+00-0029168,Brian Folkerts,C,,67,76,310,1990-01-30,Washburn,3,14,,,,nflverse
+00-0028795,Chase Reynolds,RB,,34,72,205,1987-10-22,Montana,4,14,,,,nflverse
+00-0026142,Chris Long,EDGE,,91,75,268,1985-03-28,Virginia,7,14,,,,nflverse
+00-0031397,Christian Bryant,S,,37,69,198,1992-03-21,Ohio State,1,14,,,,nflverse
+00-0032247,Cody Wichmann,LG,RG,69,77,319,1992-03-02,Fresno State,0,14,,,,nflverse
+00-0031821,Darrell Williams,LT,RT,63,76,301,1993-08-03,South Florida,0,14,,,,nflverse
+00-0031399,Demetrius Rhaney,C,,65,74,301,1992-06-22,Tennessee State,1,14,,,,nflverse
+00-0027833,Doug Worthington,DT,,92,77,318,1987-08-10,Ohio State,5,14,,,,nflverse
+00-0031857,Eric Patterson,CB,,24,70,193,1993-02-05,,0,14,,,,nflverse
+00-0030986,Ethan Westbrooks,DT,,93,76,267,1990-11-15,West Texas A&amp;M,1,14,,,,nflverse
+00-0027787,Eugene Sims,EDGE,,97,78,269,1986-03-18,West Texas A&M,5,14,,,,nflverse
+00-0027110,Garrett Reynolds,LG,RG,71,79,305,1987-07-01,,6,14,,,,nflverse
+00-0031386,Greg Robinson,LT,RT,73,77,332,1992-10-21,Auburn,1,14,,,,nflverse
+00-0029621,Greg Zuerlein,K,,4,72,196,1987-12-27,Missouri Western,3,14,,,,nflverse
+00-0032272,Isaiah Battle,LT,RT,77,79,290,1993-02-10,Clemson,0,14,,,,nflverse
+00-0032244,Jamon Brown,LG,RG,68,76,323,1993-03-15,Louisville,0,14,,,,nflverse
+00-0029681,Janoris Jenkins,CB,,21,70,198,1988-10-29,North Alabama,3,14,,,,nflverse
+00-0031389,Lamarcus Joyner,CB,,20,68,184,1990-11-27,Florida State,1,14,,,,nflverse
+00-0027985,Lance Kendricks,TE,,88,75,250,1988-01-30,Wisconsin,4,14,14,,,nflverse
+00-0031820,Louis Trinca-Pasat,DT,,62,73,292,1991-09-07,Iowa,0,14,,,,nflverse
+00-0030982,Marcus Roberson,CB,,47,72,191,1992-10-04,Florida,1,14,,,,nflverse
+00-0031814,Matt Longacre,EDGE,,96,75,260,1991-09-21,Northwest Missouri State,0,14,,,,nflverse
+00-0029630,Michael Brockers,DT,,90,77,326,1990-12-21,Louisiana State,3,14,,,,nflverse
+00-0027951,Nick Fairley,DT,,98,76,308,1988-01-23,Auburn,4,14,,,,nflverse
+00-0029667,Nick Toon,WR,,81,76,218,1988-11-04,Wisconsin,3,14,,,,nflverse
+00-0032242,Rob Havenstein,LT,RT,79,79,321,1992-05-13,Wisconsin,0,14,,,,nflverse
+00-0027952,Robert Quinn,EDGE,,94,76,264,1990-05-18,North Carolina,4,14,,,,nflverse
+00-0027648,Rodger Saffold,LT,RT,76,77,332,1988-06-06,Indiana,5,14,,,,nflverse
+00-0028274,Tim Barnes,C,,61,76,306,1988-05-14,Missouri,4,14,,,,nflverse
+00-0030985,Trey Watts,RB,,42,69,208,1991-02-13,Tulsa,1,14,,,,nflverse
+00-0031785,Troy Hill,CB,,32,70,182,1991-08-29,Oregon,0,14,,,,nflverse
+00-0029690,Trumaine Johnson,CB,,22,74,208,1990-01-01,Montana,3,14,,,,nflverse
+00-0026243,William Hayes,EDGE,,95,75,278,1985-05-02,Winston-Salem State,7,14,,,,nflverse
+00-0032241,Todd Gurley,RB,,30,73,227,1994-08-03,Georgia,0,13,13,,,nflverse
+00-0031391,Tre Mason,RB,,27,68,207,1993-08-06,,1,13,13,,,nflverse
+00-0029567,Nick Foles,QB,,5,78,243,1989-01-20,Arizona,3,11,11,,,nflverse
+00-0031818,Bradley Marquez,WR,,15,70,196,1992-12-14,Texas Tech,0,9,9,,,nflverse
+00-0029640,Brian Quick,WR,,83,75,218,1989-06-05,Appalachian State,3,9,9,,,nflverse
+00-0022427,Wes Welker,WR,,19,69,185,1981-05-01,Texas Tech,11,7,,,,nflverse
+00-0028958,Cory Harkey,TE,,46,76,259,1990-06-17,UCLA,3,6,,,,nflverse
+00-0028986,Case Keenum,QB,,17,73,205,1988-02-17,Houston,3,5,,,,nflverse
+00-0028872,Johnny Hekker,P,,6,77,236,1990-02-08,Oregon State,3,4,,,,nflverse
+00-0031806,Malcolm Brown,RB,,39,71,224,1993-05-15,Texas,0,1,,,,nflverse
+00-0032245,Sean Mannion,QB,,14,78,233,1992-04-25,Oregon State,0,1,,,,nflverse

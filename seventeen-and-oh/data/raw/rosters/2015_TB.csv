@@ -1,0 +1,51 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0031390,Charles Sims,RB,,34,72,211,1990-09-19,West Virginia,1,16,16,,,nflverse
+00-0029613,Doug Martin,RB,,22,69,223,1989-01-13,Boise State,3,16,16,,,nflverse
+00-0031503,Jameis Winston,QB,,3,76,231,1994-01-06,Florida State,0,16,16,,,nflverse
+00-0031408,Mike Evans,WR,,13,77,231,1993-08-21,Texas A&amp;M,1,15,15,,,nflverse
+00-0031120,Adarius Glanton,LB,,53,73,230,1990-09-21,Florida Atlantic,1,14,,,,nflverse
+00-0030402,Akeem Spence,DT,,97,73,307,1991-11-29,Illinois,2,14,,,,nflverse
+00-0032243,Ali Marpet,LG,RG,74,76,307,1993-04-17,Hobart,0,14,,,,nflverse
+00-0027705,Alterraun Verner,CB,,21,70,187,1988-12-13,UCLA,5,14,,,,nflverse
+00-0026964,Clinton McDonald,DT,,98,74,297,1987-01-06,Memphis,6,14,,,,nflverse
+00-0026138,Connor Barth,K,,10,71,200,1986-04-11,North Carolina,7,14,,,,nflverse
+00-0027989,Da'Quan Bowers,DT,,91,76,288,1990-02-23,Clemson,4,14,,,,nflverse
+00-0029927,Darius Eubanks,LB,,49,74,222,1991-07-12,Georgia Southern,2,14,,,,nflverse
+00-0026814,Demar Dotson,LT,RT,69,81,315,1985-10-11,Southern Mississippi,6,14,,,,nflverse
+00-0032217,Donovan Smith,LT,RT,76,78,338,1993-06-23,Penn State,0,14,,,,nflverse
+00-0026784,Evan Smith,C,,62,74,308,1986-07-19,Idaho State,6,14,,,,nflverse
+00-0031954,Evan Spencer,WR,,85,74,208,1993-05-26,,0,14,,,,nflverse
+00-0027495,George Johnson,EDGE,,94,76,265,1987-12-11,Rutgers,5,14,,,,nflverse
+00-0027856,Gerald McCoy,DT,,93,76,300,1988-02-25,Oklahoma,5,14,,,,nflverse
+00-0026157,Gosder Cherilus,LT,RT,78,79,316,1984-06-28,Boston College,7,14,,,,nflverse
+00-0026905,Henry Melton,DT,,90,75,290,1986-10-11,,6,14,,,,nflverse
+00-0030881,Howard Jones,EDGE,,95,74,238,1990-02-10,Shepherd,1,14,,,,nflverse
+00-0029739,Jacob Schum,P,,5,71,211,1989-01-21,Buffalo,2,14,,,,nflverse
+00-0029112,Jacquies Smith,EDGE,,56,74,260,1990-03-18,Missouri,3,14,,,,nflverse
+00-0027717,Joe Hawley,C,,68,75,302,1988-10-22,Nevada-Las Vegas,5,14,,,,nflverse
+00-0030469,Johnthan Banks,CB,,27,74,185,1989-10-03,Mississippi State,2,14,,,,nflverse
+00-0031847,Josh Keyes,LB,,57,74,223,1993-01-23,Boston College,0,14,,,,nflverse
+00-0032273,Jude Adjei-Barimah,S,,38,71,200,1992-07-21,Bowling Green State,0,14,,,,nflverse
+00-0031182,Kevin Pamphile,LT,RT,64,77,310,1990-11-27,Purdue,1,14,,,,nflverse
+00-0030740,Kimario McFadden,S,,33,71,197,1991-04-13,,1,14,,,,nflverse
+00-0023467,Logan Mankins,LG,RG,70,76,308,1982-03-10,Fresno State,10,14,,,,nflverse
+00-0030520,Mike Glennon,QB,,8,78,225,1989-12-12,North Carolina State,2,14,,,,nflverse
+00-0030391,Mike James,RB,,25,70,223,1991-04-13,Miami (Fla.),2,14,,,,nflverse
+00-0026165,Mike Jenkins,CB,,24,70,197,1985-03-22,South Florida,7,14,,,,nflverse
+00-0029857,Ryan Griffin,QB,,4,77,210,1989-11-17,Tulane,2,14,,,,nflverse
+00-0028767,Sterling Moore,CB,,26,70,202,1990-02-03,Southern Methodist,4,14,,,,nflverse
+00-0031467,T.J. Fatinikun,EDGE,,96,74,250,1991-07-28,Toledo,2,14,,,,nflverse
+00-0032185,Tevin Westbrook,TE,,81,77,257,1993-01-17,Florida,0,14,,,,nflverse
+00-0024102,Tony McDaniel,DT,,77,79,305,1985-01-20,Tennessee,9,14,,,,nflverse
+00-0030386,William Gholston,EDGE,,92,78,281,1991-07-31,Michigan State,2,14,,,,nflverse
+00-0031273,Cameron Brate,TE,,84,77,235,1991-07-03,Harvard,1,12,12,,,nflverse
+00-0032009,Adam Humphries,WR,,11,71,195,1993-06-24,Clemson,0,11,11,,,nflverse
+00-0023496,Vincent Jackson,WR,,83,77,230,1983-01-14,Northern Colorado,10,10,10,,,nflverse
+00-0032008,Donteea Dye,WR,,17,72,195,1993-08-20,Heidelberg,0,9,9,,,nflverse
+00-0028042,Luke Stocker,TE,,88,78,253,1988-07-17,Tennessee,4,8,8,,,nflverse
+00-0031418,Austin Seferian-Jenkins,TE,,87,77,262,1992-09-29,Washington,1,7,,,,nflverse
+00-0030147,Russell Shepard,WR,,89,73,195,1990-09-17,LSU,2,7,,,,nflverse
+00-0027135,Brandon Myers,TE,,82,75,256,1985-09-04,Iowa,6,6,,,,nflverse
+00-0029384,Bobby Rainey,RB,,43,68,212,1987-10-16,Western Kentucky,3,5,,,,nflverse
+00-0027089,Louis Murphy,WR,,18,74,200,1987-05-11,Florida,6,5,,,,nflverse
+00-0029619,Jorvorskie Lane,RB,,46,71,258,1987-02-04,Texas A&M,3,3,,,,nflverse

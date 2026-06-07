@@ -1,0 +1,42 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0029668,Andrew Luck,QB,,12,76,240,1989-09-12,Stanford,2,16,16,,,nflverse
+00-0029697,Coby Fleener,TE,,80,78,251,1988-09-20,Stanford,2,16,16,,,nflverse
+00-0027005,Hakeem Nicks,WR,,14,73,208,1988-01-14,North Carolina,5,15,15,,,nflverse
+00-0020498,Reggie Wayne,WR,,87,72,203,1978-11-17,,13,15,15,,,nflverse
+00-0029608,T.Y. Hilton,WR,,13,69,178,1989-11-14,Florida International,2,15,15,,,nflverse
+00-0029675,Trent Richardson,RB,,34,69,225,1990-07-10,,2,15,15,,,nflverse
+00-0026950,A.Q. Shipley,C,,63,73,307,1986-05-22,Penn State,5,14,,,,nflverse
+00-0016919,Adam Vinatieri,K,,4,72,209,1972-12-28,South Dakota State,18,14,,,,nflverse
+00-0027756,Arthur Jones,DT,,97,75,337,1986-06-03,Syracuse,4,14,,,,nflverse
+00-0021998,Cory Redding,EDGE,,90,76,318,1980-11-15,Texas,11,14,,,,nflverse
+00-0027017,Darius Butler,CB,,20,70,188,1986-03-18,Connecticut,5,14,,,,nflverse
+00-0028048,David Arkin,LG,RG,65,77,307,1987-10-07,Missouri State,3,14,,,,nflverse
+00-0031339,Donte Moncrief,WR,,10,74,221,1993-08-06,Mississippi,0,14,14,,,nflverse
+00-0026157,Gosder Cherilus,LT,RT,78,79,316,1984-06-28,Boston College,6,14,,,,nflverse
+00-0026910,Gregory Toler,CB,,28,72,190,1985-01-02,St. Paul's (VA),5,14,,,,nflverse
+00-0030071,Hugh Thornton,LG,RG,69,75,336,1991-06-28,Illinois,1,14,,,,nflverse
+00-0031046,Jack Mewhort,LG,RG,75,78,308,1991-08-30,Ohio State,0,14,,,,nflverse
+00-0026408,Joe Reitz,LG,RG,76,79,325,1985-08-24,Western Michigan,6,14,,,,nflverse
+00-0030649,Jonotthan Harrison,C,,72,76,308,1991-08-25,Florida,0,14,,,,nflverse
+00-0029574,Josh Chapman,DT,,96,72,340,1989-06-10,,2,14,,,,nflverse
+00-0027503,Josh Gordy,CB,,27,71,196,1987-02-09,,4,14,,,,nflverse
+00-0030075,Khaled Holmes,C,,62,75,309,1990-01-19,,1,14,,,,nflverse
+00-0026961,Lance Louis,LG,RG,60,75,330,1985-04-24,San Diego State,5,14,,,,nflverse
+00-0030320,Michael Hill,RB,,23,70,210,1989-05-14,,1,14,,,,nflverse
+00-0030082,Montori Hughes,DT,,95,76,350,1990-08-25,Tennessee-Martin,1,14,,,,nflverse
+00-0026502,Ricky Jean Francois,EDGE,,99,75,297,1986-11-23,LSU,5,14,,,,nflverse
+00-0029825,Sheldon Price,CB,,40,74,198,1991-03-26,UCLA,1,14,,,,nflverse
+00-0027001,Vontae Davis,CB,,21,71,207,1988-05-27,Illinois,5,14,,,,nflverse
+00-0029867,Xavier Nixon,LT,RT,71,78,330,1990-09-17,,1,14,,,,nflverse
+00-0031105,Zach Kerr,DT,,94,74,335,1990-08-29,Delaware,0,14,,,,nflverse
+00-0029689,Dwayne Allen,TE,,83,75,265,1990-02-24,Clemson,2,12,12,,,nflverse
+00-0029588,Dan Herron,RB,,36,70,212,1989-03-21,,2,11,11,,,nflverse
+00-0025637,Ahmad Bradshaw,RB,,44,70,217,1986-03-19,Marshall,7,10,10,,,nflverse
+00-0030181,Jack Doyle,TE,,84,78,267,1990-05-05,Western Kentucky,1,10,10,,,nflverse
+00-0007091,Matt Hasselbeck,QB,,8,76,235,1975-09-25,Boston College,16,4,,,,nflverse
+00-0030855,Zurlon Tipton,RB,,37,72,231,1989-04-27,Central Michigan,0,2,,,,nflverse
+00-0027960,Anthony Castonzo,LT,RT,74,79,311,1988-08-09,Boston College,3,1,,,,nflverse
+00-0030650,Dewey McDonald,S,,31,72,220,1990-06-10,California (PA),0,1,,,,nflverse
+00-0029033,Griff Whalen,WR,,17,71,190,1990-03-01,Stanford,2,1,,,,nflverse
+00-0023176,Joshua Cribbs,WR,,16,73,192,1983-06-09,,9,1,,,,nflverse
+00-0027145,Pat McAfee,P,,1,73,240,1987-05-02,West Virginia,5,1,,,,nflverse

@@ -1,0 +1,53 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0019596,Tom Brady,QB,,12,76,225,1977-08-03,Michigan,15,16,16,,,nflverse
+00-0027656,Rob Gronkowski,TE,,87,78,265,1989-05-14,Arizona,5,15,15,,,nflverse
+00-0025420,Alan Branch,DT,,97,78,350,1984-12-29,Michigan,8,14,,,,nflverse
+00-0031856,Brandon King,LB,,36,74,220,1993-06-08,Auburn,0,14,,,,nflverse
+00-0031174,Bryan Stork,C,,66,76,310,1990-11-15,,1,14,,,,nflverse
+00-0031067,Cameron Fleming,LT,RT,71,78,320,1992-09-03,Stanford,1,14,,,,nflverse
+00-0029585,Chandler Jones,EDGE,,95,77,265,1990-02-27,Syracuse,3,14,,,,nflverse
+00-0026035,Danny Amendola,WR,,80,71,190,1985-11-02,Texas Tech,7,14,14,,,nflverse
+00-0031852,David Andrews,C,,60,75,295,1992-07-10,Georgia,0,14,,,,nflverse
+,Dick Conn,S,,0,,,,,41,14,,,,nflverse
+00-0031425,Dominique Easley,DT,,99,74,285,1992-04-28,Florida,1,14,,,,nflverse
+00-0031940,Geneo Grissom,EDGE,,92,75,265,1992-06-04,Oklahoma,0,14,,,,nflverse
+00-0027975,Jabaal Sheard,EDGE,,93,75,260,1989-05-10,Pittsburgh,4,14,,,,nflverse
+00-0031559,Jordan Richards,S,,37,71,210,1993-01-21,Stanford,0,14,,,,nflverse
+00-0029992,Josh Kline,LG,RG,67,75,300,1989-12-29,Kent State,2,14,,,,nflverse
+00-0031796,Justin Coleman,S,,22,71,185,1993-03-27,Tennessee,0,14,,,,nflverse
+00-0031661,Kevin Snyder,LB,,45,74,238,1992-07-25,Rutgers,0,14,,,,nflverse
+00-0031172,Khyri Thornton,DT,,74,75,315,1989-11-21,Southern Mississippi,1,14,,,,nflverse
+00-0029886,LaAdrian Waddle,LT,RT,68,78,328,1991-07-21,Texas Tech,2,14,,,,nflverse
+00-0029087,Leonard Johnson,CB,,34,70,202,1990-03-30,Iowa State,3,14,,,,nflverse
+00-0030411,Logan Ryan,CB,,26,71,195,1991-02-09,Rutgers,2,14,,,,nflverse
+00-0031218,Malcolm Butler,CB,,21,71,190,1990-03-02,West Alabama,1,14,,,,nflverse
+00-0032261,Malcom Brown,DT,,90,74,320,1994-02-02,Texas,0,14,,,,nflverse
+00-0028076,Marcus Cannon,LT,RT,61,77,335,1988-05-06,Texas Christian,4,14,,,,nflverse
+00-0027955,Nate Solder,LT,RT,77,80,325,1988-04-12,Colorado,4,14,,,,nflverse
+00-0024349,Rob Ninkovich,EDGE,,50,74,260,1984-02-01,Purdue,9,14,,,,nflverse
+00-0029984,Ryan Allen,P,,6,74,220,1990-02-28,Louisiana Tech,2,14,,,,nflverse
+00-0025866,Ryan Wendell,C,,62,74,300,1986-03-04,Fresno State,7,14,,,,nflverse
+00-0028256,Sealver Siliga,DT,,96,74,325,1990-04-26,Utah,4,14,,,,nflverse
+00-0027034,Sebastian Vollmer,LT,RT,76,80,325,1984-07-10,Houston,6,14,,,,nflverse
+00-0031580,Shaquille Mason,LG,RG,69,73,310,1993-08-28,Georgia Tech,0,14,,,,nflverse
+00-0024333,Stephen Gostkowski,K,,3,73,215,1984-01-28,Memphis,9,14,,,,nflverse
+00-0025534,Tarell Brown,CB,,25,71,190,1985-01-06,Texas,8,14,,,,nflverse
+00-0031573,Tre' Jackson,LG,RG,63,76,320,1992-12-14,,0,14,,,,nflverse
+00-0031566,Trey Flowers,EDGE,,98,74,265,1993-08-16,Arkansas,0,14,,,,nflverse
+00-0031062,James White,RB,,28,70,205,1992-02-03,Wisconsin,1,12,12,,,nflverse
+00-0027325,LeGarrette Blount,RB,,29,72,250,1986-12-05,Oregon,5,12,12,,,nflverse
+00-0025516,Scott Chandler,TE,,88,79,260,1985-07-23,Iowa,8,12,12,,,nflverse
+00-0029239,Brandon Bolden,RB,,38,71,220,1990-01-26,Mississippi,3,11,11,,,nflverse
+00-0027681,Brandon LaFell,WR,,19,75,210,1986-11-04,LSU,5,11,11,,,nflverse
+00-0027732,Michael Hoomanawanui,TE,,47,76,265,1988-07-04,Illinois,5,10,10,,,nflverse
+00-0027150,Julian Edelman,WR,,11,70,200,1986-05-22,Kent State,6,9,9,,,nflverse
+00-0028087,Dion Lewis,RB,,33,68,195,1990-09-27,Pittsburgh,4,7,,,,nflverse
+00-0028017,Leonard Hankerson,WR,,15,74,211,1989-01-30,,4,7,,,,nflverse
+00-0030540,Aaron Dobson,WR,,17,75,205,1991-07-23,Marshall,2,6,,,,nflverse
+00-0030110,Michael Williams,TE,,85,78,304,1990-09-08,Alabama,2,5,,,,nflverse
+00-0031345,Jimmy Garoppolo,QB,,10,74,225,1991-11-02,Eastern Illinois,1,4,,,,nflverse
+00-0031854,Chris Harper,WR,,14,71,185,1993-12-07,California,0,3,,,,nflverse
+00-0022736,Steven Jackson,RB,,39,74,240,1983-07-22,Oregon State,11,2,,,,nflverse
+00-0030832,Asante Cleveland,TE,,44,77,260,1992-03-21,Miami (Fla.),1,1,,,,nflverse
+00-0029435,Damaris Johnson,WR,,15,68,175,1989-11-22,Tulsa,3,1,,,,nflverse
+00-0026293,Matt Slater,WR,,18,72,205,1985-09-09,UCLA,7,1,,,,nflverse

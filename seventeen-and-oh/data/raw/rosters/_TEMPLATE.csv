@@ -1,0 +1,14 @@
+# Roster template for 17-0. Copy this file to data/raw/rosters/<SEASON>_<TEAM>.csv
+# (for example 2010_NYJ.csv) and fill in one row per player. Lines starting with
+# "#" are ignored. Only `name` and `position` are strictly required; every other
+# column is optional and simply improves rating accuracy.
+#
+# position must be one of:
+#   QB RB WR TE LT LG C RG RT EDGE DT LB CB S K P   (fullbacks use RB)
+# secondary_positions: semicolon-separated, same set (e.g. "LG;RG").
+# awards: semicolon-separated (e.g. "MVP;First-Team All-Pro;Pro Bowl").
+# scout_grade: optional 0-99 scouting prior; leave blank for pure generation.
+# games / games_started: feed the role prior; leave blank only if truly unknown
+#   (a known position with no role/stats/awards is flagged needs_review).
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+# example-player,Example Player,QB,,12,6-2,215,1990-01-01,State University,5,16,16,,Pro Bowl,Optional note

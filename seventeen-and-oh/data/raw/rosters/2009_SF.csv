@@ -1,0 +1,44 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0024221,Vernon Davis,TE,,85,75,250,1984-01-31,Maryland,3,16,16,,,nflverse
+00-0026314,Josh Morgan,WR,,84,72,219,1985-06-20,,1,15,15,,,nflverse
+00-0023529,Adam Snyder,LT,RT,68,78,325,1982-01-30,,4,14,,,,nflverse
+00-0022824,Andy Lee,P,,4,74,180,1982-08-11,Pittsburgh,5,14,,,,nflverse
+00-0022147,Aubrayo Franklin,DT,,92,73,317,1980-08-27,,6,14,,,,nflverse
+00-0018925,Barry Sims,LT,RT,65,77,300,1974-12-01,,10,14,,,,nflverse
+00-0026712,Brit Miller,RB,,47,72,243,1986-09-15,,0,14,,,,nflverse
+00-0026179,Chilo Rachal,LG,RG,62,76,315,1986-03-15,,1,14,,,,nflverse
+00-0025789,Chris Patrick,LT,RT,61,76,280,1984-08-22,,2,14,,,,nflverse
+00-0026247,Cody Wallace,C,,59,76,300,1984-11-26,Texas A&M,1,14,,,,nflverse
+00-0023468,David Baas,LG,RG,64,76,330,1981-09-28,,4,14,,,,nflverse
+00-0020055,Demetric Evans,EDGE,,93,76,275,1979-09-03,,8,14,,,,nflverse
+00-0026538,Derek Walker,EDGE,,78,76,271,1986-09-16,,0,14,,,,nflverse
+00-0026763,Diyral Briggs,EDGE,,50,76,230,1985-10-31,,0,14,,,,nflverse
+00-0001388,Dre' Bly,CB,,31,70,188,1977-05-22,,10,14,,,,nflverse
+00-0021341,Eric Heitmann,C,,66,75,312,1980-02-24,,7,14,,,,nflverse
+00-0023500,Frank Gore,RB,,21,69,217,1983-05-14,Miami,4,14,14,,,nflverse
+00-0022863,Isaac Sopoaga,EDGE,,90,74,330,1981-09-04,,5,14,,,,nflverse
+00-0011970,Joe Nedney,K,,6,77,234,1973-03-22,,14,14,,,,nflverse
+00-0025415,Joe Staley,LT,RT,74,77,315,1984-08-30,Central Michigan,2,14,,,,nflverse
+00-0020535,Justin Smith,EDGE,,94,76,285,1979-09-30,,8,14,,,,nflverse
+00-0026169,Kentwan Balmer,EDGE,,96,77,315,1986-10-15,,1,14,,,,nflverse
+00-0024406,Marcus Hudson,CB,,23,74,200,1982-11-15,,3,14,,,,nflverse
+00-0027118,Nate Davis,QB,,7,73,226,1987-05-25,,0,14,,,,nflverse
+00-0025484,Ray McDonald,EDGE,,91,75,290,1984-09-02,,2,14,,,,nflverse
+00-0026502,Ricky Jean Francois,EDGE,,95,75,295,1986-11-23,LSU,0,14,,,,nflverse
+00-0025681,Ricky Schmitt,P,,2,75,210,1985-08-17,,2,14,,,,nflverse
+00-0022843,Shawntae Spencer,CB,,36,73,190,1982-02-22,,5,14,,,,nflverse
+00-0025534,Tarell Brown,CB,,25,70,193,1985-01-06,Texas,2,14,,,,nflverse
+00-0022149,Tony Pashos,LT,RT,77,78,326,1980-08-03,,6,14,,,,nflverse
+00-0021064,Tony Wragge,LG,RG,69,76,310,1979-08-14,,7,14,,,,nflverse
+00-0024389,Delanie Walker,TE,,46,72,242,1984-08-12,Central Missouri State,3,12,12,,,nflverse
+00-0023436,Alex Smith,QB,,11,76,217,1984-05-07,Utah,4,11,11,,,nflverse
+00-0026986,Michael Crabtree,WR,,15,73,214,1987-09-14,Texas Tech,0,11,11,,,nflverse
+00-0020508,Moran Norris,RB,,44,73,250,1978-06-16,,8,11,11,,,nflverse
+00-0027048,Glen Coffee,RB,,29,72,209,1987-05-01,,0,10,10,,,nflverse
+00-0025463,Jason Hill,WR,,89,72,202,1985-02-20,,2,10,10,,,nflverse
+00-0002099,Isaac Bruce,WR,,88,72,188,1972-11-10,,15,9,9,,,nflverse
+00-0024315,Michael Robinson,RB,,24,73,223,1983-02-06,,3,9,9,,,nflverse
+00-0020679,Shaun Hill,QB,,13,75,220,1980-01-09,Maryland,7,6,,,,nflverse
+00-0022064,Arnaz Battle,WR,,83,73,208,1980-02-22,,6,4,,,,nflverse
+00-0023531,Brandon Jones,WR,,81,73,212,1982-10-06,,4,3,,,,nflverse
+00-0020495,Nate Clements,CB,,22,72,205,1979-12-12,,8,1,,,,nflverse

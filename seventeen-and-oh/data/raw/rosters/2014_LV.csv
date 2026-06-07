@@ -1,0 +1,54 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0026144,Darren McFadden,RB,,20,73,218,1987-08-27,Arkansas,6,16,16,,,nflverse
+00-0031280,Derek Carr,QB,,4,75,214,1991-03-28,Fresno State,0,16,16,,,nflverse
+00-0025465,James Jones,WR,,89,73,200,1984-03-31,,7,16,16,,,nflverse
+00-0030514,Mychal Rivera,TE,,81,75,245,1990-09-08,Tennessee,1,16,16,,,nflverse
+00-0028263,Andre Holmes,WR,,18,76,210,1988-06-16,Hillsdale,3,15,15,,,nflverse
+00-0026393,Marcel Reece,RB,,45,73,250,1985-06-23,Washington,6,15,15,,,nflverse
+00-0022793,Antonio Smith,DT,,94,75,290,1981-10-21,Oklahoma State,10,14,,,,nflverse
+00-0027297,Austin Howard,LG,RG,77,79,330,1987-03-22,Northern Iowa,4,14,,,,nflverse
+00-0030380,Benson Mayowa,EDGE,,95,75,252,1991-08-03,Idaho,1,14,,,,nflverse
+00-0031227,Bojay Filimoeatu,LB,,54,74,250,1989-12-06,,0,14,,,,nflverse
+00-0030516,Brice Butler,WR,,12,75,210,1990-01-29,San Diego State,1,14,14,,,nflverse
+00-0027822,C.J. Wilson,EDGE,,98,75,300,1987-03-30,East Carolina,4,14,,,,nflverse
+00-0023444,Carlos Rogers,CB,,27,72,195,1981-07-02,,9,14,,,,nflverse
+00-0030368,Chance Casey,CB,,37,71,190,1991-03-11,,1,14,,,,nflverse
+00-0028051,Chimdi Chekwa,CB,,35,72,190,1988-01-07,Ohio State,3,14,,,,nflverse
+00-0030572,D.J. Hayden,CB,,25,71,190,1990-06-27,Houston,1,14,,,,nflverse
+00-0031254,Denico Autry,EDGE,,96,77,273,1990-07-15,Mississippi State,0,14,,,,nflverse
+00-0031158,George Atkinson,RB,,34,73,218,1992-11-29,Notre Dame,0,14,,,,nflverse
+00-0031346,Justin Ellis,DT,,78,74,334,1990-12-27,Louisiana Tech,0,14,,,,nflverse
+00-0023509,Justin Tuck,EDGE,,91,77,265,1983-03-29,Notre Dame,9,14,,,,nflverse
+00-0031347,Keith McGill,CB,,39,75,211,1989-03-09,Utah,0,14,,,,nflverse
+00-0024390,Kevin Boothe,C,,67,77,325,1983-07-05,,8,14,,,,nflverse
+00-0025433,LaMarr Woodley,EDGE,,58,74,265,1984-11-03,Michigan,7,14,,,,nflverse
+00-0029123,Marquette King,P,,7,72,190,1988-10-26,Fort Valley State,2,14,,,,nflverse
+00-0029302,Matt McCants,LT,RT,73,78,310,1989-08-18,Alabama-Birmingham,2,14,,,,nflverse
+00-0030579,Menelik Watson,LT,RT,71,77,315,1988-12-22,Florida State,1,14,,,,nflverse
+00-0029329,Neiko Thorpe,CB,,31,73,200,1990-02-11,Auburn,2,14,,,,nflverse
+00-0026217,Pat Sims,DT,,90,74,310,1985-11-29,Auburn,6,14,,,,nflverse
+00-0027971,Ras-I Dowling,CB,,36,73,210,1988-05-09,Virginia,3,14,,,,nflverse
+00-0028722,Ricky Lumpkin,DT,,93,76,300,1988-09-07,,3,14,,,,nflverse
+00-0031167,Scott Simonson,TE,,83,77,249,1992-04-13,Assumption,0,14,,,,nflverse
+00-0019646,Sebastian Janikowski,K,,11,73,260,1978-03-02,Florida State,14,14,,,,nflverse
+00-0031270,Shelby Harris,EDGE,,75,74,288,1991-08-11,Illinois State,0,14,,,,nflverse
+00-0030804,Spencer Hadley,LB,,50,73,227,1989-10-30,,0,14,,,,nflverse
+00-0030515,Stacy McGee,DT,,92,75,310,1990-01-17,Oklahoma,1,14,,,,nflverse
+00-0027986,Stefen Wisniewski,C,,61,75,315,1989-03-22,Penn State,3,14,,,,nflverse
+00-0031269,T.J. Carrie,CB,,38,72,204,1990-07-28,Ohio,0,14,,,,nflverse
+00-0028063,Taiwan Jones,CB,,22,72,195,1988-07-26,Eastern Washington,3,14,,,,nflverse
+00-0025534,Tarell Brown,CB,,23,71,190,1985-01-06,Texas,7,14,,,,nflverse
+00-0029699,Tony Bergstrom,LG,RG,70,77,315,1986-08-06,Utah,2,14,,,,nflverse
+00-0030000,Kenbrell Thompkins,WR,,85,73,195,1988-07-29,Cincinnati,1,13,13,,,nflverse
+00-0024275,Maurice Jones-Drew,RB,,21,67,210,1985-03-23,,8,11,11,,,nflverse
+00-0030513,Latavius Murray,RB,,28,75,225,1990-01-18,Central Florida,1,10,10,,,nflverse
+00-0028086,Denarius Moore,WR,,17,72,190,1988-12-09,Tennessee,3,8,8,,,nflverse
+00-0029492,Jamize Olawale,RB,,49,73,235,1989-04-17,North Texas,2,8,8,,,nflverse
+00-0029755,Brian Leonhardt,TE,,87,77,255,1990-04-02,,1,7,,,,nflverse
+00-0028020,Vincent Brown,WR,,19,71,190,1989-01-25,San Diego State,3,6,,,,nflverse
+00-0031367,Gabe Jackson,LG,RG,66,75,336,1991-07-12,Mississippi State,0,2,,,,nflverse
+00-0022787,Matt Schaub,QB,,8,78,235,1981-06-25,Virginia,10,2,,,,nflverse
+00-0028179,David Ausberry,TE,,86,76,250,1987-09-25,,3,1,,,,nflverse
+00-0023894,Donald Penn,LT,RT,72,76,340,1983-04-27,Utah State,8,1,,,,nflverse
+00-0023487,Khalif Barnes,LG,RG,69,78,320,1982-04-21,Washington,9,1,,,,nflverse
+00-0030419,Matthew McGloin,QB,,14,73,210,1989-12-02,Penn State,1,1,,,,nflverse

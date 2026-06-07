@@ -1,0 +1,42 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0023436,Alex Smith,QB,,11,76,217,1984-05-07,Utah,10,16,16,,,nflverse
+00-0030506,Travis Kelce,TE,,87,77,260,1989-10-05,Cincinnati,2,16,16,,,nflverse
+00-0026995,Jeremy Maclin,WR,,19,72,198,1988-05-11,Missouri,6,15,15,,,nflverse
+00-0031287,Aaron Murray,QB,,7,73,207,1990-11-10,,1,14,,,,nflverse
+00-0030669,Albert Wilson,WR,,12,69,200,1992-07-12,Georgia State,1,14,14,,,nflverse
+00-0028024,Allen Bailey,EDGE,,97,75,288,1989-03-25,Miami,4,14,,,,nflverse
+00-0025416,Ben Grubbs,LG,RG,66,75,310,1984-03-10,Auburn,8,14,,,,nflverse
+00-0032192,Daniel Munyer,C,,64,73,305,1992-03-04,Colorado,0,14,,,,nflverse
+00-0029543,Donald Stephenson,LT,RT,79,78,312,1988-09-30,Oklahoma,3,14,,,,nflverse
+00-0023534,Dustin Colquitt,P,,2,75,210,1982-05-06,Tennessee,10,14,,,,nflverse
+00-0030584,Eric Fisher,LT,RT,72,79,315,1991-01-05,Central Michigan,2,14,,,,nflverse
+00-0030154,Frankie Hammond,WR,,85,73,184,1990-02-17,Florida,2,14,,,,nflverse
+00-0028023,Jah Reid,LT,RT,75,79,325,1988-07-21,Central Florida,4,14,,,,nflverse
+00-0029639,Jamell Fleming,CB,,30,71,206,1989-05-05,,3,14,,,,nflverse
+00-0030964,Jarrod Pughsley,LG,RG,60,76,310,1990-12-18,Akron,1,14,,,,nflverse
+00-0029277,Jaye Howard,DT,,96,75,301,1988-12-20,Florida,3,14,,,,nflverse
+00-0029524,Jeff Allen,LG,RG,71,76,306,1990-01-08,Illinois,3,14,,,,nflverse
+00-0031022,Laurent Duvernay-Tardif,LG,RG,76,77,321,1991-02-11,McGill,1,14,,,,nflverse
+00-0030127,Marcus Cooper,CB,,31,74,192,1990-02-01,Rutgers,2,14,,,,nflverse
+00-0032165,Marcus Peters,CB,,22,72,197,1993-01-09,Washington,0,14,,,,nflverse
+00-0025689,Mike Devito,EDGE,,70,75,305,1984-06-10,Maine,8,14,,,,nflverse
+00-0031936,Mitch Morse,C,,61,77,305,1992-04-21,Missouri,0,14,,,,nflverse
+00-0030500,Nicholas Williams,EDGE,,98,76,309,1990-02-21,Samford,2,14,,,,nflverse
+00-0031015,Phillip Gaines,CB,,23,72,193,1991-04-04,Rice,1,14,,,,nflverse
+00-0031957,Rakeem Nunez-Roches,EDGE,,99,74,307,1993-07-03,Southern Mississippi,0,14,,,,nflverse
+00-0027037,Sean Smith,CB,,21,75,218,1987-07-14,Utah,6,14,,,,nflverse
+00-0032150,Steven Nelson,CB,,20,70,194,1993-01-22,Oregon State,0,14,,,,nflverse
+00-0030997,Zach Fulton,LG,RG,73,77,316,1991-09-23,Tennessee,1,14,,,,nflverse
+00-0030668,Charcandrick West,RB,,35,70,205,1991-06-02,Abilene Christian,1,13,13,,,nflverse
+00-0024324,Jason Avant,WR,,81,72,210,1983-04-20,Michigan,9,10,10,,,nflverse
+00-0032128,Chris Conley,WR,,17,74,205,1992-10-25,Georgia,0,9,9,,,nflverse
+00-0030280,Knile Davis,RB,,34,70,227,1991-10-05,Arkansas,2,9,9,,,nflverse
+00-0030414,Spencer Ware,RB,,32,70,228,1991-11-23,Louisiana State,2,9,9,,,nflverse
+00-0030155,Demetrius Harris,TE,,84,79,230,1991-07-29,Wisconsin-Milwaukee,2,6,,,,nflverse
+00-0026213,Jamaal Charles,RB,,25,71,199,1986-12-27,Texas,7,5,,,,nflverse
+00-0031951,James O'Shaughnessy,TE,,80,76,245,1992-01-14,Illinois State,0,5,,,,nflverse
+00-0028074,Anthony Sherman,RB,,42,70,242,1988-12-11,Connecticut,4,4,,,,nflverse
+00-0032089,Brian Parker,TE,,82,76,265,1992-05-30,"Albany, N.Y.",0,2,,,,nflverse
+00-0026544,Chase Daniel,QB,,10,72,225,1986-10-07,Missouri,6,2,,,,nflverse
+00-0031203,Cairo Santos,K,,5,68,160,1991-11-12,Tulane,1,1,,,,nflverse
+00-0029688,Dontari Poe,DT,,92,75,346,1990-08-18,Memphis,3,1,,,,nflverse

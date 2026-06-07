@@ -1,0 +1,9 @@
+player_id,season,team_code,check,detail,overall
+mike-mccoy,1976,GB,overall_exceeds_key_attrs,overall 75 but best key attr 53 (gap 22),75
+dennis-johnson,1978,BUF,defensive_attrs_on_offense,pass_rush=67 coverage=30,67
+robert-jackson,1978,CLE,defensive_attrs_on_offense,pass_rush=60 coverage=61,68
+robert-jackson,1979,CLE,defensive_attrs_on_offense,pass_rush=59 coverage=58,68
+robert-jackson,1980,CLE,defensive_attrs_on_offense,pass_rush=58 coverage=58,68
+robert-jackson,1981,CLE,overall_exceeds_key_attrs,overall 68 but best key attr 55 (gap 13),68
+robert-jackson,1981,CLE,defensive_attrs_on_offense,pass_rush=62 coverage=59,68
+(team-season),1978,PIT,elite_cluster,7 players rated 90+ on one team-season,

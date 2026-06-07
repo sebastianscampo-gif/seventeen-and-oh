@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0021190,Antwaan Randle El,WR,,82,70,185,1979-08-17,,6,16,16,,,nflverse
+00-0022738,Chris Cooley,TE,,47,75,258,1982-07-11,,4,16,16,,,nflverse
+00-0021179,Clinton Portis,RB,,26,71,221,1981-09-01,,6,16,16,,,nflverse
+00-0023460,Jason Campbell,QB,,17,77,231,1981-12-31,,3,16,16,,,nflverse
+00-0020494,Santana Moss,WR,,89,70,200,1979-06-01,,7,15,15,,,nflverse
+00-0020489,Andre Carter,EDGE,,99,76,253,1979-05-12,,7,14,,,,nflverse
+00-0024367,Anthony Montgomery,DT,,94,78,315,1984-03-08,,2,14,,,,nflverse
+00-0023444,Carlos Rogers,CB,,22,72,190,1981-07-02,,3,14,,,,nflverse
+00-0020450,Casey Rabach,C,,61,76,288,1977-09-24,,7,14,,,,nflverse
+00-0026236,Chad Rinehart,LG,RG,75,77,307,1985-05-04,,0,14,,,,nflverse
+00-0019640,Chris Samuels,LT,RT,60,77,314,1977-07-28,,8,14,,,,nflverse
+00-0024517,Chris Wilson,EDGE,,95,76,247,1982-07-10,,1,14,,,,nflverse
+00-0026326,Colt Brennan,QB,,5,75,212,1983-08-16,,0,14,,,,nflverse
+00-0019700,Cornelius Griffin,DT,,96,75,303,1976-12-03,,8,14,,,,nflverse
+00-0024483,D'Anthony Batiste,LG,RG,78,76,313,1982-03-29,,2,14,,,,nflverse
+00-0022923,DeAngelo Hall,CB,,23,70,195,1983-11-19,Virginia Tech,4,14,,,,nflverse
+00-0020055,Demetric Evans,EDGE,,92,76,287,1979-09-03,,7,14,,,,nflverse
+00-0025905,Devin Clark,LG,RG,62,76,305,1986-05-22,,0,14,,,,nflverse
+00-0020522,Fred Smoot,CB,,27,71,185,1979-04-17,,7,14,,,,nflverse
+00-0005031,Jason Fabini,LG,RG,69,79,312,1974-08-25,,10,14,,,,nflverse
+00-0016112,Jason Taylor,EDGE,,55,78,244,1974-09-01,,11,14,,,,nflverse
+00-0008271,Jon Jansen,LT,RT,76,78,306,1976-01-28,,9,14,,,,nflverse
+00-0023629,Justin Geisinger,C,,68,74,317,1982-05-24,,3,14,,,,nflverse
+00-0026264,Justin Tryon,CB,,20,69,183,1984-05-29,,0,14,,,,nflverse
+00-0024410,Kedric Golston,DT,,64,76,298,1983-05-30,Georgia,2,14,,,,nflverse
+00-0023186,Leigh Torrence,CB,,29,71,182,1982-01-04,,3,14,,,,nflverse
+00-0023259,Lorenzo Alexander,DT,,79,73,286,1983-05-31,California,3,14,,,,nflverse
+00-0016310,Randy Thomas,LG,RG,77,77,308,1976-01-19,,9,14,,,,nflverse
+00-0026382,Rob Jackson,EDGE,,98,76,269,1985-11-03,,0,14,,,,nflverse
+00-0022278,Ryan Boschetti,DT,,73,76,289,1981-10-07,,4,14,,,,nflverse
+00-0023001,Shaun Suisham,K,,6,72,200,1981-12-29,Bowling Green State,3,14,,,,nflverse
+00-0015495,Shawn Springs,CB,,24,72,207,1975-03-11,,11,14,,,,nflverse
+00-0024583,Stephon Heyer,LT,RT,74,78,314,1984-01-16,,1,14,,,,nflverse
+00-0003315,Todd Collins,QB,,15,76,223,1971-11-05,,13,14,,,,nflverse
+00-0023335,Tyson Smith,LB,,97,74,250,1981-10-09,,3,14,,,,nflverse
+00-0024448,Will Montgomery,LG,RG,63,75,310,1983-02-13,Virginia Tech,2,14,,,,nflverse
+00-0021184,Ladell Betts,RB,,46,71,224,1979-08-27,,6,13,13,,,nflverse
+00-0026174,Devin Thomas,WR,,11,74,220,1986-11-15,,0,10,10,,,nflverse
+00-0014655,Mike Sellers,RB,,45,75,280,1975-07-21,,10,8,8,,,nflverse
+00-0016440,James Thrash,WR,,83,72,204,1975-04-28,,11,7,,,,nflverse
+00-0019127,Todd Yoder,TE,,87,76,251,1978-03-18,,8,5,,,,nflverse
+00-0026188,Fred Davis,TE,,86,76,257,1986-01-15,,0,4,,,,nflverse
+00-0021357,Rock Cartwright,RB,,31,68,213,1979-12-03,,6,3,,,,nflverse
+00-0026191,Malcolm Kelly,WR,,12,76,227,1986-12-30,,0,2,,,,nflverse
+00-0009137,Pete Kendall,LG,RG,66,78,286,1973-07-09,,12,1,,,,nflverse

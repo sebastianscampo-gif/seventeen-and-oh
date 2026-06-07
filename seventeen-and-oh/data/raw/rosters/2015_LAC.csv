@@ -1,0 +1,48 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0026019,Danny Woodhead,RB,,39,68,200,1985-01-25,Chadron State,7,16,16,,,nflverse
+00-0022942,Philip Rivers,QB,,17,77,228,1981-12-08,North Carolina State,11,16,16,,,nflverse
+00-0022414,Malcom Floyd,WR,,80,77,225,1981-09-08,Wyoming,11,15,15,,,nflverse
+00-0031404,Adrian Phillips,S,,31,71,210,1992-03-28,Texas,1,14,,,,nflverse
+00-0026175,Brandon Flowers,CB,,24,69,187,1986-02-18,Virginia Tech,7,14,,,,nflverse
+00-0028060,Chris Hairston,LT,RT,75,78,330,1989-04-26,Clemson,4,14,,,,nflverse
+00-0030991,Chris Watt,C,,65,75,310,1990-08-17,Notre Dame,1,14,,,,nflverse
+00-0027956,Corey Liuget,DT,,94,74,300,1990-03-18,Illinois,4,14,,,,nflverse
+00-0032106,Craig Mager,CB,,29,71,200,1992-06-11,Texas State,0,14,,,,nflverse
+00-0030505,D.J. Fluker,LG,RG,76,77,339,1991-03-13,Alabama,2,14,,,,nflverse
+00-0030148,Damion Square,DT,,71,74,293,1989-02-06,Alabama,2,14,,,,nflverse
+00-0032116,Darius Philon,EDGE,,93,73,300,1994-01-22,Arkansas,0,14,,,,nflverse
+00-0032090,Dreamius Smith,RB,,36,71,217,1992-09-08,,0,14,,,,nflverse
+00-0031116,Greg Ducre,CB,,33,70,184,1992-01-22,Washington,1,14,,,,nflverse
+00-0027683,J.D. Walton,C,,66,75,310,1987-03-24,Baylor,5,14,,,,nflverse
+00-0031334,Jason Verrett,CB,,22,70,188,1991-06-18,Texas Christian,1,14,,,,nflverse
+00-0027469,Jeff Linkenbach,LT,RT,70,78,317,1987-06-09,,5,14,,,,nflverse
+00-0028030,Joe Barksdale,LT,RT,72,77,326,1989-01-04,Louisiana State,4,14,,,,nflverse
+00-0029288,Johnnie Troutman,LG,RG,63,76,330,1987-11-11,Penn State,3,14,,,,nflverse
+00-0032087,Josh Lambo,K,,2,72,215,1990-11-19,Texas A&amp;M,0,14,,,,nflverse
+00-0029256,Kendall Reyes,EDGE,,91,76,300,1989-09-26,Connecticut,3,14,,,,nflverse
+00-0028240,Kenny Wiggins,LT,RT,79,78,314,1988-08-08,Fresno State,4,14,,,,nflverse
+00-0026370,King Dunlap,LT,RT,77,81,330,1985-09-14,Auburn,7,14,,,,nflverse
+00-0032144,Melvin Gordon,RB,,28,73,215,1993-04-13,Wisconsin,0,14,14,,,nflverse
+00-0022017,Mike Scifres,P,,5,74,215,1980-10-08,,12,14,,,,nflverse
+00-0027573,Mitch Unrein,DT,,96,76,306,1987-03-25,Wyoming,5,14,,,,nflverse
+00-0027984,Orlando Franklin,LG,RG,74,79,320,1987-12-16,Miami (Fla.),4,14,,,,nflverse
+00-0027882,Patrick Robinson,CB,,26,71,191,1987-09-07,Florida State,5,14,,,,nflverse
+00-0027829,Ricardo Mathews,DT,,90,75,300,1987-07-30,Cincinnati,5,14,,,,nflverse
+00-0030994,Ryan Carrethers,DT,,92,73,333,1991-02-26,Arkansas State,1,14,,,,nflverse
+00-0027826,Sean Lissemore,DT,,98,75,303,1987-09-11,William & Mary,5,14,,,,nflverse
+00-0029391,Sean McGrath,TE,,84,77,247,1987-12-03,Henderson State,3,14,,,,nflverse
+00-0030283,Steve Williams,CB,,23,70,185,1991-03-07,,2,14,,,,nflverse
+00-0029066,Trevor Robinson,C,,60,77,300,1990-05-16,,3,14,,,,nflverse
+00-0032078,Tyreek Burwell,LT,RT,78,77,305,1992-03-11,Cincinnati,0,14,,,,nflverse
+00-0029275,Ladarius Green,TE,,89,78,240,1990-05-29,Louisiana-Lafayette,3,13,13,,,nflverse
+00-0028411,Dontrelle Inman,WR,,15,75,205,1989-01-31,Virginia,4,12,12,,,nflverse
+00-0021547,Antonio Gates,TE,,85,76,255,1980-06-18,Kent State,12,11,11,,,nflverse
+00-0026364,Steve Johnson,WR,,11,74,207,1986-07-22,Kentucky,7,9,9,,,nflverse
+00-0030279,Keenan Allen,WR,,13,74,211,1992-04-27,California,2,8,8,,,nflverse
+00-0030920,Javontee Herndon,WR,,81,72,194,1991-06-29,Arkansas,1,7,,,,nflverse
+00-0031277,Branden Oliver,RB,,43,68,208,1991-05-07,Buffalo,1,6,,,,nflverse
+00-0027003,Donald Brown,RB,,34,70,207,1987-04-11,,6,6,,,,nflverse
+00-0027139,John Phillips,TE,,83,77,251,1987-06-11,Virginia,6,6,,,,nflverse
+00-0026957,David Johnson,TE,,88,74,260,1987-08-26,Arkansas State,6,4,,,,nflverse
+00-0024264,Kellen Clemens,QB,,10,74,220,1983-06-06,Oregon,9,2,,,,nflverse
+00-0032160,Tyrell Williams,WR,,16,76,205,1992-02-12,Western Oregon,0,2,,,,nflverse

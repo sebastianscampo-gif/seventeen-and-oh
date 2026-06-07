@@ -1,0 +1,57 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0016919,Adam Vinatieri,K,,4,72,200,1972-12-28,South Dakota State,1,14,,,,nflverse
+00-0003142,Ben Coates,TE,,87,77,245,1969-08-16,,,14,,,,nflverse
+00-0014181,Bernard Russ,LB,,51,73,225,1973-11-04,,,14,,,,nflverse
+00-0011398,Brandon Mitchell,EDGE,,98,75,289,1975-06-19,,,14,,,,nflverse
+00-0000429,Bruce Armstrong,LT,RT,78,76,295,1965-09-07,,,14,,,,nflverse
+00-0004717,Chad Eaton,DT,,90,77,300,1972-04-06,,,14,,,,nflverse
+00-0002613,Chris Canty,CB,,26,69,185,1976-03-30,,,14,,,,nflverse
+00-0002720,Chris Carter,CB,,42,74,201,1974-09-27,,,14,,,,nflverse
+00-0015030,Chris Slade,LB,,53,77,245,1971-01-30,,,14,,,,nflverse
+00-0015885,Chris Sullivan,EDGE,,74,76,279,1973-03-14,,,14,,,,nflverse
+00-0010442,Curtis Martin,RB,,28,71,205,1973-05-01,,,14,,,,nflverse
+00-0004201,Damon Denson,LG,RG,61,76,305,1975-02-08,,,14,,,,nflverse
+00-0016911,Danny Villa,LT,RT,75,77,304,1964-09-21,,,14,,,,nflverse
+00-0011095,Dave Meggett,RB,,22,67,190,1966-04-30,,,14,,,,nflverse
+00-0018150,Dave Wohlabaugh,C,,64,75,292,1972-04-13,,,14,,,,nflverse
+00-0003736,Derrick Cullors,RB,,29,72,205,1972-12-26,,,14,,,,nflverse
+00-0018348,Devin Wyman,DT,,72,79,290,1973-08-29,,,14,,,,nflverse
+00-0008329,Dietrich Jells,WR,,83,70,186,1972-04-11,,,14,,,,nflverse
+00-0001361,Drew Bledsoe,QB,,11,77,233,1972-02-14,,,14,,,,nflverse
+00-0004848,Ed Ellis,LT,RT,66,79,340,1975-10-13,,,14,,,,nflverse
+00-0003319,Ferric Collons,EDGE,,92,79,285,1969-12-04,,,14,,,,nflverse
+00-0008052,Heath Irwin,LG,RG,63,76,300,1973-06-27,,,14,,,,nflverse
+00-0016269,Henry Thomas,DT,,95,74,277,1965-01-12,,,14,,,,nflverse
+00-0007512,Jimmy Hitchcock,CB,,31,70,188,1970-11-09,,,14,,,,nflverse
+00-0002451,Keith Byars,RB,,41,73,255,1963-10-14,,,14,,,,nflverse
+00-0017501,Larry Whigham,CB,,25,74,205,1972-06-23,,,14,,,,nflverse
+00-0011326,Lawyer Milloy,S,,36,72,208,1973-11-14,,,14,,,,nflverse
+00-0013308,Lovett Purnell,TE,,85,75,245,1972-04-07,,,14,,,,nflverse
+00-0017492,Mark Wheeler,DT,,97,75,285,1970-04-01,,,14,,,,nflverse
+00-0006421,Marrio Grier,RB,,35,70,229,1971-12-05,,,14,,,,nflverse
+00-0011592,Marty Moore,LB,,58,73,244,1971-03-19,,,14,,,,nflverse
+00-0009604,Max Lane,LG,RG,68,78,305,1971-02-22,,,14,,,,nflverse
+00-0000849,Mike Bartrum,TE,,86,77,245,1970-06-23,,,14,,,,nflverse
+00-0008831,Mike D. Jones,EDGE,,96,76,280,1969-08-25,,,14,,,,nflverse
+00-0006009,Mike Gisler,C,,67,76,300,1969-08-26,,,14,,,,nflverse
+00-0005822,Sam Gash,RB,,33,72,235,1969-03-07,,,14,,,,nflverse
+00-0013555,Scott Rehberg,LT,RT,60,80,336,1973-11-17,,,14,,,,nflverse
+00-0018518,Scott Zolak,QB,,16,77,235,1967-12-13,,,14,,,,nflverse
+00-0014742,Sedrick Shaw,RB,,23,72,214,1973-11-16,,,14,,,,nflverse
+00-0008313,Shawn Jefferson,WR,,84,71,180,1969-02-22,,,14,,,,nflverse
+00-0008063,Steve Israel,CB,,21,71,194,1969-03-16,,,14,,,,nflverse
+00-0010024,Steve Lofton,CB,,38,69,177,1968-11-26,,,14,,,,nflverse
+00-0008629,Ted Johnson,LB,,52,76,240,1972-12-04,,,14,,,,nflverse
+00-0002123,Tedy Bruschi,LB,,54,73,245,1973-06-09,,,14,,,,nflverse
+00-0006043,Terry Glenn,WR,,88,71,185,1974-07-23,,,14,,,,nflverse
+00-0003316,Todd F. Collins,LB,,59,74,248,1970-05-27,,,14,,,,nflverse
+00-0014130,Todd Rucci,LG,RG,71,77,296,1970-07-14,,,14,,,,nflverse
+00-0016683,Tom Tupa,QB,,19,76,220,1966-02-06,,,14,,,,nflverse
+00-0005696,Tony Gaiter,WR,,17,68,169,1974-07-15,,,14,,,,nflverse
+00-0002068,Troy Brown,WR,,80,70,190,1971-07-02,,,14,,,,nflverse
+00-0009687,Ty Law,CB,,24,71,200,1974-02-10,,,14,,,,nflverse
+00-0003629,Vernon Crawford,LB,,99,76,245,1974-06-25,,,14,,,,nflverse
+00-0001783,Vincent Brisby,WR,,82,75,193,1971-01-25,,,14,,,,nflverse
+00-0003093,Willie Clay,S,,32,70,200,1970-09-05,,,14,,,,nflverse
+00-0010872,Willie McGinest,EDGE,,55,77,255,1971-12-11,,,14,,,,nflverse
+00-0011758,Zefross Moss,LT,RT,77,78,325,1966-08-17,,,14,,,,nflverse

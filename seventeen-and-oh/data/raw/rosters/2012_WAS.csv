@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0029141,Alfred Morris,RB,,46,69,218,1988-12-12,Florida Atlantic,0,16,16,,,nflverse
+00-0026314,Josh Morgan,WR,,15,73,220,1985-06-20,,4,16,16,,,nflverse
+00-0020494,Santana Moss,WR,,89,70,189,1979-06-01,,11,16,16,,,nflverse
+00-0028115,Evan Royster,RB,,22,73,216,1987-11-26,,1,15,15,,,nflverse
+00-0028017,Leonard Hankerson,WR,,85,74,211,1989-01-30,,1,15,15,,,nflverse
+00-0029665,Robert Griffin,QB,,10,74,217,1990-02-12,Baylor,0,15,15,,,nflverse
+00-0025400,Adam Carriker,EDGE,,94,78,305,1984-05-06,,5,14,,,,nflverse
+00-0029139,Adam Gettis,LG,RG,73,74,292,1988-12-09,Iowa,0,14,,,,nflverse
+00-0024339,Barry Cofield,DT,,96,76,318,1984-03-19,Northwestern,6,14,,,,nflverse
+00-0024263,Cedric Griffin,CB,,20,72,195,1982-11-11,,6,14,,,,nflverse
+00-0026512,Chris Baker,DT,,92,74,333,1987-10-08,Hampton,3,14,,,,nflverse
+00-0024271,Chris Chester,LG,RG,66,75,309,1983-01-12,Oklahoma,6,14,,,,nflverse
+00-0027763,Crezdon Butler,CB,,30,72,191,1987-05-26,Clemson,2,14,,,,nflverse
+00-0022923,DeAngelo Hall,CB,,23,70,193,1983-11-19,Virginia Tech,8,14,,,,nflverse
+00-0026519,Domonique Johnson,CB,,30,73,191,1985-11-07,,3,14,,,,nflverse
+00-0027833,Doug Worthington,EDGE,,90,77,311,1987-08-10,Ohio State,2,14,,,,nflverse
+00-0027979,Jarvis Jenkins,EDGE,,99,76,315,1988-04-24,Clemson,1,14,,,,nflverse
+00-0021959,Jordan Black,LT,RT,60,77,305,1980-01-28,,9,14,,,,nflverse
+00-0029666,Josh LeRibeus,LG,RG,67,74,315,1989-07-02,Southern Methodist,0,14,,,,nflverse
+00-0025442,Josh Wilson,CB,,26,69,188,1985-03-11,Maryland,5,14,,,,nflverse
+00-0028787,Kai Forbath,K,,2,71,197,1987-09-02,UCLA,1,14,,,,nflverse
+00-0024410,Kedric Golston,EDGE,,64,76,318,1983-05-30,Georgia,6,14,,,,nflverse
+00-0026248,Kory Lichtensteiger,LG,RG,78,74,284,1985-03-22,Bowling Green,4,14,,,,nflverse
+00-0028155,Maurice Hurt,LT,RT,79,75,329,1987-11-08,,1,14,,,,nflverse
+00-0022121,Rex Grossman,QB,,8,73,225,1980-08-23,,9,14,,,,nflverse
+00-0028996,Richard Crawford,CB,,39,71,188,1990-08-01,,0,14,,,,nflverse
+00-0024515,Saverio Rocca,P,,6,77,263,1973-11-20,,5,14,,,,nflverse
+00-0023954,Stephen Bowen,EDGE,,72,77,310,1984-03-28,Hofstra,6,14,,,,nflverse
+00-0029144,Tom Compton,LT,RT,68,77,308,1989-05-10,South Dakota,0,14,,,,nflverse
+00-0027857,Trent Williams,LT,RT,71,77,325,1988-07-19,Oklahoma,2,14,,,,nflverse
+00-0025826,Tyler Polumbus,LT,RT,74,80,305,1985-04-10,Colorado,4,14,,,,nflverse
+00-0024448,Will Montgomery,C,,63,75,304,1983-02-13,Virginia Tech,6,14,,,,nflverse
+00-0027215,Logan Paulsen,TE,,82,77,261,1987-02-26,UCLA,2,12,12,,,nflverse
+00-0026852,Darrel Young,RB,,36,71,251,1987-04-08,Villanova,3,10,10,,,nflverse
+00-0028093,Niles Paul,TE,,84,73,233,1989-08-09,Nebraska,1,10,10,,,nflverse
+00-0026345,Pierre Garcon,WR,,88,72,212,1986-08-08,Mount Union,4,10,10,,,nflverse
+00-0028116,Aldrick Robinson,WR,,11,70,181,1988-09-24,Southern Methodist,1,9,9,,,nflverse
+00-0026188,Fred Davis,TE,,83,76,247,1986-01-15,,4,7,,,,nflverse
+00-0027618,Brandon Banks,WR,,16,67,153,1987-12-21,Kansas State,2,6,,,,nflverse
+00-0022984,Ryan Grant,RB,,25,73,222,1982-12-09,,7,5,,,,nflverse
+00-0027789,Dezmon Briscoe,WR,,19,74,210,1989-08-31,,2,4,,,,nflverse
+00-0022738,Chris Cooley,TE,,47,75,243,1982-07-11,,8,3,,,,nflverse
+00-0027214,Keiland Williams,RB,,25,71,230,1986-08-14,,2,3,,,,nflverse
+00-0029604,Kirk Cousins,QB,,12,75,209,1988-08-19,Michigan State,0,3,,,,nflverse
+00-0028043,Roy Helu,RB,,29,71,215,1988-12-07,Nebraska,1,3,,,,nflverse

@@ -1,0 +1,52 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022165,Dallas Clark,TE,,44,75,252,1979-06-12,,9,16,16,,,nflverse
+00-0029613,Doug Martin,RB,,22,69,215,1989-01-13,Boise State,0,16,16,,,nflverse
+00-0026993,Josh Freeman,QB,,5,78,240,1988-01-13,Kansas State,3,16,16,,,nflverse
+00-0027702,Mike Williams,WR,,19,74,212,1987-05-18,,2,16,16,,,nflverse
+00-0023496,Vincent Jackson,WR,,83,77,230,1983-01-14,Northern Colorado,7,16,16,,,nflverse
+00-0027511,Aaron Morgan,EDGE,,98,76,250,1988-12-30,,2,14,,,,nflverse
+00-0027958,Adrian Clayborn,EDGE,,94,75,280,1988-07-06,Iowa,1,14,,,,nflverse
+00-0028160,Anthony Gaitor,CB,,26,70,182,1988-10-09,,1,14,,,,nflverse
+00-0025527,Brandon McDonald,CB,,33,70,185,1985-08-26,,5,14,,,,nflverse
+00-0026304,Carl Nicks,LG,RG,77,77,349,1985-05-14,,4,14,,,,nflverse
+00-0026247,Cody Wallace,C,,74,76,300,1984-11-26,Texas A&M,4,14,,,,nflverse
+00-0026138,Connor Barth,K,,10,71,200,1986-04-11,North Carolina,4,14,,,,nflverse
+00-0027065,Corvey Irvin,DT,,96,74,295,1985-05-03,,3,14,,,,nflverse
+00-0027989,Da'Quan Bowers,EDGE,,91,76,277,1990-02-23,Clemson,1,14,,,,nflverse
+00-0027689,Daniel Te'o-Nesheim,EDGE,,50,75,263,1987-06-12,,2,14,,,,nflverse
+00-0026837,Danny Gorrer,S,,36,72,180,1986-06-01,,3,14,,,,nflverse
+00-0029183,Danny Noble,TE,,86,77,248,1989-03-30,,0,14,,,,nflverse
+00-0024559,Danny Ware,RB,,28,72,225,1985-02-18,,5,14,14,,,nflverse
+00-0029361,David Douglas,WR,,89,73,205,1989-06-27,,0,14,,,,nflverse
+00-0026814,Demar Dotson,LT,RT,69,81,315,1985-10-11,Southern Mississippi,3,14,,,,nflverse
+00-0027444,Derek Hardman,LG,RG,68,78,300,1986-09-13,,2,14,,,,nflverse
+00-0023894,Donald Penn,LT,RT,70,77,340,1983-04-27,Utah State,6,14,,,,nflverse
+00-0026945,E.J. Biggers,CB,,31,72,185,1987-06-13,,3,14,,,,nflverse
+00-0025440,Eric Wright,CB,,21,70,200,1985-07-24,,5,14,,,,nflverse
+00-0023327,Gary Gibson,DT,,95,75,312,1982-05-05,,7,14,,,,nflverse
+00-0027856,Gerald McCoy,DT,,93,76,300,1988-02-25,Oklahoma,2,14,,,,nflverse
+00-0027112,Jamon Meredith,LT,RT,79,77,312,1986-05-11,South Carolina,3,14,,,,nflverse
+00-0024274,Jeremy Trueblood,LT,RT,65,80,320,1983-05-10,,6,14,,,,nflverse
+00-0026223,Jeremy Zuttah,C,,76,76,308,1986-06-01,Rutgers,4,14,,,,nflverse
+00-0028143,Lazarius Levingston,EDGE,,78,76,292,1987-11-16,,1,14,,,,nflverse
+00-0029087,Leonard Johnson,CB,,29,70,202,1990-03-30,Iowa State,0,14,,,,nflverse
+00-0028875,Matthew Masifilo,EDGE,,97,75,280,1989-10-01,,0,14,,,,nflverse
+00-0026618,Michael Bennett,EDGE,,71,76,274,1985-11-13,Texas A&M,3,14,,,,nflverse
+00-0023234,Michael Koenen,P,,9,71,198,1982-07-13,,7,14,,,,nflverse
+00-0029145,Michael Smith,RB,,34,69,205,1988-08-09,,0,14,,,,nflverse
+00-0027672,Myron Lewis,CB,,23,74,203,1987-11-24,,2,14,,,,nflverse
+00-0026592,Roger Allen,LG,RG,73,75,325,1986-02-10,,3,14,,,,nflverse
+00-0023490,Roscoe Parrish,WR,,12,69,175,1982-07-16,,7,14,,,,nflverse
+00-0027055,Roy Miller,DT,,90,74,310,1987-07-09,Texas,3,14,,,,nflverse
+00-0027607,Ted Larsen,LG,RG,62,74,305,1987-06-13,North Carolina State,2,14,,,,nflverse
+00-0027156,Tiquan Underwood,WR,,11,73,183,1987-02-17,,3,14,14,,,nflverse
+00-0027844,Erik Lorig,RB,,41,76,250,1986-11-17,,2,12,12,,,nflverse
+00-0028042,Luke Stocker,TE,,88,77,253,1988-07-17,Tennessee,1,12,12,,,nflverse
+00-0027325,LeGarrette Blount,RB,,27,72,247,1986-12-05,Oregon,2,10,10,,,nflverse
+00-0027687,Jordan Shipley,WR,,12,72,188,1985-12-23,,2,6,,,,nflverse
+00-0027654,Arrelious Benn,WR,,17,74,220,1988-09-08,Illinois,2,4,,,,nflverse
+00-0027780,Nate Byham,TE,,82,76,264,1988-06-27,,2,3,,,,nflverse
+00-0028905,Chris Owusu,WR,,80,74,200,1990-01-06,Stanford,0,2,,,,nflverse
+00-0028646,David Gilreath,WR,,84,70,169,1988-12-11,,1,2,,,,nflverse
+00-0023578,Dan Orlovsky,QB,,6,77,230,1983-08-18,Connecticut,7,1,,,,nflverse
+00-0026953,Sammie Stroughter,WR,,18,70,189,1986-01-03,,3,1,,,,nflverse

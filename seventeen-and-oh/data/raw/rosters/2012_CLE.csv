@@ -1,0 +1,50 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022943,Benjamin Watson,TE,,82,75,255,1980-12-18,Georgia,8,16,16,,,nflverse
+00-0027997,Greg Little,WR,,15,74,220,1989-05-30,North Carolina,1,16,16,,,nflverse
+00-0029664,Josh Gordon,WR,,13,75,225,1991-04-13,Baylor,0,16,16,,,nflverse
+00-0029677,Brandon Weeden,QB,,3,75,220,1983-10-14,Oklahoma State,0,15,15,,,nflverse
+00-0029675,Trent Richardson,RB,,33,69,230,1990-07-10,,0,15,15,,,nflverse
+00-0026330,Ahtyba Rubin,DT,,71,74,330,1986-07-25,Iowa State,4,14,,,,nflverse
+00-0026997,Alex Mack,C,,55,76,311,1985-11-19,California,3,14,,,,nflverse
+00-0029303,Billy Winn,DT,,90,76,295,1989-04-15,Boise State,0,14,,,,nflverse
+00-0027628,Brian Sanford,EDGE,,70,74,280,1987-09-12,,2,14,,,,nflverse
+00-0028075,Buster Skrine,CB,,22,69,185,1989-04-26,Chattanooga,1,14,,,,nflverse
+00-0023727,Dimitri Patterson,CB,,21,70,200,1983-06-18,,7,14,,,,nflverse
+00-0027204,Emmanuel Stephens,EDGE,,96,75,255,1987-02-17,,2,14,,,,nflverse
+00-0024306,Frostee Rucker,EDGE,,92,75,280,1983-09-14,USC,6,14,,,,nflverse
+00-0027748,Hall Davis,EDGE,,91,78,262,1987-03-02,,2,14,,,,nflverse
+00-0029378,Ishmaa'ily Kitchen,DT,,67,73,330,1988-08-24,,0,14,,,,nflverse
+00-0027975,Jabaal Sheard,EDGE,,97,74,255,1989-05-10,Pittsburgh,1,14,,,,nflverse
+00-0028690,Jarrod Shaw,LG,RG,74,75,316,1988-01-07,,1,14,,,,nflverse
+00-0028088,Jason Pinkston,LG,RG,62,76,305,1987-09-05,,1,14,,,,nflverse
+00-0027860,Joe Haden,CB,,23,71,190,1989-04-14,Florida,2,14,,,,nflverse
+00-0025390,Joe Thomas,LT,RT,73,78,312,1984-12-04,Wisconsin,5,14,,,,nflverse
+00-0026205,John Greco,C,,77,76,315,1985-03-24,Toledo,4,14,,,,nflverse
+00-0029266,John Hughes,DT,,93,74,320,1988-04-27,Cincinnati,0,14,,,,nflverse
+00-0029065,Johnson Bademosi,CB,,37,72,200,1990-07-23,Stanford,0,14,,,,nflverse
+00-0019986,Juqua Parker,EDGE,,95,74,250,1978-05-15,,11,14,,,,nflverse
+00-0029253,Mitchell Schwartz,LT,RT,72,77,320,1989-06-08,California,0,14,,,,nflverse
+00-0026239,Oniel Cousins,LT,RT,75,76,315,1984-06-29,,4,14,,,,nflverse
+00-0004091,Phil Dawson,K,,4,71,200,1975-01-23,Texas,14,14,,,,nflverse
+00-0027959,Phillip Taylor,DT,,98,75,335,1988-04-07,Baylor,1,14,,,,nflverse
+00-0027562,Prince Miller,S,,31,69,207,1988-01-14,,2,14,,,,nflverse
+00-0023642,Reggie Hodges,P,,2,72,220,1982-01-26,,7,14,,,,nflverse
+00-0029290,Ryan Miller,LT,RT,60,79,320,1989-07-06,,0,14,,,,nflverse
+00-0027694,Shawn Lauvao,LG,RG,66,75,315,1987-10-26,Arizona State,2,14,,,,nflverse
+00-0021186,Sheldon Brown,CB,,24,70,200,1979-03-19,,10,14,,,,nflverse
+00-0029314,Trevin Wade,CB,,26,70,190,1989-08-01,Arizona,0,14,,,,nflverse
+00-0028040,Jordan Cameron,TE,,84,77,245,1988-08-07,USC,1,13,13,,,nflverse
+00-0029269,Travis Benjamin,WR,,80,70,175,1989-12-29,Miami,0,12,12,,,nflverse
+00-0027140,Chris Ogbonnaya,RB,,25,72,225,1986-05-20,,3,11,11,,,nflverse
+00-0023176,Joshua Cribbs,WR,,16,73,215,1983-06-09,,7,11,11,,,nflverse
+00-0027666,Montario Hardesty,RB,,20,72,225,1987-02-01,,2,10,10,,,nflverse
+00-0023506,Alex Smith,TE,,81,76,258,1982-05-22,Stanford,7,9,9,,,nflverse
+00-0027026,Mohamed Massaquoi,WR,,11,74,207,1986-11-24,,3,9,9,,,nflverse
+00-0028930,Josh Cooper,WR,,88,70,190,1989-01-08,,0,6,,,,nflverse
+00-0028062,Owen Marecic,RB,,48,72,245,1988-10-04,,1,3,,,,nflverse
+00-0025450,Brandon Jackson,RB,,29,70,216,1985-10-02,,5,2,,,,nflverse
+00-0027688,Colt McCoy,QB,,12,73,215,1986-09-05,Texas,2,2,,,,nflverse
+00-0026739,Jordan Norwood,WR,,10,71,180,1986-09-28,Penn State,3,2,,,,nflverse
+00-0029315,Brad Smelley,RB,,47,74,235,1989-04-20,,0,1,,,,nflverse
+00-0026300,Josh Johnson,QB,,8,75,205,1986-05-15,San Diego,4,1,,,,nflverse
+00-0027253,Thaddeus Lewis,QB,,9,74,200,1987-11-19,Duke,2,1,,,,nflverse

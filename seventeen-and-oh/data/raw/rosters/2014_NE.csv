@@ -1,0 +1,47 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027994,Shane Vereen,RB,,34,70,205,1989-03-02,California,3,16,16,,,nflverse
+00-0019596,Tom Brady,QB,,12,76,225,1977-08-03,Michigan,14,16,16,,,nflverse
+00-0027681,Brandon LaFell,WR,,19,75,210,1986-11-04,LSU,4,15,15,,,nflverse
+00-0027656,Rob Gronkowski,TE,,87,78,265,1989-05-14,Arizona,4,15,15,,,nflverse
+00-0025420,Alan Branch,DT,,97,78,325,1984-12-29,Michigan,7,14,,,,nflverse
+00-0029596,Alfonzo Dennard,CB,,37,70,200,1989-09-09,,2,14,,,,nflverse
+00-0023013,Brandon Browner,CB,,39,76,221,1984-08-02,,9,14,,,,nflverse
+00-0031174,Bryan Stork,C,,66,76,310,1990-11-15,,0,14,,,,nflverse
+00-0031067,Cameron Fleming,LT,RT,71,78,325,1992-09-03,Stanford,0,14,,,,nflverse
+00-0030106,Chris Jones,DT,,94,73,309,1990-07-12,Bowling Green State,1,14,,,,nflverse
+00-0022979,Dan Connolly,LG,RG,63,76,305,1982-09-02,,9,14,,,,nflverse
+00-0026035,Danny Amendola,WR,,80,71,195,1985-11-02,Texas Tech,6,14,14,,,nflverse
+00-0025401,Darrelle Revis,CB,,24,71,198,1985-07-14,Pittsburgh,7,14,,,,nflverse
+,Dick Conn,S,,0,,,,,40,14,,,,nflverse
+00-0031425,Dominique Easley,EDGE,,74,74,290,1992-04-28,Florida,0,14,,,,nflverse
+00-0030001,Joe Vellano,DT,,72,74,300,1988-10-30,Maryland,1,14,,,,nflverse
+00-0030011,Jordan Devey,LT,RT,65,78,317,1988-01-11,Memphis,1,14,,,,nflverse
+00-0030474,Josh Boyce,WR,,82,71,205,1991-05-06,Texas Christian,1,14,,,,nflverse
+00-0029992,Josh Kline,LG,RG,67,75,295,1989-12-29,Kent State,1,14,,,,nflverse
+00-0027150,Julian Edelman,WR,,11,70,200,1986-05-22,Kent State,5,14,14,,,nflverse
+00-0030411,Logan Ryan,CB,,26,71,195,1991-02-09,Rutgers,1,14,,,,nflverse
+00-0031218,Malcolm Butler,CB,,21,71,190,1990-03-02,West Alabama,0,14,,,,nflverse
+00-0028076,Marcus Cannon,LT,RT,61,77,335,1988-05-06,Texas Christian,3,14,,,,nflverse
+00-0026293,Matt Slater,WR,,18,72,210,1985-09-09,UCLA,6,14,,,,nflverse
+00-0030475,Michael Buchanan,EDGE,,99,78,255,1991-01-24,,1,14,,,,nflverse
+00-0027955,Nate Solder,LT,RT,77,80,320,1988-04-12,Colorado,3,14,,,,nflverse
+00-0024349,Rob Ninkovich,EDGE,,50,74,260,1984-02-01,Purdue,8,14,,,,nflverse
+00-0029984,Ryan Allen,P,,6,74,215,1990-02-28,Louisiana Tech,1,14,,,,nflverse
+00-0025866,Ryan Wendell,C,,62,74,300,1986-03-04,Fresno State,6,14,,,,nflverse
+00-0028256,Sealver Siliga,DT,,96,74,325,1990-04-26,Utah,3,14,,,,nflverse
+00-0027034,Sebastian Vollmer,LT,RT,76,80,320,1984-07-10,Houston,5,14,,,,nflverse
+00-0024333,Stephen Gostkowski,K,,3,73,215,1984-01-28,Memphis,8,14,,,,nflverse
+00-0022712,Vince Wilfork,DT,,75,74,325,1981-11-04,Miami (Fla.),10,14,,,,nflverse
+00-0031081,Zach Moore,EDGE,,90,78,275,1990-09-05,Concordia-St. Paul,0,14,,,,nflverse
+00-0029910,Timothy Wright,TE,,81,76,220,1990-04-07,Rutgers,1,12,12,,,nflverse
+00-0029239,Brandon Bolden,RB,,38,71,220,1990-01-26,Mississippi,2,9,9,,,nflverse
+00-0029104,Jonas Gray,RB,,35,70,225,1990-06-27,,2,8,8,,,nflverse
+00-0027925,James Develin,RB,,46,75,255,1988-07-23,Brown,4,6,,,,nflverse
+00-0027732,Michael Hoomanawanui,TE,,47,76,260,1988-07-04,Illinois,4,6,,,,nflverse
+00-0028011,Stevan Ridley,RB,,22,71,220,1989-01-27,LSU,3,6,,,,nflverse
+00-0031345,Jimmy Garoppolo,QB,,10,74,225,1991-11-02,Eastern Illinois,0,5,,,,nflverse
+00-0030540,Aaron Dobson,WR,,17,75,200,1991-07-23,Marshall,1,4,,,,nflverse
+00-0028984,Brian Tyms,WR,,84,75,204,1989-02-21,Florida A&M,2,4,,,,nflverse
+00-0031062,James White,RB,,28,70,206,1992-02-03,Wisconsin,0,3,,,,nflverse
+00-0026071,Kyle Arrington,CB,,25,70,190,1986-08-12,Hofstra,6,2,,,,nflverse
+00-0029585,Chandler Jones,EDGE,,95,77,265,1990-02-27,Syracuse,2,1,,,,nflverse

@@ -1,6 +1,7 @@
 "use client";
 import { RosterSlot, ScoreBreakdown } from "@/lib/types";
-import { perGameWinProb } from "@/lib/simulation";
+import { baselineWinProb } from "@/lib/simulation";
+import { computeTeamProfile } from "@/lib/team-profile";
 import RosterPanel from "./RosterPanel";
 
 function Bar({
@@ -44,7 +45,8 @@ export default function ScoreScreen({
   onSimulate: () => void;
   onRestart: () => void;
 }) {
-  const winPct = Math.round(perGameWinProb(score.total) * 100);
+  const profile = computeTeamProfile(roster);
+  const winPct = Math.round(baselineWinProb(profile.power) * 100);
   return (
     <div className="mx-auto w-full max-w-5xl flex-1 px-4 py-6">
       <div className="mb-1 text-center text-xs font-semibold uppercase tracking-widest text-white/40">

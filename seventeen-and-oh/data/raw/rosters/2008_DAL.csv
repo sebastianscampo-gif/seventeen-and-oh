@@ -1,0 +1,45 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0012478,Terrell Owens,WR,,81,75,218,1973-12-07,,12,16,16,,,nflverse
+00-0022127,Jason Witten,TE,,82,77,262,1982-05-06,Tennessee,5,15,15,,,nflverse
+00-0023544,Marion Barber,RB,,24,72,225,1983-06-10,,3,15,15,,,nflverse
+00-0023441,Adam Jones,CB,,21,70,186,1983-09-30,West Virginia,3,14,,,,nflverse
+00-0025624,Alan Ball,CB,,20,73,186,1985-03-29,,1,14,,,,nflverse
+00-0025702,Alonzo Coleman,RB,,30,69,210,1984-01-27,,1,14,,,,nflverse
+00-0021385,Andre Gurode,C,,65,76,318,1979-03-06,,6,14,,,,nflverse
+00-0020329,Anthony Henry,CB,,42,73,207,1976-11-03,,7,14,,,,nflverse
+00-0023566,Chris Canty,EDGE,,99,79,304,1982-11-10,Virginia,3,14,,,,nflverse
+00-0023023,Cory Procter,LG,RG,71,76,308,1982-10-18,,3,14,,,,nflverse
+00-0025509,Doug Free,LT,RT,68,78,311,1984-01-16,Northern Illinois,1,14,,,,nflverse
+00-0000045,Flozell Adams,LT,RT,76,79,340,1975-05-18,,10,14,,,,nflverse
+00-0024307,Jason Hatcher,EDGE,,97,78,304,1982-07-13,Grambling State,2,14,,,,nflverse
+00-0023656,Jay Ratliff,DT,,90,76,302,1981-08-29,Auburn,3,14,,,,nflverse
+00-0023639,Joe Berger,LG,RG,67,77,310,1982-05-25,Michigan Tech,3,14,,,,nflverse
+00-0021348,Kyle Kosier,LG,RG,63,77,305,1978-11-27,,6,14,,,,nflverse
+00-0020533,Leonard Davis,LG,RG,70,78,353,1978-09-05,,7,14,,,,nflverse
+00-0021160,Marc Colombo,LT,RT,75,80,318,1978-10-08,,6,14,,,,nflverse
+00-0023455,Marcus Spears,EDGE,,96,76,315,1983-03-08,,3,14,,,,nflverse
+00-0021488,Mat McBriar,P,,1,73,222,1979-07-08,,5,14,,,,nflverse
+00-0026165,Mike Jenkins,CB,,31,70,190,1985-03-22,South Florida,0,14,,,,nflverse
+00-0022094,Montrae Holland,LG,RG,64,74,322,1980-05-21,,5,14,,,,nflverse
+00-0025565,Nick Folk,K,,6,73,225,1984-11-05,Arizona,1,14,,,,nflverse
+00-0026283,Orlando Scandrick,CB,,32,70,192,1987-02-10,Boise State,0,14,,,,nflverse
+00-0024425,Pat McQuistan,LT,RT,77,78,315,1983-04-30,,2,14,,,,nflverse
+00-0022766,Patrick Crayton,WR,,84,72,203,1979-04-07,,4,14,14,,,nflverse
+00-0025704,Rodney Hannah,TE,,44,78,258,1984-08-09,,1,14,,,,nflverse
+00-0022909,Roy Williams,WR,,11,75,211,1981-12-20,,4,14,14,,,nflverse
+00-0023953,Sam Hurd,WR,,17,74,205,1985-04-24,,2,14,,,,nflverse
+00-0025728,Sam Paulescu,P,,2,72,195,1984-04-18,,1,14,,,,nflverse
+00-0023954,Stephen Bowen,EDGE,,72,77,304,1984-03-28,Hofstra,2,14,,,,nflverse
+00-0026046,Steve Octavien,LB,,53,72,238,1984-11-25,,0,14,,,,nflverse
+00-0022696,Tank Johnson,DT,,95,75,305,1981-12-07,,4,14,,,,nflverse
+00-0022045,Terence Newman,CB,,41,71,190,1978-09-04,Kansas State,5,14,,,,nflverse
+00-0021678,Tony Romo,QB,,9,74,224,1980-04-21,Eastern Illinois,5,13,13,,,nflverse
+00-0026201,Martellus Bennett,TE,,80,78,265,1987-03-10,Texas A&M,0,12,12,,,nflverse
+00-0026262,Tashard Choice,RB,,23,70,208,1984-11-20,,0,10,10,,,nflverse
+00-0023921,Miles Austin,WR,,19,75,216,1984-06-30,"Monmouth, N.J.",2,7,,,,nflverse
+00-0023179,Tony Curtis,TE,,89,77,251,1983-02-11,,3,7,,,,nflverse
+00-0026162,Felix Jones,RB,,28,72,212,1987-05-08,,0,5,,,,nflverse
+00-0025582,Deon Anderson,RB,,34,70,245,1983-01-27,,1,4,,,,nflverse
+00-0008442,Brad Johnson,QB,,14,77,235,1968-09-13,,16,3,,,,nflverse
+00-0022026,Brooks Bollinger,QB,,5,73,205,1979-11-15,,5,2,,,,nflverse
+00-0025490,Isaiah Stanback,WR,,86,74,208,1984-08-16,,1,1,,,,nflverse

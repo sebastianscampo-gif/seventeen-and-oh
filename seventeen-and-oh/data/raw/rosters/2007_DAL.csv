@@ -1,0 +1,42 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022127,Jason Witten,TE,,82,77,266,1982-05-06,Tennessee,4,16,16,,,nflverse
+00-0022840,Julius Jones,RB,,21,70,208,1981-08-14,,3,16,16,,,nflverse
+00-0023544,Marion Barber,RB,,24,72,221,1983-06-10,,2,16,16,,,nflverse
+00-0021678,Tony Romo,QB,,9,74,224,1980-04-21,Eastern Illinois,4,16,16,,,nflverse
+00-0012478,Terrell Owens,WR,,81,75,218,1973-12-07,,11,15,15,,,nflverse
+00-0025624,Alan Ball,S,,20,73,175,1985-03-29,,0,14,,,,nflverse
+00-0021385,Andre Gurode,C,,65,76,316,1979-03-06,,5,14,,,,nflverse
+00-0020329,Anthony Henry,CB,,42,73,205,1976-11-03,,6,14,,,,nflverse
+00-0023566,Chris Canty,EDGE,,99,79,299,1982-11-10,Virginia,2,14,,,,nflverse
+00-0023023,Cory Procter,C,,71,76,297,1982-10-18,,2,14,,,,nflverse
+00-0025509,Doug Free,LT,RT,68,78,306,1984-01-16,Northern Illinois,0,14,,,,nflverse
+00-0023288,Evan Oglesby,CB,,23,70,185,1981-12-18,,2,14,,,,nflverse
+00-0000045,Flozell Adams,LT,RT,76,79,340,1975-05-18,,9,14,,,,nflverse
+00-0025490,Isaiah Stanback,WR,,86,74,208,1984-08-16,,0,14,,,,nflverse
+00-0022767,Jacques Reeves,CB,,35,71,188,1982-10-08,,3,14,,,,nflverse
+00-0025454,James Marten,LT,RT,78,79,303,1984-04-18,,0,14,,,,nflverse
+00-0005150,Jason Ferguson,DT,,95,75,312,1974-11-28,,10,14,,,,nflverse
+00-0024307,Jason Hatcher,EDGE,,97,78,298,1982-07-13,Grambling State,1,14,,,,nflverse
+00-0023656,Jay Ratliff,DT,,90,76,298,1981-08-29,Auburn,2,14,,,,nflverse
+00-0023639,Joe Berger,LG,RG,67,77,304,1982-05-25,Michigan Tech,2,14,,,,nflverse
+00-0021348,Kyle Kosier,LG,RG,63,77,294,1978-11-27,,5,14,,,,nflverse
+00-0020533,Leonard Davis,LG,RG,70,78,354,1978-09-05,,6,14,,,,nflverse
+00-0021160,Marc Colombo,LT,RT,75,80,315,1978-10-08,,5,14,,,,nflverse
+00-0023455,Marcus Spears,EDGE,,96,76,305,1983-03-08,,2,14,,,,nflverse
+00-0021488,Mat McBriar,P,,1,73,224,1979-07-08,,4,14,,,,nflverse
+00-0022828,Nathan Jones,CB,,33,70,183,1982-06-15,,3,14,,,,nflverse
+00-0025565,Nick Folk,K,,6,73,222,1984-11-05,Arizona,0,14,,,,nflverse
+00-0024425,Pat McQuistan,LT,RT,77,78,311,1983-04-30,,1,14,,,,nflverse
+00-0023954,Stephen Bowen,EDGE,,72,77,303,1984-03-28,Hofstra,1,14,,,,nflverse
+00-0022696,Tank Johnson,DT,,66,75,300,1981-12-07,,3,14,,,,nflverse
+00-0022045,Terence Newman,CB,,41,71,181,1978-09-04,Kansas State,4,14,,,,nflverse
+00-0006043,Terry Glenn,WR,,83,71,196,1974-07-23,,11,14,,,,nflverse
+00-0022766,Patrick Crayton,WR,,84,72,205,1979-04-07,,3,13,13,,,nflverse
+00-0024268,Anthony Fasano,TE,,80,76,265,1984-04-20,Notre Dame,1,11,11,,,nflverse
+00-0023953,Sam Hurd,WR,,17,74,196,1985-04-24,,1,11,11,,,nflverse
+00-0023192,Tyson Thompson,RB,,28,73,225,1981-05-21,,2,4,,,,nflverse
+00-0008442,Brad Johnson,QB,,14,77,238,1968-09-13,,15,3,,,,nflverse
+00-0023921,Miles Austin,WR,,19,75,216,1984-06-30,"Monmouth, N.J.",1,3,,,,nflverse
+00-0023179,Tony Curtis,TE,,89,77,265,1983-02-11,,2,3,,,,nflverse
+00-0025582,Deon Anderson,RB,,34,70,241,1983-01-27,,0,2,,,,nflverse
+00-0023891,Oliver Hoyte,RB,,46,75,252,1984-10-05,,1,1,,,,nflverse

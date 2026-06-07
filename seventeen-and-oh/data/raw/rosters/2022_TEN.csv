@@ -1,0 +1,76 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0032392,Austin Hooper,TE,,81,76,254,1994-10-29,Stanford,6,17,17,,,nflverse
+00-0030431,Robert Woods,WR,,2,72,193,1992-04-10,Southern California,9,17,17,,,nflverse
+00-0032764,Derrick Henry,RB,,22,75,247,1994-01-04,Alabama,6,16,16,,,nflverse
+00-0037809,Chigoziem Okonkwo,TE,,85,75,250,1999-09-08,Maryland,0,15,15,,,nflverse
+00-0036182,Nick Westbrook-Ikhine,WR,,15,74,215,1997-03-21,Indiana,2,15,15,,,nflverse
+00-0034594,A.J. Moore,S,,33,71,202,1995-12-15,Mississippi,4,14,,,,nflverse
+00-0036171,Aaron Brewer,LG,RG,55,73,270,1997-10-28,Texas State,2,14,,,,nflverse
+00-0035632,Amani Hooker,S,,37,71,210,1998-06-14,Iowa,3,14,,,,nflverse
+00-0034430,Andre Smith,LB,,54,72,240,1997-04-20,North Carolina,4,14,,,,nflverse
+00-0032637,Andrew Adams,S,,47,71,202,1993-08-28,Connecticut,6,14,,,,nflverse
+00-0029413,Ben Jones,C,,60,75,308,1989-07-02,Georgia,10,14,,,,nflverse
+00-0032146,Bud Dupree,LB,,48,76,269,1993-02-12,Kentucky,7,14,,,,nflverse
+00-0028075,Buster Skrine,CB,,38,69,185,1989-04-26,Chattanooga,11,14,,,,nflverse
+00-0036615,Caleb Farley,CB,,3,74,207,1998-11-02,Virginia Tech,1,14,,,,nflverse
+00-0037312,Chance Campbell,LB,,45,74,235,1999-10-08,Mississippi,0,14,,,,nflverse
+00-0036240,Chris Jackson,CB,,35,70,186,1998-04-13,Marshall,2,14,,,,nflverse
+00-0033793,Corey Levin,C,,62,76,307,1994-08-12,Chattanooga,5,14,,,,nflverse
+00-0034371,Da'Shawn Hand,EDGE,,94,75,297,1995-11-14,Alabama,4,14,,,,nflverse
+00-0032192,Daniel Munyer,C,,69,73,305,1992-03-04,Colorado,7,14,,,,nflverse
+00-0035292,David Long,LB,,51,71,224,1996-10-12,West Virginia,3,14,,,,nflverse
+00-0034388,Davontae Harris,CB,,38,71,200,1995-01-21,Illinois State,4,14,,,,nflverse
+00-0033782,DeMarcus Walker,EDGE,,95,76,280,1994-09-30,Florida State,5,14,,,,nflverse
+00-0031254,Denico Autry,EDGE,,96,77,285,1990-07-15,Mississippi State,8,14,,,,nflverse
+00-0035300,Dennis Daley,LT,RT,71,78,324,1996-08-07,South Carolina,3,14,,,,nflverse
+00-0036619,Dillon Radunz,LT,RT,75,78,299,1998-03-28,North Dakota State,1,14,,,,nflverse
+00-0033765,Dylan Cole,LB,,53,72,237,1994-05-19,Missouri State,5,14,,,,nflverse
+00-0036992,Elijah Molden,CB,,24,70,190,1999-01-30,Washington,1,14,,,,nflverse
+00-0033430,Greg Mabin,CB,,32,74,200,1994-06-25,Iowa,5,14,,,,nflverse
+00-0034828,Harold Landry,LB,,58,74,250,1996-06-05,Boston College,4,14,,,,nflverse
+00-0037596,Jack Gibbens,LB,,50,76,245,1998-11-24,Minnesota,0,14,,,,nflverse
+00-0033819,Jamal Carter,LB,,25,73,215,1994-04-12,Miami,5,14,,,,nflverse
+00-0034729,Jamarco Jones,LG,RG,73,76,293,1996-06-04,Ohio State,4,14,,,,nflverse
+00-0035643,Jeffery Simmons,DT,,98,76,300,1997-07-28,Mississippi State,3,14,,,,nflverse
+00-0033740,Jordan Roos,LG,RG,70,75,302,1993-07-06,Purdue,5,14,,,,nflverse
+00-0033659,Joseph Jones,LB,,42,72,231,1994-02-21,Northwestern,5,14,,,,nflverse
+00-0037070,Josh Thompson,CB,,29,72,191,1998-10-20,Texas,0,14,,,,nflverse
+00-0034662,Joshua Kalu,S,,28,72,203,1995-08-28,Nebraska,4,14,,,,nflverse
+00-0033132,Kevin Byard,S,,31,71,212,1993-08-17,Middle Tennessee,6,14,,,,nflverse
+00-0034193,Kevin Rader,TE,,86,76,250,1995-04-26,Youngstown State,4,14,,,,nflverse
+00-0035334,Kevin Strong,EDGE,,97,76,285,1996-08-05,Texas-San Antonio,3,14,,,,nflverse
+00-0036416,Kristian Fulton,CB,,26,71,200,1998-09-03,Louisiana State,2,14,,,,nflverse
+00-0033065,Le'Raven Clark,LT,RT,61,77,311,1993-04-22,Texas Tech,6,14,,,,nflverse
+00-0035244,Lonnie Johnson,CB,,20,74,213,1995-11-04,Kentucky,3,14,,,,nflverse
+00-0032265,Mario Edwards,DT,,94,75,280,1994-01-25,Florida State,7,14,,,,nflverse
+00-0037493,Mike Brown,CB,,44,73,222,1999-04-07,"Miami, O.",0,14,,,,nflverse
+00-0037000,Monty Rice,LB,,56,72,233,1999-01-08,Georgia,1,14,,,,nflverse
+00-0036695,Naquan Jones,DT,,90,75,340,1998-02-05,Michigan State,1,14,,,,nflverse
+00-0035649,Nate Davis,LG,RG,64,75,316,1996-09-23,North Carolina-Charlotte,3,14,,,,nflverse
+00-0037754,Nicholas Petit-Frere,LT,RT,78,77,310,1999-09-15,Ohio State,0,14,,,,nflverse
+00-0029421,Randy Bullock,K,,14,69,210,1989-12-16,Texas A&amp;M,10,14,,,,nflverse
+00-0036938,Rashad Weaver,LB,,99,76,270,1997-11-10,Pittsburgh,1,14,,,,nflverse
+00-0038125,Roger McCreary,CB,,21,71,188,2000-02-10,Auburn,0,14,,,,nflverse
+00-0037607,Ryan Stonehouse,P,,4,70,178,1999-05-11,Colorado State,0,14,,,,nflverse
+00-0033917,Tarell Basham,EDGE,,57,76,266,1994-03-18,Ohio,5,14,,,,nflverse
+00-0031442,Taylor Lewan,LT,RT,77,79,309,1991-07-22,Michigan,8,14,,,,nflverse
+00-0036181,Teair Tart,DT,,93,74,290,1997-02-28,Florida International,2,14,,,,nflverse
+00-0031097,Terrance Mitchell,CB,,39,71,190,1992-05-17,Oregon,8,14,,,,nflverse
+00-0037593,Tre Avery,CB,,30,71,190,1997-02-26,Rutgers,0,14,,,,nflverse
+00-0034164,Trenton Cannon,RB,,23,71,185,1994-07-23,Virginia State,4,14,,,,nflverse
+00-0037601,Xavier Newman-Johnson,LG,RG,67,74,310,1999-08-04,Baylor,0,14,,,,nflverse
+00-0033547,Zach Cunningham,LB,,41,75,238,1994-12-02,Vanderbilt,5,14,,,,nflverse
+00-0029701,Ryan Tannehill,QB,,17,76,207,1988-07-27,Texas A&amp;M,10,12,12,,,nflverse
+00-0034253,Dontrell Hilliard,RB,,40,71,202,1995-02-26,Tulane,4,11,11,,,nflverse
+00-0032141,Geoff Swaim,TE,,87,76,260,1993-09-16,Texas,7,11,11,,,nflverse
+00-0037742,Treylon Burks,WR,,16,74,225,2000-03-23,Arkansas,0,11,11,,,nflverse
+00-0037617,Hassan Haskins,RB,,25,74,220,1999-11-26,Michigan,0,7,,,,nflverse
+00-0038128,Malik Willis,QB,,7,73,215,1999-05-25,Liberty,0,7,,,,nflverse
+00-0032128,Chris Conley,WR,,19,75,205,1992-10-25,Georgia,7,4,,,,nflverse
+00-0033386,Cody Hollister,WR,,8,76,209,1993-11-18,Arkansas,5,4,,,,nflverse
+00-0037273,Kyle Philips,WR,,18,71,191,1999-06-17,UCLA,0,4,,,,nflverse
+00-0036652,Racey McMath,WR,,13,75,224,1999-06-14,Louisiana State,1,4,,,,nflverse
+00-0037594,Julius Chestnut,RB,,36,71,215,2000-10-26,Sacred Heart,0,3,,,,nflverse
+00-0035924,Jonathan Ward,RB,,33,72,202,1997-09-30,Central Michigan,2,2,,,,nflverse
+00-0033949,Joshua Dobbs,QB,,11,75,216,1995-01-26,Tennessee,5,2,,,,nflverse
+00-0033367,C.J. Board,WR,,80,73,180,1993-12-12,Chattanooga,5,1,,,,nflverse

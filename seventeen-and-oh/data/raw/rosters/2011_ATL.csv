@@ -1,0 +1,47 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0028083,Jacquizz Rodgers,RB,,22,66,196,1990-02-06,Oregon State,0,16,16,,,nflverse
+00-0026143,Matt Ryan,QB,,2,76,217,1985-05-17,Boston College,3,16,16,,,nflverse
+00-0022821,Michael Turner,RB,,33,70,247,1982-02-13,,7,16,16,,,nflverse
+00-0023462,Roddy White,WR,,84,72,211,1981-11-02,Alabama-Birmingham,6,16,16,,,nflverse
+00-0006101,Tony Gonzalez,TE,,88,77,247,1976-02-27,,14,16,16,,,nflverse
+00-0025631,Jason Snelling,RB,,44,71,234,1983-12-29,,4,15,15,,,nflverse
+00-0026855,Antone Smith,RB,,35,69,192,1985-09-17,Florida State,2,14,,,,nflverse
+00-0024183,Brent Grimes,CB,,20,70,183,1983-07-19,Shippensburg,5,14,,,,nflverse
+00-0021464,Brett Romberg,C,,66,74,293,1979-10-10,,8,14,,,,nflverse
+00-0027062,Christopher Owens,CB,,21,69,180,1986-12-01,San Jose State,2,14,,,,nflverse
+00-0028168,Cliff Matthews,EDGE,,98,76,268,1989-08-05,,0,14,,,,nflverse
+00-0027686,Corey Peters,DT,,91,75,305,1988-06-08,Kentucky,1,14,,,,nflverse
+00-0028334,Darrin Walls,CB,,29,72,190,1988-06-20,,0,14,,,,nflverse
+00-0027735,Dominique Franks,CB,,24,72,197,1987-10-08,,1,14,,,,nflverse
+00-0022735,Dunta Robinson,CB,,23,70,183,1982-04-11,,7,14,,,,nflverse
+00-0027110,Garrett Reynolds,LG,RG,75,79,310,1987-07-01,,2,14,,,,nflverse
+00-0027717,Joe Hawley,C,,61,75,302,1988-10-22,Nevada-Las Vegas,1,14,,,,nflverse
+00-0019546,John Abraham,EDGE,,55,76,263,1978-05-06,,11,14,,,,nflverse
+00-0026505,John Parker Wilson,QB,,4,74,215,1985-10-17,,2,14,,,,nflverse
+00-0023494,Jonathan Babineaux,DT,,95,74,300,1981-10-12,Iowa,6,14,,,,nflverse
+00-0025426,Justin Blalock,LG,RG,63,76,326,1983-12-20,,4,14,,,,nflverse
+00-0023495,Kelvin Hayden,CB,,26,72,195,1983-07-23,,6,14,,,,nflverse
+00-0028792,Kevin Cone,WR,,12,74,216,1988-03-20,,0,14,,,,nflverse
+00-0022728,Kirk Chambers,LT,RT,73,79,315,1979-03-19,,7,14,,,,nflverse
+00-0026294,Kroy Biermann,EDGE,,71,75,255,1985-09-12,,3,14,,,,nflverse
+00-0027090,Lawrence Sidbury,EDGE,,90,75,261,1986-02-06,Richmond,2,14,,,,nflverse
+00-0028130,Matt Bosher,P,,5,72,208,1987-10-18,Miami (Fla.),0,14,,,,nflverse
+00-0020578,Matt Bryant,K,,3,69,203,1975-05-29,Baylor,9,14,,,,nflverse
+00-0027699,Mike Johnson,LG,RG,79,77,312,1987-04-02,,1,14,,,,nflverse
+00-0027000,Peria Jerry,DT,,94,74,295,1984-08-23,,2,14,,,,nflverse
+00-0024342,Ray Edwards,EDGE,,93,77,268,1985-01-01,,5,14,,,,nflverse
+00-0026278,Robert James,LB,,51,71,224,1983-12-26,,3,14,,,,nflverse
+00-0026161,Sam Baker,LT,RT,72,77,301,1985-05-30,,3,14,,,,nflverse
+00-0010711,Todd McClure,C,,62,73,296,1977-02-16,,12,14,,,,nflverse
+00-0022245,Tyson Clabo,LT,RT,77,78,329,1981-10-17,,7,14,,,,nflverse
+00-0026942,Vance Walker,DT,,99,74,304,1987-04-26,Georgia Tech,2,14,,,,nflverse
+00-0023620,Will Svitek,LT,RT,74,78,308,1982-01-08,,6,14,,,,nflverse
+00-0026224,Harry Douglas,WR,,83,72,183,1984-09-16,Louisville,3,13,13,,,nflverse
+00-0027944,Julio Jones,WR,,11,75,220,1989-02-08,Alabama,0,12,12,,,nflverse
+00-0027202,Michael Palmer,TE,,81,77,252,1988-01-18,,1,11,11,,,nflverse
+00-0022143,Ovie Mughelli,RB,,34,73,250,1980-06-10,,8,6,,,,nflverse
+00-0024535,Eric Weems,WR,,14,69,195,1985-07-04,Bethune-Cookman,4,5,,,,nflverse
+00-0019709,Chris Redman,QB,,8,75,225,1977-07-07,,11,4,,,,nflverse
+00-0009119,Reggie Kelly,TE,,89,76,257,1977-02-22,,12,2,,,,nflverse
+00-0027764,Kerry Meier,WR,,80,74,220,1986-11-12,,1,1,,,,nflverse
+00-0026033,Mike Cox,RB,,42,72,252,1985-07-11,,3,1,,,,nflverse

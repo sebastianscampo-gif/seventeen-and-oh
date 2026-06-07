@@ -1,0 +1,47 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0028091,Jeremy Kerley,WR,,11,69,188,1988-11-08,Texas Christian,1,16,16,,,nflverse
+00-0026899,Shonn Greene,RB,,23,71,226,1985-08-21,,3,16,16,,,nflverse
+00-0026898,Mark Sanchez,QB,,6,74,225,1986-11-11,USC,3,15,15,,,nflverse
+00-0027338,Aaron Berry,CB,,22,71,180,1988-06-25,,2,14,,,,nflverse
+00-0029553,Antonio Allen,S,,39,73,210,1988-09-23,South Carolina,0,14,,,,nflverse
+00-0027297,Austin Howard,LT,RT,77,79,333,1987-03-22,Northern Iowa,2,14,,,,nflverse
+00-0028064,Bilal Powell,RB,,29,70,204,1988-10-27,Louisville,1,14,14,,,nflverse
+00-0020969,Brandon Moore,LG,RG,65,75,305,1980-06-03,,10,14,,,,nflverse
+00-0028117,Caleb Schlauderaff,C,,72,76,302,1987-11-07,,1,14,,,,nflverse
+00-0024219,D'Brickashaw Ferguson,LT,RT,60,78,310,1983-12-10,Virginia,6,14,,,,nflverse
+00-0029040,Damon Harrison,DT,,71,75,350,1988-11-29,William Penn,0,14,,,,nflverse
+00-0025401,Darrelle Revis,CB,,24,71,198,1985-07-14,Pittsburgh,5,14,,,,nflverse
+00-0028334,Darrin Walls,CB,,27,72,190,1988-06-20,,1,14,,,,nflverse
+00-0029039,Donnie Fletcher,S,,34,73,195,1990-05-23,,0,14,,,,nflverse
+00-0027144,Ellis Lankster,CB,,26,69,190,1987-06-03,,3,14,,,,nflverse
+00-0027915,Isaiah Trufant,CB,,35,68,170,1982-12-09,,2,14,,,,nflverse
+00-0026979,Jason Smith,LT,RT,63,77,308,1986-04-30,,3,14,,,,nflverse
+00-0027321,Jeff Cumberland,TE,,86,76,260,1987-05-02,Illinois,2,14,14,,,nflverse
+00-0028377,John Griffin,RB,,21,70,208,1988-12-17,,1,14,,,,nflverse
+00-0028032,Kenrick Ellis,DT,,93,76,346,1987-12-10,,1,14,,,,nflverse
+00-0027879,Kyle Wilson,CB,,20,70,190,1987-09-08,Boise State,2,14,,,,nflverse
+00-0026500,Matt Slauson,LG,RG,68,77,315,1986-02-18,Nebraska,3,14,,,,nflverse
+00-0025689,Mike Devito,DT,,70,75,305,1984-06-10,Maine,5,14,,,,nflverse
+00-0027968,Muhammad Wilkerson,EDGE,,96,76,315,1989-10-22,Temple,1,14,,,,nflverse
+00-0025565,Nick Folk,K,,2,73,222,1984-11-05,Arizona,5,14,,,,nflverse
+00-0024244,Nick Mangold,C,,74,76,307,1984-01-13,Ohio State,6,14,,,,nflverse
+00-0029559,Quinton Coples,EDGE,,98,78,290,1990-06-22,,0,14,,,,nflverse
+00-0027734,Ricky Sapp,LB,,55,76,252,1986-11-14,,2,14,,,,nflverse
+00-0027509,Robert Malone,P,,3,73,215,1988-02-04,,2,14,,,,nflverse
+00-0023523,Sione Pouha,DT,,91,75,325,1979-02-03,,7,14,,,,nflverse
+00-0027667,Vladimir Ducasse,LG,RG,62,77,325,1987-10-15,Massachusetts,2,14,,,,nflverse
+00-0026366,Chaz Schilens,WR,,85,76,225,1985-11-07,,4,12,12,,,nflverse
+00-0027712,Joe McKnight,RB,,25,71,205,1988-04-16,,2,12,12,,,nflverse
+00-0028238,Konrad Reuland,TE,,87,76,260,1987-04-04,,1,11,11,,,nflverse
+00-0028995,Stephen Hill,WR,,84,76,215,1991-04-25,,0,11,11,,,nflverse
+00-0027876,Tim Tebow,QB,,15,75,236,1987-08-14,Florida,2,11,11,,,nflverse
+00-0028049,Edmond Gates,WR,,19,71,197,1986-06-13,,1,10,10,,,nflverse
+00-0023438,Braylon Edwards,WR,,17,75,214,1983-02-21,,7,8,8,,,nflverse
+00-0026170,Dustin Keller,TE,,81,74,250,1984-09-25,,4,8,8,,,nflverse
+00-0024240,Santonio Holmes,WR,,10,71,192,1984-03-03,,6,4,,,,nflverse
+00-0024234,Antonio Cromartie,CB,,31,74,210,1984-04-15,,6,2,,,,nflverse
+00-0028146,Greg McElroy,QB,,14,74,225,1988-05-10,,1,2,,,,nflverse
+00-0029510,Jonathan Grimes,RB,,21,70,207,1989-12-21,William & Mary,0,2,,,,nflverse
+00-0027827,Dedrick Epps,TE,,83,75,250,1988-06-19,,2,1,,,,nflverse
+00-0028842,Hayden Smith,TE,,82,78,255,1985-04-10,,0,1,,,,nflverse
+00-0029642,Jordan White,WR,,89,72,215,1988-06-04,,0,1,,,,nflverse

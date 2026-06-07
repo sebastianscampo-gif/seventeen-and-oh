@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0018501,Amos Zereoue,RB,,21,68,207,1976-10-08,,4,16,16,,,nflverse
+00-0021190,Antwaan Randle El,WR,,82,70,184,1979-08-17,,1,16,16,,,nflverse
+00-0017162,Hines Ward,WR,,86,72,200,1976-03-08,,5,16,16,,,nflverse
+00-0001215,Jerome Bettis,RB,,36,71,252,1972-02-16,,10,16,16,,,nflverse
+00-0019642,Plaxico Burress,WR,,80,77,226,1977-08-12,,3,16,16,,,nflverse
+00-0010261,Tommy Maddox,QB,,8,76,220,1971-09-02,,11,16,16,,,nflverse
+00-0015080,Aaron Smith,EDGE,,91,77,300,1976-04-19,,4,14,,,,nflverse
+00-0005058,Alan Faneca,LG,RG,66,77,305,1976-12-07,,5,14,,,,nflverse
+00-0022104,B.J. Tucker,S,,25,70,188,1980-10-12,,0,14,,,,nflverse
+00-0001825,Barrett Brooks,LT,RT,72,76,326,1972-05-05,,8,14,,,,nflverse
+00-0022101,Brian St. Pierre,QB,,2,74,218,1979-11-28,,0,14,,,,nflverse
+00-0020426,Casey Hampton,DT,,98,73,320,1977-09-03,,2,14,,,,nflverse
+00-0014539,Chad Scott,CB,,30,73,201,1974-09-06,,6,14,,,,nflverse
+00-0020082,Chidi Iwuoma,CB,,29,68,182,1978-02-19,,2,14,,,,nflverse
+00-0019940,Chris Hoke,EDGE,,76,75,290,1976-04-06,,2,14,,,,nflverse
+00-0020255,Chukky Okobi,C,,56,73,310,1978-10-18,,2,14,,,,nflverse
+00-0021434,Dante Brown,RB,,46,72,211,1980-07-28,,0,14,,,,nflverse
+00-0020376,Dee Brown,RB,,22,70,215,1978-05-12,,2,14,,,,nflverse
+00-0016577,Deshea Townsend,CB,,26,69,191,1975-09-08,,5,14,,,,nflverse
+00-0017241,DeWayne Washington,CB,,20,71,193,1972-12-27,,9,14,,,,nflverse
+00-0021275,Freddie Milons,WR,,81,71,190,1980-06-27,,1,14,,,,nflverse
+00-0021891,Ivan Taylor,CB,,24,72,191,1980-05-05,,0,14,,,,nflverse
+00-0007051,Jeff Hartings,C,,64,75,295,1972-09-07,,7,14,,,,nflverse
+00-0020737,Jeff Reed,K,,3,71,215,1979-04-09,,1,14,,,,nflverse
+00-0021161,Kendall Simmons,LG,RG,73,75,313,1979-03-11,,1,14,,,,nflverse
+00-0019630,Kendrick Clancy,DT,,96,73,289,1978-08-17,,3,14,,,,nflverse
+00-0019954,Keydrick Vincent,LG,RG,68,77,330,1978-04-13,,2,14,,,,nflverse
+00-0016956,Kimo Von Oelhoffen,EDGE,,67,76,300,1971-01-30,,9,14,,,,nflverse
+00-0019628,Marvel Smith,LT,RT,77,77,308,1978-08-06,,3,14,,,,nflverse
+00-0020261,Mathias Nkwenti,LT,RT,78,75,300,1978-05-11,,2,14,,,,nflverse
+00-0003803,Matt Cushing,TE,,48,76,260,1975-07-02,,5,14,,,,nflverse
+00-0018926,Mike Schneck,C,,54,72,246,1977-08-04,,4,14,,,,nflverse
+00-0014063,Oliver Ross,LT,RT,79,77,309,1974-09-27,,5,14,,,,nflverse
+00-0020299,Rodney Bailey,EDGE,,94,75,300,1979-10-07,,2,14,,,,nflverse
+00-0021737,Russell Stuvaints,S,,33,72,195,1980-08-28,,0,14,,,,nflverse
+00-0005432,Todd Fordham,LT,RT,71,77,315,1973-10-09,,6,14,,,,nflverse
+00-0019135,Dan Kreider,RB,,35,71,246,1977-03-11,,3,10,10,,,nflverse
+00-0016677,Jerame Tuman,TE,,84,76,270,1976-03-24,,4,9,9,,,nflverse
+00-0004386,Chris Doering,WR,,83,76,199,1973-05-19,,7,8,8,,,nflverse
+00-0021279,Verron Haynes,RB,,34,70,223,1979-02-17,,1,8,8,,,nflverse
+00-0013728,Jay Riemersma,TE,,85,77,252,1973-05-17,,7,6,,,,nflverse
+00-0000865,Charlie Batch,QB,,16,74,220,1974-12-05,,5,2,,,,nflverse
+00-0021309,Lee Mays,WR,,89,74,192,1978-09-18,,1,2,,,,nflverse
+00-0002102,Mark Bruener,TE,,87,76,260,1972-09-16,,8,2,,,,nflverse
+00-0011279,Josh Miller,P,,4,76,220,1970-07-14,,10,1,,,,nflverse

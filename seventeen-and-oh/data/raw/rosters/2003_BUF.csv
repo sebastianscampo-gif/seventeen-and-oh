@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0001361,Drew Bledsoe,QB,,11,77,238,1972-02-14,,10,16,16,,,nflverse
+00-0014729,Bobby Shaw,WR,,81,73,185,1973-04-23,,5,15,15,,,nflverse
+00-0020471,Travis Henry,RB,,20,69,215,1978-10-29,,2,15,15,,,nflverse
+00-0020469,Aaron Schobel,EDGE,,94,76,262,1977-09-01,,2,14,,,,nflverse
+00-0018093,Antoine Winfield,CB,,26,69,180,1977-06-24,,4,14,,,,nflverse
+00-0021935,Ben Sobieski,LG,RG,64,77,315,1979-05-03,,0,14,,,,nflverse
+00-0020388,Bernard Robertson,LT,RT,75,75,310,1979-06-09,,2,14,,,,nflverse
+00-0021995,Chris Kelsay,EDGE,,90,76,275,1979-10-31,,0,14,,,,nflverse
+00-0014859,Dainon Sidney,CB,,37,72,197,1975-05-30,,5,14,,,,nflverse
+00-0021451,Jon Dorenbos,C,,54,72,250,1980-07-21,Texas-El Paso,0,14,,,,nflverse
+00-0020347,Jonas Jennings,LT,RT,75,75,325,1977-11-21,,2,14,,,,nflverse
+00-0021166,Josh Reed,WR,,82,70,208,1980-05-01,,1,14,14,,,nflverse
+00-0021092,Justin Bannan,DT,,97,75,305,1979-04-18,,1,14,,,,nflverse
+00-0010941,Keith McKenzie,EDGE,,91,75,267,1973-10-17,,7,14,,,,nflverse
+00-0021289,Kevin Thomas,CB,,28,72,182,1978-07-28,,1,14,,,,nflverse
+00-0021917,Lauvale Sape,DT,,66,73,296,1980-08-29,,0,14,,,,nflverse
+00-0013229,Marcus Price,LT,RT,73,76,310,1972-03-03,,8,14,,,,nflverse
+00-0020318,Marques Sullivan,LG,RG,74,77,325,1978-02-02,,2,14,,,,nflverse
+00-0021321,Mike Pucillo,LG,RG,61,76,311,1979-07-14,,1,14,,,,nflverse
+00-0021142,Mike Williams,LT,RT,68,78,360,1980-01-11,,1,14,,,,nflverse
+00-0020495,Nate Clements,CB,,22,72,209,1979-12-12,,2,14,,,,nflverse
+00-0017899,Pat Williams,DT,,93,75,317,1972-10-24,,6,14,,,,nflverse
+00-0019310,Rian Lindell,K,,9,75,235,1977-01-20,,3,14,,,,nflverse
+00-0020286,Ron Edwards,DT,,98,75,320,1979-07-12,,2,14,,,,nflverse
+00-0019807,Ross Tucker,C,,65,76,316,1979-03-02,,2,14,,,,nflverse
+00-0002041,Ruben Brown,LG,RG,79,75,300,1972-02-13,,8,14,,,,nflverse
+00-0021189,Ryan Denney,EDGE,,92,79,275,1977-06-15,,1,14,,,,nflverse
+00-0000065,Sam Adams,DT,,95,76,335,1973-06-13,,9,14,,,,nflverse
+00-0022008,Terrence McGee,CB,,24,69,195,1980-10-14,,0,14,,,,nflverse
+00-0016160,Trey Teague,C,,70,77,300,1974-12-27,,5,14,,,,nflverse
+00-0022178,Willis McGahee,RB,,21,72,228,1981-10-21,,0,14,,,,nflverse
+00-0011770,Eric Moulds,WR,,80,74,210,1973-07-17,,7,13,13,,,nflverse
+00-0002586,Mark Campbell,TE,,84,78,255,1975-12-06,,4,13,13,,,nflverse
+00-0020917,Joe Burns,RB,,35,69,215,1979-09-15,,1,10,10,,,nflverse
+00-0005822,Sam Gash,RB,,33,72,242,1969-03-07,,11,9,9,,,nflverse
+00-0019484,Sammy Morris,RB,,31,72,220,1977-03-23,,3,9,9,,,nflverse
+00-0016838,Alex Van Pelt,QB,,10,73,220,1970-05-01,,10,5,,,,nflverse
+00-0011551,Dave Moore,TE,,83,74,250,1969-11-11,,11,5,,,,nflverse
+00-0021028,Clarence Coleman,WR,,85,70,193,1980-06-04,,1,3,,,,nflverse
+00-0018578,Ryan Neufeld,TE,,88,76,250,1975-11-22,,4,3,,,,nflverse
+00-0021915,Sam Aiken,WR,,89,74,204,1980-12-14,,0,3,,,,nflverse
+00-0019192,Travis Brown,QB,,5,75,215,1977-07-17,,3,2,,,,nflverse
+00-0021425,Antonio Brown,WR,,86,70,175,1978-03-03,,0,1,,,,nflverse
+00-0011626,Brian Moorman,P,,8,72,175,1976-02-05,,4,1,,,,nflverse
+00-0020786,Ken Simonton,RB,,30,68,191,1979-06-07,,1,1,,,,nflverse

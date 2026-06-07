@@ -1,0 +1,50 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022942,Philip Rivers,QB,,17,77,228,1981-12-08,North Carolina State,8,16,16,,,nflverse
+00-0021547,Antonio Gates,TE,,85,76,255,1980-06-18,Kent State,9,15,15,,,nflverse
+00-0026167,Antoine Cason,CB,,20,73,195,1986-07-09,,4,14,,,,nflverse
+00-0022169,Antonio Garay,DT,,71,76,320,1979-11-30,,9,14,,,,nflverse
+00-0022147,Aubrayo Franklin,DT,,90,73,315,1980-08-27,,9,14,,,,nflverse
+00-0028575,Bront Bird,LB,,97,76,250,1989-03-17,,1,14,,,,nflverse
+00-0027745,Cam Thomas,DT,,93,76,335,1986-12-12,North Carolina,2,14,,,,nflverse
+00-0024296,Charlie Whitehurst,QB,,6,77,226,1982-08-06,,6,14,,,,nflverse
+00-0023008,Chris Carr,CB,,22,70,182,1983-04-30,,7,14,,,,nflverse
+00-0028573,Colin Baxter,C,,64,75,310,1987-07-31,,1,14,,,,nflverse
+00-0027956,Corey Liuget,EDGE,,94,74,300,1990-03-18,Illinois,1,14,,,,nflverse
+00-0028586,Damik Scafe,EDGE,,75,74,300,1988-04-26,,1,14,,,,nflverse
+00-0029203,David Molk,C,,60,72,300,1988-12-15,Michigan,0,14,,,,nflverse
+00-0029317,Edwin Baker,RB,,27,68,200,1991-06-01,,0,14,,,,nflverse
+00-0029454,Greg Gatson,S,,31,71,165,1989-03-24,,0,14,,,,nflverse
+00-0025701,Jackie Battle,RB,,44,74,240,1983-10-01,,5,14,14,,,nflverse
+00-0025787,Jared Gaither,LT,RT,78,81,335,1986-03-18,,5,14,,,,nflverse
+00-0029256,Kendall Reyes,EDGE,,91,76,300,1989-09-26,Connecticut,0,14,,,,nflverse
+00-0027506,Kevin Haslam,LG,RG,70,77,304,1986-11-08,,2,14,,,,nflverse
+00-0027052,Louis Vasquez,LG,RG,65,77,335,1987-04-11,Texas Tech,3,14,,,,nflverse
+00-0022414,Malcom Floyd,WR,,80,77,225,1981-09-08,Wyoming,8,14,14,,,nflverse
+00-0027988,Marcus Gilchrist,CB,,38,70,198,1988-12-08,Clemson,1,14,,,,nflverse
+00-0029457,Mike Harris,LT,RT,79,77,318,1988-12-05,UCLA,0,14,,,,nflverse
+00-0022017,Mike Scifres,P,,5,74,215,1980-10-08,,9,14,,,,nflverse
+00-0029464,Mike Willie,WR,,83,74,220,1990-06-17,,0,14,,,,nflverse
+00-0022737,Nate Kaeding,K,,10,72,187,1982-03-26,,8,14,,,,nflverse
+00-0022804,Nick Hardwick,C,,61,76,305,1981-09-02,,8,14,,,,nflverse
+00-0023096,Nick Novak,K,,9,72,198,1981-08-21,Maryland,7,14,,,,nflverse
+00-0021381,Quentin Jammer,CB,,23,72,204,1979-06-19,,10,14,,,,nflverse
+00-0022905,Rex Hadnot,LG,RG,67,74,310,1982-01-28,,8,14,,,,nflverse
+00-0023437,Ronnie Brown,RB,,30,72,230,1981-12-12,,7,14,14,,,nflverse
+00-0029451,Sean Cattouse,S,,40,74,218,1988-10-04,,0,14,,,,nflverse
+00-0028027,Shareece Wright,CB,,29,71,182,1987-04-08,USC,1,14,,,,nflverse
+00-0028139,Stephen Schilling,LT,RT,72,77,308,1988-07-21,,1,14,,,,nflverse
+00-0027097,Tyronne Green,LG,RG,69,74,316,1986-04-06,Auburn,3,14,,,,nflverse
+00-0027082,Vaughn Martin,EDGE,,92,76,297,1986-04-18,,3,14,,,,nflverse
+00-0027864,Ryan Mathews,RB,,24,72,220,1987-10-10,Fresno State,2,12,12,,,nflverse
+00-0027912,Danario Alexander,WR,,84,77,217,1988-08-07,,2,10,10,,,nflverse
+00-0025542,Dante Rosario,TE,,88,76,250,1984-10-25,,5,10,10,,,nflverse
+00-0026182,Eddie Royal,WR,,11,70,185,1986-05-21,Virginia Tech,4,10,10,,,nflverse
+00-0025524,Le'Ron McClain,RB,,33,72,260,1984-12-27,,5,9,9,,,nflverse
+00-0023968,Micheal Spurlock,WR,,87,71,210,1983-01-31,,6,9,9,,,nflverse
+00-0025414,Robert Meachem,WR,,12,74,215,1984-09-28,,5,9,9,,,nflverse
+00-0021236,Randy McMichael,TE,,81,75,248,1979-06-28,,10,7,,,,nflverse
+00-0026745,Curtis Brinkley,RB,,36,69,208,1985-09-20,,3,6,,,,nflverse
+00-0029275,Ladarius Green,TE,,89,78,240,1990-05-29,Louisiana-Lafayette,0,2,,,,nflverse
+00-0027581,Seyi Ajirotutu,WR,,13,75,215,1987-06-12,Fresno State,2,2,,,,nflverse
+00-0024401,Jeromey Clary,LT,RT,66,78,320,1983-11-05,,6,1,,,,nflverse
+00-0027585,Richard Goodman,WR,,15,72,192,1987-04-23,,2,1,,,,nflverse

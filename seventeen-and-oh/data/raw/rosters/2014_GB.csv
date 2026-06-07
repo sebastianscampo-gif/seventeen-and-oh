@@ -1,0 +1,40 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0023459,Aaron Rodgers,QB,,12,74,225,1983-12-02,California,9,16,16,,,nflverse
+00-0030485,Eddie Lacy,RB,,27,71,230,1990-06-02,Alabama,1,16,16,,,nflverse
+00-0026176,Jordy Nelson,WR,,87,75,217,1985-05-31,Kansas State,6,16,16,,,nflverse
+00-0028002,Randall Cobb,WR,,18,70,192,1990-08-22,Kentucky,3,16,16,,,nflverse
+00-0027753,Andrew Quarless,TE,,81,76,252,1988-10-06,,4,15,15,,,nflverse
+00-0027875,Bryan Bulaga,LT,RT,75,77,314,1989-03-21,Iowa,4,14,,,,nflverse
+00-0029261,Casey Hayward,CB,,29,71,192,1989-09-09,Vanderbilt,2,14,,,,nflverse
+00-0031019,Corey Linsley,C,,63,75,301,1991-07-27,Ohio State,0,14,,,,nflverse
+00-0030576,Datone Jones,EDGE,,95,76,285,1990-07-24,UCLA,1,14,,,,nflverse
+00-0031381,Davante Adams,WR,,17,73,215,1992-12-24,Fresno State,0,14,14,,,nflverse
+00-0030074,David Bakhtiari,LT,RT,69,76,310,1991-09-30,Colorado,1,14,,,,nflverse
+00-0028069,Davon House,CB,,31,72,195,1989-07-10,New Mexico State,3,14,,,,nflverse
+00-0031080,Demetri Goodson,CB,,39,71,197,1989-06-11,Baylor,0,14,,,,nflverse
+00-0028933,Garth Gerhart,C,,72,73,310,1988-10-21,,2,14,,,,nflverse
+00-0030076,J.C. Tretter,C,,73,76,307,1991-02-12,Cornell,1,14,,,,nflverse
+00-0027791,James Starks,RB,,44,74,218,1986-02-25,Buffalo,4,14,14,,,nflverse
+00-0023918,Jarrett Bush,CB,,24,72,200,1984-05-21,,8,14,,,,nflverse
+00-0030093,Josh Boyd,EDGE,,93,75,310,1989-08-03,Mississippi State,1,14,,,,nflverse
+00-0026275,Josh Sitton,LG,RG,71,75,318,1986-06-16,Central Florida,6,14,,,,nflverse
+00-0030758,Justin Perillo,TE,,80,75,250,1991-01-05,,0,14,,,,nflverse
+00-0030273,Lane Taylor,LG,RG,65,75,324,1989-11-22,Oklahoma State,1,14,,,,nflverse
+00-0026292,Letroy Guion,DT,,98,76,315,1987-06-21,Florida State,6,14,,,,nflverse
+00-0031223,Luther Robinson,EDGE,,97,75,301,1991-02-24,,0,14,,,,nflverse
+00-0025580,Mason Crosby,K,,2,73,207,1984-09-03,Colorado,7,14,,,,nflverse
+00-0029284,Mike Daniels,EDGE,,76,72,305,1989-05-05,Iowa,2,14,,,,nflverse
+00-0030757,Mike Pennel,DT,,64,76,332,1991-05-09,Colorado State-Pueblo,0,14,,,,nflverse
+00-0027440,Sam Shields,CB,,37,71,184,1987-12-08,Miami (Fla.),4,14,,,,nflverse
+00-0028595,Scott Tolzien,QB,,16,74,213,1987-09-04,Wisconsin,3,14,,,,nflverse
+00-0027078,T.J. Lang,LG,RG,70,76,318,1987-09-20,Eastern Michigan,5,14,,,,nflverse
+00-0026664,Tim Masthay,P,,8,73,200,1987-03-16,,5,14,,,,nflverse
+00-0024061,Tramon Williams,CB,,38,71,191,1983-03-16,Louisiana Tech,8,14,,,,nflverse
+00-0031384,Richard Rodgers,TE,,89,76,257,1992-01-22,California,0,13,13,,,nflverse
+00-0022999,John Kuhn,RB,,30,72,250,1982-09-09,Shippensburg,9,11,11,,,nflverse
+00-0029051,Jarrett Boykin,WR,,11,74,218,1989-11-04,,2,7,,,,nflverse
+00-0026349,Matt Flynn,QB,,10,74,225,1985-06-20,LSU,6,7,,,,nflverse
+00-0028409,DuJuan Harris,RB,,26,68,203,1988-09-03,Troy,3,6,,,,nflverse
+00-0029601,Brandon Bostick,TE,,86,75,250,1989-05-03,Newberry,2,2,,,,nflverse
+00-0031001,Jeff Janis,WR,,83,75,219,1991-06-24,Saginaw Valley State,0,1,,,,nflverse
+00-0030116,Kevin Dorsey,WR,,13,73,207,1990-02-23,,1,1,,,,nflverse

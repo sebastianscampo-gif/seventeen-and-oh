@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027939,Cam Newton,QB,,1,77,245,1989-05-11,Auburn,4,16,16,,,nflverse
+00-0032055,Devin Funchess,WR,,17,76,225,1994-05-21,Michigan,0,16,16,,,nflverse
+00-0025418,Greg Olsen,TE,,88,77,253,1985-03-11,Miami,8,16,16,,,nflverse
+00-0026069,Mike Tolbert,RB,,35,69,250,1985-11-23,Coastal Carolina,7,16,16,,,nflverse
+00-0029254,Amini Silatolu,LG,RG,66,76,320,1988-09-16,Midwestern State,3,14,,,,nflverse
+00-0031122,Andrew Norwell,LG,RG,68,78,325,1991-10-25,Ohio State,1,14,,,,nflverse
+00-0031262,Bene' Benwikere,CB,,25,72,195,1991-09-03,San Jose State,1,14,,,,nflverse
+00-0031875,Brandon Wegher,RB,,32,70,215,1990-12-09,,0,14,,,,nflverse
+00-0025470,Charles Johnson,EDGE,,95,74,282,1986-07-10,Georgia,8,14,,,,nflverse
+00-0022123,Charles Tillman,CB,,31,74,210,1981-02-23,Louisiana-Lafayette,12,14,,,,nflverse
+00-0027750,Chris Scott,LG,RG,79,76,340,1987-08-04,Tennessee,5,14,,,,nflverse
+00-0031118,Corey Brown,WR,,10,71,185,1991-12-16,Ohio State,1,14,14,,,nflverse
+00-0024429,Cortland Finnegan,CB,,26,70,190,1984-02-02,,9,14,,,,nflverse
+00-0031567,Daryl Williams,LT,RT,60,77,335,1992-08-31,Oklahoma,0,14,,,,nflverse
+00-0022750,Dwan Edwards,DT,,92,75,305,1981-05-16,Oregon State,11,14,,,,nflverse
+00-0025925,Fernando Velasco,C,,61,76,310,1985-02-22,,7,14,,,,nflverse
+00-0026858,Graham Gano,K,,9,74,205,1987-04-09,Florida State,6,14,,,,nflverse
+00-0022740,Jared Allen,EDGE,,69,78,255,1982-04-03,Idaho State,11,14,,,,nflverse
+00-0022811,Jerricho Cotchery,WR,,82,73,205,1982-06-16,North Carolina State,11,14,14,,,nflverse
+00-0029285,Josh Norman,CB,,24,72,195,1987-12-15,Coastal Carolina,3,14,,,,nflverse
+00-0030448,Kawann Short,DT,,99,75,315,1989-02-02,Purdue,2,14,,,,nflverse
+00-0031336,Kony Ealy,EDGE,,94,76,275,1991-12-21,Missouri,1,14,,,,nflverse
+00-0027236,Kyle Love,DT,,93,73,315,1986-11-18,Mississippi State,5,14,,,,nflverse
+00-0030675,Lou Young,CB,,22,73,205,1991-10-09,Georgia Tech,1,14,,,,nflverse
+00-0028339,Mario Addison,EDGE,,97,75,260,1987-09-06,Troy,4,14,,,,nflverse
+00-0026999,Michael Oher,LT,RT,73,76,315,1986-05-28,Mississippi,6,14,,,,nflverse
+00-0029164,Mike Remmers,LT,RT,74,77,305,1989-04-11,Oregon State,3,14,,,,nflverse
+00-0029400,Nate Chandler,LT,RT,78,76,315,1989-06-01,UCLA,3,14,,,,nflverse
+00-0027840,Robert McClain,CB,,27,69,195,1988-07-22,Connecticut,5,14,,,,nflverse
+00-0031843,Ryan Delaire,EDGE,,91,76,254,1992-01-17,Towson,0,14,,,,nflverse
+00-0025446,Ryan Kalil,C,,67,74,300,1985-03-29,USC,8,14,,,,nflverse
+00-0030455,Star Lotulelei,DT,,98,74,320,1989-12-20,Utah,2,14,,,,nflverse
+00-0025396,Ted Ginn,WR,,19,71,185,1985-04-12,Ohio State,8,14,14,,,nflverse
+00-0027853,Teddy Williams,CB,,21,73,210,1988-07-03,Texas-San Antonio,5,14,,,,nflverse
+00-0031362,Trai Turner,LG,RG,70,75,320,1993-06-14,Louisiana State,1,14,,,,nflverse
+00-0029731,Fozzy Whittaker,RB,,43,70,205,1989-02-02,Texas,3,13,13,,,nflverse
+00-0026153,Jonathan Stewart,RB,,28,70,235,1987-03-21,Oregon,7,13,13,,,nflverse
+00-0027675,Ed Dickson,TE,,84,76,255,1987-07-25,Oregon,5,12,12,,,nflverse
+00-0031599,Cameron Artis-Payne,RB,,34,70,220,1990-06-23,Auburn,0,6,,,,nflverse
+00-0029394,Brenton Bersin,WR,,11,75,210,1990-05-09,Wofford,3,5,,,,nflverse
+00-0023645,Derek Anderson,QB,,3,78,230,1983-06-15,Oregon State,10,3,,,,nflverse
+00-0029304,Brad Nortman,P,,8,74,215,1989-09-12,Wisconsin,3,1,,,,nflverse
+00-0027796,Joe Webb,QB,,14,76,235,1986-11-14,Alabama-Birmingham,5,1,,,,nflverse
+00-0031327,Kevin Norwood,WR,,81,74,200,1989-09-23,Alabama,1,1,,,,nflverse
+00-0031167,Scott Simonson,TE,,80,77,250,1992-04-13,Assumption,1,1,,,,nflverse

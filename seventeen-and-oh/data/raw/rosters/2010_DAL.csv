@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0026162,Felix Jones,RB,,28,70,220,1987-05-08,,2,16,16,,,nflverse
+00-0022127,Jason Witten,TE,,82,78,263,1982-05-06,Tennessee,7,16,16,,,nflverse
+00-0023921,Miles Austin,WR,,19,74,215,1984-06-30,"Monmouth, N.J.",4,16,16,,,nflverse
+00-0026201,Martellus Bennett,TE,,80,78,267,1987-03-10,Texas A&M,2,15,15,,,nflverse
+00-0022909,Roy Williams,WR,,11,75,215,1981-12-20,,6,15,15,,,nflverse
+00-0023454,Alex Barron,LT,RT,71,80,316,1982-09-28,,5,14,,,,nflverse
+00-0021385,Andre Gurode,C,,65,76,318,1979-03-06,,8,14,,,,nflverse
+00-0027914,Andrew Sendejo,S,,36,73,225,1987-09-09,Rice,0,14,,,,nflverse
+00-0006410,Chris Greisen,QB,,14,75,219,1976-07-02,,11,14,,,,nflverse
+00-0027119,David Buehler,K,,18,74,225,1987-02-05,,1,14,,,,nflverse
+00-0025509,Doug Free,LT,RT,68,78,320,1984-01-16,Northern Illinois,3,14,,,,nflverse
+00-0022915,Igor Olshansky,EDGE,,99,77,315,1982-05-03,,6,14,,,,nflverse
+00-0024307,Jason Hatcher,EDGE,,97,78,311,1982-07-13,Grambling State,4,14,,,,nflverse
+00-0023656,Jay Ratliff,DT,,90,76,303,1981-08-29,Auburn,5,14,,,,nflverse
+00-0026839,Jermey Parnell,LT,RT,78,78,290,1986-07-20,Mississippi,1,14,,,,nflverse
+00-0024609,Jesse Holley,WR,,16,74,211,1984-01-08,,3,14,,,,nflverse
+00-0027852,Josh Price-Brent,DT,,92,74,315,1988-01-30,,0,14,,,,nflverse
+00-0001980,Kris Brown,K,,2,71,215,1976-12-23,,11,14,,,,nflverse
+00-0021348,Kyle Kosier,LG,RG,63,77,309,1978-11-27,,8,14,,,,nflverse
+00-0020533,Leonard Davis,LG,RG,70,78,355,1978-09-05,,9,14,,,,nflverse
+00-0027423,Lonyae Miller,RB,,35,72,221,1988-04-29,,0,14,,,,nflverse
+00-0021160,Marc Colombo,LT,RT,75,80,320,1978-10-08,,8,14,,,,nflverse
+00-0023455,Marcus Spears,EDGE,,96,76,311,1983-03-08,,5,14,,,,nflverse
+00-0026251,Martin Rucker,TE,,83,77,255,1985-05-04,,2,14,,,,nflverse
+00-0026165,Mike Jenkins,CB,,21,70,200,1985-03-22,South Florida,2,14,,,,nflverse
+00-0022094,Montrae Holland,LG,RG,64,74,326,1980-05-21,,7,14,,,,nflverse
+00-0026283,Orlando Scandrick,CB,,32,70,194,1987-02-10,Boise State,2,14,,,,nflverse
+00-0027417,Phil Costa,C,,67,75,316,1987-07-11,,0,14,,,,nflverse
+00-0027778,Sam Young,LT,RT,76,80,322,1987-06-24,Notre Dame,0,14,,,,nflverse
+00-0027826,Sean Lissemore,EDGE,,95,76,306,1987-09-11,William & Mary,0,14,,,,nflverse
+00-0023954,Stephen Bowen,EDGE,,72,77,306,1984-03-28,Hofstra,4,14,,,,nflverse
+00-0027853,Teddy Williams,WR,,10,75,198,1988-07-03,Texas-San Antonio,0,14,,,,nflverse
+00-0022045,Terence Newman,CB,,41,70,193,1978-09-04,Kansas State,7,14,,,,nflverse
+00-0023544,Marion Barber,RB,,24,71,218,1983-06-10,,5,13,13,,,nflverse
+00-0027902,Dez Bryant,WR,,88,74,217,1988-11-04,Oklahoma State,0,12,12,,,nflverse
+00-0026262,Tashard Choice,RB,,23,70,212,1984-11-20,,2,12,12,,,nflverse
+00-0009311,Jon Kitna,QB,,3,74,230,1972-09-21,,14,10,10,,,nflverse
+00-0023953,Sam Hurd,WR,,17,75,209,1985-04-24,,4,10,10,,,nflverse
+00-0027419,Chris Gronkowski,RB,,44,74,245,1986-12-26,,0,8,8,,,nflverse
+00-0021678,Tony Romo,QB,,9,74,223,1980-04-21,Eastern Illinois,7,6,,,,nflverse
+00-0026780,Kevin Ogletree,WR,,85,73,198,1987-08-05,,1,2,,,,nflverse
+00-0027149,Manuel Johnson,WR,,15,71,200,1986-10-14,,1,2,,,,nflverse
+00-0027071,Stephen McGee,QB,,7,75,222,1985-09-27,,1,2,,,,nflverse
+00-0027421,Bryan McCann,CB,,37,70,190,1987-09-29,,0,1,,,,nflverse
+00-0021488,Mat McBriar,P,,1,72,218,1979-07-08,,7,1,,,,nflverse

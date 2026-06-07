@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027973,Andy Dalton,QB,,14,74,220,1987-10-29,Texas Christian,0,16,16,,,nflverse
+00-0026941,Bernard Scott,RB,,28,70,198,1984-02-10,,2,16,16,,,nflverse
+00-0026186,Jerome Simpson,WR,,89,74,190,1986-02-04,,3,16,16,,,nflverse
+00-0027942,A.J. Green,WR,,18,76,207,1988-07-31,Georgia,0,15,15,,,nflverse
+00-0023439,Cedric Benson,RB,,32,71,227,1982-12-28,,6,15,15,,,nflverse
+00-0023441,Adam Jones,CB,,24,70,188,1983-09-30,West Virginia,6,14,,,,nflverse
+00-0026982,Andre Smith,LT,RT,71,76,335,1987-01-25,Alabama,2,14,,,,nflverse
+00-0024270,Andrew Whitworth,LT,RT,77,79,335,1981-12-12,Louisiana State,5,14,,,,nflverse
+00-0026252,Anthony Collins,LT,RT,73,77,315,1985-11-02,,3,14,,,,nflverse
+00-0028400,Armon Binns,WR,,85,75,209,1989-09-08,,0,14,,,,nflverse
+00-0019629,Bobbie Williams,LG,RG,63,76,345,1976-09-25,,11,14,,,,nflverse
+00-0027697,Brandon Ghee,CB,,21,72,190,1987-06-06,,1,14,,,,nflverse
+00-0027662,Carlos Dunlap,EDGE,,96,78,289,1989-02-28,Florida,1,14,,,,nflverse
+00-0028039,Clint Boling,LG,RG,65,77,311,1989-05-09,Georgia,0,14,,,,nflverse
+00-0023920,Dennis Roland,LT,RT,74,81,322,1983-03-10,,5,14,,,,nflverse
+00-0024338,Domata Peko,DT,,94,75,322,1984-11-27,Michigan State,5,14,,,,nflverse
+00-0024306,Frostee Rucker,EDGE,,92,75,280,1983-09-14,USC,5,14,,,,nflverse
+00-0027720,Geno Atkins,DT,,97,73,300,1988-03-28,Georgia,1,14,,,,nflverse
+00-0027873,Jermaine Gresham,TE,,84,77,260,1988-06-16,Oklahoma,1,14,14,,,nflverse
+00-0023665,Jonathan Fanene,EDGE,,68,76,292,1982-03-19,,6,14,,,,nflverse
+00-0024246,Kelly Jennings,CB,,23,71,180,1982-11-30,,5,14,,,,nflverse
+00-0027103,Kevin Huber,P,,10,73,208,1985-07-16,Cincinnati,2,14,,,,nflverse
+00-0024670,Kyle Cook,C,,64,75,316,1983-07-25,,4,14,,,,nflverse
+00-0025405,Leon Hall,CB,,29,71,195,1984-12-09,Michigan,4,14,,,,nflverse
+00-0027044,Michael Johnson,EDGE,,93,79,267,1987-02-07,Georgia Tech,2,14,,,,nflverse
+00-0026249,Mike McGlynn,C,,66,76,315,1985-03-08,Pittsburgh,3,14,,,,nflverse
+00-0023482,Mike Nugent,K,,2,70,183,1982-03-02,Ohio State,6,14,,,,nflverse
+00-0026928,Morgan Trent,CB,,25,73,193,1985-12-14,,2,14,,,,nflverse
+00-0020495,Nate Clements,CB,,22,72,200,1979-12-12,,10,14,,,,nflverse
+00-0023958,Nate Livings,LG,RG,62,77,332,1982-03-16,,5,14,,,,nflverse
+00-0026321,Nick Hayden,DT,,98,76,292,1986-02-04,,3,14,,,,nflverse
+00-0027751,Otis Hudson,LG,RG,60,77,311,1986-07-19,,1,14,,,,nflverse
+00-0026217,Pat Sims,DT,,90,74,330,1985-11-29,Auburn,3,14,,,,nflverse
+00-0022867,Robert Geathers,EDGE,,91,75,280,1983-08-11,,7,14,,,,nflverse
+00-0025439,Brian Leonard,RB,,40,73,225,1984-02-03,,4,13,13,,,nflverse
+00-0026237,Andre Caldwell,WR,,87,72,190,1985-04-15,,3,12,12,,,nflverse
+00-0027918,Andrew Hawkins,WR,,16,67,175,1986-03-10,Toledo,0,12,12,,,nflverse
+00-0028550,Colin Cochart,TE,,81,76,254,1987-07-07,,0,6,,,,nflverse
+00-0021929,Donald Lee,TE,,86,76,248,1980-08-31,,8,6,,,,nflverse
+00-0026723,Chris Pressley,RB,,36,71,256,1986-08-08,,2,3,,,,nflverse
+00-0028105,Ryan Whalen,WR,,88,73,202,1989-07-26,,0,3,,,,nflverse
+00-0024408,Bruce Gradkowski,QB,,7,73,220,1983-01-27,,5,2,,,,nflverse
+00-0026932,Cedric Peerman,RB,,30,70,211,1986-10-10,Virginia,2,2,,,,nflverse
+00-0027687,Jordan Shipley,WR,,11,72,188,1985-12-23,,1,2,,,,nflverse
+00-0027057,Brandon Tate,WR,,19,73,195,1987-10-05,North Carolina,2,1,,,,nflverse

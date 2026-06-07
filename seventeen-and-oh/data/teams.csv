@@ -1,0 +1,33 @@
+team_code,franchise,team_name,conference,division,first_season,last_season,notes
+MIA,Miami Dolphins,Miami Dolphins,AFC,AFC East,1966,,
+NE,New England Patriots,New England Patriots,AFC,AFC East,1960,,AFL 1960-69 (Boston Patriots)
+BUF,Buffalo Bills,Buffalo Bills,AFC,AFC East,1960,,
+NYJ,New York Jets,New York Jets,AFC,AFC East,1960,,
+PIT,Pittsburgh Steelers,Pittsburgh Steelers,AFC,AFC North,1933,,
+BAL,Baltimore Ravens,Baltimore Ravens,AFC,AFC North,1996,,Founded 1996 (ex-Cleveland)
+CIN,Cincinnati Bengals,Cincinnati Bengals,AFC,AFC North,1968,,
+CLE,Cleveland Browns,Cleveland Browns,AFC,AFC North,1946,,
+KC,Kansas City Chiefs,Kansas City Chiefs,AFC,AFC West,1960,,AFL Dallas Texans 1960-62
+DEN,Denver Broncos,Denver Broncos,AFC,AFC West,1960,,
+DAL,Dallas Cowboys,Dallas Cowboys,NFC,NFC East,1960,,
+NYG,New York Giants,New York Giants,NFC,NFC East,1925,,
+CHI,Chicago Bears,Chicago Bears,NFC,NFC North,1920,,
+GB,Green Bay Packers,Green Bay Packers,NFC,NFC North,1921,,
+MIN,Minnesota Vikings,Minnesota Vikings,NFC,NFC North,1961,,
+DET,Detroit Lions,Detroit Lions,NFC,NFC North,1930,,
+SF,San Francisco 49ers,San Francisco 49ers,NFC,NFC West,1946,,
+SEA,Seattle Seahawks,Seattle Seahawks,NFC,NFC West,1976,,In AFC West 1977-2001
+STL,Los Angeles Rams,St. Louis Rams,NFC,NFC West,1937,,St. Louis 1995-2015; LA before/after
+TB,Tampa Bay Buccaneers,Tampa Bay Buccaneers,NFC,NFC South,1976,,
+PHI,Philadelphia Eagles,Philadelphia Eagles,NFC,NFC East,1933,,
+WAS,Washington Commanders,Washington Commanders,NFC,NFC East,1932,,Boston 1932-36; Redskins/Washington Football Team before Commanders
+ATL,Atlanta Falcons,Atlanta Falcons,NFC,NFC South,1966,,
+CAR,Carolina Panthers,Carolina Panthers,NFC,NFC South,1995,,
+NO,New Orleans Saints,New Orleans Saints,NFC,NFC South,1967,,
+ARI,Arizona Cardinals,Arizona Cardinals,NFC,NFC West,1920,,Chicago/St. Louis/Phoenix Cardinals before Arizona
+HOU,Houston Texans,Houston Texans,AFC,AFC South,2002,,
+IND,Indianapolis Colts,Indianapolis Colts,AFC,AFC South,1953,,Baltimore Colts 1953-1983
+JAX,Jacksonville Jaguars,Jacksonville Jaguars,AFC,AFC South,1995,,
+TEN,Tennessee Titans,Tennessee Titans,AFC,AFC South,1960,,AFL Houston Oilers 1960-1996
+LV,Las Vegas Raiders,Las Vegas Raiders,AFC,AFC West,1960,,Oakland/Los Angeles Raiders before Las Vegas
+LAC,Los Angeles Chargers,Los Angeles Chargers,AFC,AFC West,1960,,AFL 1960 LA; San Diego Chargers 1961-2016

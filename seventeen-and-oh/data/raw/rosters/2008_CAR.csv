@@ -1,0 +1,45 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0024242,DeAngelo Williams,RB,,34,69,217,1983-04-25,Memphis,2,16,16,,,nflverse
+00-0004161,Jake Delhomme,QB,,17,74,215,1975-01-10,,11,16,16,,,nflverse
+00-0026153,Jonathan Stewart,RB,,28,70,235,1987-03-21,Oregon,0,16,16,,,nflverse
+00-0011795,Muhsin Muhammad,WR,,87,74,215,1973-05-05,,12,16,16,,,nflverse
+00-0025613,C.J. Wilson,CB,,27,73,195,1985-04-02,,1,14,,,,nflverse
+00-0025470,Charles Johnson,EDGE,,95,74,275,1986-07-10,Georgia,1,14,,,,nflverse
+00-0022914,Chris Gamble,CB,,20,73,200,1983-03-11,,4,14,,,,nflverse
+00-0020491,Damione Lewis,DT,,92,74,301,1978-03-01,,7,14,,,,nflverse
+00-0019459,Darwin Walker,DT,,93,75,294,1977-06-15,,8,14,,,,nflverse
+00-0023596,Frank Omiyale,LT,RT,76,76,310,1982-11-23,,3,14,,,,nflverse
+00-0026281,Gary Barnidge,TE,,82,77,247,1985-09-22,Louisville,0,14,,,,nflverse
+00-0023327,Gary Gibson,DT,,91,75,285,1982-05-05,,3,14,,,,nflverse
+00-0023602,Geoff Hangartner,C,,63,77,301,1982-04-22,,3,14,,,,nflverse
+00-0026361,Hilee Taylor,EDGE,,66,74,250,1986-07-18,,0,14,,,,nflverse
+00-0023344,J'Vonne Parker,DT,,98,76,325,1982-06-07,,3,14,,,,nflverse
+00-0019921,Jason Baker,P,,7,74,205,1978-05-17,,7,14,,,,nflverse
+00-0026159,Jeff Otah,LT,RT,79,78,330,1986-06-17,,0,14,,,,nflverse
+00-0021974,Jeremy Bridges,LG,RG,73,76,326,1980-04-19,,5,14,,,,nflverse
+00-0009028,John Kasay,K,,4,70,210,1969-10-27,,17,14,,,,nflverse
+00-0022117,Jordan Gross,LT,RT,69,76,305,1980-07-20,,5,14,,,,nflverse
+00-0021140,Julius Peppers,EDGE,,90,79,283,1980-01-18,North Carolina,6,14,,,,nflverse
+00-0020499,Ken Lucas,CB,,21,72,205,1979-01-23,,7,14,,,,nflverse
+00-0026276,Kenneth Moore,WR,,81,71,195,1985-02-19,,0,14,,,,nflverse
+00-0019954,Keydrick Vincent,LG,RG,68,77,325,1978-04-13,,7,14,,,,nflverse
+00-0020867,Ma'ake Kemoeatu,DT,,99,77,345,1979-01-10,,6,14,,,,nflverse
+00-0026390,Mackenzy Bernadeau,LG,RG,65,76,308,1986-01-03,,0,14,,,,nflverse
+00-0025708,Matt Moore,QB,,3,75,202,1984-08-09,Oregon State,1,14,,,,nflverse
+00-0026321,Nick Hayden,DT,,78,76,292,1986-02-04,,0,14,,,,nflverse
+00-0023363,Rhys Lloyd,K,,5,71,231,1982-06-05,,3,14,,,,nflverse
+00-0024273,Richard Marshall,CB,,31,71,189,1984-12-12,,2,14,,,,nflverse
+00-0025446,Ryan Kalil,C,,67,74,295,1985-03-29,USC,1,14,,,,nflverse
+00-0025505,Ryne Robinson,WR,,10,69,179,1984-11-04,,1,14,,,,nflverse
+00-0020337,Steve Smith,WR,,89,69,185,1979-05-12,Utah,7,14,14,,,nflverse
+00-0022214,Travelle Wharton,LG,RG,70,76,312,1981-05-19,,4,14,,,,nflverse
+00-0022047,Tyler Brayton,EDGE,,96,78,280,1979-11-20,,5,14,,,,nflverse
+00-0024369,Jeff King,TE,,47,75,260,1983-02-19,,2,13,13,,,nflverse
+00-0019100,Brad Hoover,RB,,45,72,245,1976-11-11,,8,8,8,,,nflverse
+00-0025432,Dwayne Jarrett,WR,,80,76,219,1986-09-11,,1,7,,,,nflverse
+00-0022701,D.J. Hackett,WR,,18,74,208,1981-07-03,,4,6,,,,nflverse
+00-0025542,Dante Rosario,TE,,88,76,250,1984-10-25,,1,6,,,,nflverse
+00-0019831,Nick Goings,RB,,37,72,225,1978-01-26,,7,5,,,,nflverse
+00-0021206,Josh McCown,QB,,12,76,215,1979-07-04,Sam Houston State,6,2,,,,nflverse
+00-0022882,Mark Jones,WR,,84,69,185,1980-11-03,,4,2,,,,nflverse
+00-0021224,Dante Wesley,CB,,23,73,210,1979-04-05,,6,1,,,,nflverse

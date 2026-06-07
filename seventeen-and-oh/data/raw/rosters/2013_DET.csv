@@ -1,0 +1,44 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027218,Joique Bell,RB,,35,71,220,1986-08-04,Wayne State (Mich.),3,16,16,,,nflverse
+00-0028045,Kris Durham,WR,,18,78,216,1988-03-17,,2,16,16,,,nflverse
+00-0026498,Matthew Stafford,QB,,9,75,232,1988-02-07,Georgia,4,16,16,,,nflverse
+00-0026227,Andre Fluellen,DT,,96,74,302,1985-03-07,Florida State,5,14,,,,nflverse
+00-0026996,Brandon Pettigrew,TE,,87,77,265,1985-02-23,,4,14,14,,,nflverse
+00-0023624,C.J. Mosley,DT,,99,74,310,1983-08-06,Missouri,8,14,,,,nflverse
+00-0025389,Calvin Johnson,WR,,81,77,236,1985-09-29,Georgia Tech,6,14,14,,,nflverse
+00-0029213,Chris Greenwood,S,,33,73,193,1989-07-10,,1,14,,,,nflverse
+00-0025428,Chris Houston,CB,,23,71,178,1984-10-18,,6,14,,,,nflverse
+00-0025596,Corey Hilliard,LT,RT,78,78,300,1985-04-26,,6,14,,,,nflverse
+00-0030062,Darius Slay,CB,,30,72,192,1991-01-01,Mississippi State,0,14,,,,nflverse
+00-0000108,David Akers,K,,2,70,200,1974-12-09,,16,14,,,,nflverse
+00-0030079,Devin Taylor,EDGE,,92,79,267,1989-11-15,South Carolina,0,14,,,,nflverse
+00-0020445,Dominic Raiola,C,,51,73,295,1978-12-30,,12,14,,,,nflverse
+00-0029265,Dwight Bentley,CB,,28,70,176,1989-05-16,Louisiana-Lafayette,1,14,,,,nflverse
+00-0023563,Dylan Gandy,LG,RG,65,75,295,1982-03-08,,8,14,,,,nflverse
+00-0030059,Ezekiel Ansah,EDGE,,94,77,271,1989-05-29,Brigham Young,0,14,,,,nflverse
+00-0021604,Israel Idonije,EDGE,,77,78,275,1980-11-17,,10,14,,,,nflverse
+00-0027728,Jason Fox,LT,RT,70,78,314,1988-05-02,Miami,3,14,,,,nflverse
+00-0026194,Jason Jones,EDGE,,91,77,276,1986-05-23,Eastern Michigan,5,14,,,,nflverse
+00-0029216,Jonte Green,CB,,36,72,184,1989-07-19,,1,14,,,,nflverse
+00-0029234,Kellen Moore,QB,,17,72,197,1988-07-05,Boise State,1,14,,,,nflverse
+00-0029886,LaAdrian Waddle,LT,RT,66,78,321,1991-07-21,Texas Tech,0,14,,,,nflverse
+00-0030065,Larry Warford,LG,RG,75,75,333,1991-06-18,Kentucky,0,14,,,,nflverse
+00-0025502,Leroy Harris,LG,RG,64,75,303,1984-06-06,,6,14,,,,nflverse
+00-0029063,Matt Veldman,TE,,85,79,255,1988-08-12,,1,14,,,,nflverse
+00-0024103,Montell Owens,RB,,34,70,225,1984-05-04,,7,14,,,,nflverse
+00-0027855,Ndamukong Suh,DT,,90,76,307,1987-01-06,Nebraska,3,14,,,,nflverse
+00-0027951,Nick Fairley,DT,,98,76,298,1988-01-23,Auburn,2,14,,,,nflverse
+00-0022080,Rashean Mathis,CB,,31,73,195,1980-08-27,Bethune-Cookman,10,14,,,,nflverse
+00-0024217,Reggie Bush,RB,,21,72,203,1985-03-02,USC,7,14,14,,,nflverse
+00-0029672,Riley Reiff,LT,RT,71,78,313,1988-12-01,Iowa,1,14,,,,nflverse
+00-0024343,Rob Sims,LG,RG,67,75,312,1983-12-06,,7,14,,,,nflverse
+00-0029221,Rodney Austin,LG,RG,74,76,311,1988-12-04,,1,14,,,,nflverse
+00-0027808,Willie Young,EDGE,,79,76,251,1985-09-19,North Carolina State,3,14,,,,nflverse
+00-0029883,Joseph Fauria,TE,,80,79,255,1990-01-16,UCLA,0,11,11,,,nflverse
+00-0021999,Nate Burleson,WR,,13,72,198,1981-08-19,,10,9,9,,,nflverse
+00-0030107,Theo Riddick,RB,,41,69,200,1991-05-04,Notre Dame,0,9,9,,,nflverse
+00-0029209,Ryan Broyles,WR,,84,70,188,1988-04-09,,1,6,,,,nflverse
+00-0027819,Dorin Dickerson,TE,,82,73,226,1988-03-31,Pittsburgh,3,3,,,,nflverse
+00-0030092,Sam Martin,P,,6,73,205,1990-02-27,Appalachian State,0,2,,,,nflverse
+00-0027995,Mikel Leshoure,RB,,25,72,233,1990-03-30,,2,1,,,,nflverse
+00-0020679,Shaun Hill,QB,,14,75,220,1980-01-09,Maryland,11,1,,,,nflverse

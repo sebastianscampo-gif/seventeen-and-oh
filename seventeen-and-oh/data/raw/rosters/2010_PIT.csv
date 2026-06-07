@@ -1,0 +1,44 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0017162,Hines Ward,WR,,86,72,205,1976-03-08,,12,16,16,,,nflverse
+00-0026901,Mike Wallace,WR,,17,72,199,1986-08-01,Mississippi,1,16,16,,,nflverse
+00-0026163,Rashard Mendenhall,RB,,34,70,225,1987-06-19,,2,16,16,,,nflverse
+00-0026566,Isaac Redman,RB,,33,72,230,1984-11-10,,1,15,15,,,nflverse
+00-0015080,Aaron Smith,EDGE,,91,77,298,1976-04-19,,11,14,,,,nflverse
+00-0024095,Anthony Madison,CB,,37,69,180,1981-10-08,,4,14,,,,nflverse
+00-0021344,Brett Keisel,EDGE,,99,77,285,1978-09-19,,8,14,,,,nflverse
+00-0023497,Bryant McFadden,CB,,20,72,190,1981-11-21,,5,14,,,,nflverse
+00-0020426,Casey Hampton,DT,,98,73,325,1977-09-03,,9,14,,,,nflverse
+00-0019940,Chris Hoke,DT,,76,74,305,1976-04-06,,9,14,,,,nflverse
+00-0023362,Chris Kemoeatu,LG,RG,68,75,344,1983-01-04,,5,14,,,,nflverse
+00-0027750,Chris Scott,LT,RT,61,76,319,1987-08-04,Tennessee,0,14,,,,nflverse
+00-0027763,Crezdon Butler,CB,,28,73,191,1987-05-26,Clemson,0,14,,,,nflverse
+00-0025499,Daniel Sepulveda,P,,9,75,230,1984-01-12,,3,14,,,,nflverse
+00-0027216,Dorian Brooks,LG,RG,77,74,306,1987-04-16,,0,14,,,,nflverse
+00-0025829,Doug Legursky,C,,64,73,315,1986-06-09,Marshall,2,14,,,,nflverse
+00-0027008,Evander Hood,EDGE,,96,75,300,1987-02-16,Missouri,1,14,,,,nflverse
+00-0000045,Flozell Adams,LT,RT,71,79,338,1975-05-18,,12,14,,,,nflverse
+00-0023465,Heath Miller,TE,,83,77,256,1982-10-22,Virginia,5,14,14,,,nflverse
+00-0021891,Ivan Taylor,CB,,24,74,195,1980-05-05,,7,14,,,,nflverse
+00-0024355,Jonathan Scott,LT,RT,72,78,318,1983-01-10,,4,14,,,,nflverse
+00-0026903,Keenan Lewis,CB,,23,72,208,1986-05-17,,1,14,,,,nflverse
+00-0027870,Maurkice Pouncey,C,,53,76,304,1989-07-24,Florida,0,14,,,,nflverse
+00-0022785,Max Starks,LT,RT,78,80,345,1982-01-10,,6,14,,,,nflverse
+00-0022217,Mewelde Moore,RB,,21,71,209,1982-07-24,,6,14,14,,,nflverse
+00-0022010,Nick Eason,EDGE,,93,75,305,1980-05-29,,7,14,,,,nflverse
+00-0026561,Ramon Foster,LG,RG,73,78,325,1986-01-07,Tennessee,1,14,,,,nflverse
+00-0023001,Shaun Suisham,K,,6,72,200,1981-12-29,Bowling Green State,5,14,,,,nflverse
+00-0026564,Steve McLendon,DT,,69,76,280,1986-01-03,Troy,1,14,,,,nflverse
+00-0026270,Tony Hills,LT,RT,66,77,304,1984-11-04,Texas,2,14,,,,nflverse
+00-0023528,Trai Essex,LG,RG,79,77,324,1982-12-05,,5,14,,,,nflverse
+00-0025557,William Gay,CB,,22,70,190,1985-01-01,Louisville,3,14,,,,nflverse
+00-0021190,Antwaan Randle El,WR,,82,70,185,1979-08-17,,8,12,12,,,nflverse
+00-0022924,Ben Roethlisberger,QB,,7,77,241,1982-03-02,"Miami, O.",6,12,12,,,nflverse
+00-0027685,Emmanuel Sanders,WR,,88,71,180,1987-03-17,Southern Methodist,0,11,11,,,nflverse
+00-0027793,Antonio Brown,WR,,84,70,186,1988-07-10,Central Michigan,0,8,8,,,nflverse
+00-0025464,Matt Spaeth,TE,,89,79,270,1983-11-24,Minnesota,3,7,,,,nflverse
+00-0026957,David Johnson,RB,,85,74,260,1987-08-26,Arkansas State,1,4,,,,nflverse
+00-0000865,Charlie Batch,QB,,16,74,216,1974-12-05,,12,3,,,,nflverse
+00-0022064,Arnaz Battle,WR,,81,73,208,1980-02-22,,7,2,,,,nflverse
+00-0026296,Dennis Dixon,QB,,10,75,209,1985-01-11,,2,2,,,,nflverse
+00-0022177,Byron Leftwich,QB,,4,77,250,1980-01-14,,7,1,,,,nflverse
+00-0027786,Jonathan Dwyer,RB,,27,71,229,1989-07-26,,0,1,,,,nflverse

@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0024204,Fred Jackson,RB,,22,73,216,1981-02-20,Coe,8,16,16,,,nflverse
+00-0025516,Scott Chandler,TE,,84,79,260,1985-07-23,Iowa,6,16,16,,,nflverse
+00-0029660,T.J. Graham,WR,,11,71,188,1989-07-27,North Carolina State,1,16,16,,,nflverse
+00-0027861,C.J. Spiller,RB,,28,71,200,1987-08-05,Clemson,3,15,15,,,nflverse
+00-0027972,Aaron Williams,CB,,23,72,199,1990-04-23,Texas,2,14,,,,nflverse
+00-0025420,Alan Branch,DT,,90,78,325,1984-12-29,Michigan,6,14,,,,nflverse
+00-0027677,Alex Carrington,EDGE,,92,77,301,1987-06-19,,3,14,,,,nflverse
+00-0028750,Brandon Smith,CB,,44,73,205,1987-02-23,,2,14,,,,nflverse
+00-0011626,Brian Moorman,P,,8,72,174,1976-02-05,,14,14,,,,nflverse
+00-0028707,Corbin Bryant,DT,,97,76,300,1988-01-04,Northwestern,2,14,,,,nflverse
+00-0029843,Cordell Roberson,WR,,14,76,205,1990-12-03,,0,14,,,,nflverse
+00-0029561,Cordy Glenn,LT,RT,77,78,345,1989-09-18,Georgia,1,14,,,,nflverse
+00-0026003,Dan Carpenter,K,,2,74,228,1985-11-25,Montana,5,14,,,,nflverse
+00-0025829,Doug Legursky,LG,RG,59,73,315,1986-06-09,Marshall,5,14,,,,nflverse
+00-0030098,Dustin Hopkins,K,,5,74,193,1990-10-01,Florida State,0,14,,,,nflverse
+00-0027004,Eric Wood,C,,70,76,310,1986-03-18,Louisville,4,14,,,,nflverse
+00-0023016,Erik Pears,LT,RT,79,80,316,1982-06-25,,8,14,,,,nflverse
+00-0027881,Jerry Hughes,EDGE,,55,74,254,1988-08-13,Texas Christian,3,14,,,,nflverse
+00-0030021,Joe Unga,LT,RT,64,77,320,1987-01-05,,0,14,,,,nflverse
+00-0027053,Kraig Urbik,LG,RG,60,77,324,1985-09-23,Wisconsin,4,14,,,,nflverse
+00-0024348,Kyle Williams,DT,,95,73,303,1983-06-10,Louisiana State,7,14,,,,nflverse
+00-0026151,Leodis McKelvin,CB,,21,70,185,1985-09-01,Troy,5,14,,,,nflverse
+00-0027941,Marcell Dareus,DT,,99,75,331,1990-03-13,Alabama,2,14,,,,nflverse
+00-0023750,Mario Williams,EDGE,,94,78,292,1985-01-31,North Carolina State,7,14,,,,nflverse
+00-0029296,Mark Asper,LG,RG,62,79,325,1985-11-08,,1,14,,,,nflverse
+00-0030041,Nickell Robey,CB,,37,67,165,1992-01-17,Southern California,0,14,,,,nflverse
+00-0030431,Robert Woods,WR,,10,72,190,1992-04-10,Southern California,0,14,14,,,nflverse
+00-0029280,Ron Brooks,CB,,33,70,190,1988-10-16,LSU,1,14,,,,nflverse
+00-0030132,Stefan Charles,DT,,96,77,302,1988-06-09,Regina (Canada),0,14,,,,nflverse
+00-0029542,Stephon Gilmore,CB,,24,73,190,1990-09-19,South Carolina,1,14,,,,nflverse
+00-0027803,Thomas Welch,LT,RT,66,79,310,1987-06-19,,3,14,,,,nflverse
+00-0027695,Tony Moeaki,TE,,82,75,252,1987-06-08,,3,14,,,,nflverse
+00-0030118,Ty Powell,LB,,57,74,249,1988-04-27,,0,14,,,,nflverse
+00-0026364,Steve Johnson,WR,,13,74,207,1986-07-22,Kentucky,5,12,12,,,nflverse
+00-0030526,E.J. Manuel,QB,,3,76,237,1990-03-19,Florida State,0,10,10,,,nflverse
+00-0030068,Marquise Goodwin,WR,,88,69,179,1990-11-19,Texas,0,9,9,,,nflverse
+00-0026926,Frank Summers,RB,,38,69,248,1985-09-06,,4,8,8,,,nflverse
+00-0028097,Lee Smith,TE,,85,78,265,1987-11-21,Marshall,2,7,,,,nflverse
+00-0028237,Chris Hogan,WR,,15,73,220,1987-10-24,"Monmouth, N.J.",2,6,,,,nflverse
+00-0027253,Thaddeus Lewis,QB,,9,74,200,1987-11-19,Duke,3,5,,,,nflverse
+00-0027708,Marcus Easley,WR,,81,74,217,1987-11-02,Connecticut,3,4,,,,nflverse
+00-0030049,Chris Gragg,TE,,89,75,244,1990-06-30,Arkansas,0,2,,,,nflverse
+00-0030024,Jeff Tuel,QB,,7,75,221,1991-02-12,,0,2,,,,nflverse
+00-0029276,Evan Rodriguez,RB,,48,74,245,1988-09-21,,1,1,,,,nflverse
+00-0029791,Ronnie Wingo,RB,,42,74,231,1991-02-18,,0,1,,,,nflverse

@@ -1,0 +1,50 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0025637,Ahmad Bradshaw,RB,,44,69,198,1986-03-19,Marshall,3,16,16,,,nflverse
+00-0023545,Brandon Jacobs,RB,,27,76,264,1982-07-06,,5,16,16,,,nflverse
+00-0022803,Eli Manning,QB,,10,76,225,1981-01-03,Mississippi,6,16,16,,,nflverse
+00-0026235,Mario Manningham,WR,,82,71,183,1986-05-25,,2,16,16,,,nflverse
+00-0025540,Kevin Boss,TE,,89,78,253,1984-01-11,,3,15,15,,,nflverse
+00-0025407,Aaron Ross,CB,,31,72,197,1982-09-15,,3,14,,,,nflverse
+00-0025576,Adam Koets,C,,61,77,300,1984-01-07,,3,14,,,,nflverse
+00-0024339,Barry Cofield,DT,,96,76,306,1984-03-19,Northwestern,4,14,,,,nflverse
+00-0027313,Brian Jackson,S,,22,72,198,1987-05-04,,0,14,,,,nflverse
+00-0026444,Brian Witherspoon,CB,,29,70,180,1985-06-05,,2,14,,,,nflverse
+00-0026824,Bruce Johnson,CB,,25,71,182,1987-02-18,,1,14,,,,nflverse
+00-0023566,Chris Canty,DT,,99,79,304,1982-11-10,Virginia,5,14,,,,nflverse
+00-0022838,Chris Snee,LG,RG,76,75,317,1982-01-18,,6,14,,,,nflverse
+00-0023478,Corey Webster,CB,,23,72,202,1982-03-02,,5,14,,,,nflverse
+00-0025951,Darius Reynaud,WR,,15,69,201,1984-12-29,,2,14,,,,nflverse
+00-0024467,Dave Tollefson,EDGE,,71,76,255,1982-07-10,,4,14,,,,nflverse
+00-0021922,David Diehl,LT,RT,66,77,319,1980-09-15,,7,14,,,,nflverse
+00-0027259,Jake Ballard,TE,,48,78,256,1987-12-21,,0,14,,,,nflverse
+00-0027867,Jason Pierre-Paul,EDGE,,90,77,270,1989-01-01,South Florida,0,14,,,,nflverse
+00-0023509,Justin Tuck,EDGE,,91,77,274,1983-03-29,Notre Dame,5,14,,,,nflverse
+00-0020463,Kareem McKenzie,LT,RT,67,78,327,1979-05-24,,9,14,,,,nflverse
+00-0024390,Kevin Boothe,LG,RG,77,77,315,1983-07-05,,4,14,,,,nflverse
+00-0019778,Lawrence Tynes,K,,9,73,202,1978-05-03,,9,14,,,,nflverse
+00-0027885,Linval Joseph,DT,,97,76,328,1988-10-10,East Carolina,0,14,,,,nflverse
+00-0024247,Mathias Kiwanuka,EDGE,,94,77,265,1983-03-08,,4,14,,,,nflverse
+00-0025560,Michael Coe,CB,,37,72,190,1983-12-17,,3,14,,,,nflverse
+00-0027746,Mitch Petrus,LG,RG,62,75,310,1987-05-11,,0,14,,,,nflverse
+00-0021977,Osi Umenyiora,EDGE,,72,75,261,1981-11-16,,7,14,,,,nflverse
+00-0020138,Rich Seubert,LG,RG,69,75,310,1979-03-30,,9,14,,,,nflverse
+00-0021261,Rocky Bernard,DT,,95,75,308,1979-04-19,,8,14,,,,nflverse
+00-0019276,Shaun O'Hara,C,,60,75,303,1977-06-23,,10,14,,,,nflverse
+00-0022779,Shawn Andrews,LG,RG,73,76,330,1982-12-25,,6,14,,,,nflverse
+00-0019536,Shayne Graham,K,,8,72,214,1977-12-09,,10,14,,,,nflverse
+00-0026203,Terrell Thomas,CB,,24,72,199,1985-01-08,,2,14,,,,nflverse
+00-0027265,Victor Cruz,WR,,80,73,200,1986-11-11,Massachusetts,0,14,,,,nflverse
+00-0027036,Will Beatty,LT,RT,65,78,307,1985-03-02,Connecticut,1,14,,,,nflverse
+00-0027005,Hakeem Nicks,WR,,88,72,215,1988-01-14,North Carolina,1,13,13,,,nflverse
+00-0027070,Travis Beckum,TE,,47,75,239,1987-01-24,,1,13,13,,,nflverse
+00-0025438,Steve Smith,WR,,12,71,195,1985-05-06,,3,9,9,,,nflverse
+00-0026931,Bear Pascoe,TE,,86,77,251,1986-02-23,,1,8,8,,,nflverse
+00-0024559,Danny Ware,RB,,28,72,234,1985-02-18,,3,7,,,,nflverse
+00-0024297,Derek Hagan,WR,,85,74,215,1984-09-21,,4,7,,,,nflverse
+00-0026902,Ramses Barden,WR,,13,78,227,1986-01-01,,1,4,,,,nflverse
+00-0023683,Madison Hedgecock,RB,,39,75,266,1981-08-27,,5,2,,,,nflverse
+00-0022725,Michael Clayton,WR,,83,76,215,1982-10-13,,6,2,,,,nflverse
+00-0026174,Devin Thomas,WR,,81,74,218,1986-11-15,,2,1,,,,nflverse
+00-0027261,Duke Calhoun,WR,,84,76,205,1987-09-01,,0,1,,,,nflverse
+00-0027815,Matt Dodge,P,,6,73,224,1987-05-30,,0,1,,,,nflverse
+00-0020480,Sage Rosenfels,QB,,18,76,225,1978-03-06,,9,1,,,,nflverse

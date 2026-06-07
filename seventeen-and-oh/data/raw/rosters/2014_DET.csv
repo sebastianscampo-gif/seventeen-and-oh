@@ -1,0 +1,50 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027891,Golden Tate,WR,,15,70,195,1988-08-02,Notre Dame,4,16,16,,,nflverse
+00-0026498,Matthew Stafford,QB,,9,75,234,1988-02-07,Georgia,5,16,16,,,nflverse
+00-0028249,Jeremy Ross,WR,,12,72,215,1988-03-16,California,3,15,15,,,nflverse
+00-0027218,Joique Bell,RB,,35,71,229,1986-08-04,Wayne State (Mich.),4,15,15,,,nflverse
+00-0026227,Andre Fluellen,DT,,96,74,302,1985-03-07,Florida State,6,14,,,,nflverse
+00-0023624,C.J. Mosley,DT,,99,74,312,1983-08-06,Missouri,9,14,,,,nflverse
+00-0031071,Caraun Reid,DT,,97,74,305,1991-11-23,Princeton,0,14,,,,nflverse
+00-0027290,Cassius Vaughn,CB,,29,71,195,1987-11-03,Mississippi,4,14,,,,nflverse
+00-0025596,Corey Hilliard,LT,RT,78,78,300,1985-04-26,,7,14,,,,nflverse
+00-0030725,Cornelius Lucas,LT,RT,77,81,325,1991-07-18,Kansas State,0,14,,,,nflverse
+00-0023578,Dan Orlovsky,QB,,8,77,218,1983-08-18,Connecticut,9,14,,,,nflverse
+00-0026837,Danny Gorrer,S,,36,72,180,1986-06-01,,5,14,,,,nflverse
+00-0030062,Darius Slay,CB,,23,73,192,1991-01-01,Mississippi State,1,14,,,,nflverse
+00-0024278,Darryl Tapp,EDGE,,52,73,270,1984-09-13,Virginia Tech,8,14,,,,nflverse
+00-0030079,Devin Taylor,EDGE,,92,79,275,1989-11-15,South Carolina,1,14,,,,nflverse
+00-0020445,Dominic Raiola,C,,51,73,310,1978-12-30,,13,14,,,,nflverse
+00-0029265,Dwight Bentley,CB,,28,70,188,1989-05-16,Louisiana-Lafayette,2,14,,,,nflverse
+00-0030059,Ezekiel Ansah,EDGE,,94,78,278,1989-05-29,Brigham Young,1,14,,,,nflverse
+00-0027110,Garrett Reynolds,LG,RG,70,79,305,1987-07-01,,5,14,,,,nflverse
+00-0027495,George Johnson,EDGE,,93,76,263,1987-12-11,Rutgers,4,14,,,,nflverse
+00-0026194,Jason Jones,EDGE,,91,77,276,1986-05-23,Eastern Michigan,6,14,,,,nflverse
+00-0029234,Kellen Moore,QB,,17,72,200,1988-07-05,Boise State,2,14,,,,nflverse
+00-0031360,Kyle Van Noy,LB,,95,75,244,1991-03-26,Brigham Young,0,14,,,,nflverse
+00-0029886,LaAdrian Waddle,LT,RT,66,78,330,1991-07-21,Texas Tech,1,14,,,,nflverse
+00-0030065,Larry Warford,LG,RG,75,75,330,1991-06-18,Kentucky,1,14,,,,nflverse
+00-0031065,Larry Webster,EDGE,,79,79,262,1990-02-14,Bloomsburg,0,14,,,,nflverse
+00-0023853,Matt Prater,K,,5,70,195,1984-08-10,Central Florida,8,14,,,,nflverse
+00-0030730,Mohammed Seisay,CB,,39,74,200,1990-05-22,,0,14,,,,nflverse
+00-0024103,Montell Owens,RB,,34,70,225,1984-05-04,,8,14,,,,nflverse
+00-0027855,Ndamukong Suh,DT,,90,76,305,1987-01-06,Nebraska,4,14,,,,nflverse
+00-0031176,Nevin Lawson,CB,,43,69,192,1991-04-23,Utah State,0,14,,,,nflverse
+00-0027951,Nick Fairley,DT,,98,76,308,1988-01-23,Auburn,3,14,,,,nflverse
+00-0022080,Rashean Mathis,CB,,31,73,195,1980-08-27,Bethune-Cookman,11,14,,,,nflverse
+00-0029672,Riley Reiff,LT,RT,71,78,313,1988-12-01,Iowa,2,14,,,,nflverse
+00-0024343,Rob Sims,LG,RG,67,75,312,1983-12-06,,8,14,,,,nflverse
+00-0029221,Rodney Austin,LG,RG,74,76,311,1988-12-04,,2,14,,,,nflverse
+00-0031284,Travis Swanson,C,,64,77,312,1991-01-30,Arkansas,0,14,,,,nflverse
+00-0025389,Calvin Johnson,WR,,81,77,236,1985-09-29,Georgia Tech,7,13,13,,,nflverse
+00-0030107,Theo Riddick,RB,,25,69,200,1991-05-04,Notre Dame,1,13,13,,,nflverse
+00-0030095,Corey Fuller,WR,,10,74,200,1990-06-23,Virginia Tech,1,12,12,,,nflverse
+00-0031387,Eric Ebron,TE,,85,76,265,1993-04-10,North Carolina,0,12,12,,,nflverse
+00-0024217,Reggie Bush,RB,,21,72,205,1985-03-02,USC,8,11,11,,,nflverse
+00-0026072,Jed Collins,RB,,45,73,252,1986-03-03,,6,8,8,,,nflverse
+00-0026996,Brandon Pettigrew,TE,,87,77,275,1985-02-23,,5,7,,,,nflverse
+00-0029883,Joseph Fauria,TE,,80,79,267,1990-01-16,UCLA,1,6,,,,nflverse
+00-0030247,George Winn,RB,,38,71,215,1990-11-10,Cincinnati,1,5,,,,nflverse
+00-0026780,Kevin Ogletree,WR,,11,73,195,1987-08-05,,5,4,,,,nflverse
+00-0029209,Ryan Broyles,WR,,84,70,195,1988-04-09,,2,3,,,,nflverse
+00-0030092,Sam Martin,P,,6,73,210,1990-02-27,Appalachian State,1,1,,,,nflverse

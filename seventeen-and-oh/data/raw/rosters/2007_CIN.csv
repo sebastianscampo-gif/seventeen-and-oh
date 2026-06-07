@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0021429,Carson Palmer,QB,,9,77,230,1979-12-27,USC,4,16,16,,,nflverse
+00-0020397,Chad Ochocinco,WR,,85,73,192,1978-01-09,,6,16,16,,,nflverse
+00-0020438,T.J. Houshmandzadeh,WR,,84,73,199,1977-09-26,,6,16,16,,,nflverse
+00-0019808,Kenny Watson,RB,,33,72,218,1978-03-13,,6,15,15,,,nflverse
+00-0022788,Alex Stepanovich,C,,69,76,300,1981-09-25,,3,14,,,,nflverse
+00-0024270,Andrew Whitworth,LT,RT,77,79,339,1981-12-12,Louisiana State,1,14,,,,nflverse
+00-0019629,Bobbie Williams,LG,RG,63,76,345,1976-09-25,,7,14,,,,nflverse
+00-0013845,Bryan Robinson,EDGE,,98,76,304,1974-06-22,,10,14,,,,nflverse
+00-0025617,Dan Santucci,C,,65,75,296,1983-09-06,,0,14,,,,nflverse
+00-0025532,David Jones,CB,,20,72,196,1985-09-19,,0,14,,,,nflverse
+00-0019645,Deltha O'Neal,CB,,24,71,194,1977-01-30,,7,14,,,,nflverse
+00-0024338,Domata Peko,DT,,94,75,319,1984-11-27,Michigan State,1,14,,,,nflverse
+00-0023553,Eric Ghiaciuc,C,,53,76,300,1981-05-28,,2,14,,,,nflverse
+00-0024306,Frostee Rucker,EDGE,,92,75,280,1983-09-14,USC,1,14,,,,nflverse
+00-0025538,Jeff Rowe,QB,,3,77,221,1984-03-21,,0,14,,,,nflverse
+00-0022591,Jim Maxwell,LB,,50,76,240,1981-08-08,,3,14,,,,nflverse
+00-0023807,John Busing,S,,36,74,221,1983-09-01,,1,14,,,,nflverse
+00-0016431,John Thornton,DT,,97,75,297,1976-10-02,,8,14,,,,nflverse
+00-0024239,Johnathan Joseph,CB,,22,71,193,1984-04-16,South Carolina,1,14,,,,nflverse
+00-0023665,Jonathan Fanene,EDGE,,68,76,295,1982-03-19,,2,14,,,,nflverse
+00-0020535,Justin Smith,EDGE,,90,76,275,1979-09-30,,6,14,,,,nflverse
+00-0022589,Kyle Larson,P,,19,73,204,1980-09-02,,3,14,,,,nflverse
+00-0025405,Leon Hall,CB,,29,71,199,1984-12-09,Michigan,0,14,,,,nflverse
+00-0021145,Levi Jones,LT,RT,76,77,307,1979-08-24,,5,14,,,,nflverse
+00-0011886,Michael Myers,DT,,96,74,300,1976-01-20,,9,14,,,,nflverse
+00-0022907,Nate Lawrie,TE,,80,79,255,1981-10-07,,3,14,,,,nflverse
+00-0023958,Nate Livings,LG,RG,62,77,335,1982-03-16,,1,14,,,,nflverse
+00-0022801,Quincy Wilson,RB,,35,69,220,1981-04-26,,3,14,,,,nflverse
+00-0022867,Robert Geathers,EDGE,,91,75,265,1983-08-11,,3,14,,,,nflverse
+00-0023682,Ryan Fitzpatrick,QB,,11,74,225,1982-11-24,Harvard,2,14,,,,nflverse
+00-0021902,Scott Kooistra,LG,RG,75,78,325,1980-10-14,,4,14,,,,nflverse
+00-0019536,Shayne Graham,K,,17,72,200,1977-12-09,,7,14,,,,nflverse
+00-0022870,Stacy Andrews,LG,RG,79,79,342,1981-06-02,,3,14,,,,nflverse
+00-0000352,Willie Anderson,LT,RT,71,77,340,1975-07-11,,11,14,,,,nflverse
+00-0009119,Reggie Kelly,TE,,82,76,250,1977-02-22,,8,13,13,,,nflverse
+00-0019997,Antonio Chatman,WR,,83,68,182,1979-02-12,,6,12,12,,,nflverse
+00-0020407,Rudi Johnson,RB,,32,70,214,1979-10-01,,6,11,11,,,nflverse
+00-0023806,De De Dorsey,RB,,27,70,196,1984-08-01,,1,9,9,,,nflverse
+00-0024607,Daniel Coats,TE,,86,75,255,1984-04-16,,0,8,8,,,nflverse
+00-0022141,Jeremi Johnson,RB,,31,71,260,1980-09-04,,4,8,8,,,nflverse
+00-0023518,Chris Henry,WR,,15,76,200,1983-05-17,,2,7,,,,nflverse
+00-0024174,Glenn Holt,WR,,16,73,193,1984-07-31,,1,7,,,,nflverse
+00-0024698,Clifton Dawson,RB,,34,70,212,1983-10-08,,0,5,,,,nflverse
+00-0023655,Marcus Maxwell,WR,,10,76,205,1983-07-08,,2,1,,,,nflverse
+00-0023623,Tab Perry,WR,,88,75,208,1982-01-20,,2,1,,,,nflverse

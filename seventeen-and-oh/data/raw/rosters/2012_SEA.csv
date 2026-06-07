@@ -1,0 +1,49 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0025399,Marshawn Lynch,RB,,24,71,215,1986-04-22,California,5,16,16,,,nflverse
+00-0029263,Russell Wilson,QB,,3,71,206,1988-11-29,Wisconsin,0,16,16,,,nflverse
+00-0025431,Sidney Rice,WR,,18,76,202,1986-09-01,,5,16,16,,,nflverse
+00-0025425,Zach Miller,TE,,86,77,255,1985-12-11,,5,16,16,,,nflverse
+00-0027891,Golden Tate,WR,,81,70,202,1988-08-02,Notre Dame,2,15,15,,,nflverse
+00-0029273,Robert Turbin,RB,,22,70,222,1989-12-02,Utah State,0,15,15,,,nflverse
+00-0025420,Alan Branch,DT,,99,78,325,1984-12-29,Michigan,5,14,,,,nflverse
+00-0028125,Allen Bradford,LB,,52,71,235,1988-08-31,Southern California,1,14,,,,nflverse
+00-0027783,Anthony McCoy,TE,,85,77,259,1987-12-28,USC,2,14,14,,,nflverse
+00-0023013,Brandon Browner,CB,,39,76,221,1984-08-02,,7,14,,,,nflverse
+00-0025472,Brandon Mebane,DT,,92,73,311,1985-01-15,California,5,14,,,,nflverse
+00-0026290,Breno Giacomini,LT,RT,68,79,318,1985-09-27,Louisville,4,14,,,,nflverse
+00-0029193,Bruce Irvin,EDGE,,51,75,248,1987-11-01,West Virginia,0,14,,,,nflverse
+00-0028111,Byron Maxwell,CB,,41,73,207,1988-02-23,Clemson,1,14,,,,nflverse
+00-0021577,Chris Clemons,EDGE,,91,75,254,1981-10-30,Georgia,9,14,,,,nflverse
+00-0026964,Clinton McDonald,DT,,69,74,297,1987-01-06,Memphis,3,14,,,,nflverse
+00-0027063,Deon Butler,WR,,10,70,182,1986-01-04,,3,14,,,,nflverse
+00-0029191,DeShawn Shead,S,,35,73,220,1989-06-28,Portland State,0,14,,,,nflverse
+00-0028434,Doug Baldwin,WR,,89,70,189,1988-09-21,Stanford,1,14,14,,,nflverse
+00-0023596,Frank Omiyale,LT,RT,65,76,315,1982-11-23,,7,14,,,,nflverse
+00-0029308,Greg Scruggs,EDGE,,98,75,284,1990-08-17,Louisville,0,14,,,,nflverse
+00-0029508,Hebron Fangupo,DT,,95,72,324,1985-07-19,,0,14,,,,nflverse
+00-0029146,J.R. Sweezy,LG,RG,64,77,298,1989-04-08,North Carolina State,0,14,,,,nflverse
+00-0026194,Jason Jones,EDGE,,90,77,276,1986-05-23,Eastern Michigan,4,14,,,,nflverse
+00-0029277,Jaye Howard,DT,,94,75,301,1988-12-20,Florida,0,14,,,,nflverse
+00-0029295,Jeremy Lane,CB,,20,72,190,1990-07-14,Northwestern State-Louisiana,0,14,,,,nflverse
+00-0028013,John Moffitt,LG,RG,74,76,319,1986-10-28,,1,14,,,,nflverse
+00-0027309,Lemuel Jeanpierre,C,,61,75,301,1987-05-19,,2,14,,,,nflverse
+00-0022046,Marcus Trufant,CB,,23,71,197,1980-12-25,,9,14,,,,nflverse
+00-0027025,Max Unger,C,,60,77,305,1986-04-14,Oregon,3,14,,,,nflverse
+00-0020451,Patrick Chukwurah,EDGE,,97,73,250,1979-03-01,,11,14,,,,nflverse
+00-0024284,Paul McQuistan,LG,RG,67,78,315,1983-04-30,,6,14,,,,nflverse
+00-0026261,Red Bryant,EDGE,,79,76,323,1984-04-18,,4,14,,,,nflverse
+00-0029354,Rishaw Johnson,LG,RG,63,77,313,1989-02-23,,0,14,,,,nflverse
+00-0027859,Russell Okung,LT,RT,76,77,310,1988-10-07,Oklahoma State,2,14,,,,nflverse
+00-0010072,Ryan Longwell,K,,7,72,200,1974-08-16,,15,14,,,,nflverse
+00-0029391,Sean McGrath,TE,,84,77,247,1987-12-03,Henderson State,0,14,,,,nflverse
+00-0025944,Steven Hauschka,K,,4,76,210,1985-06-29,North Carolina State,4,14,,,,nflverse
+00-0027711,Walter Thurmond,CB,,28,71,190,1987-08-12,Oregon,2,14,,,,nflverse
+00-0024332,Leon Washington,RB,,33,68,203,1982-08-29,,6,12,12,,,nflverse
+00-0024315,Michael Robinson,RB,,26,73,240,1983-02-06,,6,11,11,,,nflverse
+00-0026123,Evan Moore,TE,,82,78,250,1985-01-03,,4,6,,,,nflverse
+00-0024463,Ben Obomanu,WR,,87,73,204,1983-10-30,,6,5,,,,nflverse
+00-0029159,Jermaine Kearse,WR,,11,74,208,1990-02-06,Washington,0,5,,,,nflverse
+00-0026753,Charly Martin,WR,,14,73,212,1984-03-20,,3,3,,,,nflverse
+00-0023742,Jon Ryan,P,,9,72,217,1981-11-26,Regina (Canada),6,2,,,,nflverse
+00-0026349,Matt Flynn,QB,,15,74,225,1985-06-20,LSU,4,2,,,,nflverse
+00-0028092,Richard Sherman,CB,,25,75,195,1988-03-30,Stanford,1,1,,,,nflverse

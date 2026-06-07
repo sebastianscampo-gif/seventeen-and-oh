@@ -1,0 +1,45 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0010500,Derrick Mason,WR,,85,70,195,1974-01-17,,12,16,16,,,nflverse
+00-0026158,Joe Flacco,QB,,5,78,235,1985-01-16,Delaware,1,16,16,,,nflverse
+00-0025524,Le'Ron McClain,RB,,33,72,260,1984-12-27,,2,16,16,,,nflverse
+00-0026195,Ray Rice,RB,,27,68,210,1987-01-22,,1,16,16,,,nflverse
+00-0020516,Todd Heap,TE,,86,77,245,1980-03-16,,8,16,16,,,nflverse
+00-0022171,Kelley Washington,WR,,15,75,217,1979-08-21,,6,15,15,,,nflverse
+00-0022178,Willis McGahee,RB,,23,72,235,1981-10-21,,6,15,15,,,nflverse
+00-0025416,Ben Grubbs,LG,RG,66,75,315,1984-03-10,Auburn,2,14,,,,nflverse
+00-0024002,Brandon McKinney,DT,,91,74,360,1983-08-24,,3,14,,,,nflverse
+00-0023008,Chris Carr,CB,,25,70,180,1983-04-30,,4,14,,,,nflverse
+00-0024271,Chris Chester,LG,RG,65,75,315,1983-01-12,Oklahoma,3,14,,,,nflverse
+00-0018605,Corey Ivy,CB,,35,69,190,1977-03-21,,10,14,,,,nflverse
+00-0026273,David Hale,C,,62,78,310,1983-03-03,,1,14,,,,nflverse
+00-0021927,David Tyree,WR,,17,72,206,1980-01-03,,6,14,,,,nflverse
+00-0023532,Domonique Foxworth,CB,,24,71,180,1983-03-27,,4,14,,,,nflverse
+00-0022750,Dwan Edwards,EDGE,,93,75,290,1981-05-16,Oregon State,5,14,,,,nflverse
+00-0023458,Fabian Washington,CB,,31,71,180,1983-06-09,,4,14,,,,nflverse
+00-0021943,Frank Walker,CB,,41,71,200,1981-08-06,,6,14,,,,nflverse
+00-0024227,Haloti Ngata,DT,,92,76,345,1984-01-21,Oregon,3,14,,,,nflverse
+00-0025787,Jared Gaither,LT,RT,71,81,340,1986-03-18,,2,14,,,,nflverse
+00-0025427,John Beck,QB,,12,74,215,1981-08-21,,2,14,,,,nflverse
+00-0021092,Justin Bannan,DT,,94,75,310,1979-04-18,,7,14,,,,nflverse
+00-0026866,K.J. Gerard,S,,40,73,192,1986-04-22,,0,14,,,,nflverse
+00-0026651,Keith Fitzhugh,S,,37,71,205,1986-11-11,,0,14,,,,nflverse
+00-0006398,Kelly Gregg,DT,,97,72,315,1976-11-01,,10,14,,,,nflverse
+00-0024530,Kelly Talavou,DT,,98,74,350,1984-10-04,,2,14,,,,nflverse
+00-0025721,Marcus Paschal,S,,30,72,201,1984-08-31,,2,14,,,,nflverse
+00-0025473,Marshal Yanda,LG,RG,73,75,313,1984-09-15,Iowa,2,14,,,,nflverse
+00-0001263,Matt Birk,C,,77,76,309,1976-07-23,,11,14,,,,nflverse
+00-0026239,Oniel Cousins,LT,RT,64,76,314,1984-06-29,,1,14,,,,nflverse
+00-0024417,Sam Koch,P,,4,73,220,1982-08-13,Nebraska,3,14,,,,nflverse
+00-0025944,Steven Hauschka,K,,6,76,210,1985-06-29,North Carolina State,1,14,,,,nflverse
+00-0024379,Tony Moll,LT,RT,79,77,311,1983-08-23,,3,14,,,,nflverse
+00-0013282,Trevor Pryce,EDGE,,90,77,290,1975-08-03,,12,14,,,,nflverse
+00-0023457,Mark Clayton,WR,,89,70,190,1982-07-02,,4,13,13,,,nflverse
+00-0024326,Demetrius Williams,WR,,87,74,202,1983-03-28,,3,6,,,,nflverse
+00-0022126,L.J. Smith,TE,,82,75,245,1980-05-13,,6,3,,,,nflverse
+00-0025561,Troy Smith,QB,,10,72,225,1984-07-20,,2,3,,,,nflverse
+00-0024714,Edgar Jones,TE,,84,75,258,1984-12-01,,2,1,,,,nflverse
+00-0026316,Jalen Parmele,RB,,34,71,220,1985-12-30,,1,1,,,,nflverse
+00-0026355,Justin Harper,WR,,14,75,215,1985-02-24,,1,1,,,,nflverse
+00-0027060,Lardarius Webb,CB,,21,70,175,1985-10-12,Nicholls State,0,1,,,,nflverse
+00-0026132,Matt Lawrence,RB,,32,73,209,1985-05-05,,1,1,,,,nflverse
+00-0026999,Michael Oher,LT,RT,74,76,310,1986-05-28,Mississippi,0,1,,,,nflverse

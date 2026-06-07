@@ -1,0 +1,42 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022929,Devery Henderson,WR,,19,71,200,1982-03-26,,6,16,16,,,nflverse
+00-0020531,Drew Brees,QB,,9,72,209,1979-01-15,Purdue,9,16,16,,,nflverse
+00-0025414,Robert Meachem,WR,,17,74,210,1984-09-28,,3,16,16,,,nflverse
+00-0023310,Lance Moore,WR,,16,69,190,1983-08-31,Toledo,5,15,15,,,nflverse
+00-0024466,Marques Colston,WR,,12,76,225,1983-06-05,Hofstra,4,15,15,,,nflverse
+00-0021228,Alex Brown,EDGE,,96,75,260,1979-06-04,,8,14,,,,nflverse
+00-0026304,Carl Nicks,LG,RG,77,77,343,1985-05-14,,2,14,,,,nflverse
+00-0027669,Charles Brown,LT,RT,71,77,297,1987-04-10,USC,0,14,,,,nflverse
+00-0023503,Courtney Roby,WR,,15,72,189,1983-01-10,,5,14,,,,nflverse
+00-0025615,DeShawn Wynn,RB,,35,70,232,1983-10-09,,3,14,,,,nflverse
+00-0025824,Garrett Hartley,K,,5,68,196,1986-05-16,,2,14,,,,nflverse
+00-0022527,Jabari Greer,CB,,33,71,180,1982-02-11,,6,14,,,,nflverse
+00-0024323,Jahri Evans,LG,RG,73,76,318,1983-08-22,Bloomsburg,4,14,,,,nflverse
+00-0023847,Jeff Charleston,EDGE,,97,76,265,1983-01-19,,4,14,,,,nflverse
+00-0025512,Jermon Bushrod,LT,RT,74,77,315,1984-08-19,Towson,3,14,,,,nflverse
+00-0021960,Jimmy Wilkerson,DT,,99,74,270,1981-01-04,,7,14,,,,nflverse
+00-0022078,Jon Stinchcomb,LT,RT,78,77,315,1979-08-27,,7,14,,,,nflverse
+00-0021267,Jonathan Goodwin,C,,76,75,318,1978-12-02,,8,14,,,,nflverse
+00-0027551,Junior Galette,EDGE,,93,74,258,1988-03-27,Stillman,0,14,,,,nflverse
+00-0023186,Leigh Torrence,CB,,24,71,179,1982-01-04,,5,14,,,,nflverse
+00-0027757,Matt Tennant,C,,65,76,300,1987-03-19,,0,14,,,,nflverse
+00-0027882,Patrick Robinson,CB,,34,71,191,1987-09-07,Florida State,0,14,,,,nflverse
+00-0022344,Randall Gay,CB,,20,71,190,1982-05-05,,6,14,,,,nflverse
+00-0024073,Remi Ayodele,DT,,92,74,318,1983-04-22,,4,14,,,,nflverse
+00-0026147,Sedrick Ellis,DT,,98,73,307,1985-07-09,,2,14,,,,nflverse
+00-0027114,Thomas Morstead,P,,6,76,225,1986-03-08,Southern Methodist,1,14,,,,nflverse
+00-0022753,Tony Hargrove,DT,,69,75,272,1983-07-20,,6,14,,,,nflverse
+00-0026180,Tracy Porter,CB,,22,71,186,1986-08-11,Indiana,2,14,,,,nflverse
+00-0022911,Will Smith,EDGE,,91,75,282,1981-07-04,,6,14,,,,nflverse
+00-0021148,Jeremy Shockey,TE,,88,77,251,1980-08-18,,8,13,13,,,nflverse
+00-0027531,Chris Ivory,RB,,29,72,222,1988-03-22,Tiffin University,0,12,12,,,nflverse
+00-0024301,David Thomas,TE,,85,75,248,1983-07-05,,4,12,12,,,nflverse
+00-0027696,Jimmy Graham,TE,,80,78,260,1986-11-24,Miami,0,12,12,,,nflverse
+00-0020507,Heath Evans,RB,,44,72,250,1978-12-30,,9,11,11,,,nflverse
+00-0024217,Reggie Bush,RB,,25,72,203,1985-03-02,USC,4,8,8,,,nflverse
+00-0021184,Ladell Betts,RB,,46,71,224,1979-08-27,,8,7,,,,nflverse
+00-0024813,Pierre Thomas,RB,,23,71,215,1984-12-18,Illinois,3,6,,,,nflverse
+00-0026544,Chase Daniel,QB,,10,72,225,1986-10-07,Missouri,1,2,,,,nflverse
+00-0023210,Tory Humphrey,TE,,84,74,255,1983-01-20,,5,2,,,,nflverse
+00-0026377,Adrian Arrington,WR,,87,75,192,1985-11-07,,2,1,,,,nflverse
+00-0024424,Zach Strief,LT,RT,64,79,320,1983-09-22,Northwestern,4,1,,,,nflverse

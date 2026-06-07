@@ -1,0 +1,52 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0031413,Bishop Sankey,RB,,20,70,209,1992-09-15,Washington,0,16,16,,,nflverse
+00-0023367,Nate Washington,WR,,85,73,183,1983-08-28,,9,16,16,,,nflverse
+00-0024389,Delanie Walker,TE,,82,72,248,1984-08-12,Central Missouri State,8,15,15,,,nflverse
+00-0027723,Al Woods,DT,,96,76,307,1987-03-25,Louisiana State,4,14,,,,nflverse
+00-0027027,Andy Levitre,LG,RG,67,74,303,1986-05-15,Oregon State,5,14,,,,nflverse
+00-0030541,Blidi Wreh-Wilson,CB,,25,73,198,1989-12-05,Connecticut,1,14,,,,nflverse
+00-0027998,Brandon Harris,CB,,32,70,189,1990-01-24,,3,14,,,,nflverse
+00-0028451,Brett Brackett,TE,,87,77,246,1987-12-13,,3,14,,,,nflverse
+00-0025825,Brett Kern,P,,6,74,214,1986-02-17,Toledo,6,14,,,,nflverse
+00-0028113,Byron Stingily,LT,RT,68,77,318,1988-09-09,,3,14,,,,nflverse
+00-0030593,Chance Warmack,LG,RG,70,74,323,1991-09-14,Alabama,1,14,,,,nflverse
+00-0023461,Chris Spencer,LG,RG,60,75,308,1982-03-28,,9,14,,,,nflverse
+00-0029529,Coty Sensabaugh,CB,,24,71,187,1988-11-15,Clemson,2,14,,,,nflverse
+00-0031054,DaQuan Jones,EDGE,,90,76,322,1991-12-27,Penn State,0,14,,,,nflverse
+00-0028004,Dontay Moch,LB,,56,74,255,1988-07-19,,3,14,,,,nflverse
+00-0027781,Eric Olsen,LG,RG,69,75,305,1988-06-16,,4,14,,,,nflverse
+00-0027136,Jason McCourty,CB,,30,72,193,1987-08-13,Rutgers,5,14,,,,nflverse
+00-0028015,Jurrell Casey,DT,,99,73,305,1989-12-05,Southern California,3,14,,,,nflverse
+00-0029844,Justin Staples,LB,,57,76,245,1989-12-10,Illinois,1,14,,,,nflverse
+00-0029708,Kendall Wright,WR,,13,70,191,1989-11-12,Baylor,2,14,14,,,nflverse
+00-0030489,Khalid Wooten,S,,36,71,212,1990-02-19,,1,14,,,,nflverse
+00-0031059,Marqueston Huff,CB,,28,71,196,1992-04-06,Wyoming,0,14,,,,nflverse
+00-0026999,Michael Oher,LT,RT,72,76,315,1986-05-28,Mississippi,5,14,,,,nflverse
+00-0023476,Michael Roos,LT,RT,71,79,313,1982-10-05,,9,14,,,,nflverse
+00-0029544,Mike Martin,DT,,93,73,298,1990-09-01,,2,14,,,,nflverse
+00-0030162,Rico Richardson,WR,,83,73,185,1991-07-01,,1,14,,,,nflverse
+00-0026016,Ropati Pitoitua,EDGE,,92,80,298,1985-04-06,,6,14,,,,nflverse
+00-0026968,Ryan Succop,K,,8,74,218,1986-09-19,South Carolina,5,14,,,,nflverse
+00-0027084,Sammie Lee Hill,DT,,94,76,328,1986-11-08,Stillman,5,14,,,,nflverse
+00-0031442,Taylor Lewan,LT,RT,77,79,309,1991-07-22,Michigan,0,14,,,,nflverse
+00-0029779,Terren Jones,LT,RT,75,79,341,1991-11-19,,1,14,,,,nflverse
+00-0023620,Will Svitek,LT,RT,76,78,305,1982-01-08,,9,14,,,,nflverse
+00-0027651,Dexter McCluster,RB,,22,68,170,1988-08-25,Mississippi,4,13,13,,,nflverse
+00-0026899,Shonn Greene,RB,,23,71,233,1985-08-21,,5,13,13,,,nflverse
+00-0030521,Justin Hunter,WR,,15,76,203,1991-05-20,Tennessee,1,12,12,,,nflverse
+00-0024332,Leon Washington,RB,,29,68,192,1982-08-29,,8,11,11,,,nflverse
+00-0024297,Derek Hagan,WR,,80,74,210,1984-09-21,,8,10,10,,,nflverse
+00-0027069,Chase Coffman,TE,,86,78,250,1986-11-10,,5,8,8,,,nflverse
+00-0024296,Charlie Whitehurst,QB,,12,77,226,1982-08-06,,8,7,,,,nflverse
+00-0027946,Jake Locker,QB,,10,75,223,1988-06-15,,3,7,,,,nflverse
+00-0029660,T.J. Graham,WR,,11,71,188,1989-07-27,North Carolina State,2,7,,,,nflverse
+00-0031266,Zach Mettenberger,QB,,7,77,244,1991-07-16,,0,7,,,,nflverse
+00-0025701,Jackie Battle,TE,,44,74,240,1983-10-01,,7,6,,,,nflverse
+00-0028045,Kris Durham,WR,,17,78,216,1988-03-17,,3,4,,,,nflverse
+00-0029590,Taylor Thompson,TE,,84,78,268,1989-10-19,,2,3,,,,nflverse
+00-0030789,Antonio Andrews,RB,,26,70,225,1992-08-17,Western Kentucky,0,1,,,,nflverse
+00-0030486,Brian Schwenke,C,,62,75,318,1991-03-22,California,1,1,,,,nflverse
+00-0026225,Craig Stevens,TE,,88,75,263,1984-09-01,,6,1,,,,nflverse
+00-0025592,Jordan Palmer,QB,,5,77,230,1984-05-30,,7,1,,,,nflverse
+00-0028080,Karl Klug,DT,,97,75,278,1988-03-31,Iowa,3,1,,,,nflverse
+00-0028119,Richard Gordon,TE,,89,76,265,1987-06-07,Miami (Fla.),3,1,,,,nflverse

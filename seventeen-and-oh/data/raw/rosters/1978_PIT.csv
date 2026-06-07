@@ -1,0 +1,33 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+terry-bradshaw,Terry Bradshaw,QB,,12,6-3,215,1948-09-02,Louisiana Tech,8,16,16,,MVP;First-Team All-Pro;Pro Bowl;Hall of Fame,
+mike-kruczek,Mike Kruczek,QB,,10,6-1,205,1953-04-30,Boston College,2,6,0,,,Backup
+franco-harris,Franco Harris,RB,,32,6-2,230,1950-03-07,Penn State,6,15,15,,Pro Bowl;Hall of Fame,
+rocky-bleier,Rocky Bleier,RB,,20,5-11,210,1946-03-05,Notre Dame,9,15,14,,,
+lynn-swann,Lynn Swann,WR,,88,5-11,180,1952-03-07,USC,5,16,16,,Pro Bowl;Hall of Fame,
+john-stallworth,John Stallworth,WR,,82,6-2,191,1952-07-15,Alabama A&M,5,14,13,,,
+jim-smith,Jim Smith,WR,,86,6-2,205,1955-07-20,Michigan,2,16,2,,,
+randy-grossman,Randy Grossman,TE,,84,6-1,215,1952-09-23,Temple,5,16,9,,,
+bennie-cunningham,Bennie Cunningham,TE,,89,6-5,247,1954-02-28,Clemson,3,16,9,,,
+jon-kolb,Jon Kolb,LT,,55,6-2,262,1947-05-30,Oklahoma State,9,16,16,,,
+sam-davis,Sam Davis,LG,,57,6-1,255,1944-10-22,Allen,9,16,16,,,
+mike-webster,Mike Webster,C,,52,6-1,255,1952-03-18,Wisconsin,5,16,16,,First-Team All-Pro;Pro Bowl;Hall of Fame,
+gerry-mullins,Gerry Mullins,RG,,72,6-3,244,1949-12-08,USC,6,16,16,,,
+larry-brown,Larry Brown,RT,TE,79,6-4,265,1949-12-31,Kansas,9,16,16,,,Converted from tight end
+ray-pinney,Ray Pinney,C,RT,50,6-4,250,1954-08-29,Washington,2,16,0,,,Swing lineman
+joe-greene,Joe Greene,DT,,75,6-4,275,1946-09-24,North Texas State,9,15,15,,First-Team All-Pro;Pro Bowl;Hall of Fame,Mean Joe
+steve-furness,Steve Furness,DT,,64,6-4,255,1951-12-21,Rhode Island,6,16,16,,,
+lc-greenwood,L.C. Greenwood,EDGE,DT,68,6-6,245,1946-09-08,Arkansas-Pine Bluff,9,16,16,,Pro Bowl,
+dwight-white,Dwight White,EDGE,DT,78,6-4,255,1949-07-30,East Texas State,9,16,16,,,Mad Dog
+john-banaszak,John Banaszak,EDGE,DT,76,6-3,244,1950-02-21,Eastern Michigan,4,16,1,,,Rotational lineman
+jack-lambert,Jack Lambert,LB,,58,6-4,220,1952-07-08,Kent State,5,16,16,,First-Team All-Pro;Pro Bowl;Hall of Fame,
+jack-ham,Jack Ham,LB,,59,6-1,225,1948-12-23,Penn State,8,15,15,,First-Team All-Pro;Pro Bowl;Hall of Fame,
+loren-toews,Loren Toews,LB,,51,6-3,222,1951-11-06,California,6,16,15,,,
+robin-cole,Robin Cole,LB,,56,6-2,220,1955-09-11,New Mexico,2,16,15,,,
+dennis-winston,Dennis Winston,LB,,53,6-0,228,1955-10-27,Arkansas,1,16,1,,,
+mel-blount,Mel Blount,CB,,47,6-3,205,1948-04-10,Southern,9,16,16,,First-Team All-Pro;Pro Bowl;Hall of Fame,
+ron-johnson,Ron Johnson,CB,,29,5-10,200,1956-09-23,Eastern Michigan,2,16,16,,,
+jt-thomas,J.T. Thomas,CB,S,24,6-2,196,1951-12-22,Florida State,5,16,16,,,
+mike-wagner,Mike Wagner,S,,23,6-1,210,1949-06-22,Western Illinois,7,16,16,,,
+donnie-shell,Donnie Shell,S,,31,5-11,190,1952-08-26,South Carolina State,5,16,9,,Hall of Fame,
+roy-gerela,Roy Gerela,K,,13,5-10,185,1948-04-02,New Mexico State,9,16,0,,,
+craig-colquitt,Craig Colquitt,P,,5,6-1,182,1954-08-09,Tennessee,1,16,0,,,Rookie

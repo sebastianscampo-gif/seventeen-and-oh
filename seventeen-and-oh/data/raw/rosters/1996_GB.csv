@@ -1,0 +1,35 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+brett-favre,Brett Favre,QB,,4,6-2,225,1969-10-10,Southern Mississippi,5,16,16,,MVP;First-Team All-Pro;Pro Bowl;Hall of Fame,Led NFL with 39 TD passes
+doug-pederson,Doug Pederson,QB,,18,6-3,216,1968-01-31,Northeast Louisiana,2,7,0,,,Backup
+edgar-bennett,Edgar Bennett,RB,,34,6-0,217,1969-02-15,Florida State,4,16,16,,,Team-leading rusher
+dorsey-levens,Dorsey Levens,RB,,25,6-1,230,1970-05-21,Georgia Tech,3,16,5,,,
+william-henderson,William Henderson,RB,,30,6-1,248,1971-02-19,North Carolina,2,16,11,,,Lead-blocking fullback
+antonio-freeman,Antonio Freeman,WR,,86,6-1,195,1972-05-27,Virginia Tech,2,12,11,,,
+robert-brooks,Robert Brooks,WR,,87,6-0,180,1970-06-23,South Carolina,5,7,7,,,Season-ending knee injury midyear
+don-beebe,Don Beebe,WR,,82,5-11,185,1965-12-18,Chadron State,8,15,4,,,
+desmond-howard,Desmond Howard,WR,,81,5-10,180,1970-05-15,Michigan,5,16,0,,,Return specialist; later Super Bowl XXXI MVP
+mark-chmura,Mark Chmura,TE,,89,6-5,250,1969-02-22,Boston College,4,15,15,,Pro Bowl,
+keith-jackson,Keith Jackson,TE,,88,6-2,250,1965-04-19,Oklahoma,8,11,8,,,
+bruce-wilkerson,Bruce Wilkerson,LT,RT,68,6-5,300,1964-07-28,Tennessee,9,16,12,,,Filled in for injured Ruettgers
+aaron-taylor,Aaron Taylor,LG,,73,6-4,305,1972-11-14,Notre Dame,2,16,16,,,
+frank-winters,Frank Winters,C,,52,6-3,300,1964-01-23,Western Illinois,9,16,16,,Pro Bowl,
+adam-timmerman,Adam Timmerman,RG,,63,6-4,295,1971-08-14,South Dakota State,2,16,15,,,
+earl-dotson,Earl Dotson,RT,,75,6-4,315,1970-12-17,Texas A&I,4,15,15,,,
+reggie-white,Reggie White,EDGE,DT,92,6-5,300,1961-12-19,Tennessee,11,16,16,,First-Team All-Pro;Pro Bowl;Hall of Fame,
+sean-jones,Sean Jones,EDGE,,96,6-7,267,1962-12-19,Northeastern,11,16,16,,,
+santana-dotson,Santana Dotson,DT,,71,6-5,285,1969-12-19,Baylor,5,16,16,,,
+gilbert-brown,Gilbert Brown,DT,,93,6-2,340,1971-02-22,Kansas,4,16,13,,,Run-stuffing nose tackle
+gabe-wilkins,Gabe Wilkins,DT,EDGE,98,6-4,300,1971-09-01,Gardner-Webb,3,15,5,,,
+wayne-simmons,Wayne Simmons,LB,,59,6-2,248,1969-12-15,Clemson,4,15,14,,,
+brian-williams,Brian Williams,LB,,51,6-1,240,1972-12-17,USC,2,16,15,,,
+george-koonce,George Koonce,LB,,53,6-1,243,1968-10-15,East Carolina,5,16,16,,,
+ron-cox,Ron Cox,LB,,55,6-2,242,1968-01-27,Fresno State,6,12,2,,,
+leroy-butler,LeRoy Butler,S,,36,6-0,200,1968-07-19,Florida State,7,16,16,,First-Team All-Pro;Pro Bowl,
+eugene-robinson,Eugene Robinson,S,,41,6-0,195,1963-05-28,Colgate,12,16,16,,,
+doug-evans,Doug Evans,CB,,33,6-1,190,1970-09-13,Louisiana Tech,4,16,16,,,
+craig-newsome,Craig Newsome,CB,,21,6-0,190,1971-08-10,Arizona State,2,16,16,,,
+tyrone-williams,Tyrone Williams,CB,,32,5-11,195,1973-05-31,Florida State,1,16,1,,,Rookie nickel back
+mike-prior,Mike Prior,S,,39,6-0,208,1963-11-14,Illinois State,11,16,0,,,
+chris-jacke,Chris Jacke,K,,13,6-0,205,1966-03-12,Texas-El Paso,8,16,0,,,
+craig-hentrich,Craig Hentrich,P,,17,6-3,205,1971-05-18,Notre Dame,2,16,0,,,
+bob-kuberski,Bob Kuberski,DT,,64,6-4,295,1971-04-05,Navy,2,,,,,Deep reserve - 1996 role unverified (needs_review demo)

@@ -1,0 +1,57 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0024463,Ben Obomanu,WR,,87,73,204,1983-10-30,,5,16,16,,,nflverse
+00-0028434,Doug Baldwin,WR,,15,70,189,1988-09-21,Stanford,0,16,16,,,nflverse
+00-0026373,Justin Forsett,RB,,20,68,198,1985-10-14,California,3,16,16,,,nflverse
+00-0024332,Leon Washington,RB,,33,68,203,1982-08-29,,5,16,16,,,nflverse
+00-0027891,Golden Tate,WR,,81,70,202,1988-08-02,Notre Dame,1,15,15,,,nflverse
+00-0025399,Marshawn Lynch,RB,,24,71,215,1986-04-22,California,4,15,15,,,nflverse
+00-0024279,Tarvaris Jackson,QB,,7,74,225,1983-04-21,Alabama State,5,15,15,,,nflverse
+00-0027723,Al Woods,DT,,90,76,307,1987-03-25,Louisiana State,1,14,,,,nflverse
+00-0025420,Alan Branch,DT,,99,78,325,1984-12-29,Michigan,4,14,,,,nflverse
+00-0025506,Allen Barbre,LT,RT,78,76,305,1984-06-22,Missouri Southern State,4,14,,,,nflverse
+00-0023013,Brandon Browner,CB,,39,76,221,1984-08-02,,6,14,,,,nflverse
+00-0025472,Brandon Mebane,DT,,92,73,311,1985-01-15,California,4,14,,,,nflverse
+00-0026290,Breno Giacomini,LT,RT,68,79,318,1985-09-27,Louisville,3,14,,,,nflverse
+00-0028111,Byron Maxwell,CB,,41,73,207,1988-02-23,Clemson,0,14,,,,nflverse
+00-0021577,Chris Clemons,EDGE,,91,75,254,1981-10-30,Georgia,8,14,,,,nflverse
+00-0027378,Chris Maragos,S,,42,70,200,1987-01-06,Wisconsin,1,14,,,,nflverse
+00-0026964,Clinton McDonald,DT,,69,74,297,1987-01-06,Memphis,2,14,,,,nflverse
+00-0027828,Dexter Davis,EDGE,,58,73,244,1986-11-10,,1,14,,,,nflverse
+00-0027963,James Carpenter,LT,RT,75,76,321,1989-03-22,Alabama,0,14,,,,nflverse
+00-0027836,Jameson Konz,WR,,46,75,234,1986-07-02,,1,14,,,,nflverse
+00-0028621,Jarriel King,LT,RT,77,77,317,1987-02-27,,0,14,,,,nflverse
+00-0028013,John Moffitt,LG,RG,74,76,319,1986-10-28,,0,14,,,,nflverse
+00-0023742,Jon Ryan,P,,9,72,217,1981-11-26,Regina (Canada),5,14,,,,nflverse
+00-0028446,Josh Portis,QB,,2,75,211,1987-07-14,,0,14,,,,nflverse
+00-0026391,Kennard Cox,CB,,35,72,191,1985-08-17,,3,14,,,,nflverse
+00-0028143,Lazarius Levingston,EDGE,,93,76,292,1987-11-16,,0,14,,,,nflverse
+00-0027309,Lemuel Jeanpierre,C,,61,75,301,1987-05-19,,1,14,,,,nflverse
+00-0022046,Marcus Trufant,CB,,23,71,197,1980-12-25,,8,14,,,,nflverse
+00-0027025,Max Unger,C,,60,77,305,1986-04-14,Oregon,2,14,,,,nflverse
+00-0028443,Michael Morgan,LB,,48,75,226,1988-01-16,USC,0,14,,,,nflverse
+00-0026324,Mike Gibson,LG,RG,64,75,298,1985-11-18,,3,14,,,,nflverse
+00-0026943,Paul Fanaika,LG,RG,66,77,327,1986-04-09,Arizona State,2,14,,,,nflverse
+00-0024284,Paul McQuistan,LG,RG,67,78,315,1983-04-30,,5,14,,,,nflverse
+00-0027610,Phillip Adams,CB,,40,71,192,1988-07-20,South Carolina State,1,14,,,,nflverse
+00-0021340,Raheem Brock,EDGE,,98,76,274,1978-06-10,,9,14,,,,nflverse
+00-0026261,Red Bryant,EDGE,,79,76,323,1984-04-18,,3,14,,,,nflverse
+00-0028092,Richard Sherman,CB,,25,75,195,1988-03-30,Stanford,0,14,,,,nflverse
+00-0022836,Robert Gallery,LG,RG,72,79,325,1980-07-26,,7,14,,,,nflverse
+00-0028445,Ron Parker,S,,36,72,210,1987-08-17,Newberry,0,14,,,,nflverse
+00-0025848,Roy Lewis,CB,,34,70,190,1985-05-19,,3,14,,,,nflverse
+00-0027859,Russell Okung,LT,RT,76,77,310,1988-10-07,Oklahoma State,1,14,,,,nflverse
+00-0025944,Steven Hauschka,K,,4,76,210,1985-06-29,North Carolina State,3,14,,,,nflverse
+00-0022753,Tony Hargrove,DT,,94,75,272,1983-07-20,,7,14,,,,nflverse
+00-0025826,Tyler Polumbus,LT,RT,78,80,300,1985-04-10,Colorado,3,14,,,,nflverse
+00-0027711,Walter Thurmond,CB,,28,71,190,1987-08-12,Oregon,1,14,,,,nflverse
+00-0025425,Zach Miller,TE,,86,77,255,1985-12-11,,4,13,13,,,nflverse
+00-0023452,Mike Williams,WR,,17,77,235,1984-01-04,,6,12,12,,,nflverse
+00-0027783,Anthony McCoy,TE,,85,77,259,1987-12-28,USC,1,11,11,,,nflverse
+00-0024315,Michael Robinson,RB,,26,73,240,1983-02-06,,5,10,10,,,nflverse
+00-0025431,Sidney Rice,WR,,18,76,202,1986-09-01,,4,9,9,,,nflverse
+00-0026963,Cameron Morrah,TE,,88,75,251,1987-03-18,,2,5,,,,nflverse
+00-0027063,Deon Butler,WR,,11,70,182,1986-01-04,,2,4,,,,nflverse
+00-0024296,Charlie Whitehurst,QB,,6,77,225,1982-08-06,,5,3,,,,nflverse
+00-0026947,Eddie Williams,RB,,40,73,242,1987-08-22,,2,2,,,,nflverse
+00-0028045,Kris Durham,WR,,16,77,216,1988-03-17,,0,2,,,,nflverse
+00-0028442,Ricardo Lockette,WR,,83,74,211,1986-05-21,Fort Valley State,0,2,,,,nflverse

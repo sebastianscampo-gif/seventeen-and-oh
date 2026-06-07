@@ -1,5 +1,5 @@
 "use client";
-import { useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import {
   GameMode,
   Player,
@@ -10,9 +10,9 @@ import {
 } from "@/lib/types";
 import { createEmptyRoster, positionFit } from "@/lib/positions";
 import { computeScore, effectiveRating } from "@/lib/scoring";
+import { computeTeamProfile } from "@/lib/team-profile";
 import { simulateSeason } from "@/lib/simulation";
-import { getTeamSeasons } from "@/lib/data";
-import { randomTeamSeason } from "@/lib/draft";
+import { loadIndex, loadTeamSeason } from "@/lib/data";
 import StartScreen from "./components/StartScreen";
 import DraftScreen from "./components/DraftScreen";
 import ScoreScreen from "./components/ScoreScreen";
@@ -21,7 +21,6 @@ import SimulationScreen from "./components/SimulationScreen";
 type Phase = "start" | "draft" | "score" | "sim";
 
 export default function Home() {
-  const pool = useMemo(() => getTeamSeasons(), []);
   const [phase, setPhase] = useState<Phase>("start");
   const [mode, setMode] = useState<GameMode>("classic");
   const [roster, setRoster] = useState<RosterSlot[]>(() => createEmptyRoster());
@@ -30,25 +29,39 @@ export default function Home() {
   const [score, setScore] = useState<ScoreBreakdown | null>(null);
   const [sim, setSim] = useState<SimulationResult | null>(null);
 
-  // Pick the next team-season, preferring those with undrafted players left.
-  function drawTeamSeason(avoidId: string | undefined, drafted: string[]): TeamSeason {
-    const usable = pool.filter((ts) =>
-      ts.players.some((p) => !drafted.includes(p.id))
+  // Warm the lightweight catalog on mount. loadIndex() memoizes the fetch, so
+  // this just pre-fills the cache; drawTeamSeason() re-reads it directly.
+  useEffect(() => {
+    loadIndex().catch((err) =>
+      console.error("Failed to load team-season index", err)
     );
-    return randomTeamSeason(usable.length ? usable : pool, avoidId);
+  }, []);
+
+  // Pick a random team-season (avoiding an immediate repeat) and fetch its full
+  // roster on demand. Awaits the memoized catalog directly so a draw works even
+  // before the warm-up resolves — no dependence on render-time state.
+  async function drawTeamSeason(avoidId: string | undefined): Promise<TeamSeason | null> {
+    const idx = await loadIndex();
+    if (idx.length === 0) return null;
+    const choices =
+      avoidId && idx.length > 1 ? idx.filter((s) => s.id !== avoidId) : idx;
+    const pick = choices[Math.floor(Math.random() * choices.length)];
+    return loadTeamSeason(pick.id);
   }
 
-  function start(m: GameMode) {
+  async function start(m: GameMode) {
     setMode(m);
     setRoster(createEmptyRoster());
     setDraftedIds([]);
     setScore(null);
     setSim(null);
-    setTeamSeason(drawTeamSeason(undefined, []));
+    const ts = await drawTeamSeason(undefined);
+    if (!ts) return;
+    setTeamSeason(ts);
     setPhase("draft");
   }
 
-  function draftPlayer(player: Player, slotId: string) {
+  async function draftPlayer(player: Player, slotId: string) {
     const slot = roster.find((s) => s.id === slotId)!;
     const fit = positionFit(player.position, player.secondaryPositions, slot.position);
     const nextRoster = roster.map((s) =>
@@ -69,13 +82,14 @@ export default function Home() {
       setScore(computeScore(nextRoster));
       setPhase("score");
     } else {
-      setTeamSeason(drawTeamSeason(teamSeason?.id, nextDrafted));
+      const ts = await drawTeamSeason(teamSeason?.id);
+      if (ts) setTeamSeason(ts);
     }
   }
 
   function runSim() {
     if (!score) return;
-    setSim(simulateSeason(score));
+    setSim(simulateSeason(computeTeamProfile(roster)));
     setPhase("sim");
   }
 

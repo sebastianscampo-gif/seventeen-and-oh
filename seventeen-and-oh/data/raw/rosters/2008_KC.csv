@@ -1,0 +1,51 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0025410,Dwayne Bowe,WR,,82,74,221,1984-09-21,LSU,1,16,16,,,nflverse
+00-0026213,Jamaal Charles,RB,,25,71,199,1986-12-27,Texas,0,16,16,,,nflverse
+00-0006101,Tony Gonzalez,TE,,88,77,251,1976-02-27,,11,16,16,,,nflverse
+00-0022813,Adrian Jones,LG,RG,73,76,296,1981-06-10,,4,14,,,,nflverse
+00-0019626,Alfonso Boone,EDGE,,70,75,305,1976-01-11,,8,14,,,,nflverse
+00-0025639,Andrew Carnahan,LT,RT,71,79,306,1983-09-08,,1,14,,,,nflverse
+00-0026343,Andy Studebaker,EDGE,,96,75,251,1985-09-16,Wheaton,0,14,,,,nflverse
+00-0026310,Barry Richardson,LT,RT,67,78,319,1986-05-15,,0,14,,,,nflverse
+00-0026155,Branden Albert,LT,RT,76,77,316,1984-11-04,Virginia,0,14,,,,nflverse
+00-0026280,Brandon Carr,CB,,39,72,207,1986-05-19,Grand Valley State,0,14,,,,nflverse
+00-0026175,Brandon Flowers,CB,,24,69,187,1986-02-18,Virginia Tech,0,14,,,,nflverse
+00-0026350,Brian Johnston,EDGE,,97,76,269,1986-05-02,,0,14,,,,nflverse
+00-0018584,Brian Waters,LG,RG,54,75,320,1977-02-18,,9,14,,,,nflverse
+00-0026138,Connor Barth,K,,5,71,193,1986-04-11,North Carolina,0,14,,,,nflverse
+00-0025906,Curtis Gatewood,LB,,52,75,240,1985-05-18,,0,14,,,,nflverse
+00-0019664,Damion McIntosh,LT,RT,77,76,320,1977-03-25,,8,14,,,,nflverse
+00-0019563,David Macklin,CB,,34,70,197,1978-07-14,,8,14,,,,nflverse
+00-0026040,Derek Lokey,DT,,69,73,287,1985-11-25,,0,14,,,,nflverse
+00-0023727,Dimitri Patterson,CB,,22,70,190,1983-06-18,,3,14,,,,nflverse
+00-0023534,Dustin Colquitt,P,,2,75,210,1982-05-06,Tennessee,3,14,,,,nflverse
+00-0026145,Glenn Dorsey,DT,,72,73,297,1985-08-01,LSU,0,14,,,,nflverse
+00-0025583,Herb Taylor,LT,RT,75,75,295,1984-09-22,,1,14,,,,nflverse
+00-0026322,Kevin Robinson,WR,,14,72,196,1984-12-19,,0,14,,,,nflverse
+00-0026089,Maurice Leggett,CB,,31,71,188,1986-10-02,,0,14,,,,nflverse
+00-0026379,Mike Merritt,TE,,45,76,263,1984-09-03,,0,14,,,,nflverse
+00-0015915,Patrick Surtain,CB,,23,71,195,1976-06-19,,10,14,,,,nflverse
+00-0022713,Ricardo Colclough,CB,,30,71,195,1983-09-26,,4,14,,,,nflverse
+00-0020286,Ron Edwards,DT,,95,75,315,1979-07-12,,7,14,,,,nflverse
+00-0024188,Rudy Niswanger,C,,64,77,301,1982-11-09,,2,14,,,,nflverse
+00-0024110,Steve Weatherford,P,,6,75,215,1982-12-17,Illinois,2,14,,,,nflverse
+00-0024235,Tamba Hali,EDGE,,91,75,275,1983-11-03,Penn State,2,14,,,,nflverse
+00-0025469,Tank Tyler,DT,,93,74,306,1985-02-14,,1,14,,,,nflverse
+00-0023952,Tavares Washington,LT,RT,65,75,320,1983-04-20,,2,14,,,,nflverse
+00-0025441,Turk McBride,EDGE,,90,74,278,1985-05-30,,1,14,,,,nflverse
+00-0025604,Tyler Thigpen,QB,,4,73,224,1984-04-14,,1,14,14,,,nflverse
+00-0022131,Wade Smith,C,,74,76,296,1981-04-26,,5,14,,,,nflverse
+00-0026105,Wallace Gilberry,EDGE,,92,75,267,1984-12-05,Alabama,0,14,,,,nflverse
+00-0026450,Weston Dacus,LB,,57,73,232,1985-09-19,,0,14,,,,nflverse
+00-0022739,Devard Darling,WR,,81,73,213,1982-04-16,,4,12,12,,,nflverse
+00-0021976,Larry Johnson,RB,,27,73,230,1979-11-19,,5,12,12,,,nflverse
+00-0023474,Mark Bradley,WR,,83,74,198,1982-01-29,,3,8,8,,,nflverse
+00-0025535,Kolby Smith,RB,,21,71,219,1984-12-15,,1,7,,,,nflverse
+00-0026033,Mike Cox,RB,,42,72,252,1985-07-11,,0,7,,,,nflverse
+00-0007835,Damon Huard,QB,,11,75,218,1973-07-09,,12,5,,,,nflverse
+00-0026245,William Franklin,WR,,85,72,209,1985-10-13,,0,5,,,,nflverse
+00-0026216,Brad Cottam,TE,,87,79,269,1984-11-28,,0,4,,,,nflverse
+00-0024404,Jeff Webb,WR,,80,74,211,1982-01-31,,2,4,,,,nflverse
+00-0024300,Brodie Croyle,QB,,12,74,206,1983-02-06,,2,2,,,,nflverse
+00-0025701,Jackie Battle,RB,,26,74,238,1983-10-01,,1,1,,,,nflverse
+00-0020613,Quinn Gray,QB,,8,75,254,1979-05-21,,6,1,,,,nflverse

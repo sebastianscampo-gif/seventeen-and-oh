@@ -1,0 +1,47 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022093,Justin Fargas,RB,,25,73,220,1980-01-25,,3,16,16,,,nflverse
+00-0021337,Ronald Curry,WR,,89,74,210,1979-05-28,,4,15,15,,,nflverse
+00-0022883,Adimchinobi Echemandu,RB,,20,70,226,1980-11-21,,2,14,,,,nflverse
+00-0023608,Anttaj Hawthorne,DT,,77,75,310,1981-11-15,,1,14,,,,nflverse
+00-0018925,Barry Sims,LT,RT,65,77,300,1974-12-01,,7,14,,,,nflverse
+00-0000576,Brad Badger,LT,RT,70,76,320,1975-01-11,,9,14,,,,nflverse
+00-0019335,Chad Slaughter,LT,RT,78,80,340,1978-06-04,,6,14,,,,nflverse
+00-0023008,Chris Carr,CB,,23,70,180,1983-04-30,,1,14,,,,nflverse
+00-0024428,Chris Morris,C,,61,76,305,1983-02-22,,0,14,,,,nflverse
+00-0007903,Corey Hulsey,LG,RG,71,76,325,1977-07-26,,7,14,,,,nflverse
+00-0023961,Derek Miller,TE,,46,79,254,1983-06-10,,0,14,,,,nflverse
+00-0020504,Derrick Burgess,EDGE,,56,74,260,1978-08-12,,5,14,,,,nflverse
+00-0015577,Duane Starks,CB,,22,70,175,1974-05-23,,8,14,,,,nflverse
+00-0023458,Fabian Washington,CB,,27,71,185,1983-06-09,,1,14,,,,nflverse
+00-0022841,Jake Grove,C,,64,76,300,1980-01-22,,2,14,,,,nflverse
+00-0024390,Kevin Boothe,LG,RG,67,77,315,1983-07-05,,0,14,,,,nflverse
+00-0023737,Kevin Huntley,EDGE,,94,79,270,1982-04-08,,1,14,,,,nflverse
+00-0008664,Lance Johnstone,EDGE,,51,77,250,1973-06-11,,10,14,,,,nflverse
+00-0021181,Langston Walker,LT,RT,66,80,345,1979-09-03,,4,14,,,,nflverse
+00-0022077,Nnamdi Asomugha,CB,,21,74,210,1981-07-06,,3,14,,,,nflverse
+00-0024284,Paul McQuistan,LG,RG,79,78,315,1983-04-30,,0,14,,,,nflverse
+00-0022836,Robert Gallery,LT,RT,76,79,325,1980-07-26,,2,14,,,,nflverse
+00-0019646,Sebastian Janikowski,K,,11,74,250,1978-03-02,Florida State,6,14,,,,nflverse
+00-0019714,Shane Lechler,P,,9,74,225,1976-08-07,Texas A&M,6,14,,,,nflverse
+00-0023473,Stanford Routt,CB,,26,73,195,1983-07-26,,1,14,,,,nflverse
+00-0020414,Terdell Sands,DT,,90,79,335,1979-10-31,,5,14,,,,nflverse
+00-0024253,Thomas Howard,LB,,53,75,240,1983-07-14,,0,14,,,,nflverse
+00-0022539,Tommy Kelly,EDGE,,93,78,300,1980-12-27,,2,14,,,,nflverse
+00-0022047,Tyler Brayton,DT,,91,78,280,1979-11-20,,3,14,,,,nflverse
+00-0013102,Tyrone Poole,CB,,38,68,190,1972-02-03,,11,14,,,,nflverse
+00-0014358,Warren Sapp,DT,,99,74,300,1972-12-19,,11,14,,,,nflverse
+00-0019919,Randal Williams,TE,,86,75,235,1978-05-21,,5,13,13,,,nflverse
+00-0017611,Alvis Whitted,WR,,87,72,185,1974-09-04,,8,12,12,,,nflverse
+00-0023504,Andrew Walter,QB,,16,77,230,1982-05-11,,1,12,12,,,nflverse
+00-0011754,Randy Moss,WR,,18,76,210,1977-02-13,,8,12,12,,,nflverse
+00-0021673,Reshard Lee,RB,,42,70,220,1980-10-12,,3,12,12,,,nflverse
+00-0003663,Zack Crockett,RB,,32,74,240,1972-12-02,,11,12,12,,,nflverse
+00-0022704,Courtney Anderson,TE,,83,78,270,1980-11-19,,2,11,11,,,nflverse
+00-0020462,LaMont Jordan,RB,,34,70,230,1978-11-11,,5,9,9,,,nflverse
+00-0001823,Aaron Brooks,QB,,2,76,220,1976-03-24,,7,8,8,,,nflverse
+00-0023897,John Madsen,TE,,85,77,220,1983-05-09,,0,8,8,,,nflverse
+00-0022873,Johnnie Morant,WR,,19,76,220,1981-12-07,,2,3,,,,nflverse
+00-0020405,Marques Tuiasosopo,QB,,8,73,220,1979-03-22,,5,2,,,,nflverse
+00-0021629,James Adkisson,TE,,88,77,230,1980-01-11,,3,1,,,,nflverse
+00-0019703,Jerry Porter,WR,,84,74,220,1978-07-14,,6,1,,,,nflverse
+00-0023947,Will Buchanon,WR,,13,75,185,1983-04-05,,0,1,,,,nflverse

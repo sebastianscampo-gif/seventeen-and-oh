@@ -1,0 +1,49 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0026224,Harry Douglas,WR,,83,72,183,1984-09-16,Louisville,5,16,16,,,nflverse
+00-0026143,Matt Ryan,QB,,2,76,217,1985-05-17,Boston College,5,16,16,,,nflverse
+00-0006101,Tony Gonzalez,TE,,88,77,247,1976-02-27,,16,16,16,,,nflverse
+00-0028083,Jacquizz Rodgers,RB,,32,66,196,1990-02-06,Oregon State,2,15,15,,,nflverse
+00-0029781,Adam Replogle,DT,,67,75,294,1990-10-10,,0,14,,,,nflverse
+00-0021956,Asante Samuel,CB,,22,70,185,1981-01-06,,10,14,,,,nflverse
+00-0028168,Cliff Matthews,EDGE,,98,76,268,1989-08-05,,2,14,,,,nflverse
+00-0027686,Corey Peters,DT,,91,75,305,1988-06-08,Kentucky,3,14,,,,nflverse
+00-0030562,Desmond Trufant,CB,,21,72,190,1990-09-10,Washington,0,14,,,,nflverse
+00-0027735,Dominique Franks,CB,,24,72,197,1987-10-08,,3,14,,,,nflverse
+00-0027110,Garrett Reynolds,LG,RG,75,79,310,1987-07-01,,4,14,,,,nflverse
+00-0029005,Harland Gunn,LG,RG,69,74,310,1989-08-30,,1,14,,,,nflverse
+00-0024274,Jeremy Trueblood,LT,RT,65,80,320,1983-05-10,,7,14,,,,nflverse
+00-0027717,Joe Hawley,C,,61,75,302,1988-10-22,Nevada-Las Vegas,3,14,,,,nflverse
+00-0023494,Jonathan Babineaux,DT,,95,74,300,1981-10-12,Iowa,8,14,,,,nflverse
+00-0029617,Jonathan Massaquoi,EDGE,,96,74,264,1988-05-11,,1,14,,,,nflverse
+00-0025426,Justin Blalock,LG,RG,63,76,326,1983-12-20,,6,14,,,,nflverse
+00-0026294,Kroy Biermann,EDGE,,71,75,255,1985-09-12,,5,14,,,,nflverse
+00-0029527,Lamar Holmes,LT,RT,76,78,333,1989-07-08,Southern Mississippi,1,14,,,,nflverse
+00-0030424,Malliciah Goodman,EDGE,,93,76,276,1990-01-04,Clemson,0,14,,,,nflverse
+00-0028130,Matt Bosher,P,,5,72,208,1987-10-18,Miami (Fla.),2,14,,,,nflverse
+00-0020578,Matt Bryant,K,,3,69,203,1975-05-29,Baylor,11,14,,,,nflverse
+00-0021977,Osi Umenyiora,EDGE,,50,75,255,1981-11-16,,10,14,,,,nflverse
+00-0027000,Peria Jerry,DT,,94,74,295,1984-08-23,,4,14,,,,nflverse
+00-0029411,Peter Konz,C,,66,77,317,1989-12-20,,1,14,,,,nflverse
+00-0030528,Robert Alford,CB,,23,70,186,1988-11-01,Southeastern Louisiana,0,14,,,,nflverse
+00-0027840,Robert McClain,CB,,27,69,195,1988-07-22,Connecticut,3,14,,,,nflverse
+00-0029786,Ryan Schraeder,LT,RT,73,79,307,1988-05-04,Valdosta State,0,14,,,,nflverse
+00-0026161,Sam Baker,LT,RT,72,77,301,1985-05-30,,5,14,,,,nflverse
+00-0029177,Sean Baker,S,,29,73,209,1988-11-06,,1,14,,,,nflverse
+00-0022855,Sean Locklear,LT,RT,77,76,310,1981-05-29,,9,14,,,,nflverse
+00-0030425,Stansly Maponga,EDGE,,90,74,265,1991-03-05,Texas Christian,0,14,,,,nflverse
+00-0029779,Terren Jones,LT,RT,74,79,341,1991-11-19,,0,14,,,,nflverse
+00-0029430,Travian Robertson,DT,,92,76,304,1988-12-09,,1,14,,,,nflverse
+00-0025631,Jason Snelling,RB,,44,71,234,1983-12-29,,6,13,13,,,nflverse
+00-0023462,Roddy White,WR,,84,72,211,1981-11-02,Alabama-Birmingham,8,13,13,,,nflverse
+00-0022736,Steven Jackson,RB,,39,74,240,1983-07-22,Oregon State,9,12,12,,,nflverse
+00-0029778,Darius Johnson,WR,,13,70,175,1991-02-22,,0,10,10,,,nflverse
+00-0030443,Levine Toilolo,TE,,80,80,265,1991-07-30,Stanford,0,9,9,,,nflverse
+00-0028581,Patrick DiMarco,RB,,42,73,234,1989-04-30,South Carolina,2,9,9,,,nflverse
+00-0028307,D.J. Davis,WR,,19,73,205,1989-01-04,,2,8,8,,,nflverse
+00-0027944,Julio Jones,WR,,11,75,220,1989-02-08,Alabama,2,5,,,,nflverse
+00-0026855,Antone Smith,RB,,35,69,192,1985-09-17,Florida State,4,4,,,,nflverse
+00-0029420,Bradie Ewing,RB,,34,71,243,1989-12-26,,1,2,,,,nflverse
+00-0027069,Chase Coffman,TE,,86,78,250,1986-11-10,,4,1,,,,nflverse
+00-0028863,Dominique Davis,QB,,4,75,210,1989-07-17,,1,1,,,,nflverse
+00-0026644,Josh Vaughan,RB,,30,72,225,1986-12-03,,4,1,,,,nflverse
+00-0028792,Kevin Cone,WR,,15,74,216,1988-03-20,,2,1,,,,nflverse

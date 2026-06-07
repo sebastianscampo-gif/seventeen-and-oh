@@ -1,0 +1,47 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027997,Greg Little,WR,,15,74,220,1989-05-30,North Carolina,0,16,16,,,nflverse
+00-0023176,Joshua Cribbs,WR,,16,73,215,1983-06-09,,6,15,15,,,nflverse
+00-0026330,Ahtyba Rubin,DT,,71,74,330,1986-07-25,Iowa State,3,14,,,,nflverse
+00-0020801,Artis Hicks,LG,RG,75,76,325,1978-11-28,,9,14,,,,nflverse
+00-0027460,Auston English,LB,,94,75,250,1987-03-10,,1,14,,,,nflverse
+00-0028698,Ben Jacobs,LB,,54,76,243,1988-04-17,Fresno State,0,14,,,,nflverse
+00-0010609,Brad Maynard,P,,7,73,188,1974-02-09,,14,14,,,,nflverse
+00-0027628,Brian Sanford,EDGE,,70,74,280,1987-09-12,,1,14,,,,nflverse
+00-0026084,Brian Schaefering,DT,,91,76,295,1983-08-20,,3,14,,,,nflverse
+00-0028695,Brian Smith,LB,,53,75,240,1989-01-08,,0,14,,,,nflverse
+00-0028075,Buster Skrine,CB,,22,69,185,1989-04-26,Chattanooga,0,14,,,,nflverse
+00-0023727,Dimitri Patterson,CB,,21,70,200,1983-06-18,,6,14,,,,nflverse
+00-0027204,Emmanuel Stephens,EDGE,,96,75,255,1987-02-17,,1,14,,,,nflverse
+00-0027975,Jabaal Sheard,EDGE,,97,74,255,1989-05-10,Pittsburgh,0,14,,,,nflverse
+00-0028694,James Dockery,CB,,34,73,185,1988-11-09,,0,14,,,,nflverse
+00-0028088,Jason Pinkston,LG,RG,62,75,305,1987-09-05,,0,14,,,,nflverse
+00-0023893,Jayme Mitchell,EDGE,,92,78,285,1984-03-15,,5,14,,,,nflverse
+00-0027860,Joe Haden,CB,,23,71,190,1989-04-14,Florida,1,14,,,,nflverse
+00-0025390,Joe Thomas,LT,RT,73,78,312,1984-12-04,Wisconsin,4,14,,,,nflverse
+00-0026205,John Greco,LG,RG,77,76,315,1985-03-24,Toledo,3,14,,,,nflverse
+00-0028332,Kiante Tripp,DT,,67,78,276,1987-10-07,,0,14,,,,nflverse
+00-0026742,Marcus Benard,EDGE,,58,74,256,1985-07-26,,2,14,,,,nflverse
+00-0027026,Mohamed Massaquoi,WR,,11,74,207,1986-11-24,,2,14,14,,,nflverse
+00-0026239,Oniel Cousins,LT,RT,72,76,315,1984-06-29,,3,14,,,,nflverse
+00-0004091,Phil Dawson,K,,4,71,200,1975-01-23,Texas,13,14,,,,nflverse
+00-0027959,Phillip Taylor,DT,,98,75,335,1988-04-07,Baylor,0,14,,,,nflverse
+00-0025819,Richmond McGee,P,,8,76,203,1983-04-25,,3,14,,,,nflverse
+00-0027923,Rod Windsor,WR,,13,74,205,1985-04-24,,1,14,,,,nflverse
+00-0024081,Scott Paxson,DT,,69,76,290,1983-02-03,,5,14,,,,nflverse
+00-0027694,Shawn Lauvao,LG,RG,66,75,315,1987-10-26,Arizona State,1,14,,,,nflverse
+00-0021186,Sheldon Brown,CB,,24,70,200,1979-03-19,,9,14,,,,nflverse
+00-0025619,Steve Vallos,C,,60,75,310,1983-12-28,,4,14,,,,nflverse
+00-0027253,Thaddeus Lewis,QB,,9,74,200,1987-11-19,Duke,1,14,,,,nflverse
+00-0022149,Tony Pashos,LT,RT,79,78,325,1980-08-03,,8,14,,,,nflverse
+00-0022943,Benjamin Watson,TE,,82,75,255,1980-12-18,Georgia,7,13,13,,,nflverse
+00-0027688,Colt McCoy,QB,,12,73,215,1986-09-05,Texas,1,13,13,,,nflverse
+00-0026123,Evan Moore,TE,,89,78,250,1985-01-03,,3,13,13,,,nflverse
+00-0026739,Jordan Norwood,WR,,10,71,180,1986-09-28,Penn State,2,10,10,,,nflverse
+00-0026367,Peyton Hillis,RB,,40,74,250,1986-01-21,,3,10,10,,,nflverse
+00-0023506,Alex Smith,TE,,81,76,258,1982-05-22,Stanford,6,9,9,,,nflverse
+00-0027666,Montario Hardesty,RB,,31,72,225,1987-02-01,,1,9,9,,,nflverse
+00-0028062,Owen Marecic,RB,,48,72,245,1988-10-04,,0,6,,,,nflverse
+00-0022055,Seneca Wallace,QB,,6,71,205,1980-08-06,,8,6,,,,nflverse
+00-0028040,Jordan Cameron,TE,,84,77,245,1988-08-07,USC,0,5,,,,nflverse
+00-0027776,Carlton Mitchell,WR,,18,75,215,1988-04-06,,1,2,,,,nflverse
+00-0026997,Alex Mack,C,,55,76,311,1985-11-19,California,2,1,,,,nflverse

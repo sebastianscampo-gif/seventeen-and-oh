@@ -1,0 +1,56 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022921,Larry Fitzgerald,WR,,11,75,221,1983-08-31,Pittsburgh,1,16,16,,,nflverse
+00-0023479,J.J. Arrington,RB,,28,69,214,1983-01-23,,0,15,15,,,nflverse
+00-0020022,Marcel Shipp,RB,,31,71,225,1978-08-08,,4,15,15,,,nflverse
+00-0023213,Aaron Francisco,CB,,47,74,206,1983-07-05,,0,14,,,,nflverse
+00-0020378,Adam Haayer,LT,RT,64,78,311,1977-02-22,,4,14,,,,nflverse
+00-0022788,Alex Stepanovich,C,,71,76,304,1981-09-25,,1,14,,,,nflverse
+00-0022084,Anquan Boldin,WR,,81,73,220,1980-10-03,Florida State,2,14,14,,,nflverse
+00-0021188,Anton Palepoi,EDGE,,70,75,283,1978-11-19,,3,14,,,,nflverse
+00-0022793,Antonio Smith,EDGE,,67,75,274,1981-10-21,Oklahoma State,1,14,,,,nflverse
+00-0023443,Antrel Rolle,CB,,21,72,206,1982-12-16,Miami (Fla.),0,14,,,,nflverse
+00-0001176,Bert Berry,EDGE,,92,75,277,1975-08-15,,8,14,,,,nflverse
+00-0022156,Bryant Johnson,WR,,80,75,214,1981-03-07,,2,14,14,,,nflverse
+00-0022120,Calvin Pace,EDGE,,97,76,270,1980-10-28,Wake Forest,2,14,,,,nflverse
+00-0023222,Carlyle Holiday,WR,,15,74,217,1981-10-04,,0,14,,,,nflverse
+00-0012333,Chike Okeafor,EDGE,,56,77,265,1976-03-27,,6,14,,,,nflverse
+00-0022930,Darnell Dockett,DT,,90,76,293,1981-05-27,,1,14,,,,nflverse
+00-0019563,David Macklin,CB,,27,70,200,1978-07-14,,5,14,,,,nflverse
+00-0019945,Dyshod Carter,S,,38,70,195,1978-06-18,,4,14,,,,nflverse
+00-0023546,Elton Brown,LG,RG,61,76,339,1982-05-22,,0,14,,,,nflverse
+00-0023510,Eric Green,CB,,25,71,188,1982-03-16,,0,14,,,,nflverse
+00-0020024,Fred Wakefield,LT,RT,78,79,312,1978-09-17,,4,14,,,,nflverse
+00-0011718,Harold Morrow,RB,,33,71,232,1973-02-24,,9,14,,,,nflverse
+00-0020201,Ian Allen,LG,RG,76,76,310,1978-07-22,,4,14,,,,nflverse
+00-0020281,Isaac Keys,LB,,53,75,265,1978-06-06,,4,14,,,,nflverse
+00-0007546,James Hodgins,RB,,42,73,264,1977-04-30,,6,14,,,,nflverse
+00-0021974,Jeremy Bridges,LT,RT,73,76,301,1980-04-19,,2,14,,,,nflverse
+00-0023218,John Bronson,TE,,85,75,260,1982-07-08,,0,14,,,,nflverse
+00-0023224,Lamont Reid,S,,20,71,203,1982-05-04,,0,14,,,,nflverse
+00-0021907,Langston Moore,EDGE,,91,73,303,1981-07-17,,2,14,,,,nflverse
+00-0020533,Leonard Davis,LT,RT,75,78,366,1978-09-05,,4,14,,,,nflverse
+00-0019676,Neil Rackers,K,,1,73,207,1976-08-16,,5,14,,,,nflverse
+00-0022904,Nick Leckey,C,,60,75,298,1982-03-12,,1,14,,,,nflverse
+00-0023096,Nick Novak,K,,3,71,191,1981-08-21,Maryland,0,14,,,,nflverse
+00-0014063,Oliver Ross,LT,RT,79,76,324,1974-09-27,,7,14,,,,nflverse
+00-0016635,R-Kal Truluck,EDGE,,96,76,260,1974-09-30,,8,14,,,,nflverse
+00-0020324,Raymond Walls,CB,,23,71,189,1979-07-24,,4,14,,,,nflverse
+00-0021911,Reggie Wells,LG,RG,74,76,320,1980-11-03,,2,14,,,,nflverse
+00-0015980,Reginald Swinton,WR,,87,72,194,1975-07-24,,7,14,,,,nflverse
+00-0016061,Robert Tate,CB,,26,71,195,1973-10-19,,8,14,,,,nflverse
+00-0021238,Rohan Davey,QB,,6,74,245,1979-04-14,,3,14,,,,nflverse
+00-0022953,Rolando Cantu,LG,RG,69,77,337,1981-02-25,,1,14,,,,nflverse
+00-0020412,Ross Kolodziej,DT,,72,75,292,1978-05-11,,4,14,,,,nflverse
+00-0004046,Russell Davis,DT,,98,76,306,1975-03-28,,6,14,,,,nflverse
+00-0013028,Scott Player,P,,10,73,211,1969-12-17,,9,14,,,,nflverse
+00-0020776,Shawn Lynch,C,,65,76,294,1979-07-25,,3,14,,,,nflverse
+00-0023219,Tim Bulman,DT,,93,75,294,1982-10-31,,0,14,,,,nflverse
+00-0023217,Adam Bergen,TE,,89,76,263,1983-09-03,,0,13,13,,,nflverse
+00-0000552,Obafemi Ayanbadejo,RB,,30,74,233,1975-03-05,,8,13,13,,,nflverse
+00-0017200,Kurt Warner,QB,,13,74,219,1971-06-22,,11,10,10,,,nflverse
+00-0021206,Josh McCown,QB,,12,76,213,1979-07-04,Sam Houston State,3,9,9,,,nflverse
+00-0022385,Eric Edwards,TE,,83,77,257,1980-08-04,,1,7,,,,nflverse
+00-0023658,LeRon McCoy,WR,,19,73,205,1982-01-24,,0,7,,,,nflverse
+00-0020430,James Jackson,RB,,32,70,215,1976-08-04,,4,5,,,,nflverse
+00-0021048,Damien Anderson,RB,,22,71,202,1979-07-17,,3,1,,,,nflverse
+00-0022827,John Navarre,QB,,16,78,251,1980-09-09,,1,1,,,,nflverse

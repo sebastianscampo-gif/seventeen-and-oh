@@ -1,0 +1,75 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0034419,Braxton Berrios,WR,,10,69,190,1995-10-06,Miami,3,15,15,,,nflverse
+00-0035537,Ty Johnson,RB,,25,70,210,1997-09-17,Maryland,2,15,15,,,nflverse
+00-0032407,Alex Lewis,LT,RT,71,78,305,1992-04-21,Nebraska,5,14,,,,nflverse
+00-0036979,Alijah Vera-Tucker,LG,RG,75,77,310,1999-06-17,Southern California,0,14,,,,nflverse
+00-0036329,Ashtyn Davis,S,,21,73,200,1996-10-10,California,1,14,,,,nflverse
+00-0033121,B.J. Goodson,LB,,48,73,242,1993-05-29,Clemson,5,14,,,,nflverse
+00-0035276,Blake Cashman,LB,,53,73,235,1996-05-10,Minnesota,2,14,,,,nflverse
+00-0036504,Brandin Echols,CB,,26,70,178,1997-10-16,Kentucky,0,14,,,,nflverse
+00-0036241,Bryce Hall,CB,,37,73,201,1997-11-05,Virginia,1,14,,,,nflverse
+00-0036151,Bryce Huff,EDGE,,47,75,255,1998-04-17,Memphis,1,14,,,,nflverse
+00-0031296,C.J. Mosley,LB,,57,74,250,1992-06-19,Alabama,7,14,,,,nflverse
+00-0036263,Cameron Clark,LT,RT,72,76,294,1997-11-16,North Carolina-Charlotte,1,14,,,,nflverse
+00-0033463,Carl Lawson,EDGE,,58,74,265,1995-06-29,Auburn,4,14,,,,nflverse
+00-0035698,Chuma Edoga,LT,RT,70,75,308,1997-05-25,Southern California,2,14,,,,nflverse
+00-0033011,Connor McGovern,C,,60,76,306,1993-04-27,Missouri,5,14,,,,nflverse
+00-0033910,Dan Feeney,LG,RG,67,76,310,1994-05-29,Indiana,4,14,,,,nflverse
+00-0035202,Del'Shawn Phillips,LB,,43,74,230,1996-10-09,Illinois,2,14,,,,nflverse
+00-0034173,Eddy Pineiro,K,,15,72,178,1995-09-13,Florida,3,14,,,,nflverse
+00-0036002,Elijah Riley,CB,,33,72,205,1998-06-12,Army,1,14,,,,nflverse
+00-0034275,Folorunso Fatukasi,DT,,94,76,318,1995-03-04,Connecticut,3,14,,,,nflverse
+00-0032466,George Fant,LT,RT,76,77,322,1992-07-19,Western Kentucky,5,14,,,,nflverse
+00-0034280,Greg Senat,LT,RT,68,78,305,1994-09-08,Wagner,3,14,,,,nflverse
+00-0029685,Greg Van Roten,LG,RG,62,75,305,1990-02-26,Pennsylvania,9,14,,,,nflverse
+00-0036503,Hamsah Nasirildeen,LB,,45,75,215,1999-01-17,Florida State,0,14,,,,nflverse
+00-0036506,Isaiah Dunn,CB,,27,72,193,1999-01-31,Oregon State,0,14,,,,nflverse
+00-0036296,Jabari Zuniga,EDGE,,92,75,264,1997-08-14,Florida,1,14,,,,nflverse
+00-0036500,Jamien Sherwood,LB,,44,74,220,2000-01-12,Auburn,0,14,,,,nflverse
+00-0033539,Jarrad Davis,LB,,52,73,245,1994-11-16,Florida,4,14,,,,nflverse
+00-0036502,Jason Pinnock,CB,,41,72,205,1999-06-30,Pittsburgh,0,14,,,,nflverse
+00-0036149,Javelin Guidry,CB,,40,69,190,1998-08-06,Utah,1,14,,,,nflverse
+00-0036085,Javin White,LB,,9,74,205,1997-02-21,Nevada-Las Vegas,1,14,,,,nflverse
+00-0034805,John Franklin-Myers,EDGE,,91,76,288,1996-09-26,Stephen F. Austin,3,14,,,,nflverse
+00-0036505,Jonathan Marshall,DT,,96,75,317,1997-09-16,Arkansas,0,14,,,,nflverse
+00-0033770,Justin Hardee,CB,,34,73,200,1994-02-07,Illinois,4,14,,,,nflverse
+00-0033649,Kai Nacua,S,,1,72,205,1995-03-03,Brigham Young,4,14,,,,nflverse
+00-0033681,Keelan Cole,WR,,88,73,194,1993-04-20,Kentucky Wesleyan,4,14,14,,,nflverse
+00-0035507,Kyle Phillips,EDGE,,93,76,277,1997-05-05,Tennessee,2,14,,,,nflverse
+00-0031389,Lamarcus Joyner,S,,29,68,185,1990-11-27,Florida State,7,14,,,,nflverse
+00-0031022,Laurent Duvernay-Tardif,LG,RG,72,77,321,1991-02-11,McGill,7,14,,,,nflverse
+00-0033892,Marcus Maye,S,,20,72,207,1993-03-09,Florida,4,14,,,,nflverse
+00-0036284,Mekhi Becton,LT,RT,77,79,355,1999-04-18,Louisville,1,14,,,,nflverse
+00-0036501,Michael Carter,CB,,30,70,190,1999-03-08,Duke,0,14,,,,nflverse
+00-0036924,Michael Carter,RB,,32,68,200,1999-05-07,North Carolina,0,14,14,,,nflverse
+00-0031330,Morgan Moses,LT,RT,78,78,330,1991-03-03,Virginia,7,14,,,,nflverse
+00-0034760,Nathan Shepherd,DT,,97,76,315,1993-10-09,Fort Hays State,3,14,,,,nflverse
+00-0036512,Parker Ferguson,LG,RG,68,77,290,1999-05-16,Air Force,0,14,,,,nflverse
+00-0035680,Quincy Williams,LB,,56,71,226,1996-08-28,Murray State,2,14,,,,nflverse
+00-0035718,Quinnen Williams,DT,,95,75,303,1997-12-21,Alabama,2,14,,,,nflverse
+00-0036573,Rachad Wildgoose,CB,,29,70,197,2000-06-20,Wisconsin,0,14,,,,nflverse
+00-0032413,Ronald Blair,EDGE,,54,75,270,1993-01-21,Appalachian State,5,14,,,,nflverse
+00-0035274,Ross Pierschbacher,C,,66,76,315,1995-05-05,Alabama,2,14,,,,nflverse
+00-0030108,Ryan Griffin,TE,,86,78,255,1990-01-11,Connecticut,8,14,14,,,nflverse
+00-0032759,Sheldon Rankins,DT,,98,74,305,1994-04-02,Louisville,5,14,,,,nflverse
+00-0035135,Tim Ward,EDGE,,51,78,255,1997-08-11,Old Dominion,2,14,,,,nflverse
+00-0032958,Will Parks,S,,39,72,194,1994-07-29,Arizona,5,14,,,,nflverse
+00-0036021,Zane Lewis,CB,,33,73,190,1998-04-06,Air Force,1,14,,,,nflverse
+00-0037013,Zach Wilson,QB,,2,74,208,1999-08-03,Brigham Young,0,13,13,,,nflverse
+00-0031941,Jamison Crowder,WR,,82,69,177,1993-06-17,Duke,6,12,12,,,nflverse
+00-0036980,Elijah Moore,WR,,8,70,184,2000-03-27,Mississippi,0,11,11,,,nflverse
+00-0032058,Tevin Coleman,RB,,23,73,210,1993-04-16,Indiana,6,11,11,,,nflverse
+00-0036255,Denzel Mims,WR,,11,75,208,1997-10-10,Baylor,1,10,10,,,nflverse
+00-0033871,Corey Davis,WR,,84,75,209,1995-01-11,Western Michigan,4,9,9,,,nflverse
+00-0032214,Tyler Kroft,TE,,81,78,250,1992-10-15,Rutgers,6,9,9,,,nflverse
+00-0035510,Jeff Smith,WR,,16,73,195,1997-04-21,Boston College,2,8,8,,,nflverse
+00-0035187,Austin Walter,RB,,36,68,202,1996-08-17,Rice,2,4,,,,nflverse
+00-0034401,Mike White,QB,,5,77,225,1995-03-25,Western Kentucky,3,4,,,,nflverse
+00-0035259,Trevon Wesco,TE,,85,75,267,1995-09-12,West Virginia,2,4,,,,nflverse
+00-0026158,Joe Flacco,QB,,19,78,245,1985-01-16,Delaware,13,2,,,,nflverse
+00-0036510,Kenny Yeboah,TE,,83,75,240,1998-10-30,Mississippi,0,2,,,,nflverse
+00-0036269,La'Mical Perine,RB,,22,71,220,1998-01-30,Florida,1,2,,,,nflverse
+00-0036313,Braden Mann,P,,7,71,190,1997-11-24,Texas A&amp;M,1,1,,,,nflverse
+00-0033300,Conor McDermott,LT,RT,69,80,305,1992-10-19,UCLA,4,1,,,,nflverse
+00-0034433,Nick Bawden,RB,,48,74,245,1996-06-22,San Diego State,3,1,,,,nflverse
+00-0036491,Tarik Black,WR,,3,75,217,1998-02-10,Texas,0,1,,,,nflverse

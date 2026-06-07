@@ -1,0 +1,45 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0025487,Michael Bush,RB,,29,73,245,1984-06-16,,4,16,16,,,nflverse
+00-0027707,Bruce Campbell,LG,RG,74,78,315,1988-05-25,,1,14,,,,nflverse
+00-0028051,Chimdi Chekwa,CB,,35,72,190,1988-01-07,Ohio State,0,14,,,,nflverse
+00-0019632,Cooper Carlisle,LG,RG,66,77,295,1977-08-11,,11,14,,,,nflverse
+00-0026983,Darrius Heyward-Bey,WR,,85,74,210,1987-02-26,Maryland,2,14,14,,,nflverse
+00-0028019,DeMarcus Van Dyke,CB,,23,73,180,1989-01-17,,0,14,,,,nflverse
+00-0026533,Desmond Bryant,DT,,90,77,290,1985-12-15,Harvard,2,14,,,,nflverse
+00-0027674,Jared Veldheer,LT,RT,68,80,315,1987-06-14,Hillsdale,1,14,,,,nflverse
+00-0025404,Jarvis Moss,EDGE,,94,79,260,1984-08-03,,4,14,,,,nflverse
+00-0028030,Joe Barksdale,LT,RT,72,76,325,1989-01-04,Louisiana State,0,14,,,,nflverse
+00-0021144,John Henderson,DT,,79,79,335,1979-01-09,,9,14,,,,nflverse
+00-0023487,Khalif Barnes,LT,RT,69,77,325,1982-04-21,Washington,6,14,,,,nflverse
+00-0027657,Lamarr Houston,EDGE,,99,75,305,1987-06-24,Texas,1,14,,,,nflverse
+00-0021157,Lito Sheppard,CB,,21,70,194,1981-04-08,,9,14,,,,nflverse
+00-0028755,Mason Brodine,EDGE,,95,79,255,1988-02-18,,0,14,,,,nflverse
+00-0027045,Matt Shaughnessy,EDGE,,77,77,270,1986-09-23,,2,14,,,,nflverse
+00-0020442,Richard Seymour,DT,,92,78,310,1979-10-06,,10,14,,,,nflverse
+00-0025447,Samson Satele,C,,64,75,300,1984-11-29,,4,14,,,,nflverse
+00-0019646,Sebastian Janikowski,K,,11,74,250,1978-03-02,Florida State,11,14,,,,nflverse
+00-0023473,Stanford Routt,CB,,26,73,195,1983-07-26,,6,14,,,,nflverse
+00-0027986,Stefen Wisniewski,LG,RG,61,75,315,1989-03-22,Penn State,0,14,,,,nflverse
+00-0024583,Stephon Heyer,LT,RT,75,78,330,1984-01-16,,4,14,,,,nflverse
+00-0028825,Terrelle Pryor,QB,,6,78,233,1989-06-20,Ohio State,0,14,,,,nflverse
+00-0022539,Tommy Kelly,DT,,93,78,300,1980-12-27,,7,14,,,,nflverse
+00-0026309,Trevor Scott,EDGE,,91,77,255,1984-08-30,,3,14,,,,nflverse
+00-0028086,Denarius Moore,WR,,17,72,195,1988-12-09,Tennessee,0,13,13,,,nflverse
+00-0027135,Brandon Myers,TE,,83,76,250,1985-09-04,Iowa,2,12,12,,,nflverse
+00-0025540,Kevin Boss,TE,,87,78,255,1984-01-11,,4,12,12,,,nflverse
+00-0026366,Chaz Schilens,WR,,81,76,225,1985-11-07,,3,11,11,,,nflverse
+00-0026393,Marcel Reece,RB,,45,75,240,1985-06-23,Washington,3,11,11,,,nflverse
+00-0021429,Carson Palmer,QB,,3,77,236,1979-12-27,USC,8,10,10,,,nflverse
+00-0027089,Louis Murphy,WR,,18,74,200,1987-05-11,Florida,2,9,9,,,nflverse
+00-0027709,Jacoby Ford,WR,,12,69,185,1987-07-27,,1,8,8,,,nflverse
+00-0026144,Darren McFadden,RB,,20,74,210,1987-08-27,Arkansas,3,7,,,,nflverse
+00-0021357,Rock Cartwright,RB,,25,68,215,1979-12-03,,9,7,,,,nflverse
+00-0023460,Jason Campbell,QB,,8,77,230,1981-12-31,,6,6,,,,nflverse
+00-0020438,T.J. Houshmandzadeh,WR,,84,74,203,1977-09-26,,10,6,,,,nflverse
+00-0028063,Taiwan Jones,RB,,22,72,195,1988-07-26,Eastern Washington,0,6,,,,nflverse
+00-0027412,Manase Tonga,RB,,41,71,245,1984-02-28,,1,3,,,,nflverse
+00-0019714,Shane Lechler,P,,9,74,225,1976-08-07,Texas A&M,11,3,,,,nflverse
+00-0028179,David Ausberry,TE,,86,76,245,1987-09-25,,0,2,,,,nflverse
+00-0022164,Kyle Boller,QB,,7,75,220,1981-06-17,,8,2,,,,nflverse
+00-0026536,Nick Miller,WR,,89,69,180,1987-03-29,,2,2,,,,nflverse
+00-0028119,Richard Gordon,TE,,82,76,265,1987-06-07,Miami (Fla.),0,1,,,,nflverse

@@ -1,0 +1,44 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0029612,Daryl Richardson,RB,,26,70,196,1990-04-12,Abilene Christian,0,16,16,,,nflverse
+00-0027985,Lance Kendricks,TE,,88,75,247,1988-01-30,Wisconsin,1,16,16,,,nflverse
+00-0027854,Sam Bradford,QB,,8,76,224,1987-11-08,Oklahoma,2,16,16,,,nflverse
+00-0022736,Steven Jackson,RB,,39,74,240,1983-07-22,Oregon State,8,16,16,,,nflverse
+00-0026937,Brandon Gibson,WR,,11,72,205,1987-08-13,Washington State,3,15,15,,,nflverse
+00-0029614,Chris Givens,WR,,13,72,198,1989-12-06,,0,15,15,,,nflverse
+00-0028957,Austin Davis,QB,,9,74,221,1989-06-02,Southern Mississippi,0,14,,,,nflverse
+00-0026310,Barry Richardson,LT,RT,79,78,319,1986-05-15,,4,14,,,,nflverse
+00-0027041,Bradley Fletcher,CB,,32,72,200,1986-06-25,Iowa,3,14,,,,nflverse
+00-0029640,Brian Quick,WR,,83,75,220,1989-06-05,Appalachian State,0,14,14,,,nflverse
+00-0026142,Chris Long,EDGE,,91,75,270,1985-03-28,Virginia,4,14,,,,nflverse
+00-0026154,Chris Williams,LT,RT,65,78,320,1985-08-26,,4,14,,,,nflverse
+00-0024429,Cortland Finnegan,CB,,31,70,188,1984-02-02,,6,14,,,,nflverse
+00-0027787,Eugene Sims,EDGE,,92,78,265,1986-03-18,West Texas A&M,2,14,,,,nflverse
+00-0029621,Greg Zuerlein,K,,4,72,187,1987-12-27,Missouri Western,0,14,,,,nflverse
+00-0023180,Harvey Dahl,LG,RG,62,77,308,1981-06-24,,7,14,,,,nflverse
+00-0029681,Janoris Jenkins,CB,,21,70,193,1988-10-29,North Alabama,0,14,,,,nflverse
+00-0027248,Jermelle Cudjo,DT,,93,74,311,1986-09-28,,2,14,,,,nflverse
+00-0028030,Joe Barksdale,LT,RT,68,77,329,1989-01-04,Louisiana State,1,14,,,,nflverse
+00-0026206,Kendall Langford,DT,,98,78,295,1986-01-27,Hampton,4,14,,,,nflverse
+00-0028878,Matt Conrath,DT,,71,79,290,1989-08-11,Virginia,0,14,,,,nflverse
+00-0029630,Michael Brockers,DT,,90,77,322,1990-12-21,Louisiana State,0,14,,,,nflverse
+00-0028870,Quinton Pointer,CB,,33,69,186,1988-04-16,,0,14,,,,nflverse
+00-0027952,Robert Quinn,EDGE,,94,76,264,1990-05-18,North Carolina,1,14,,,,nflverse
+00-0025761,Robert Turner,C,,59,76,308,1984-08-20,,5,14,,,,nflverse
+00-0027648,Rodger Saffold,LT,RT,76,77,314,1988-06-06,Indiana,2,14,,,,nflverse
+00-0029616,Rokevious Watkins,LG,RG,73,75,338,1989-02-24,,0,14,,,,nflverse
+00-0022832,Scott Wells,C,,63,74,300,1981-01-07,,8,14,,,,nflverse
+00-0027785,Shelley Smith,LG,RG,66,76,297,1987-05-21,,2,14,,,,nflverse
+00-0029427,Terrance Ganaway,RB,,42,72,240,1988-10-07,,0,14,,,,nflverse
+00-0028274,Tim Barnes,C,,61,76,300,1988-05-14,Missouri,1,14,,,,nflverse
+00-0029690,Trumaine Johnson,CB,,22,74,204,1990-01-01,Montana,0,14,,,,nflverse
+00-0022000,Wayne Hunter,LT,RT,72,77,318,1981-07-02,,9,14,,,,nflverse
+00-0026243,William Hayes,EDGE,,95,75,272,1985-05-02,Winston-Salem State,4,14,,,,nflverse
+00-0028016,Austin Pettis,WR,,18,75,207,1988-02-08,,1,13,13,,,nflverse
+00-0026035,Danny Amendola,WR,,16,71,188,1985-11-02,Texas Tech,4,11,11,,,nflverse
+00-0025438,Steve Smith,WR,,12,71,195,1985-05-06,,5,9,9,,,nflverse
+00-0029626,Isaiah Pead,RB,,24,70,197,1989-12-14,,0,8,8,,,nflverse
+00-0026008,Matthew Mulligan,TE,,82,76,265,1985-01-18,Maine,4,8,8,,,nflverse
+00-0028651,Mike McNeill,TE,,89,76,235,1988-03-07,,1,5,,,,nflverse
+00-0028872,Johnny Hekker,P,,6,77,227,1990-02-08,Oregon State,0,3,,,,nflverse
+00-0028958,Cory Harkey,TE,,46,76,260,1990-06-17,UCLA,0,2,,,,nflverse
+00-0024264,Kellen Clemens,QB,,10,74,220,1983-06-06,Oregon,6,2,,,,nflverse

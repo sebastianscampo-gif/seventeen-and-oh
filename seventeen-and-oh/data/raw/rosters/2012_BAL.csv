@@ -1,0 +1,49 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027714,Dennis Pitta,TE,,88,76,245,1985-06-29,Brigham Young,2,16,16,,,nflverse
+00-0025460,Jacoby Jones,WR,,12,74,220,1984-07-11,Lane,5,16,16,,,nflverse
+00-0026158,Joe Flacco,QB,,5,78,245,1985-01-16,Delaware,4,16,16,,,nflverse
+00-0026195,Ray Rice,RB,,27,68,212,1987-01-22,,4,16,16,,,nflverse
+00-0027996,Torrey Smith,WR,,82,72,205,1989-01-26,Maryland,1,16,16,,,nflverse
+00-0022084,Anquan Boldin,WR,,81,73,220,1980-10-03,Florida State,9,15,15,,,nflverse
+00-0029264,Bernard Pierce,RB,,30,72,218,1991-05-10,Temple,0,15,15,,,nflverse
+00-0029007,Adrian Hamilton,LB,,54,75,250,1987-11-29,,0,14,,,,nflverse
+00-0027560,Albert McClellan,EDGE,,50,74,245,1986-06-04,Marshall,2,14,,,,nflverse
+00-0027539,Anthony Levine,S,,41,71,199,1987-03-27,Tennessee State,2,14,,,,nflverse
+00-0027756,Arthur Jones,DT,,97,75,315,1986-06-03,Syracuse,2,14,,,,nflverse
+00-0029294,Asa Jackson,CB,,25,70,197,1989-12-02,Cal Poly-S.L.O.,0,14,,,,nflverse
+00-0019629,Bobbie Williams,LG,RG,63,76,345,1976-09-25,,12,14,,,,nflverse
+00-0029384,Bobby Rainey,RB,,34,68,205,1987-10-16,Western Kentucky,0,14,,,,nflverse
+00-0028279,Bryan Hall,DT,,95,72,291,1988-09-12,,1,14,,,,nflverse
+00-0021383,Bryant McKinnie,LT,RT,78,80,354,1979-09-23,,10,14,,,,nflverse
+00-0026369,Cary Williams,CB,,29,73,190,1984-12-23,Washburn,4,14,,,,nflverse
+00-0021949,Chris Johnson,CB,,39,73,200,1979-09-25,,9,14,,,,nflverse
+00-0028102,Chykie Brown,CB,,23,71,190,1986-12-26,Texas,1,14,,,,nflverse
+00-0025555,Corey Graham,CB,,24,72,196,1985-07-25,New Hampshire,5,14,,,,nflverse
+00-0029252,Courtney Upshaw,EDGE,,91,74,272,1989-12-13,Alabama,0,14,,,,nflverse
+00-0029309,DeAngelo Tyson,EDGE,,93,74,310,1989-04-12,,0,14,,,,nflverse
+00-0029268,Gino Gradkowski,LG,RG,66,75,300,1988-11-05,Delaware,0,14,,,,nflverse
+00-0024227,Haloti Ngata,DT,,92,76,340,1984-01-21,Oregon,6,14,,,,nflverse
+00-0028023,Jah Reid,LT,RT,76,79,335,1988-07-21,Central Florida,1,14,,,,nflverse
+00-0027965,Jimmy Smith,CB,,22,74,205,1988-07-26,Colorado,1,14,,,,nflverse
+00-0028278,Josh Bynes,LB,,56,73,240,1989-08-24,Auburn,1,14,,,,nflverse
+00-0029597,Justin Tucker,K,,9,72,180,1989-11-21,Texas,0,14,,,,nflverse
+00-0029259,Kelechi Osemele,LT,RT,72,77,335,1989-06-24,Iowa State,0,14,,,,nflverse
+00-0028288,LaQuan Williams,WR,,15,72,195,1988-06-27,,1,14,,,,nflverse
+00-0027060,Lardarius Webb,CB,,21,70,182,1985-10-12,Nicholls State,3,14,,,,nflverse
+00-0020867,Ma'ake Kemoeatu,DT,,96,77,345,1979-01-10,,10,14,,,,nflverse
+00-0025473,Marshal Yanda,LG,RG,73,75,315,1984-09-15,Iowa,5,14,,,,nflverse
+00-0001263,Matt Birk,C,,77,76,310,1976-07-23,,14,14,,,,nflverse
+00-0026999,Michael Oher,LT,RT,74,76,315,1986-05-28,Mississippi,3,14,,,,nflverse
+00-0029372,Omar Brown,S,,38,71,195,1988-06-06,,0,14,,,,nflverse
+00-0028103,Pernell McPhee,EDGE,,90,75,280,1988-12-17,Mississippi State,1,14,,,,nflverse
+00-0027792,Ramon Harewood,LT,RT,70,78,334,1987-02-03,,2,14,,,,nflverse
+00-0027665,Terrence Cody,DT,,62,76,341,1988-06-28,,2,14,,,,nflverse
+00-0022397,Vonta Leach,RB,,44,72,260,1981-11-06,,8,14,14,,,nflverse
+00-0027675,Ed Dickson,TE,,84,76,255,1987-07-25,Oregon,2,11,11,,,nflverse
+00-0028061,Tandon Doss,WR,,17,74,207,1989-09-22,,1,8,8,,,nflverse
+00-0028163,Anthony Allen,RB,,35,73,223,1988-08-06,,1,6,,,,nflverse
+00-0028118,Tyrod Taylor,QB,,2,73,215,1989-08-03,Virginia Tech,1,5,,,,nflverse
+00-0027755,David Reed,WR,,16,72,190,1987-03-22,,2,2,,,,nflverse
+00-0029388,Deonte Thompson,WR,,83,72,203,1989-02-14,Florida,0,2,,,,nflverse
+00-0024417,Sam Koch,P,,4,73,218,1982-08-13,Nebraska,6,2,,,,nflverse
+00-0023679,Billy Bajema,TE,,86,76,259,1982-10-31,,7,1,,,,nflverse

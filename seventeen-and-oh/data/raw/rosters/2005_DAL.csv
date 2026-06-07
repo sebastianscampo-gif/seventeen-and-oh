@@ -1,0 +1,43 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0001361,Drew Bledsoe,QB,,11,77,238,1972-02-14,,12,16,16,,,nflverse
+00-0022127,Jason Witten,TE,,82,77,261,1982-05-06,Tennessee,2,16,16,,,nflverse
+00-0008561,Keyshawn Johnson,WR,,19,76,211,1972-07-22,,9,16,16,,,nflverse
+00-0006043,Terry Glenn,WR,,83,71,195,1974-07-23,,9,16,16,,,nflverse
+00-0006034,Aaron Glenn,CB,,26,69,185,1972-07-16,,11,14,,,,nflverse
+00-0022079,Al Johnson,C,,52,77,305,1979-01-27,,2,14,,,,nflverse
+00-0021385,Andre Gurode,C,,65,76,314,1979-03-06,,3,14,,,,nflverse
+00-0020329,Anthony Henry,CB,,42,73,207,1976-11-03,,4,14,,,,nflverse
+00-0023566,Chris Canty,EDGE,,99,79,295,1982-11-10,Virginia,0,14,,,,nflverse
+00-0023023,Cory Procter,LG,RG,71,76,295,1982-10-18,,0,14,,,,nflverse
+00-0022181,Drew Henson,QB,,7,76,233,1980-02-13,,2,14,,,,nflverse
+00-0000045,Flozell Adams,LT,RT,76,79,335,1975-05-18,,7,14,,,,nflverse
+00-0004851,Greg Ellis,EDGE,,98,78,280,1975-08-14,,7,14,,,,nflverse
+00-0022767,Jacques Reeves,CB,,35,71,192,1982-10-08,,1,14,,,,nflverse
+00-0005150,Jason Ferguson,DT,,95,75,310,1974-11-28,,8,14,,,,nflverse
+00-0023656,Jay Ratliff,EDGE,,66,75,293,1981-08-29,Auburn,0,14,,,,nflverse
+00-0021262,Kenyon Coleman,EDGE,,93,77,295,1979-04-10,,3,14,,,,nflverse
+00-0006051,La'Roi Glover,DT,,97,74,290,1974-07-04,,9,14,,,,nflverse
+00-0000217,Larry Allen,LG,RG,73,75,325,1971-11-27,,11,14,,,,nflverse
+00-0013780,Marco Rivera,LG,RG,62,76,307,1972-04-26,,9,14,,,,nflverse
+00-0013229,Marcus Price,LT,RT,70,76,310,1972-03-03,,10,14,,,,nflverse
+00-0023455,Marcus Spears,EDGE,,96,76,294,1983-03-08,,0,14,,,,nflverse
+00-0021488,Mat McBriar,P,,1,73,220,1979-07-08,,2,14,,,,nflverse
+00-0022828,Nathan Jones,CB,,33,70,192,1982-06-15,,1,14,,,,nflverse
+00-0023641,Rob Petitti,LT,RT,79,78,325,1982-05-21,,0,14,,,,nflverse
+00-0022817,Sean Ryan,TE,,80,77,257,1980-03-27,,1,14,,,,nflverse
+00-0023001,Shaun Suisham,K,,4,72,199,1981-12-29,Bowling Green State,0,14,,,,nflverse
+00-0022808,Stephen Peterman,LG,RG,72,76,323,1982-01-11,,1,14,,,,nflverse
+00-0023195,Thomas Johnson,DT,,92,74,300,1981-06-24,,0,14,,,,nflverse
+00-0021681,Torrin Tucker,LT,RT,77,78,315,1979-12-25,,2,14,,,,nflverse
+00-0023031,Vontrell Jamison,EDGE,,74,78,277,1982-07-26,,0,14,,,,nflverse
+00-0022840,Julius Jones,RB,,21,70,211,1981-08-14,,1,13,13,,,nflverse
+00-0023544,Marion Barber,RB,,24,71,218,1983-06-10,,0,12,12,,,nflverse
+00-0020403,Anthony Thomas,RB,,32,74,225,1977-11-07,,4,9,9,,,nflverse
+00-0022405,Lousaka Polite,RB,,39,72,246,1981-09-14,,1,9,9,,,nflverse
+00-0022766,Patrick Crayton,WR,,84,72,205,1979-04-07,,1,8,8,,,nflverse
+00-0023192,Tyson Thompson,RB,,28,73,220,1981-05-21,,0,8,8,,,nflverse
+00-0002565,Dan Campbell,TE,,86,77,265,1976-04-13,,6,3,,,,nflverse
+00-0022447,Brett Pierce,TE,,88,77,265,1981-01-07,,1,2,,,,nflverse
+00-0022045,Terence Newman,CB,,41,71,195,1978-09-04,Kansas State,2,1,,,,nflverse
+00-0022388,Terrance Copper,WR,,18,72,210,1982-03-12,,1,1,,,,nflverse
+00-0021678,Tony Romo,QB,,9,74,219,1980-04-21,Eastern Illinois,2,1,,,,nflverse

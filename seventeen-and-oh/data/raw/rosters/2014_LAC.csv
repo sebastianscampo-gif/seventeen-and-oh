@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0021547,Antonio Gates,TE,,85,76,255,1980-06-18,Kent State,11,16,16,,,nflverse
+00-0026182,Eddie Royal,WR,,11,70,185,1986-05-21,Virginia Tech,6,16,16,,,nflverse
+00-0022414,Malcom Floyd,WR,,80,77,225,1981-09-08,Wyoming,10,16,16,,,nflverse
+00-0022942,Philip Rivers,QB,,17,77,228,1981-12-08,North Carolina State,10,16,16,,,nflverse
+00-0031277,Branden Oliver,RB,,43,68,208,1991-05-07,Buffalo,0,14,14,,,nflverse
+00-0026175,Brandon Flowers,CB,,26,69,187,1986-02-18,Virginia Tech,6,14,,,,nflverse
+00-0026236,Chad Rinehart,LG,RG,78,77,321,1985-05-04,,6,14,,,,nflverse
+00-0030917,Chris Davis,CB,,20,70,201,1990-11-04,,0,14,,,,nflverse
+00-0030991,Chris Watt,LG,RG,65,74,311,1990-08-17,Notre Dame,0,14,,,,nflverse
+00-0027956,Corey Liuget,DT,,94,74,300,1990-03-18,Illinois,3,14,,,,nflverse
+00-0030505,D.J. Fluker,LT,RT,76,77,339,1991-03-13,Alabama,1,14,,,,nflverse
+00-0025829,Doug Legursky,C,,57,73,315,1986-06-09,Marshall,6,14,,,,nflverse
+00-0031334,Jason Verrett,CB,,22,69,178,1991-06-18,Texas Christian,0,14,,,,nflverse
+00-0030406,Jeff Baca,LG,RG,62,75,302,1990-01-10,,1,14,,,,nflverse
+00-0030923,Jeremiah Sirles,LT,RT,75,78,315,1991-08-08,Nebraska,0,14,,,,nflverse
+00-0029288,Johnnie Troutman,LG,RG,63,76,330,1987-11-11,Penn State,2,14,,,,nflverse
+00-0030279,Keenan Allen,WR,,13,74,211,1992-04-27,California,1,14,14,,,nflverse
+00-0029256,Kendall Reyes,EDGE,,91,76,300,1989-09-26,Connecticut,2,14,,,,nflverse
+00-0028240,Kenny Wiggins,LT,RT,79,78,314,1988-08-08,Fresno State,3,14,,,,nflverse
+00-0026370,King Dunlap,LT,RT,77,81,330,1985-09-14,Auburn,6,14,,,,nflverse
+00-0028171,Lawrence Guy,EDGE,,71,76,318,1990-03-17,Arizona State,3,14,,,,nflverse
+00-0021488,Mat McBriar,P,,1,72,227,1979-07-08,,11,14,,,,nflverse
+00-0022017,Mike Scifres,P,,5,74,215,1980-10-08,,11,14,,,,nflverse
+00-0022804,Nick Hardwick,C,,61,76,305,1981-09-02,,10,14,,,,nflverse
+00-0023096,Nick Novak,K,,9,72,198,1981-08-21,Maryland,9,14,,,,nflverse
+00-0027829,Ricardo Mathews,EDGE,,90,75,300,1987-07-30,Cincinnati,4,14,,,,nflverse
+00-0026909,Rich Ohrnberger,LG,RG,74,74,300,1986-02-14,,5,14,,,,nflverse
+00-0030994,Ryan Carrethers,DT,,92,73,333,1991-02-26,Arkansas State,0,14,,,,nflverse
+00-0029290,Ryan Miller,LT,RT,73,79,320,1989-07-06,,2,14,,,,nflverse
+00-0027826,Sean Lissemore,DT,,98,75,303,1987-09-11,William & Mary,4,14,,,,nflverse
+00-0028027,Shareece Wright,CB,,29,71,182,1987-04-08,USC,3,14,,,,nflverse
+00-0030283,Steve Williams,CB,,23,69,185,1991-03-07,,1,14,,,,nflverse
+00-0030921,Tenny Palepoi,DT,,72,73,298,1990-12-19,Utah,0,14,,,,nflverse
+00-0029066,Trevor Robinson,C,,60,77,300,1990-05-16,,2,14,,,,nflverse
+00-0028201,Willie Smith,LT,RT,69,77,310,1986-11-13,,3,14,,,,nflverse
+00-0027003,Donald Brown,RB,,34,70,207,1987-04-11,,5,13,13,,,nflverse
+00-0029275,Ladarius Green,TE,,89,78,240,1990-05-29,Louisiana-Lafayette,2,10,10,,,nflverse
+00-0023437,Ronnie Brown,RB,,30,72,223,1981-12-12,,9,8,8,,,nflverse
+00-0027581,Seyi Ajirotutu,WR,,16,75,215,1987-06-12,Fresno State,4,7,,,,nflverse
+00-0027864,Ryan Mathews,RB,,24,72,220,1987-10-10,Fresno State,4,6,,,,nflverse
+00-0026019,Danny Woodhead,RB,,39,68,200,1985-01-25,Chadron State,6,3,,,,nflverse
+00-0028411,Dontrelle Inman,WR,,15,75,205,1989-01-31,Virginia,3,2,,,,nflverse
+00-0026957,David Johnson,TE,,88,74,260,1987-08-26,Arkansas State,5,1,,,,nflverse
+00-0027139,John Phillips,TE,,83,77,251,1987-06-11,Virginia,5,1,,,,nflverse
+00-0024264,Kellen Clemens,QB,,10,74,220,1983-06-06,Oregon,8,1,,,,nflverse

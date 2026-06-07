@@ -1,0 +1,53 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0031055,Andre Williams,RB,,44,71,230,1992-08-28,Boston College,0,16,16,,,nflverse
+00-0022803,Eli Manning,QB,,10,76,218,1981-01-03,Mississippi,10,16,16,,,nflverse
+00-0028838,Larry Donnell,TE,,84,78,265,1988-11-01,Grambling State,2,16,16,,,nflverse
+00-0029262,Rueben Randle,WR,,82,74,208,1991-05-07,LSU,2,16,16,,,nflverse
+00-0027450,Preston Parker,WR,,83,72,200,1987-02-13,North Alabama,4,15,15,,,nflverse
+00-0029139,Adam Gettis,C,,60,74,305,1988-12-09,Iowa,2,14,,,,nflverse
+00-0023529,Adam Snyder,LG,RG,68,78,325,1982-01-30,,9,14,,,,nflverse
+00-0029283,Brandon Mosley,LG,RG,75,77,318,1988-12-21,Auburn,2,14,,,,nflverse
+00-0029357,Chandler Fenner,CB,,48,72,189,1990-07-06,,2,14,,,,nflverse
+00-0021706,Cullen Jenkins,DT,,99,74,305,1981-01-20,Central Michigan,11,14,,,,nflverse
+00-0026574,Dallas Reynolds,C,,61,76,320,1984-04-23,Brigham Young,5,14,,,,nflverse
+00-0030069,Damontre Moore,EDGE,,98,77,250,1992-09-11,Texas A&amp;M,1,14,,,,nflverse
+00-0029121,Dominique Hamilton,DT,,79,77,315,1989-01-18,,2,14,,,,nflverse
+00-0026156,Dominique Rodgers-Cromartie,CB,,21,74,193,1986-04-07,Tennessee State,6,14,,,,nflverse
+00-0030452,Eric Herman,LG,RG,62,76,320,1989-10-05,,1,14,,,,nflverse
+00-0026381,Geoff Schwartz,LG,RG,74,78,340,1986-07-11,,6,14,,,,nflverse
+00-0027683,J.D. Walton,C,,55,75,305,1987-03-24,Baylor,4,14,,,,nflverse
+00-0028055,James Brewer,LT,RT,73,78,330,1987-12-23,,3,14,,,,nflverse
+00-0030777,James Davidson,LB,,46,75,242,1990-11-01,,0,14,,,,nflverse
+00-0027867,Jason Pierre-Paul,EDGE,,90,77,278,1989-01-01,South Florida,4,14,,,,nflverse
+00-0031403,Jay Bromley,DT,,96,75,310,1992-05-28,Syracuse,0,14,,,,nflverse
+00-0029267,Jayron Hosley,CB,,28,70,178,1990-09-18,Virginia Tech,2,14,,,,nflverse
+00-0031462,Jerome Cunningham,TE,,89,76,240,1991-05-25,Southern Connecticut State,0,14,,,,nflverse
+00-0027678,John Jerry,LG,RG,77,77,340,1986-06-14,Mississippi,4,14,,,,nflverse
+00-0030063,Johnathan Hankins,DT,,95,74,320,1992-03-30,Ohio State,1,14,,,,nflverse
+00-0021940,Josh Brown,K,,3,72,202,1979-04-29,,11,14,,,,nflverse
+00-0030585,Justin Pugh,LT,RT,67,76,301,1990-08-15,Syracuse,1,14,,,,nflverse
+00-0030776,Kerry Wynn,EDGE,,72,77,264,1991-02-12,Richmond,0,14,,,,nflverse
+00-0029312,Markus Kuhn,DT,,78,76,303,1986-05-05,,2,14,,,,nflverse
+00-0024247,Mathias Kiwanuka,EDGE,,94,77,267,1983-03-08,,8,14,,,,nflverse
+00-0029610,Mike Harris,CB,,37,70,188,1989-01-05,,2,14,,,,nflverse
+00-0023466,Mike Patterson,DT,,93,73,300,1983-09-01,,9,14,,,,nflverse
+00-0027957,Prince Amukamara,CB,,20,72,207,1989-06-06,Nebraska,3,14,,,,nflverse
+00-0026994,Robert Ayers,EDGE,,91,75,275,1985-09-06,Tennessee,5,14,,,,nflverse
+00-0025608,Trumaine McBride,CB,,38,69,185,1985-09-24,Mississippi,7,14,,,,nflverse
+00-0027711,Walter Thurmond,CB,,24,71,190,1987-08-12,Oregon,4,14,,,,nflverse
+00-0031238,Weston Richburg,C,,70,75,298,1991-07-09,Colorado State,0,14,,,,nflverse
+00-0027036,Will Beatty,LT,RT,65,78,319,1985-03-02,Connecticut,5,14,,,,nflverse
+00-0026282,Zackary Bowman,CB,,31,73,196,1984-11-18,Nebraska,6,14,,,,nflverse
+00-0023752,Daniel Fells,TE,,85,76,260,1983-09-23,California-Davis,8,12,12,,,nflverse
+00-0031235,Odell Beckham,WR,,13,71,198,1992-11-05,Louisiana State,0,12,12,,,nflverse
+00-0027155,Rashad Jennings,RB,,23,73,231,1985-03-26,Liberty,5,11,11,,,nflverse
+00-0029281,Adrien Robinson,TE,,81,76,264,1988-09-23,,2,6,,,,nflverse
+00-0026367,Peyton Hillis,RB,,33,74,250,1986-01-21,,6,6,,,,nflverse
+00-0027265,Victor Cruz,WR,,80,72,204,1986-11-11,Massachusetts,4,6,,,,nflverse
+00-0028492,Henry Hynoski,RB,,45,73,266,1988-12-30,,3,5,,,,nflverse
+00-0027140,Chris Ogbonnaya,RB,,47,72,225,1986-05-20,,5,3,,,,nflverse
+00-0030897,Corey Washington,WR,,88,76,214,1991-12-29,Newberry,0,3,,,,nflverse
+00-0028021,Jerrel Jernigan,WR,,12,68,189,1989-06-14,,3,2,,,,nflverse
+00-0030128,Michael Cox,RB,,29,73,222,1988-11-14,,1,2,,,,nflverse
+00-0030586,Ryan Nassib,QB,,9,75,223,1990-03-10,Syracuse,1,2,,,,nflverse
+00-0024110,Steve Weatherford,P,,5,74,210,1982-12-17,Illinois,8,1,,,,nflverse

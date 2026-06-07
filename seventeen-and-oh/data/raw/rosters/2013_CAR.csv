@@ -1,0 +1,48 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027939,Cam Newton,QB,,1,77,245,1989-05-11,Auburn,2,16,16,,,nflverse
+00-0025418,Greg Olsen,TE,,88,77,250,1985-03-11,Miami,6,16,16,,,nflverse
+00-0026069,Mike Tolbert,RB,,35,69,245,1985-11-23,Coastal Carolina,5,16,16,,,nflverse
+00-0025396,Ted Ginn,WR,,19,71,185,1985-04-12,Ohio State,6,16,16,,,nflverse
+00-0027681,Brandon LaFell,WR,,11,74,210,1986-11-04,LSU,3,15,15,,,nflverse
+00-0024242,DeAngelo Williams,RB,,34,69,215,1983-04-25,Memphis,7,15,15,,,nflverse
+00-0020337,Steve Smith,WR,,89,69,185,1979-05-12,Utah,12,15,15,,,nflverse
+00-0029254,Amini Silatolu,LG,RG,66,76,315,1988-09-16,Midwestern State,1,14,,,,nflverse
+00-0022847,Ben Hartsock,TE,,84,76,265,1980-07-05,,9,14,,,,nflverse
+00-0029304,Brad Nortman,P,,8,74,210,1989-09-12,Wisconsin,1,14,,,,nflverse
+00-0029793,Brandon Williams,TE,,86,76,250,1987-10-12,Oregon,0,14,,,,nflverse
+00-0029168,Brian Folkerts,C,,64,76,305,1990-01-30,Washburn,1,14,,,,nflverse
+00-0028738,Byron Bell,LT,RT,77,77,340,1989-01-17,New Mexico,2,14,,,,nflverse
+00-0026944,Captain Munnerlyn,CB,,41,68,195,1988-04-10,South Carolina,4,14,,,,nflverse
+00-0025470,Charles Johnson,EDGE,,95,74,285,1986-07-10,Georgia,6,14,,,,nflverse
+00-0027750,Chris Scott,LG,RG,75,76,315,1987-08-04,Tennessee,3,14,,,,nflverse
+00-0021684,Colin Cole,DT,,91,74,335,1980-06-24,Iowa,10,14,,,,nflverse
+00-0021994,Drayton Florence,CB,,29,72,200,1980-12-19,,10,14,,,,nflverse
+00-0022750,Dwan Edwards,DT,,92,75,305,1981-05-16,Oregon State,9,14,,,,nflverse
+00-0029270,Frank Alexander,EDGE,,90,76,270,1989-12-17,Oklahoma,1,14,,,,nflverse
+00-0026715,Garry Williams,LG,RG,65,75,315,1986-08-20,,4,14,,,,nflverse
+00-0023602,Geoff Hangartner,LG,RG,63,77,305,1982-04-22,,8,14,,,,nflverse
+00-0026858,Graham Gano,K,,9,74,200,1987-04-09,Florida State,4,14,,,,nflverse
+00-0027774,Greg Hardy,EDGE,,76,76,290,1988-07-28,Mississippi,3,14,,,,nflverse
+00-0028694,James Dockery,CB,,31,73,185,1988-11-09,,2,14,,,,nflverse
+00-0027485,Jeff Byers,C,,62,76,310,1985-09-07,,3,14,,,,nflverse
+00-0022117,Jordan Gross,LT,RT,69,76,305,1980-07-20,,10,14,,,,nflverse
+00-0029285,Josh Norman,CB,,24,72,200,1987-12-15,Coastal Carolina,1,14,,,,nflverse
+00-0028081,Josh Thomas,CB,,22,71,190,1989-05-03,Buffalo,2,14,,,,nflverse
+00-0030448,Kawann Short,DT,,99,75,310,1989-02-02,Purdue,0,14,,,,nflverse
+00-0028339,Mario Addison,EDGE,,97,75,260,1987-09-06,Troy,2,14,,,,nflverse
+00-0030259,Melvin White,S,,23,73,205,1990-06-26,,0,14,,,,nflverse
+00-0029400,Nate Chandler,LT,RT,78,76,310,1989-06-01,UCLA,1,14,,,,nflverse
+00-0030254,Robert Lester,S,,38,73,215,1988-04-30,,0,14,,,,nflverse
+00-0025446,Ryan Kalil,C,,67,74,300,1985-03-29,USC,6,14,,,,nflverse
+00-0028035,Sione Fua,DT,,72,73,310,1988-06-15,,2,14,,,,nflverse
+00-0030455,Star Lotulelei,DT,,98,74,315,1989-12-20,Utah,0,14,,,,nflverse
+00-0030091,Tavarres King,WR,,12,72,191,1990-07-14,Georgia,0,14,,,,nflverse
+00-0022214,Travelle Wharton,LG,RG,70,76,315,1981-05-19,,9,14,,,,nflverse
+00-0030408,Travis Bond,LG,RG,74,78,330,1990-12-10,,0,14,,,,nflverse
+00-0030251,Wes Horton,EDGE,,96,77,265,1989-12-17,Southern California,0,14,,,,nflverse
+00-0026153,Jonathan Stewart,RB,,28,70,235,1987-03-21,Oregon,5,6,,,,nflverse
+00-0024345,Domenik Hixon,WR,,87,74,205,1984-10-08,,7,5,,,,nflverse
+00-0023645,Derek Anderson,QB,,3,78,240,1983-06-15,Oregon State,8,3,,,,nflverse
+00-0030465,Kenjon Barner,RB,,25,69,190,1989-04-28,Oregon,0,3,,,,nflverse
+00-0027583,Richie Brockel,TE,,47,73,255,1986-07-24,Boise State,3,2,,,,nflverse
+00-0029424,Marvin McNutt,WR,,15,74,216,1989-07-04,,1,1,,,,nflverse

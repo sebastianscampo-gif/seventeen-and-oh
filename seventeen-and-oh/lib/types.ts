@@ -69,20 +69,92 @@ export interface ScoreBreakdown {
   total: number; // weighted final, 0..100
 }
 
+// A named rating bucket (offense, secondary, pass rush, ...). Used both for the
+// user's roster profile and for ranking best/weakest units.
+export interface UnitRating {
+  key: string; // machine key, e.g. "secondary"
+  name: string; // display name, e.g. "Secondary"
+  rating: number; // 0..100
+}
+
+// Granular, sim-ready breakdown of the user's drafted roster. Derived from the
+// roster once it is fully filled (see lib/team-profile.ts).
+export interface TeamProfile {
+  power: number; // composite 0..100 used as the team's base strength
+  offense: number;
+  defense: number;
+  qb: number;
+  passOff: number; // passing game (QB + receivers + protection)
+  rushOff: number; // running game (line + back)
+  oLine: number; // offensive line
+  passRush: number; // EDGE + DT getting after the QB
+  runDef: number; // front seven vs the run
+  secondary: number; // CB + S coverage
+  linebackers: number;
+  receivers: number; // WR + TE
+  specialTeams: number;
+  starCount: number; // starters rated at/above the star threshold
+  clutch: number; // playoff-clutch average (QB-weighted)
+  units: UnitRating[]; // every unit, for best/weakest ranking
+  bestUnit: UnitRating;
+  weakestUnit: UnitRating;
+  bestPlayer: { name: string; position: Position; rating: number };
+  biggestWeakness: { name: string; position: Position; rating: number };
+}
+
+// One matchup edge in a single game (used for upset explanations + debug).
+export interface MatchupEdge {
+  key: string;
+  label: string; // human description, e.g. "Offensive line vs pass rush"
+  value: number; // signed power points (favoring user when positive)
+}
+
 export interface GameResult {
   round: string; // "Regular Season", "Divisional Round", ...
   opponent: string;
+  opponentPower: number;
   win: boolean;
   ourScore: number;
   oppScore: number;
+  winProb: number; // pre-game win probability (for debug mode)
+  homeField: boolean;
+  upset: boolean; // true when the lower-power team won
+  note: string | null; // short explanation for notable / upset games
+  edges: MatchupEdge[]; // matchup breakdown that fed this game
 }
 
 export type Ending =
   | "perfect" // 17-0 + Super Bowl
   | "ringless-perfect" // 17-0 but lost in playoffs
+  | "upset-champ" // won it all as an underdog / on upsets
   | "champ-imperfect" // Super Bowl win, not 17-0
-  | "playoff-loss" // lost in playoffs, not perfect
-  | "missed-playoffs"; // did not reach the playoffs
+  | "great-team-bad-ending" // elite roster, early exit or missed playoffs
+  | "deep-run" // reached conference title / Super Bowl, lost
+  | "one-and-done" // lost first playoff game
+  | "missed-playoffs" // did not reach the playoffs
+  | "disappointing"; // poor record, well short of January
+
+// Monte-Carlo estimate of the roster's true odds (shown in debug mode).
+export interface SeasonOdds {
+  expectedWins: number;
+  playoffOdds: number; // 0..1
+  superBowlOdds: number; // 0..1
+  perfectOdds: number; // 0..1 (17-0 + ring)
+  winDistribution: number[]; // length 18: probability of finishing with N wins
+}
+
+// Post-season "why did this happen" breakdown shown on the result screen.
+export interface ResultExplanation {
+  summary: string;
+  offense: number;
+  defense: number;
+  bestUnit: UnitRating;
+  weakestUnit: UnitRating;
+  bestPlayer: { name: string; position: Position; rating: number };
+  biggestWeakness: { name: string; position: Position; rating: number };
+  playoffResult: string;
+  superBowlResult: string;
+}
 
 export interface SimulationResult {
   wins: number;
@@ -90,11 +162,15 @@ export interface SimulationResult {
   perfectRegularSeason: boolean;
   madePlayoffs: boolean;
   superBowlChampion: boolean;
+  seed: number | null; // playoff seed (1..7), null if missed
+  teamPower: number;
   regularSeason: GameResult[];
   playoffs: GameResult[];
   eliminatedRound: string | null;
   ending: Ending;
   endingTitle: string;
   endingSubtitle: string;
-  perGameWinProb: number;
+  profile: TeamProfile;
+  explanation: ResultExplanation;
+  odds: SeasonOdds;
 }

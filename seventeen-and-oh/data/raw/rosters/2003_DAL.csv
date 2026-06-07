@@ -1,0 +1,46 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0020404,Quincy Carter,QB,,17,74,213,1977-10-13,,2,16,16,,,nflverse
+00-0019516,Troy Hambrick,RB,,42,73,233,1976-11-06,,3,16,16,,,nflverse
+00-0000339,Richie Anderson,RB,,20,74,230,1971-09-13,,10,15,15,,,nflverse
+00-0021385,Andre Gurode,LG,RG,65,76,326,1979-03-06,,1,14,,,,nflverse
+00-0020885,Andrew Davison,CB,,26,71,185,1979-12-09,,1,14,,,,nflverse
+00-0021191,Antonio Bryant,WR,,88,73,192,1981-03-09,,1,14,14,,,nflverse
+00-0020972,Billy Cundiff,K,,3,73,201,1980-03-30,Drake,1,14,,,,nflverse
+00-0020484,Cedric James,WR,,80,73,197,1979-03-19,,2,14,,,,nflverse
+00-0020538,Daleroy Stewart,DT,,64,76,327,1978-11-01,,2,14,,,,nflverse
+00-0004808,Ebenezer Ekuban,EDGE,,96,75,265,1976-05-29,,4,14,,,,nflverse
+00-0012320,Eric Ogbogu,EDGE,,90,76,270,1975-07-18,,5,14,,,,nflverse
+00-0000045,Flozell Adams,LT,RT,76,79,357,1975-05-18,,5,14,,,,nflverse
+00-0004252,Gennaro DiNapoli,C,,63,75,287,1975-05-25,,5,14,,,,nflverse
+00-0004851,Greg Ellis,EDGE,,98,78,277,1975-08-14,,5,14,,,,nflverse
+00-0019569,James Whalen,TE,,81,74,244,1977-12-11,,3,14,,,,nflverse
+00-0020054,Javiar Collins,LT,RT,70,78,322,1978-04-13,,2,14,,,,nflverse
+00-0021532,Jemeel Powell,CB,,25,72,186,1980-08-29,,0,14,,,,nflverse
+00-0022193,Jermaine Brooks,DT,,92,75,285,1979-04-11,,0,14,,,,nflverse
+00-0021262,Kenyon Coleman,EDGE,,93,77,285,1979-04-10,,1,14,,,,nflverse
+00-0020771,Kurt Vollers,LT,RT,78,79,317,1979-04-04,,1,14,,,,nflverse
+00-0006051,La'Roi Glover,DT,,97,74,285,1974-07-04,,7,14,,,,nflverse
+00-0000217,Larry Allen,LG,RG,73,75,335,1971-11-27,,9,14,,,,nflverse
+00-0019620,Mario Edwards,CB,,27,72,199,1975-12-01,,3,14,,,,nflverse
+00-0020420,Matt Lehr,LG,RG,68,74,304,1979-04-25,,2,14,,,,nflverse
+00-0000872,Michael Bates,RB,,29,70,215,1969-12-19,,11,14,,,,nflverse
+00-0021281,Pete Hunter,CB,,47,74,212,1980-05-25,,1,14,,,,nflverse
+00-0018440,Ryan Young,LT,RT,75,77,320,1976-06-28,,4,14,,,,nflverse
+00-0022045,Terence Newman,CB,,41,71,188,1978-09-04,Kansas State,0,14,,,,nflverse
+00-0006181,Toby Gowin,P,,4,70,167,1975-03-30,,6,14,,,,nflverse
+00-0021678,Tony Romo,QB,,9,74,227,1980-04-21,Eastern Illinois,0,14,,,,nflverse
+00-0021681,Torrin Tucker,LT,RT,77,78,329,1979-12-25,,0,14,,,,nflverse
+00-0021292,Tyson Walter,C,,71,76,310,1978-03-17,,1,14,,,,nflverse
+00-0020433,Willie Blade,DT,,99,75,315,1979-02-07,,2,14,,,,nflverse
+00-0005720,Joey Galloway,WR,,84,71,197,1971-11-20,,8,13,13,,,nflverse
+00-0006043,Terry Glenn,WR,,83,71,195,1974-07-23,,7,13,13,,,nflverse
+00-0002565,Dan Campbell,TE,,86,77,263,1976-04-13,,4,11,11,,,nflverse
+00-0022127,Jason Witten,TE,,82,77,257,1982-05-06,Tennessee,0,11,11,,,nflverse
+00-0019794,Aveion Cason,RB,,23,70,204,1979-07-12,,2,10,10,,,nflverse
+00-0015980,Reginald Swinton,WR,,80,72,186,1975-07-24,,5,6,,,,nflverse
+00-0022174,Erik Bickerstaff,RB,,46,72,230,1980-07-25,,0,4,,,,nflverse
+00-0021387,Jamar Martin,RB,,34,71,256,1980-04-12,,1,4,,,,nflverse
+00-0013872,Jeff Robinson,TE,,85,76,264,1970-02-20,,10,2,,,,nflverse
+00-0022024,Zuriel Smith,WR,,87,71,166,1980-01-15,,0,2,,,,nflverse
+00-0020562,Chad Hutchinson,QB,,7,77,237,1977-02-21,,1,1,,,,nflverse
+00-0019919,Randal Williams,WR,,89,75,220,1978-05-21,,2,1,,,,nflverse

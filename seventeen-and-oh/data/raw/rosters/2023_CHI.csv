@@ -1,0 +1,61 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0034827,D.J. Moore,WR,,2,71,215,1997-04-14,Maryland,5,17,17,,,nflverse
+00-0036290,Cole Kmet,TE,,85,78,258,1999-03-10,Notre Dame,3,15,15,,,nflverse
+00-0039021,Roschon Johnson,RB,,23,72,222,2001-01-31,Texas,0,15,15,,,nflverse
+00-0033066,Andrew Billings,DT,,97,73,328,1995-06-03,Baylor,7,14,,,,nflverse
+00-0037081,Braxton Jones,LT,RT,70,77,310,1999-03-27,Southern Utah,1,14,,,,nflverse
+00-0031203,Cairo Santos,K,,8,68,160,1991-11-12,Tulane,9,14,,,,nflverse
+00-0032768,Cody Whitehair,LG,RG,65,75,309,1992-07-11,Kansas State,7,14,,,,nflverse
+00-0033910,Dan Feeney,C,,67,76,310,1994-05-29,Indiana,6,14,,,,nflverse
+00-0034860,Dante Pettis,WR,,86,73,195,1995-10-23,Washington,5,14,,,,nflverse
+00-0036309,Darnell Mooney,WR,,11,71,172,1997-10-29,Tulane,3,14,14,,,nflverse
+00-0038932,Darnell Wright,LT,RT,58,78,335,2001-08-10,Tennessee,0,14,,,,nflverse
+00-0033782,DeMarcus Walker,EDGE,,95,76,280,1994-09-30,Florida State,6,14,,,,nflverse
+00-0037082,Dominique Robinson,EDGE,,90,77,256,1998-07-02,"Miami, O.",1,14,,,,nflverse
+00-0037088,Doug Kramer,C,,68,74,305,1998-06-04,Illinois,1,14,,,,nflverse
+00-0033765,Dylan Cole,LB,,55,72,237,1994-05-19,Missouri State,6,14,,,,nflverse
+00-0033784,Eddie Jackson,S,,4,72,202,1993-12-10,Alabama,6,14,,,,nflverse
+00-0037096,Elijah Hicks,S,,22,71,200,1999-10-16,California,1,14,,,,nflverse
+00-0038425,Gabe Houy,LT,RT,79,78,325,,Pittsburgh,0,14,,,,nflverse
+00-0039070,Gervon Dexter,DT,,99,78,313,2001-10-05,Florida,0,14,,,,nflverse
+00-0034337,Greg Stroman,CB,,27,72,181,1996-03-08,Virginia Tech,5,14,,,,nflverse
+00-0033471,Isaiah Ford,WR,,32,74,195,1996-02-09,Virginia Tech,6,14,,,,nflverse
+00-0037089,Ja'Tyre Carter,LG,RG,69,75,275,1999-01-15,Southern U.,1,14,,,,nflverse
+00-0037109,Jack Sanborn,LB,,57,74,232,2000-07-29,Wisconsin,1,14,,,,nflverse
+00-0038135,Jaquan Brisker,S,,9,73,202,1999-04-20,Penn State,1,14,,,,nflverse
+00-0036292,Jaylon Johnson,CB,,33,72,195,1999-04-19,Utah,3,14,,,,nflverse
+00-0037106,Jaylon Jones,CB,,31,71,183,1997-10-14,Mississippi,1,14,,,,nflverse
+00-0036377,Joe Reed,WR,,80,72,215,1998-01-04,Virginia,3,14,,,,nflverse
+00-0037129,Josh Blackwell,CB,,39,71,175,1999-04-05,Duke,1,14,,,,nflverse
+00-0034677,Justin Jones,DT,,93,75,309,1996-08-28,North Carolina State,5,14,,,,nflverse
+00-0038111,Kyler Gordon,CB,,6,72,195,1999-12-17,Washington,1,14,,,,nflverse
+00-0036905,Larry Borom,LT,RT,75,77,332,1999-03-30,Missouri,2,14,,,,nflverse
+00-0033082,Lucas Patrick,C,,62,75,313,1993-07-30,Duke,7,14,,,,nflverse
+00-0035647,Montez Sweat,EDGE,,98,78,262,1996-09-04,Mississippi State,4,14,,,,nflverse
+00-0035649,Nate Davis,LG,RG,64,75,316,1996-09-23,North Carolina-Charlotte,4,14,,,,nflverse
+00-0038390,Noah Sewell,LB,,44,74,253,2002-04-26,Oregon,0,14,,,,nflverse
+00-0038368,Quindell Johnson,S,,26,72,205,1999-11-05,Memphis,0,14,,,,nflverse
+00-0034831,Rasheem Green,EDGE,,94,76,279,1997-05-15,Southern California,5,14,,,,nflverse
+00-0035386,T.J. Edwards,LB,,53,73,240,1996-08-12,Wisconsin,4,14,,,,nflverse
+00-0038395,Terell Smith,CB,,32,72,215,1999-09-27,Minnesota,0,14,,,,nflverse
+00-0036953,Teven Jenkins,LT,RT,76,78,310,1998-03-03,Oklahoma State,2,14,,,,nflverse
+00-0034673,Tremaine Edmunds,LB,,49,77,250,1998-05-02,Virginia Tech,5,14,,,,nflverse
+00-0037097,Trenton Gill,P,,16,76,219,1999-01-01,North Carolina State,1,14,,,,nflverse
+00-0037087,Trestan Ebner,RB,,25,70,205,,Baylor,1,14,,,,nflverse
+00-0039071,Tyrique Stevenson,CB,,29,72,214,2000-05-26,Miami,0,14,,,,nflverse
+00-0033123,Yannick Ngakoue,EDGE,,91,74,246,1995-03-31,Maryland,7,14,,,,nflverse
+00-0038937,Zacch Pickens,DT,,96,76,305,2000-03-06,South Carolina,0,14,,,,nflverse
+00-0036945,Justin Fields,QB,,1,75,223,1999-03-05,Ohio State,2,13,13,,,nflverse
+00-0038941,Tyler Scott,WR,,13,71,185,2001-10-12,Cincinnati,0,13,13,,,nflverse
+00-0036906,Khalil Herbert,RB,,24,69,212,1998-04-21,Virginia Tech,2,12,12,,,nflverse
+00-0033757,Robert Tonyan,TE,,18,77,237,1994-04-30,Indiana State,6,11,11,,,nflverse
+00-0037745,Velus Jones,WR,,12,72,200,1997-05-11,Tennessee,1,10,10,,,nflverse
+00-0033925,D'Onta Foreman,RB,,21,73,233,1996-04-24,Texas,6,9,9,,,nflverse
+00-0035099,Khari Blasingame,RB,,35,72,233,1996-07-01,Vanderbilt,4,7,,,,nflverse
+00-0034279,Equanimeous St. Brown,WR,,19,77,214,1996-09-30,Notre Dame,5,5,,,,nflverse
+00-0024243,Marcedes Lewis,TE,,84,78,267,1984-05-19,UCLA,17,5,,,,nflverse
+00-0038416,Tyson Bagent,QB,,17,75,210,2000-06-08,Shepherd,0,5,,,,nflverse
+00-0033292,Trent Taylor,WR,,15,68,181,1994-04-30,Louisiana Tech,6,3,,,,nflverse
+00-0036254,Collin Johnson,WR,,80,78,215,1997-09-23,Texas,3,1,,,,nflverse
+00-0033958,Nathan Peterman,QB,,14,74,225,1994-05-04,Pittsburgh,6,1,,,,nflverse
+00-0035594,Travis Homer,RB,,20,70,202,1998-08-07,Miami,4,1,,,,nflverse

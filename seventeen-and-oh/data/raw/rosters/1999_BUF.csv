@@ -1,0 +1,57 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0013499,Andre Reed,WR,,83,74,190,1964-01-29,,,16,16,,,nflverse
+00-0009960,Jonathan Linton,RB,,35,72,238,1974-11-07,,,16,16,,,nflverse
+00-0005363,Doug Flutie,QB,,7,70,178,1962-10-23,,,15,15,,,nflverse
+00-0013232,Peerless Price,WR,,81,71,180,1976-10-27,,,15,15,,,nflverse
+00-0018093,Antoine Winfield,CB,,26,68,180,1977-06-24,,,14,,,,nflverse
+00-0015091,Antowain Smith,RB,,23,74,225,1972-03-14,,,14,14,,,nflverse
+00-0003356,Bill Conaty,C,,63,74,300,1973-03-08,,,14,,,,nflverse
+00-0015111,Bruce Smith,EDGE,,78,76,273,1963-06-18,,,14,,,,nflverse
+00-0001681,Dan Brandenburg,LB,,96,75,240,1973-02-16,,,14,,,,nflverse
+00-0013122,Daryl Porter,CB,,22,69,190,1974-01-16,,,14,,,,nflverse
+00-0006395,Donovan Greer,CB,,25,69,178,1974-09-11,,,14,,,,nflverse
+00-0018484,Dusty Zeigler,LG,RG,61,77,298,1973-09-27,,,14,,,,nflverse
+00-0011770,Eric Moulds,WR,,80,72,204,1973-07-17,,,14,14,,,nflverse
+00-0000121,Ethan Albright,LG,RG,76,77,278,1971-05-01,,,14,,,,nflverse
+00-0012191,Gabe Northern,LB,,99,75,244,1974-06-08,,,14,,,,nflverse
+00-0011908,Jamie Nails,LG,RG,74,78,354,1977-06-03,,,14,,,,nflverse
+00-0005434,Jay Foreman,LB,,55,73,240,1976-02-18,,,14,,,,nflverse
+00-0013728,Jay Riemersma,TE,,85,77,254,1973-05-17,,,14,14,,,nflverse
+00-0010786,Jeremy McDaniel,WR,,86,72,197,1976-05-02,,,14,,,,nflverse
+00-0012437,Jerry Ostroski,C,,60,76,325,1970-07-12,,,14,,,,nflverse
+00-0003748,Joe Cummings,LB,,51,74,242,1974-06-08,,,14,,,,nflverse
+00-0012532,Joe Panos,LG,RG,72,74,298,1971-01-24,,,14,,,,nflverse
+00-0005217,John Fina,LT,RT,70,76,300,1969-03-11,,,14,,,,nflverse
+00-0007587,John Holecek,LB,,52,74,242,1972-05-07,,,14,,,,nflverse
+00-0002666,Keion Carpenter,CB,,29,71,205,1977-10-31,,,14,,,,nflverse
+00-0012059,Keith Newman,LB,,53,74,243,1977-01-19,,,14,,,,nflverse
+00-0008041,Ken Irvin,CB,,27,70,186,1972-07-11,,,14,,,,nflverse
+00-0014512,Kurt Schulz,S,,24,72,208,1968-12-12,,,14,,,,nflverse
+00-0010450,Manny Martin,CB,,21,70,190,1969-07-31,,,14,,,,nflverse
+00-0017670,Marcellus Wiley,EDGE,,75,76,275,1974-11-30,,,14,,,,nflverse
+00-0012820,Marlo Perry,LB,,58,76,245,1972-08-25,,,14,,,,nflverse
+00-0017899,Pat Williams,DT,,93,75,310,1972-10-24,,,14,,,,nflverse
+00-0006795,Phil Hansen,EDGE,,90,77,278,1968-05-20,,,14,,,,nflverse
+00-0002041,Ruben Brown,LG,RG,79,75,304,1972-02-13,,,14,,,,nflverse
+00-0003563,Sam Cowart,LB,,56,74,245,1975-02-26,,,14,,,,nflverse
+00-0013979,Sam Rogers,LB,,59,75,245,1970-05-30,,,14,,,,nflverse
+00-0011634,Sean Moran,DT,,98,75,275,1973-06-05,,,14,,,,nflverse
+00-0002159,Shawn Bryson,RB,,38,72,235,1976-11-30,,,14,,,,nflverse
+00-0013235,Shawn Price,EDGE,,91,76,290,1970-03-28,,,14,,,,nflverse
+00-0002975,Steve Christie,K,,2,72,190,1967-11-13,,,14,,,,nflverse
+00-0015491,T. Marcus Spriggs,LT,RT,69,75,315,1974-05-30,,,14,,,,nflverse
+00-0017277,Ted Washington,DT,,92,77,330,1968-04-13,,,14,,,,nflverse
+00-0015314,Thomas Smith,CB,,28,71,190,1970-12-05,,,14,,,,nflverse
+00-0000240,Victor Allotey,LG,RG,66,75,325,1975-04-08,,,14,,,,nflverse
+00-0017860,Kevin R. Williams,WR,,82,69,195,1971-01-25,,,13,13,,,nflverse
+00-0005822,Sam Gash,RB,,33,72,240,1969-03-07,,,13,13,,,nflverse
+00-0003266,Bobby Collins,TE,,84,76,249,1976-08-20,,,9,9,,,nflverse
+00-0008190,Sheldon Jackson,TE,,88,75,250,1976-07-24,,,5,,,,nflverse
+00-0016331,Thurman Thomas,RB,,34,70,198,1966-05-16,,,4,,,,nflverse
+00-0010092,Kamil Loud,WR,,89,72,190,1976-06-25,,,3,,,,nflverse
+00-0006155,Lennox Gordon,RB,,31,71,201,1978-09-09,,,3,,,,nflverse
+00-0008612,Rob Johnson,QB,,11,76,212,1973-03-18,,,2,,,,nflverse
+00-0007387,Robert Hicks,LT,RT,77,79,338,1974-11-17,,,2,,,,nflverse
+00-0016838,Alex Van Pelt,QB,,10,73,220,1970-05-01,,,1,,,,nflverse
+00-0011463,Chris Mohr,P,,9,77,215,1966-05-11,,,1,,,,nflverse
+00-0008761,Henry Jones,S,,20,72,197,1967-12-29,,,1,,,,nflverse

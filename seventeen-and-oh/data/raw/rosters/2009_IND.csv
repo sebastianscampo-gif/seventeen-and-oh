@@ -1,0 +1,49 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027092,Austin Collie,WR,,17,72,200,1985-11-11,,0,16,16,,,nflverse
+00-0022165,Dallas Clark,TE,,44,75,252,1979-06-12,,6,16,16,,,nflverse
+00-0010346,Peyton Manning,QB,,18,77,230,1976-03-24,Tennessee,11,16,16,,,nflverse
+00-0020498,Reggie Wayne,WR,,87,72,198,1978-11-17,,8,16,16,,,nflverse
+00-0024245,Joseph Addai,RB,,29,71,214,1983-05-03,,3,15,15,,,nflverse
+00-0016919,Adam Vinatieri,K,,4,72,202,1972-12-28,South Dakota State,13,14,,,,nflverse
+00-0025419,Anthony Gonzalez,WR,,11,72,193,1984-09-18,,2,14,,,,nflverse
+00-0025539,Antonio Johnson,DT,,99,75,310,1984-12-08,,2,14,,,,nflverse
+00-0024413,Charlie Johnson,LT,RT,74,76,305,1984-05-02,,3,14,,,,nflverse
+00-0023926,Daniel Federkeil,LG,RG,76,78,290,1983-11-09,,3,14,,,,nflverse
+00-0024692,Daniel Muir,DT,,90,74,312,1983-09-12,,2,14,,,,nflverse
+00-0021146,Dwight Freeney,EDGE,,93,73,268,1980-02-19,Syracuse,7,14,,,,nflverse
+00-0025991,Eric Foster,DT,,68,74,265,1985-04-05,,1,14,,,,nflverse
+00-0026348,Ervin Baldwin,EDGE,,94,74,260,1986-08-25,,1,14,,,,nflverse
+00-0027032,Fili Moala,DT,,95,76,303,1985-06-23,,0,14,,,,nflverse
+00-0026674,Jacob Lacey,CB,,27,70,177,1987-05-28,,0,14,,,,nflverse
+00-0026376,Jamey Richard,LG,RG,61,77,295,1984-10-09,,1,14,,,,nflverse
+00-0025996,Jamie Silva,S,,40,71,204,1984-12-14,,1,14,,,,nflverse
+00-0014375,Jeff Saturday,C,,63,74,295,1975-06-18,,11,14,,,,nflverse
+00-0027064,Jerraud Powers,CB,,25,70,192,1987-07-19,Auburn,0,14,,,,nflverse
+00-0022744,Jim Sorgi,QB,,12,77,196,1980-12-03,,5,14,,,,nflverse
+00-0026678,John Gill,DT,,69,75,302,1986-10-28,,0,14,,,,nflverse
+00-0023495,Kelvin Hayden,CB,,26,72,195,1983-07-23,,4,14,,,,nflverse
+00-0025629,Keyunta Dawson,EDGE,,96,75,254,1985-09-13,,2,14,,,,nflverse
+00-0025872,Kyle DeVan,C,,66,74,306,1985-02-10,,1,14,,,,nflverse
+00-0023464,Marlin Jackson,CB,,28,72,196,1983-06-30,,4,14,,,,nflverse
+00-0015784,Matt Stover,K,,3,71,180,1968-01-27,,19,14,,,,nflverse
+00-0024376,Michael Toudouze,LT,RT,75,78,303,1983-04-27,,3,14,,,,nflverse
+00-0026199,Mike Pollak,LG,RG,78,75,301,1985-02-16,,1,14,,,,nflverse
+00-0027145,Pat McAfee,P,,1,73,220,1987-05-02,West Virginia,0,14,,,,nflverse
+00-0026345,Pierre Garcon,WR,,85,72,210,1986-08-08,Mount Union,1,14,14,,,nflverse
+00-0021340,Raheem Brock,EDGE,,79,76,274,1978-06-10,,7,14,,,,nflverse
+00-0022059,Robert Mathis,EDGE,,98,74,245,1981-02-26,Alabama A&M,6,14,,,,nflverse
+00-0020399,Ryan Diem,LT,RT,71,78,320,1979-07-01,,8,14,,,,nflverse
+00-0022350,Ryan Lilja,LG,RG,65,74,290,1981-10-15,,5,14,,,,nflverse
+00-0023728,Shane Andrus,K,,8,70,190,1980-10-02,,3,14,,,,nflverse
+00-0024452,T.J. Rushing,CB,,20,69,186,1983-06-08,,3,14,,,,nflverse
+00-0024277,Tim Jennings,CB,,23,68,185,1983-12-24,Georgia,3,14,,,,nflverse
+00-0025429,Tony Ugoh,LT,RT,67,77,301,1983-11-17,,2,14,,,,nflverse
+00-0027003,Donald Brown,RB,,31,70,210,1987-04-11,,0,11,11,,,nflverse
+00-0024529,Gijon Robinson,TE,,47,73,255,1984-10-12,,2,9,9,,,nflverse
+00-0025997,Chad Simpson,RB,,35,69,216,1985-08-22,,1,8,8,,,nflverse
+00-0026267,Jacob Tamme,TE,,84,75,236,1985-03-15,Kentucky,1,5,,,,nflverse
+00-0026342,Mike Hart,RB,,32,69,206,1986-04-09,,1,4,,,,nflverse
+00-0026336,Tom Santi,TE,,86,75,250,1985-11-22,,1,3,,,,nflverse
+00-0027134,Curtis Painter,QB,,7,76,230,1985-06-24,,0,2,,,,nflverse
+00-0026669,Colin Cloherty,TE,,46,74,245,1987-09-16,,0,1,,,,nflverse
+00-0025992,Samuel Giguere,WR,,14,71,215,1985-07-11,,1,1,,,,nflverse

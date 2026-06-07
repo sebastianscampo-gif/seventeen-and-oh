@@ -1,0 +1,43 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0025394,Adrian Peterson,RB,,28,73,217,1985-03-21,Oklahoma,1,16,16,,,nflverse
+00-0021314,Chester Taylor,RB,,29,71,213,1979-09-22,,6,16,16,,,nflverse
+00-0022054,Visanthe Shiancoe,TE,,81,76,250,1980-06-18,,5,16,16,,,nflverse
+00-0022144,Bobby Wade,WR,,19,70,186,1981-02-25,,5,15,15,,,nflverse
+00-0022266,Anthony Herrera,LG,RG,64,74,315,1980-06-14,,4,14,,,,nflverse
+00-0020801,Artis Hicks,LT,RT,79,76,335,1978-11-28,,6,14,,,,nflverse
+00-0022352,Benny Sapp,CB,,22,69,190,1981-01-20,,4,14,,,,nflverse
+00-0022807,Bernard Berrian,WR,,87,73,185,1980-12-27,,4,14,14,,,nflverse
+00-0025489,Brian Robison,EDGE,,96,75,259,1983-04-27,Texas,1,14,,,,nflverse
+00-0021383,Bryant McKinnie,LT,RT,74,80,335,1979-09-23,,6,14,,,,nflverse
+00-0024263,Cedric Griffin,CB,,23,72,203,1982-11-11,,2,14,,,,nflverse
+00-0023825,Charles Gordon,CB,,41,71,180,1984-07-18,,2,14,,,,nflverse
+00-0025951,Darius Reynaud,WR,,82,69,201,1984-12-29,,0,14,,,,nflverse
+00-0025950,Drew Radovich,LT,RT,60,77,305,1985-06-20,,0,14,,,,nflverse
+00-0020392,Ellis Wyms,DT,,97,75,290,1979-04-12,,7,14,,,,nflverse
+00-0024426,Fred Evans,DT,,90,76,305,1983-11-06,,2,14,,,,nflverse
+00-0022740,Jared Allen,EDGE,,69,78,270,1982-04-03,Idaho State,4,14,,,,nflverse
+00-0022155,Jimmy Kennedy,DT,,71,76,320,1979-11-15,,5,14,,,,nflverse
+00-0026277,John David Booty,QB,,4,75,213,1985-01-03,,0,14,,,,nflverse
+00-0026327,John Sullivan,C,,65,76,301,1985-08-08,Notre Dame,0,14,,,,nflverse
+00-0022073,Kevin Williams,DT,,93,77,311,1980-08-16,Oklahoma State,5,14,,,,nflverse
+00-0026292,Letroy Guion,DT,,98,76,303,1987-06-21,Florida State,0,14,,,,nflverse
+00-0023484,Marcus Johnson,LT,RT,72,78,321,1981-12-01,,3,14,,,,nflverse
+00-0025459,Marcus McCauley,CB,,21,73,203,1983-09-03,,1,14,,,,nflverse
+00-0001263,Matt Birk,C,,78,76,309,1976-07-23,,10,14,,,,nflverse
+00-0020797,Maurice Hicks,RB,,43,71,205,1978-07-22,,6,14,,,,nflverse
+00-0021791,Otis Grigsby,EDGE,,73,75,260,1980-11-19,,5,14,,,,nflverse
+00-0017899,Pat Williams,DT,,94,75,317,1972-10-24,,11,14,,,,nflverse
+00-0024342,Ray Edwards,EDGE,,91,77,268,1985-01-01,,2,14,,,,nflverse
+00-0024266,Ryan Cook,LT,RT,62,78,328,1983-05-08,,2,14,,,,nflverse
+00-0010072,Ryan Longwell,K,,8,72,200,1974-08-16,,11,14,,,,nflverse
+00-0020466,Steve Hutchinson,LG,RG,76,77,313,1977-11-01,,7,14,,,,nflverse
+00-0005589,Gus Frerotte,QB,,12,75,233,1971-07-31,,14,11,11,,,nflverse
+00-0023774,Naufahu Tahi,RB,,38,72,254,1981-10-30,,2,10,10,,,nflverse
+00-0025431,Sidney Rice,WR,,18,76,202,1986-09-01,,1,10,10,,,nflverse
+00-0024279,Tarvaris Jackson,QB,,7,74,225,1983-04-21,Alabama State,2,7,,,,nflverse
+00-0025533,Aundrae Allison,WR,,84,72,198,1984-06-25,,1,6,,,,nflverse
+00-0009323,Jim Kleinsasser,TE,,40,75,272,1977-01-31,,9,5,,,,nflverse
+00-0022746,Jeff Dugan,RB,,83,76,258,1981-04-08,,4,4,,,,nflverse
+00-0024321,Garrett Mills,TE,,45,73,235,1983-10-12,,2,3,,,,nflverse
+00-0018093,Antoine Winfield,CB,,26,69,180,1977-06-24,,9,1,,,,nflverse
+00-0023060,Chris Kluwe,P,,5,76,215,1981-12-24,,3,1,,,,nflverse

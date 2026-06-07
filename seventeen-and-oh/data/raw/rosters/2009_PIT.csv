@@ -1,0 +1,43 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0023465,Heath Miller,TE,,83,77,256,1982-10-22,Virginia,4,16,16,,,nflverse
+00-0017162,Hines Ward,WR,,86,72,205,1976-03-08,,11,16,16,,,nflverse
+00-0026901,Mike Wallace,WR,,17,72,199,1986-08-01,Mississippi,0,16,16,,,nflverse
+00-0024240,Santonio Holmes,WR,,10,71,192,1984-03-03,,3,16,16,,,nflverse
+00-0022924,Ben Roethlisberger,QB,,7,77,241,1982-03-02,"Miami, O.",5,15,15,,,nflverse
+00-0022217,Mewelde Moore,RB,,21,71,209,1982-07-24,,5,15,15,,,nflverse
+00-0026163,Rashard Mendenhall,RB,,34,70,225,1987-06-19,,1,15,15,,,nflverse
+00-0015080,Aaron Smith,EDGE,,91,77,298,1976-04-19,,10,14,,,,nflverse
+00-0021344,Brett Keisel,EDGE,,99,77,285,1978-09-19,,7,14,,,,nflverse
+00-0020426,Casey Hampton,DT,,98,73,325,1977-09-03,,8,14,,,,nflverse
+00-0019940,Chris Hoke,DT,,76,74,305,1976-04-06,,8,14,,,,nflverse
+00-0023362,Chris Kemoeatu,LG,RG,68,75,344,1983-01-04,,4,14,,,,nflverse
+00-0025499,Daniel Sepulveda,P,,9,75,230,1984-01-12,,2,14,,,,nflverse
+00-0016577,Deshea Townsend,CB,,26,70,190,1975-09-08,,11,14,,,,nflverse
+00-0025829,Doug Legursky,C,,64,73,323,1986-06-09,Marshall,1,14,,,,nflverse
+00-0027008,Evander Hood,EDGE,,96,75,300,1987-02-16,Missouri,0,14,,,,nflverse
+00-0026926,Frank Summers,RB,,44,70,230,1985-09-06,,0,14,,,,nflverse
+00-0021891,Ivan Taylor,CB,,24,74,195,1980-05-05,,6,14,,,,nflverse
+00-0020737,Jeff Reed,K,,3,71,225,1979-04-09,,7,14,,,,nflverse
+00-0026925,Joe Burnett,CB,,27,69,192,1986-11-28,,0,14,,,,nflverse
+00-0021297,Justin Hartwig,C,,62,76,312,1978-11-21,,7,14,,,,nflverse
+00-0026903,Keenan Lewis,S,,20,72,208,1986-05-17,,0,14,,,,nflverse
+00-0022928,Keiwan Ratliff,CB,,31,71,188,1981-04-19,,5,14,,,,nflverse
+00-0027053,Kraig Urbik,LG,RG,65,77,323,1985-09-23,Wisconsin,0,14,,,,nflverse
+00-0022785,Max Starks,LT,RT,78,80,345,1982-01-10,,5,14,,,,nflverse
+00-0022010,Nick Eason,EDGE,,93,75,305,1980-05-29,,6,14,,,,nflverse
+00-0026561,Ramon Foster,LT,RT,73,78,325,1986-01-07,Tennessee,0,14,,,,nflverse
+00-0026334,Ryan Mundy,S,,29,73,215,1985-02-11,West Virginia,1,14,,,,nflverse
+00-0026270,Tony Hills,LT,RT,66,77,304,1984-11-04,Texas,1,14,,,,nflverse
+00-0026299,Trae Williams,S,,35,70,195,1985-01-30,,1,14,,,,nflverse
+00-0023528,Trai Essex,LG,RG,79,76,324,1982-12-05,,4,14,,,,nflverse
+00-0009305,Travis Kirschke,EDGE,,90,75,298,1974-09-06,,12,14,,,,nflverse
+00-0025557,William Gay,CB,,22,70,190,1985-01-01,Louisville,2,14,,,,nflverse
+00-0024193,Willie Colon,LT,RT,74,75,315,1983-04-09,Hofstra,3,14,,,,nflverse
+00-0022250,Willie Parker,RB,,39,70,209,1980-11-11,,5,13,13,,,nflverse
+00-0025464,Matt Spaeth,TE,,89,79,270,1983-11-24,Minnesota,2,5,,,,nflverse
+00-0026957,David Johnson,TE,,85,74,260,1987-08-26,Arkansas State,0,4,,,,nflverse
+00-0022434,Carey Davis,RB,,38,70,225,1981-03-27,,5,1,,,,nflverse
+00-0000865,Charlie Batch,QB,,16,74,216,1974-12-05,,11,1,,,,nflverse
+00-0026296,Dennis Dixon,QB,,2,75,195,1985-01-11,,1,1,,,,nflverse
+00-0026491,Stefan Logan,WR,,11,67,185,1981-06-02,,2,1,,,,nflverse
+00-0026562,Tyler Grisham,WR,,19,71,180,1987-06-11,,0,1,,,,nflverse

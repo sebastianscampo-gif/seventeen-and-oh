@@ -1,0 +1,117 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+,Adam Walker,RB,,,71,220,1963-04-09,,,14,,,,nflverse
+00-0000284,Alfred Anderson,RB,,,73,214,1961-08-04,Baylor,3,14,,,,nflverse
+00-0013635,Allen Rice,RB,,,70,200,1962-04-05,Baylor; Ranger Junior College; Wharton County Junior College,3,14,,,,nflverse
+,Andre Thomas,RB,,,72,205,1960-11-28,,,14,,,,nflverse
+00-0002712,Anthony Carter,WR,,,71,162,1960-09-17,Michigan,2,14,,,,nflverse
+,Brad White,DT,,,74,256,1958-08-18,,,14,,,,nflverse
+,Brett Wilson,RB,,,72,220,1960-12-29,,,14,,,,nflverse
+,Bucky Scribner,P,,,72,203,1960-07-11,,,14,,,,nflverse
+,Carl Hilton,TE,,,75,229,1964-02-28,,,14,,,,nflverse
+00-0009744,Carl Lee,CB,,,71,176,1961-02-06,Marshall,4,14,,,,nflverse
+00-0004396,Chris Doleman,EDGE,,,77,250,1961-10-16,Pittsburgh,2,14,,,,nflverse
+00-0005402,Chris Foote,C,,,75,250,1956-12-02,USC,7,14,,,,nflverse
+00-0010440,Chris Martin,LB,,,74,220,1960-12-19,Auburn,4,14,,,,nflverse
+,Chuck Clanton,CB,,,71,192,1962-07-15,,,14,,,,nflverse
+,Chuck Nelson,K,,,71,175,1960-02-23,,,14,,,,nflverse
+,Clifton Eley,TE,,,77,230,1961-06-21,,,14,,,,nflverse
+00-0004503,D.J. Dozier,RB,,,72,210,1965-09-21,Penn State,0,14,,,,nflverse
+,Dale Dawson,K,,4,72,213,1964-11-02,,,14,,,,nflverse
+,Daniel Coleman,EDGE,,,76,249,1962-08-14,,,14,,,,nflverse
+00-0011997,Darrin Nelson,RB,,,69,180,1959-01-02,Stanford,5,14,,,,nflverse
+,Dave Bruno,P,,,73,235,1963-03-19,,,14,,,,nflverse
+,Dave Huffman,LG,RG,,78,255,1957-04-04,,,14,,,,nflverse
+,David Evans,CB,,,72,178,1959-05-01,,,14,,,,nflverse
+00-0007797,David Howard,LB,,,73,225,1961-12-08,California State - Long Beach; Oregon State,2,14,,,,nflverse
+,Dennis Swilley,C,,,75,253,1955-06-28,,,14,,,,nflverse
+,Derek Burton,LT,RT,,74,270,1963-08-10,,,14,,,,nflverse
+,Don Bramlett,DT,,,74,270,1962-10-05,,,14,,,,nflverse
+,Doug Martin,EDGE,,,75,255,1957-05-22,,,14,,,,nflverse
+,Ed Schenk,TE,,,76,230,1960-12-20,,,14,,,,nflverse
+,Fabray Collins,LB,,,74,215,1961-09-16,,,14,,,,nflverse
+,Fletcher Louallen,CB,,,72,195,1962-09-12,,,14,,,,nflverse
+,Frank Ori,LG,RG,,74,255,1964-03-20,,,14,,,,nflverse
+,Fred Molden,DT,,,74,272,1963-08-12,,,14,,,,nflverse
+00-0018511,Gary Zimmerman,LT,RT,,78,264,1961-12-13,Oregon,1,14,,,,nflverse
+,Gerald Robinson,EDGE,,,75,253,1963-05-04,,,14,,,,nflverse
+,Greg Coleman,P,,,72,185,1954-09-09,,,14,,,,nflverse
+,Greg Koch,LG,RG,,76,270,1955-06-14,,,14,,,,nflverse
+,Greg Richardson,WR,,,67,166,1964-10-06,,,14,,,,nflverse
+00-0008759,Hassan Jones,WR,,,72,198,1964-07-02,Florida State,1,14,,,,nflverse
+00-0016269,Henry Thomas,DT,,,74,263,1965-01-12,LSU,0,14,,,,nflverse
+00-0007673,Issiac Holt,CB,,,74,197,1962-10-04,Alcorn State,2,14,,,,nflverse
+,Jamie Fitzgerald,CB,,,72,180,1965-04-30,,,14,,,,nflverse
+,Jeff Womack,RB,,,69,188,1963-06-26,,,14,,,,nflverse
+00-0015391,Jesse Solomon,LB,,,72,249,1963-11-04,Florida State; North Florida Junior College,1,14,,,,nflverse
+,Jim Brim,WR,,,75,187,1963-02-28,,,14,,,,nflverse
+,Jim Dick,LB,,,73,230,1964-06-18,,,14,,,,nflverse
+,Jim Gustafson,WR,,,73,185,1961-03-16,,,14,,,,nflverse
+,Jimmy Smith,RB,,,72,205,1960-09-25,,,14,,,,nflverse
+,Jimmy Walker,DT,,,74,265,1957-12-30,,,14,,,,nflverse
+,Joe Stepanek,DT,,,77,268,1963-11-06,,,14,,,,nflverse
+00-0002084,Joey Browner,CB,,,74,202,1960-05-15,USC,4,14,,,,nflverse
+,John Harris,CB,,,74,200,1956-06-13,,,14,,,,nflverse
+,John Scardina,LT,RT,,76,265,1956-07-26,,,14,,,,nflverse
+,John Turner,CB,,,72,197,1956-02-22,,,14,,,,nflverse
+,Keith Bishop,QB,,,76,190,1963-05-29,,,14,,,,nflverse
+,Keith Kidd,WR,,,73,195,1962-09-10,,,14,,,,nflverse
+00-0011228,Keith Millard,DT,,,78,260,1962-03-18,Washington State,2,14,,,,nflverse
+,Kelly Quinn,LB,,,73,220,1963-08-20,,,14,,,,nflverse
+,Kevin Webster,C,,,74,260,1962-03-06,,,14,,,,nflverse
+00-0010111,Kirk Lowdermilk,C,,,75,265,1963-04-10,Ohio State,2,14,,,,nflverse
+,Kurt Ploeger,DT,,,77,259,1962-12-01,,,14,,,,nflverse
+,Larry Brown,WR,,,71,180,1963-09-04,,,14,,,,nflverse
+,Larry Miller,QB,,,76,220,1962-02-08,,,14,,,,nflverse
+00-0009879,Leo Lewis,WR,,,68,170,1956-09-17,Missouri,6,14,,,,nflverse
+,Leonard Moore,RB,,,72,222,1963-01-27,,,14,,,,nflverse
+,Marc May,TE,,,76,230,1956-01-01,,,14,,,,nflverse
+,Mark Hanson,LG,RG,,74,260,1965-02-03,,,14,,,,nflverse
+,Mark MacDonald,LG,RG,,76,267,1961-04-30,,,14,,,,nflverse
+,Mike Hartenstine,EDGE,,,75,251,1953-07-27,,,14,,,,nflverse
+,Mike McCurry,LG,RG,,75,258,1963-03-26,,,14,,,,nflverse
+00-0011799,Mike Mularkey,TE,,,76,245,1961-11-19,Florida,4,14,,,,nflverse
+,Mike Slaton,CB,,,74,194,1964-09-25,,,14,,,,nflverse
+,Mike Turner,LG,RG,,75,255,1960-09-10,,,14,,,,nflverse
+00-0011879,Najee Mustafaa,CB,,,73,192,1964-06-20,Georgia Tech,0,14,,,,nflverse
+,Neal Guggemos,CB,,,72,187,1964-06-14,,,14,,,,nflverse
+,Pete Najarian,LB,,,74,233,1963-12-22,,,14,,,,nflverse
+,Phil Frye,RB,,,71,180,1958-12-20,,,14,,,,nflverse
+,Phil Micech,EDGE,,,77,265,1961-08-11,,,14,,,,nflverse
+,Randy Rasmussen,C,,,74,253,1960-09-27,,,14,,,,nflverse
+,Randy Scott,LB,,,73,223,1959-01-31,,,14,,,,nflverse
+00-0001188,Ray Berry,LB,,,74,227,1963-10-28,Baylor,0,14,,,,nflverse
+00-0005741,Rich Gannon,QB,,,75,197,1965-12-20,Delaware,0,14,,,,nflverse
+00-0005142,Rick Fenney,RB,,,73,242,1964-12-07,Washington,0,14,,,,nflverse
+,Rickey Parks,WR,,,73,179,1964-02-19,,,14,,,,nflverse
+,Ron Daugherty,WR,,,75,185,1958-03-17,,,14,,,,nflverse
+,Ron Selesky,C,,,73,266,1965-09-04,,,14,,,,nflverse
+,Rufus Bess,CB,,,69,184,1956-09-13,,,14,,,,nflverse
+00-0000382,Sam Anno,LB,,,74,230,1965-01-26,USC,0,14,,,,nflverse
+,Sam Harrell,RB,,,74,217,1957-02-07,,,14,,,,nflverse
+,Scott Studwell,LB,,55,74,225,1954-08-27,,,14,,,,nflverse
+,Stafford Mays,DT,,,74,242,1958-03-13,,,14,,,,nflverse
+,Steve Ache,LB,,,75,229,1962-03-16,,,14,,,,nflverse
+,Steve Finch,WR,,,72,200,1961-01-02,,,14,,,,nflverse
+,Steve Freeman,CB,,,71,185,1953-05-08,,,14,,,,nflverse
+,Steve Harris,RB,,,71,194,1962-12-12,,,14,,,,nflverse
+00-0008927,Steve Jordan,TE,,,75,230,1961-01-10,Brown,5,14,,,,nflverse
+,Ted Million,LG,RG,,76,260,1963-05-09,,,14,,,,nflverse
+,Ted Rosnagle,CB,,,75,205,1961-09-29,,,14,,,,nflverse
+,Terry LeCount,WR,,,70,178,1956-07-09,,,14,,,,nflverse
+,Terry Love,CB,,,74,205,1958-08-25,,,14,,,,nflverse
+,Terry Tausch,LG,RG,,77,275,1959-02-05,,,14,,,,nflverse
+,Tim Bryant,LB,,,73,217,1962-05-05,,,14,,,,nflverse
+00-0008053,Tim Irwin,LT,RT,,79,275,1958-12-13,Tennessee,6,14,,,,nflverse
+00-0012082,Tim Newton,DT,,,72,302,1963-03-23,Florida,2,14,,,,nflverse
+,Timothy Starks,CB,,,69,175,1963-12-30,,,14,,,,nflverse
+,Todd Krueger,QB,,,76,200,1957-09-10,,,14,,,,nflverse
+,Todd Wandler,LG,RG,,74,272,1961-08-15,,,14,,,,nflverse
+,Tommy Kramer,QB,,,74,200,1955-03-07,,,14,,,,nflverse
+,Tony Adams,QB,,,72,198,1950-03-09,,,14,,,,nflverse
+,Tony Norman,EDGE,,,77,270,1955-01-27,,,14,,,,nflverse
+00-0018073,Wade Wilson,QB,,,75,210,1959-02-01,Texas A&M-Commerce,6,14,,,,nflverse
+,Walker Lee Ashley,LB,,,72,234,1960-07-28,,,14,,,,nflverse
+,Wayne Jones,C,,,76,270,1960-02-10,,,14,,,,nflverse
+,Wayne Smith,CB,,,72,171,1957-05-09,,,14,,,,nflverse
+,Willie Gillespie,WR,,,69,170,1961-10-24,,,14,,,,nflverse
+00-0007256,Wymon Henderson,CB,,,70,190,1961-12-15,UNLV; Allan Hancock College,0,14,,,,nflverse

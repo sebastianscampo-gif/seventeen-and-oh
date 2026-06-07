@@ -1,0 +1,48 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0025542,Dante Rosario,TE,,88,76,250,1984-10-25,,3,16,16,,,nflverse
+00-0027080,Mike Goodson,RB,,33,72,212,1987-05-23,,1,15,15,,,nflverse
+00-0027402,Andre Neblett,DT,,68,72,295,1988-06-07,,0,14,,,,nflverse
+00-0027681,Brandon LaFell,WR,,11,74,211,1986-11-04,LSU,0,14,14,,,nflverse
+00-0026705,C.J. Davis,LG,RG,71,74,308,1987-02-02,,1,14,,,,nflverse
+00-0025613,C.J. Wilson,CB,,27,73,195,1985-04-02,,3,14,,,,nflverse
+00-0026944,Captain Munnerlyn,CB,,41,68,186,1988-04-10,South Carolina,1,14,,,,nflverse
+00-0025470,Charles Johnson,EDGE,,95,74,275,1986-07-10,Georgia,3,14,,,,nflverse
+00-0026753,Charly Martin,WR,,83,73,212,1984-03-20,,1,14,,,,nflverse
+00-0022914,Chris Gamble,CB,,20,73,200,1983-03-11,,6,14,,,,nflverse
+00-0024428,Chris Morris,C,,63,76,305,1983-02-22,,4,14,,,,nflverse
+00-0027065,Corvey Irvin,DT,,93,75,302,1985-05-03,,1,14,,,,nflverse
+00-0027795,David Gettis,WR,,12,75,216,1987-08-27,,0,14,14,,,nflverse
+00-0025553,Derek Landri,DT,,61,74,290,1983-09-21,,3,14,,,,nflverse
+00-0024765,Ed Johnson,DT,,99,74,296,1983-12-18,,3,14,,,,nflverse
+00-0027019,Everette Brown,EDGE,,91,73,256,1987-08-07,,1,14,,,,nflverse
+00-0026715,Garry Williams,LT,RT,65,75,296,1986-08-20,,1,14,,,,nflverse
+00-0026381,Geoff Schwartz,LT,RT,74,78,331,1986-07-11,,2,14,,,,nflverse
+00-0027774,Greg Hardy,EDGE,,76,76,277,1988-07-28,Mississippi,0,14,,,,nflverse
+00-0024369,Jeff King,TE,,47,75,260,1983-02-19,,4,14,14,,,nflverse
+00-0026159,Jeff Otah,LT,RT,79,78,330,1986-06-17,,2,14,,,,nflverse
+00-0009028,John Kasay,K,,4,70,210,1969-10-27,,19,14,,,,nflverse
+00-0026153,Jonathan Stewart,RB,,28,70,235,1987-03-21,Oregon,2,14,14,,,nflverse
+00-0022117,Jordan Gross,LT,RT,69,76,305,1980-07-20,,7,14,,,,nflverse
+00-0027131,Keith Null,QB,,9,76,219,1985-09-24,,1,14,,,,nflverse
+00-0026390,Mackenzy Bernadeau,LG,RG,73,76,308,1986-01-03,,2,14,,,,nflverse
+00-0026321,Nick Hayden,DT,,98,76,292,1986-02-04,,2,14,,,,nflverse
+00-0027817,R.J. Stanford,S,,35,70,183,1988-05-06,,0,14,,,,nflverse
+00-0027401,Rashawn Jackson,RB,,38,73,239,1987-01-15,,0,14,,,,nflverse
+00-0023363,Rhys Lloyd,K,,8,71,231,1982-06-05,,5,14,,,,nflverse
+00-0024273,Richard Marshall,CB,,31,71,189,1984-12-12,,4,14,,,,nflverse
+00-0023641,Rob Petitti,LT,RT,64,78,327,1982-05-21,,5,14,,,,nflverse
+00-0027840,Robert McClain,CB,,36,69,195,1988-07-22,Connecticut,0,14,,,,nflverse
+00-0025446,Ryan Kalil,C,,67,74,295,1985-03-29,USC,3,14,,,,nflverse
+00-0020337,Steve Smith,WR,,89,69,185,1979-05-12,Utah,9,14,14,,,nflverse
+00-0022214,Travelle Wharton,LG,RG,70,76,312,1981-05-19,,6,14,,,,nflverse
+00-0022047,Tyler Brayton,EDGE,,96,78,280,1979-11-20,,7,14,,,,nflverse
+00-0027659,Jimmy Clausen,QB,,2,74,222,1987-09-21,Notre Dame,0,13,13,,,nflverse
+00-0027093,Tony Fiammetta,RB,,42,72,242,1986-08-22,,1,8,8,,,nflverse
+00-0024242,DeAngelo Williams,RB,,34,69,217,1983-04-25,Memphis,4,6,,,,nflverse
+00-0025708,Matt Moore,QB,,3,75,202,1984-08-09,Oregon State,3,6,,,,nflverse
+00-0026281,Gary Barnidge,TE,,82,77,247,1985-09-22,Louisville,2,5,,,,nflverse
+00-0026790,Tyrell Sutton,RB,,22,68,213,1986-12-19,,1,4,,,,nflverse
+00-0027692,Armanti Edwards,WR,,10,71,187,1988-03-08,,0,2,,,,nflverse
+00-0022101,Brian St. Pierre,QB,,6,75,224,1979-11-28,,7,1,,,,nflverse
+00-0019921,Jason Baker,P,,7,74,205,1978-05-17,,9,1,,,,nflverse
+00-0027801,Tony Pike,QB,,16,78,222,1986-03-10,,0,1,,,,nflverse

@@ -1,0 +1,45 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0027685,Emmanuel Sanders,WR,,88,71,180,1987-03-17,Southern Methodist,2,16,16,,,nflverse
+00-0023465,Heath Miller,TE,,83,77,256,1982-10-22,Virginia,7,15,15,,,nflverse
+00-0026901,Mike Wallace,WR,,17,72,199,1986-08-01,Mississippi,3,15,15,,,nflverse
+00-0027723,Al Woods,EDGE,,65,76,307,1987-03-25,Louisiana State,2,14,,,,nflverse
+00-0029138,Alameda Ta'amu,DT,,95,75,348,1990-08-23,,0,14,,,,nflverse
+00-0021344,Brett Keisel,EDGE,,99,77,285,1978-09-19,,10,14,,,,nflverse
+00-0027969,Cameron Heyward,EDGE,,97,77,288,1989-05-06,Ohio State,1,14,,,,nflverse
+00-0020426,Casey Hampton,DT,,98,73,325,1977-09-03,,11,14,,,,nflverse
+00-0029140,Chris Rainey,RB,,22,69,180,1988-03-02,,0,14,14,,,nflverse
+00-0028066,Cortez Allen,CB,,28,73,196,1988-10-29,,1,14,,,,nflverse
+00-0028033,Curtis Brown,CB,,31,72,185,1988-09-24,,1,14,,,,nflverse
+00-0027239,Da'Mon Cromartie-Smith,S,,42,74,203,1987-02-19,,2,14,,,,nflverse
+00-0029678,David DeCastro,LG,RG,66,77,316,1990-01-11,Stanford,0,14,,,,nflverse
+00-0025829,Doug Legursky,C,,64,73,315,1986-06-09,Marshall,4,14,,,,nflverse
+00-0028952,Drew Butler,P,,9,73,204,1989-05-10,,0,14,,,,nflverse
+00-0027008,Evander Hood,EDGE,,96,75,300,1987-02-16,Missouri,3,14,,,,nflverse
+00-0026566,Isaac Redman,RB,,33,72,230,1984-11-10,,3,14,14,,,nflverse
+00-0021891,Ivan Taylor,CB,,24,74,195,1980-05-05,,9,14,,,,nflverse
+00-0027306,Jamie McCoy,RB,,82,75,240,1987-07-21,,2,14,,,,nflverse
+00-0027332,John Malecki,LG,RG,62,74,298,1988-05-26,,2,14,,,,nflverse
+00-0028286,Josh Victorian,S,,35,70,190,1988-07-10,,1,14,,,,nflverse
+00-0026903,Keenan Lewis,CB,,23,72,208,1986-05-17,,3,14,,,,nflverse
+00-0029316,Kelvin Beachum,LG,RG,68,75,303,1989-06-08,Southern Methodist,0,14,,,,nflverse
+00-0028001,Marcus Gilbert,LT,RT,77,78,330,1988-02-15,Florida,1,14,,,,nflverse
+00-0028835,Marshall McFadden,LB,,40,73,233,1986-08-04,,1,14,,,,nflverse
+00-0027870,Maurkice Pouncey,C,,53,76,304,1989-07-24,Florida,2,14,,,,nflverse
+00-0022785,Max Starks,LT,RT,78,80,345,1982-01-10,,8,14,,,,nflverse
+00-0029202,Mike Adams,LT,RT,76,79,323,1990-03-10,Ohio State,0,14,,,,nflverse
+00-0026561,Ramon Foster,LG,RG,73,78,325,1986-01-07,Tennessee,3,14,,,,nflverse
+00-0026564,Steve McLendon,DT,,90,76,280,1986-01-03,Troy,3,14,,,,nflverse
+00-0024193,Willie Colon,LT,RT,74,75,315,1983-04-09,Hofstra,6,14,,,,nflverse
+00-0027793,Antonio Brown,WR,,84,70,186,1988-07-10,Central Michigan,2,13,13,,,nflverse
+00-0022924,Ben Roethlisberger,QB,,7,77,241,1982-03-02,"Miami, O.",8,13,13,,,nflverse
+00-0027786,Jonathan Dwyer,RB,,27,71,229,1989-07-26,,2,13,13,,,nflverse
+00-0028841,Will Johnson,RB,,46,74,238,1988-11-14,West Virginia,0,13,13,,,nflverse
+00-0022811,Jerricho Cotchery,WR,,89,73,200,1982-06-16,North Carolina State,8,12,12,,,nflverse
+00-0028170,Baron Batch,RB,,20,69,210,1987-12-21,,1,8,8,,,nflverse
+00-0029218,David Paulson,TE,,81,76,246,1989-02-22,,0,8,8,,,nflverse
+00-0026163,Rashard Mendenhall,RB,,34,70,225,1987-06-19,,4,6,,,,nflverse
+00-0024287,Leonard Pope,TE,,45,80,264,1983-09-10,,6,3,,,,nflverse
+00-0019642,Plaxico Burress,WR,,80,77,232,1977-08-12,,12,3,,,,nflverse
+00-0022177,Byron Leftwich,QB,,4,77,250,1980-01-14,,9,2,,,,nflverse
+00-0000865,Charlie Batch,QB,,16,74,216,1974-12-05,,14,2,,,,nflverse
+00-0023001,Shaun Suisham,K,,6,72,200,1981-12-29,Bowling Green State,7,1,,,,nflverse

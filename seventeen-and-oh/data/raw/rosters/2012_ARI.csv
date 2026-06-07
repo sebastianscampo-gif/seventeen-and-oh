@@ -1,0 +1,47 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022921,Larry Fitzgerald,WR,,11,75,218,1983-08-31,Pittsburgh,8,16,16,,,nflverse
+00-0027691,Andre Roberts,WR,,12,71,195,1988-01-09,Citadel,2,15,15,,,nflverse
+00-0029638,Michael Floyd,WR,,15,75,225,1989-11-27,Notre Dame,0,15,15,,,nflverse
+00-0023529,Adam Snyder,LG,RG,68,78,325,1982-01-30,,7,14,,,,nflverse
+00-0029528,Bobby Massie,LT,RT,70,78,316,1989-08-01,Mississippi,0,14,,,,nflverse
+00-0026190,Calais Campbell,EDGE,,93,80,300,1986-09-01,Miami,4,14,,,,nflverse
+00-0024483,D'Anthony Batiste,LT,RT,74,76,314,1982-03-29,,6,14,,,,nflverse
+00-0027877,Dan Williams,DT,,92,75,327,1987-06-01,Tennessee,2,14,,,,nflverse
+00-0022930,Darnell Dockett,DT,,90,76,290,1981-05-27,,8,14,,,,nflverse
+00-0024262,Daryn Colledge,LG,RG,71,76,308,1982-02-11,,6,14,,,,nflverse
+00-0021235,Dave Zastudil,P,,9,75,220,1978-10-26,,10,14,,,,nflverse
+00-0028122,David Carter,DT,,79,77,300,1987-12-10,,1,14,,,,nflverse
+00-0026910,Gregory Toler,CB,,28,72,192,1985-01-02,St. Paul's (VA),3,14,,,,nflverse
+00-0029639,Jamell Fleming,CB,,23,71,206,1989-05-05,,0,14,,,,nflverse
+00-0028606,Kerry Taylor,WR,,18,72,200,1989-02-20,,1,14,,,,nflverse
+00-0026757,Kory Sperry,TE,,83,77,265,1985-04-10,,3,14,,,,nflverse
+00-0026956,LaRod Stephens-Howling,RB,,36,67,185,1987-04-26,,3,14,14,,,nflverse
+00-0025682,Lyle Sendlein,C,,63,75,308,1984-03-16,Texas,5,14,,,,nflverse
+00-0025668,Michael Adams,CB,,27,68,181,1985-06-17,,5,14,,,,nflverse
+00-0026324,Mike Gibson,LG,RG,69,75,298,1985-11-18,,4,14,,,,nflverse
+00-0029551,Nate Potter,LT,RT,76,77,295,1988-05-16,,0,14,,,,nflverse
+00-0022010,Nick Eason,DT,,98,75,305,1980-05-29,,9,14,,,,nflverse
+00-0024425,Pat McQuistan,LT,RT,67,78,317,1983-04-30,,6,14,,,,nflverse
+00-0026909,Rich Ohrnberger,LG,RG,72,74,300,1986-02-14,,3,14,,,,nflverse
+00-0026791,Ronald Talley,EDGE,,96,75,286,1986-02-21,,3,14,,,,nflverse
+00-0029356,Scott Wedige,C,,66,76,310,1988-11-20,,0,14,,,,nflverse
+00-0007611,Vonnie Holliday,EDGE,,91,77,288,1975-12-11,,14,14,,,,nflverse
+00-0025557,William Gay,CB,,22,70,190,1985-01-01,Louisville,5,14,,,,nflverse
+00-0029349,Zack Nash,LB,,59,76,260,1989-09-23,,0,14,,,,nflverse
+00-0028007,Rob Housler,TE,,84,77,250,1988-03-17,Florida Atlantic,1,13,13,,,nflverse
+00-0026221,Early Doucet,WR,,85,72,212,1985-10-28,,4,12,12,,,nflverse
+00-0028736,William Powell,RB,,33,69,207,1988-03-09,,1,12,12,,,nflverse
+00-0024369,Jeff King,TE,,87,75,260,1983-02-19,,6,11,11,,,nflverse
+00-0027007,Chris Wells,RB,,26,74,229,1988-08-07,,3,8,8,,,nflverse
+00-0027754,John Skelton,QB,,19,78,244,1988-03-17,,2,7,,,,nflverse
+00-0028074,Anthony Sherman,RB,,35,70,242,1988-12-11,Connecticut,1,6,,,,nflverse
+00-0025423,Kevin Kolb,QB,,4,75,218,1984-08-24,,5,6,,,,nflverse
+00-0029531,Ryan Lindley,QB,,14,76,230,1989-06-22,San Diego State,0,6,,,,nflverse
+00-0027943,Patrick Peterson,CB,,21,73,219,1990-07-11,Louisiana State,1,5,,,,nflverse
+00-0027976,Ryan Williams,RB,,34,69,207,1990-04-09,,1,5,,,,nflverse
+00-0027346,Alfonso Smith,RB,,29,73,208,1987-01-23,,2,2,,,,nflverse
+00-0026625,Brian Hoyer,QB,,6,74,215,1985-10-13,Michigan State,3,2,,,,nflverse
+00-0027825,Jim Dray,TE,,81,77,255,1986-12-31,Stanford,2,2,,,,nflverse
+00-0029343,Laron Byrd,WR,,17,76,220,1989-08-18,,0,2,,,,nflverse
+00-0019770,Jay Feely,K,,3,70,208,1976-05-23,,11,1,,,,nflverse
+00-0029546,Senio Kelemete,LG,RG,64,76,301,1990-05-10,Washington,0,1,,,,nflverse

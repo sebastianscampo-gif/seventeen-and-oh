@@ -1,0 +1,40 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0022084,Anquan Boldin,WR,,81,73,217,1980-10-03,Florida State,7,16,16,,,nflverse
+00-0010500,Derrick Mason,WR,,85,70,197,1974-01-17,,13,16,16,,,nflverse
+00-0026158,Joe Flacco,QB,,5,78,238,1985-01-16,Delaware,2,16,16,,,nflverse
+00-0026195,Ray Rice,RB,,27,68,212,1987-01-22,,2,16,16,,,nflverse
+00-0020438,T.J. Houshmandzadeh,WR,,84,74,203,1977-09-26,,9,16,16,,,nflverse
+00-0022178,Willis McGahee,RB,,23,72,235,1981-10-21,,7,15,15,,,nflverse
+00-0027756,Arthur Jones,DT,,61,75,313,1986-06-03,Syracuse,0,14,,,,nflverse
+00-0025416,Ben Grubbs,LG,RG,66,75,310,1984-03-10,Auburn,3,14,,,,nflverse
+00-0020972,Billy Cundiff,K,,7,73,212,1980-03-30,Drake,8,14,,,,nflverse
+00-0024002,Brandon McKinney,DT,,91,74,350,1983-08-24,,4,14,,,,nflverse
+00-0026015,Bryan Mattison,LG,RG,72,75,313,1984-05-15,,2,14,,,,nflverse
+00-0023008,Chris Carr,CB,,25,70,182,1983-04-30,,5,14,,,,nflverse
+00-0024271,Chris Chester,LG,RG,65,75,315,1983-01-12,Oklahoma,4,14,,,,nflverse
+00-0021998,Cory Redding,EDGE,,93,76,292,1980-11-15,Texas,7,14,,,,nflverse
+00-0026915,Davon Drew,TE,,80,76,255,1985-12-09,,1,14,,,,nflverse
+00-0023458,Fabian Washington,CB,,31,71,175,1983-06-09,,5,14,,,,nflverse
+00-0024227,Haloti Ngata,DT,,92,76,350,1984-01-21,Oregon,4,14,,,,nflverse
+00-0026316,Jalen Parmele,RB,,34,71,222,1985-12-30,,2,14,,,,nflverse
+00-0025787,Jared Gaither,LT,RT,71,81,340,1986-03-18,,3,14,,,,nflverse
+00-0025442,Josh Wilson,CB,,37,69,192,1985-03-11,Maryland,3,14,,,,nflverse
+00-0006398,Kelly Gregg,DT,,97,72,320,1976-11-01,,11,14,,,,nflverse
+00-0026090,Lamar Divens,DT,,96,75,343,1985-11-12,,2,14,,,,nflverse
+00-0027060,Lardarius Webb,CB,,21,70,182,1985-10-12,Nicholls State,1,14,,,,nflverse
+00-0025524,Le'Ron McClain,RB,,33,72,260,1984-12-27,,3,14,14,,,nflverse
+00-0019599,Marc Bulger,QB,,10,75,208,1977-04-05,,10,14,,,,nflverse
+00-0026246,Marcus Smith,WR,,11,73,225,1985-01-11,,2,14,,,,nflverse
+00-0025473,Marshal Yanda,LG,RG,73,75,315,1984-09-15,Iowa,3,14,,,,nflverse
+00-0001263,Matt Birk,C,,77,76,310,1976-07-23,,12,14,,,,nflverse
+00-0026999,Michael Oher,LT,RT,74,76,313,1986-05-28,Mississippi,1,14,,,,nflverse
+00-0026239,Oniel Cousins,LT,RT,64,76,315,1984-06-29,,2,14,,,,nflverse
+00-0027665,Terrence Cody,DT,,62,76,349,1988-06-28,,0,14,,,,nflverse
+00-0024379,Tony Moll,LT,RT,79,77,315,1983-08-23,,4,14,,,,nflverse
+00-0020516,Todd Heap,TE,,86,77,247,1980-03-16,,9,13,13,,,nflverse
+00-0027675,Ed Dickson,TE,,83,76,250,1987-07-25,Oregon,0,12,12,,,nflverse
+00-0021147,Donte' Stallworth,WR,,18,72,220,1980-11-10,,8,6,,,,nflverse
+00-0027755,David Reed,WR,,16,72,190,1987-03-22,,0,3,,,,nflverse
+00-0027714,Dennis Pitta,TE,,88,76,245,1985-06-29,Brigham Young,0,3,,,,nflverse
+00-0026369,Cary Williams,CB,,29,73,182,1984-12-23,Washburn,2,1,,,,nflverse
+00-0024417,Sam Koch,P,,4,73,216,1982-08-13,Nebraska,4,1,,,,nflverse

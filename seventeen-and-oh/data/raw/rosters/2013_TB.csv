@@ -1,0 +1,56 @@
+player_id,name,position,secondary_positions,jersey_number,height,weight,birth_date,college,years_exp,games,games_started,scout_grade,awards,notes
+00-0025439,Brian Leonard,RB,,30,73,225,1984-02-03,,6,16,16,,,nflverse
+00-0023496,Vincent Jackson,WR,,83,77,230,1983-01-14,Northern Colorado,8,16,16,,,nflverse
+00-0027958,Adrian Clayborn,EDGE,,94,75,280,1988-07-06,Iowa,2,14,,,,nflverse
+00-0030402,Akeem Spence,DT,,97,73,307,1991-11-29,Illinois,0,14,,,,nflverse
+00-0026304,Carl Nicks,LG,RG,77,77,349,1985-05-14,,5,14,,,,nflverse
+00-0027989,Da'Quan Bowers,EDGE,,91,76,288,1990-02-23,Clemson,2,14,,,,nflverse
+00-0023578,Dan Orlovsky,QB,,6,77,230,1983-08-18,Connecticut,8,14,,,,nflverse
+00-0027689,Daniel Te'o-Nesheim,EDGE,,50,75,263,1987-06-12,,3,14,,,,nflverse
+00-0026837,Danny Gorrer,S,,36,72,180,1986-06-01,,4,14,,,,nflverse
+00-0025401,Darrelle Revis,CB,,24,71,198,1985-07-14,Pittsburgh,6,14,,,,nflverse
+00-0024238,Davin Joseph,LG,RG,75,75,313,1983-11-22,,7,14,,,,nflverse
+00-0026814,Demar Dotson,LT,RT,69,81,315,1985-10-11,Southern Mississippi,4,14,,,,nflverse
+00-0025553,Derek Landri,DT,,90,74,290,1983-09-21,,6,14,,,,nflverse
+00-0029898,Deveron Carr,S,,33,71,190,1990-08-10,,0,14,,,,nflverse
+00-0027967,Gabe Carimi,LG,RG,72,79,316,1988-06-13,,2,14,,,,nflverse
+00-0023327,Gary Gibson,DT,,95,75,312,1982-05-05,,8,14,,,,nflverse
+00-0027856,Gerald McCoy,DT,,93,76,300,1988-02-25,Oklahoma,3,14,,,,nflverse
+00-0027112,Jamon Meredith,LT,RT,79,77,312,1986-05-11,South Carolina,4,14,,,,nflverse
+00-0026223,Jeremy Zuttah,C,,76,76,308,1986-06-01,Rutgers,5,14,,,,nflverse
+00-0030469,Johnthan Banks,CB,,27,74,195,1989-10-03,Mississippi State,0,14,,,,nflverse
+00-0030032,Ka'Lial Glaud,LB,,58,74,220,1990-11-09,,0,14,,,,nflverse
+00-0028337,Kyle Adams,TE,,86,76,255,1988-01-19,,2,14,,,,nflverse
+00-0029087,Leonard Johnson,CB,,29,70,202,1990-03-30,Iowa State,1,14,,,,nflverse
+00-0029953,Lonnie Pryor,RB,,45,72,224,1990-02-22,,0,14,,,,nflverse
+00-0028042,Luke Stocker,TE,,88,77,253,1988-07-17,Tennessee,2,14,,,,nflverse
+00-0028875,Matthew Masifilo,EDGE,,65,75,280,1989-10-01,,1,14,,,,nflverse
+00-0025668,Michael Adams,CB,,21,68,181,1985-06-17,,6,14,,,,nflverse
+00-0029889,Patrick Omameh,LG,RG,66,76,305,1989-12-29,Michigan,0,14,,,,nflverse
+00-0029901,Rashaan Melvin,CB,,28,74,193,1989-10-02,Northern Illinois,0,14,,,,nflverse
+00-0019310,Rian Lindell,K,,4,75,227,1977-01-20,,13,14,,,,nflverse
+00-0030147,Russell Shepard,WR,,89,72,195,1990-09-17,LSU,0,14,,,,nflverse
+00-0029589,Scott Solomon,EDGE,,60,75,262,1988-11-05,Rice,1,14,,,,nflverse
+00-0026323,Spencer Larsen,RB,,46,74,245,1984-03-04,,5,14,,,,nflverse
+00-0030387,Steven Means,EDGE,,96,75,260,1990-09-16,Buffalo,0,14,,,,nflverse
+00-0027607,Ted Larsen,C,,62,74,305,1987-06-13,North Carolina State,3,14,,,,nflverse
+00-0029910,Timothy Wright,TE,,81,75,220,1990-04-07,Rutgers,0,14,14,,,nflverse
+00-0030386,William Gholston,EDGE,,92,78,281,1991-07-31,Michigan State,0,14,,,,nflverse
+00-0030520,Mike Glennon,QB,,8,78,225,1989-12-12,North Carolina State,0,13,13,,,nflverse
+00-0027156,Tiquan Underwood,WR,,11,73,183,1987-02-17,,4,12,12,,,nflverse
+00-0026780,Kevin Ogletree,WR,,85,73,198,1987-08-05,,4,11,11,,,nflverse
+00-0027844,Erik Lorig,RB,,41,76,250,1986-11-17,,3,9,9,,,nflverse
+00-0030391,Mike James,RB,,25,70,223,1991-04-13,Miami (Fla.),0,7,,,,nflverse
+00-0026367,Peyton Hillis,RB,,44,74,250,1986-01-21,,5,7,,,,nflverse
+00-0028905,Chris Owusu,WR,,80,74,200,1990-01-06,Stanford,1,6,,,,nflverse
+00-0029613,Doug Martin,RB,,22,69,215,1989-01-13,Boise State,1,6,,,,nflverse
+00-0027702,Mike Williams,WR,,19,74,212,1987-05-18,,3,6,,,,nflverse
+00-0029868,Skye Dawson,WR,,18,69,183,1990-12-02,,0,6,,,,nflverse
+00-0029098,Eric Page,WR,,17,70,180,1991-09-23,,1,5,,,,nflverse
+00-0026878,Tom Crabtree,TE,,84,76,245,1985-11-04,,4,5,,,,nflverse
+00-0030320,Michael Hill,RB,,44,70,205,1989-05-14,,0,3,,,,nflverse
+00-0027780,Nate Byham,TE,,82,76,264,1988-06-27,,3,3,,,,nflverse
+00-0029183,Danny Noble,TE,,86,77,248,1989-03-30,,1,2,,,,nflverse
+00-0029722,Jeff Demps,RB,,32,67,191,1990-01-08,,1,2,,,,nflverse
+00-0023234,Michael Koenen,P,,9,71,198,1982-07-13,,8,2,,,,nflverse
+00-0023894,Donald Penn,LT,RT,70,77,340,1983-04-27,Utah State,7,1,,,,nflverse
