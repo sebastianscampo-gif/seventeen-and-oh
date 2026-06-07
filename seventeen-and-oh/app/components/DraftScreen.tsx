@@ -1,24 +1,12 @@
 "use client";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { GameMode, Player, Position, RosterSlot, TeamSeason } from "@/lib/types";
 import type { TeamSeasonSummary } from "@/lib/data";
-import { effectiveRating } from "@/lib/scoring";
-import {
-  positionFit,
-  fitTier,
-  FitTone,
-  POSITION_NAMES,
-} from "@/lib/positions";
+import { POSITION_NAMES } from "@/lib/positions";
 import { teamTheme } from "@/lib/teamColors";
-import RosterPanel from "./RosterPanel";
 import TeamSeasonSpinner from "./TeamSeasonSpinner";
-
-const TONE_BADGE: Record<FitTone, string> = {
-  natural: "bg-emerald-500/15 text-emerald-300 ring-emerald-500/30",
-  similar: "bg-sky-500/15 text-sky-300 ring-sky-500/30",
-  emergency: "bg-amber-500/15 text-amber-300 ring-amber-500/30",
-  wrong: "bg-rose-500/15 text-rose-300 ring-rose-500/30",
-};
+import FootballFormationMap from "./FootballFormationMap";
+import RosterDetailsPanel from "./RosterDetailsPanel";
 
 const POSITION_ORDER: Position[] = [
   "QB", "RB", "WR", "TE", "LT", "LG", "C", "RG", "RT",
@@ -37,16 +25,22 @@ function topAttributes(p: Player, n = 3): [string, number][] {
 function PlayerCard({
   player,
   reveal,
+  selected,
   onClick,
 }: {
   player: Player;
   reveal: boolean;
+  selected: boolean;
   onClick: () => void;
 }) {
   return (
     <button
       onClick={onClick}
-      className="flex items-center justify-between gap-3 rounded-xl bg-white/[0.04] p-3 text-left ring-1 ring-white/10 transition hover:bg-white/[0.08] hover:ring-white/25"
+      className={`flex items-center justify-between gap-3 rounded-xl p-3 text-left ring-1 transition ${
+        selected
+          ? "bg-emerald-500/15 ring-emerald-400/50"
+          : "bg-white/[0.04] ring-white/10 hover:bg-white/[0.08] hover:ring-white/25"
+      }`}
     >
       <div className="min-w-0">
         <div className="truncate font-semibold text-white">{player.name}</div>
@@ -83,84 +77,6 @@ function PlayerCard({
   );
 }
 
-function SlotPicker({
-  player,
-  openSlots,
-  reveal,
-  onPick,
-  onClose,
-}: {
-  player: Player;
-  openSlots: RosterSlot[];
-  reveal: boolean;
-  onPick: (slotId: string) => void;
-  onClose: () => void;
-}) {
-  const ranked = openSlots
-    .map((s) => {
-      const fit = positionFit(player.position, player.secondaryPositions, s.position);
-      return { slot: s, fit, eff: effectiveRating(player, s.position), tier: fitTier(fit) };
-    })
-    .sort((a, b) => b.fit - a.fit);
-
-  return (
-    <div
-      className="fixed inset-0 z-50 flex items-end justify-center bg-black/70 backdrop-blur-sm sm:items-center sm:p-4"
-      onClick={onClose}
-    >
-      <div
-        className="max-h-[82vh] w-full max-w-md overflow-hidden rounded-t-2xl bg-[#10141d] ring-1 ring-white/15 sm:rounded-2xl"
-        onClick={(e) => e.stopPropagation()}
-      >
-        <div className="flex items-start justify-between gap-3 border-b border-white/10 p-4">
-          <div className="min-w-0">
-            <div className="text-xs uppercase tracking-wider text-white/40">
-              Assign a position
-            </div>
-            <div className="truncate text-lg font-bold text-white">
-              {player.name}
-            </div>
-            <div className="truncate text-xs text-white/50">
-              {POSITION_NAMES[player.position]}
-              {player.secondaryPositions.length > 0 &&
-                ` · also ${player.secondaryPositions.join(", ")}`}
-            </div>
-          </div>
-          <button
-            onClick={onClose}
-            className="shrink-0 rounded-lg px-2 py-1 text-sm text-white/50 transition hover:bg-white/10 hover:text-white"
-          >
-            Cancel
-          </button>
-        </div>
-        <div className="max-h-[58vh] space-y-1 overflow-y-auto p-3">
-          {ranked.map(({ slot, eff, tier }) => (
-            <button
-              key={slot.id}
-              onClick={() => onPick(slot.id)}
-              className="flex w-full items-center justify-between gap-3 rounded-lg bg-white/[0.04] px-3 py-2.5 text-left ring-1 ring-white/10 transition hover:bg-white/10 hover:ring-white/25"
-            >
-              <span className="flex items-center gap-2">
-                <span className="w-9 font-mono text-sm font-semibold text-white/70">
-                  {slot.label}
-                </span>
-                <span
-                  className={`rounded px-1.5 py-0.5 text-[11px] font-medium ring-1 ${TONE_BADGE[tier.tone]}`}
-                >
-                  {tier.label}
-                </span>
-              </span>
-              {reveal && (
-                <span className="font-mono text-sm font-bold text-white">{eff}</span>
-              )}
-            </button>
-          ))}
-        </div>
-      </div>
-    </div>
-  );
-}
-
 export default function DraftScreen({
   mode,
   roster,
@@ -187,10 +103,20 @@ export default function DraftScreen({
   onDraft: (player: Player, slotId: string) => void;
 }) {
   const [pending, setPending] = useState<Player | null>(null);
+  const [inspectedSlotId, setInspectedSlotId] = useState<string | null>(null);
   const reveal = mode === "classic";
   const theme = teamTheme(teamSeason?.teamCode ?? "");
   const filled = roster.filter((s) => s.player).length;
   const total = roster.length;
+
+  // Bring the field into view when the user picks a player to place — on mobile
+  // the draftable list sits below the field, so the target needs to scroll up.
+  const fieldRef = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    if (pending) {
+      fieldRef.current?.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+  }, [pending]);
 
   const groups = useMemo(() => {
     if (!teamSeason) return [];
@@ -209,10 +135,15 @@ export default function DraftScreen({
     })).filter((g) => g.players.length);
   }, [teamSeason, draftedIds, mode]);
 
-  const openSlots = roster.filter((s) => !s.player);
+  function placePlayer(slotId: string) {
+    if (!pending) return;
+    onDraft(pending, slotId);
+    setPending(null);
+    setInspectedSlotId(null);
+  }
 
   return (
-    <div className="mx-auto w-full max-w-5xl flex-1 px-4 py-5">
+    <div className="mx-auto w-full max-w-6xl flex-1 px-4 py-5">
       <div className="mb-2 flex items-center justify-between text-xs font-medium text-white/50">
         <span>
           Round <span className="text-white">{filled + 1}</span> of {total}
@@ -228,23 +159,64 @@ export default function DraftScreen({
         />
       </div>
 
-      <div className="grid gap-4 lg:grid-cols-[1fr_300px]">
-        <div>
+      <div className="grid gap-4 lg:grid-cols-[1fr_330px]">
+        <div className="min-w-0 space-y-4">
+          {/* The team you're building — the central roster interface. */}
+          <div ref={fieldRef} className="scroll-mt-4">
+            <FootballFormationMap
+              rosterSlots={roster}
+              selectedDraftedPlayer={pending}
+              mode={mode}
+              showRatings={reveal}
+              activeSlotId={inspectedSlotId}
+              onSlotClick={(id) => setInspectedSlotId(id)}
+              onAssignPlayerToSlot={(_playerId, slotId) => placePlayer(slotId)}
+            />
+
+            {pending && (
+              <div className="mt-3 flex items-center justify-between gap-3 rounded-xl bg-emerald-500/10 px-4 py-3 ring-1 ring-emerald-400/30">
+                <div className="min-w-0">
+                  <div className="text-[11px] font-semibold uppercase tracking-wider text-emerald-200/70">
+                    On the clock
+                  </div>
+                  <div className="truncate font-bold text-white">
+                    {pending.name}
+                    <span className="ml-1 font-normal text-white/50">
+                      · {pending.position}
+                      {reveal ? ` · ${pending.overall} OVR` : ""}
+                    </span>
+                  </div>
+                  <div className="text-xs text-white/50">
+                    Tap a glowing position on the field to place him.
+                  </div>
+                </div>
+                <button
+                  onClick={() => setPending(null)}
+                  className="shrink-0 rounded-lg bg-white/10 px-3 py-1.5 text-sm font-medium text-white/70 ring-1 ring-white/10 transition hover:bg-white/20 hover:text-white"
+                >
+                  Cancel
+                </button>
+              </div>
+            )}
+          </div>
+
           {/* This round's team-season is chosen by spinning the wheel. The
               spinner remounts each round (key=filled) so it resets to idle. */}
-          <TeamSeasonSpinner
-            key={filled}
-            teamSeasons={catalog}
-            onSpinComplete={onSpinComplete}
-            disabled={loadingRoster}
-            mode={mode}
-            avoidId={avoidId}
-            seed={seed == null ? undefined : seed + filled}
-            debug={debug}
-          />
+          {!pending && (
+            <TeamSeasonSpinner
+              key={filled}
+              teamSeasons={catalog}
+              onSpinComplete={onSpinComplete}
+              disabled={loadingRoster}
+              mode={mode}
+              avoidId={avoidId}
+              seed={seed == null ? undefined : seed + filled}
+              debug={debug}
+            />
+          )}
 
           {loadingRoster && (
-            <div className="mt-4 flex items-center justify-center gap-2 rounded-2xl bg-white/[0.03] py-6 text-sm text-white/50 ring-1 ring-white/10">
+            <div className="flex items-center justify-center gap-2 rounded-2xl bg-white/[0.03] py-6 text-sm text-white/50 ring-1 ring-white/10">
               <svg
                 className="h-4 w-4 animate-spin text-white/60"
                 viewBox="0 0 24 24"
@@ -258,22 +230,23 @@ export default function DraftScreen({
             </div>
           )}
 
-          {!teamSeason && !loadingRoster && (
-            <p className="mt-4 text-center text-sm text-white/40">
-              Spin to lock in a team-season, then draft one of its players.
+          {!teamSeason && !loadingRoster && !pending && (
+            <p className="text-center text-sm text-white/40">
+              Spin to lock in a team-season, then draft one of its players onto
+              the field.
             </p>
           )}
 
           {teamSeason && !loadingRoster && (
-            <>
+            <div className={pending ? "pointer-events-none opacity-40" : ""}>
               <div
-                className="mb-4 mt-4 overflow-hidden rounded-2xl p-4 ring-1 ring-white/10"
+                className="mb-4 overflow-hidden rounded-2xl p-4 ring-1 ring-white/10"
                 style={{
                   background: `linear-gradient(135deg, ${theme.primary} 0%, ${theme.primary}cc 55%, #080b12 150%)`,
                 }}
               >
                 <div className="text-xs font-semibold uppercase tracking-widest text-white/60">
-                  On the clock — pick any player, then choose an open slot
+                  Pick a player to draft
                 </div>
                 <div className="mt-1 flex flex-wrap items-baseline gap-x-3">
                   <span
@@ -306,6 +279,7 @@ export default function DraftScreen({
                           key={p.id}
                           player={p}
                           reveal={reveal}
+                          selected={pending?.id === p.id}
                           onClick={() => setPending(p)}
                         />
                       ))}
@@ -313,27 +287,19 @@ export default function DraftScreen({
                   </div>
                 ))}
               </div>
-            </>
+            </div>
           )}
         </div>
 
         <div className="lg:sticky lg:top-4 lg:self-start">
-          <RosterPanel roster={roster} reveal={reveal} />
+          <RosterDetailsPanel
+            roster={roster}
+            mode={mode}
+            pending={pending}
+            activeSlotId={inspectedSlotId}
+          />
         </div>
       </div>
-
-      {pending && (
-        <SlotPicker
-          player={pending}
-          openSlots={openSlots}
-          reveal={reveal}
-          onPick={(slotId) => {
-            onDraft(pending, slotId);
-            setPending(null);
-          }}
-          onClose={() => setPending(null)}
-        />
-      )}
     </div>
   );
 }

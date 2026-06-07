@@ -58,3 +58,31 @@ body {
     animation: none;
   }
 }
+
+/* Field roster map (FootballFormationMap) --------------------------------- */
+/* Open drop-targets pulse a white "targeting" outline while a drafted player
+   is waiting to be placed. The colored fit ring stays underneath (box-shadow),
+   so tone + pulse never fight over the same property. */
+@keyframes field-target-pulse {
+  0%,
+  100% {
+    outline-color: rgba(255, 255, 255, 0.25);
+    outline-offset: 1px;
+  }
+  50% {
+    outline-color: rgba(255, 255, 255, 0.7);
+    outline-offset: 3px;
+  }
+}
+.field-target {
+  outline: 2px solid rgba(255, 255, 255, 0.25);
+  outline-offset: 1px;
+  animation: field-target-pulse 1.2s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .field-target {
+    animation: none;
+    outline-color: rgba(255, 255, 255, 0.6);
+  }
+}
