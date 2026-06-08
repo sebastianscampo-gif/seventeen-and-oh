@@ -22,8 +22,11 @@
     "ratings:defaults": "node scripts/report-default-ratings.mjs",
     "ratings:queue": "node scripts/build-manual-review-queue.mjs",
     "ratings:validate": "node scripts/validate-rating-distribution.mjs",
+    "ratings:validate-teams": "node scripts/validate-team-seasons.mjs",
+    "ratings:validate-game": "node scripts/validate-game-data.mjs",
+    "ratings:validate-all": "node scripts/validate-team-seasons.mjs && node scripts/validate-rating-distribution.mjs && node scripts/validate-game-data.mjs",
     "ratings:export": "node scripts/export-team-seasons.mjs",
-    "ratings:regen": "node scripts/generate-ratings.mjs && node scripts/apply-overrides.mjs && node scripts/export-team-seasons.mjs && node scripts/validate-rating-distribution.mjs"
+    "ratings:regen": "node scripts/validate-team-seasons.mjs && node scripts/generate-ratings.mjs && node scripts/apply-overrides.mjs && node scripts/export-team-seasons.mjs && node scripts/validate-rating-distribution.mjs && node scripts/validate-game-data.mjs"
   },
   "dependencies": {
     "next": "16.2.7",

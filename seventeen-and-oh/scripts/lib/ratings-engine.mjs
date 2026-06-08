@@ -16,7 +16,7 @@
 
 import {
   ATTRIBUTE_FIELDS, POSITION_GROUP, POSITION_PROFILE, POSITIONS,
-  TIER, AWARD_TIERS, AWARD_BONUS_CAP, STAT_MODEL,
+  TIER, AWARD_TIERS, AWARD_BONUS_CAP, STAT_MODEL, FRAC_FLOOR, FRAC_CEIL,
   FALLBACK_OVERALL, GENERIC_FALLBACK_OVERALL,
   POSITION_VALUE, ROLE_TIER,
   RATING_MIN, RATING_MAX, OVERALL_FLOOR, STATUS, SOURCE,
@@ -65,10 +65,17 @@ export function statProduction(group, stats) {
     if (v == null) continue;
     hasStats = true;
     const w = s.weight ?? 1;
-    const frac = clamp(v / s.elite, 0, 1.25);
+    // Center on a league-average starter when an `avg` anchor is given: an
+    // average season reads ~0, elite ~+1, clearly below-replacement negative.
+    // Pure-volume stats with no `avg` keep a zero-based fraction. This is what
+    // stops a high-volume / low-efficiency line from scoring like a star.
+    const lo = s.avg ?? 0;
+    const frac = clamp((v - lo) / (s.elite - lo), s.avg != null ? FRAC_FLOOR : 0, FRAC_CEIL);
     prodNum += frac * w;
     prodDen += w;
-    const nudge = frac * 12; // ~+15 at elite production
+    // Attribute nudges only reward at/above average — a thin box score shouldn't
+    // gut an attribute the player's role already implies.
+    const nudge = Math.max(0, frac) * 14;
     for (const a of s.attr) attrNudges[a] = (attrNudges[a] || 0) + nudge;
   }
 
@@ -149,11 +156,15 @@ function resolveRole(input, group) {
 
 // How much of a role tier's separation survives when we have NO evidence of the
 // player's *quality* (no recorded starts, no box score, no awards, no scout
-// grade) — i.e. the tier came from a positional depth guess alone. We compress
-// such ratings toward the neutral prior so a guessed "starter" (and especially a
-// lone specialist like a kicker) is not priced like a proven one. Real evidence
-// keeps the full separation.
-const SOFT_ROLE_K = 0.4;
+// grade) — i.e. the tier came from a within-roster depth ranking alone. The
+// depth ranking is real signal about who starts, so we KEEP most of it (the old
+// 0.4 collapsed ~85% of the database to a flat ~70, the bug this fixes). We pull
+// only gently toward the neutral prior. The exception is an ambiguous room (a
+// position group the generator could not rank at all): there we genuinely cannot
+// tell starters from depth, so we compress hard toward the honest middle and damp
+// positional value. Real quality evidence always keeps the full separation.
+const SOFT_ROLE_K = 0.85;     // depth-ranked, no quality evidence: mostly trust the tier
+const AMBIGUOUS_ROLE_K = 0.5; // ambiguous room: pull toward the honest middle
 
 function rolePrior(position, group, input, hasQualityEvidence) {
   const hasAnyRole =
@@ -165,11 +176,14 @@ function rolePrior(position, group, input, hasQualityEvidence) {
   const T = ROLE_TIER[role.tier] || ROLE_TIER.unknown;
   const neutral = ROLE_TIER.unknown.base;
 
-  // Without quality evidence, pull the tier base toward the neutral prior and
-  // damp positional value — we know roughly where on the depth chart, not how
-  // good. With evidence, use the full tier base and full positional value.
-  const base = hasQualityEvidence ? T.base : neutral + SOFT_ROLE_K * (T.base - neutral);
-  const posWeight = hasQualityEvidence ? 1 : 0.6;
+  // Choose how much of the tier separation to keep and how strongly positional
+  // value applies, from how much we actually know about the player.
+  let K, posWeight;
+  if (hasQualityEvidence) { K = 1; posWeight = 1; }
+  else if (role.ambiguous) { K = AMBIGUOUS_ROLE_K; posWeight = 0.55; }
+  else { K = SOFT_ROLE_K; posWeight = 0.9; }
+
+  const base = neutral + K * (T.base - neutral);
   const posVal = (POSITION_VALUE[position] ?? 0) * T.weight * posWeight;
   // Small availability nudge (durability / games played), centered at ~0.8.
   const availBonus = (role.availability - 0.8) * 5;
@@ -193,6 +207,38 @@ function tierOf(group, attr) {
   if (p.support?.includes(attr)) return "support";
   if (p.minor?.includes(attr)) return "minor";
   return "irrelevant";
+}
+
+// ---------------------------------------------------------------------------
+// Attribute projection. Given a position group + overall, produce all 21
+// detailed attributes by tracking each one's relevance tier toward the overall
+// (key attributes ride it 1:1, irrelevant ones barely move), then layering on
+// box-score nudges, an award key-lift, an availability-driven durability bump,
+// and a small playoff-clutch bump for award winners. Deterministic per seed.
+//
+// Pulled out of finalize() so curated overrides that set ONLY `overall` can
+// re-derive coherent, position-appropriate attributes from the same model
+// instead of carrying stale attributes computed from a pre-override overall.
+// ---------------------------------------------------------------------------
+export function projectAttributes(group, overall, seed = "x", opts = {}) {
+  const { attrNudges = {}, keyLift = 0, availability = null, awardOverall = 0 } = opts;
+  const out = {};
+  for (const attr of ATTRIBUTE_FIELDS) {
+    const tier = tierOf(group, attr);
+    const T = TIER[tier];
+    // Base track toward overall + a stable per-attribute jitter for texture.
+    let v = T.base + T.slope * (overall - 50) + T.jitter * jitter(seed + "|" + attr);
+    // Production nudges (only present when the player had a real box score).
+    if (attrNudges[attr]) v += attrNudges[attr];
+    // Award winners get their KEY attributes lifted so they read elite.
+    if (tier === "key") v += keyLift;
+    // Durability follows availability (games played) when we know the role.
+    if (attr === "durability" && availability != null) v += (availability - 0.75) * 16;
+    // Playoff clutch leans on award pedigree (postseason honors / MVPs).
+    if (attr === "playoff_clutch") v += awardOverall * 0.15;
+    out[attr] = clamp(Math.round(v), RATING_MIN, RATING_MAX);
+  }
+  return out;
 }
 
 // ---------------------------------------------------------------------------
@@ -311,7 +357,14 @@ export function finalize(input, ctx, cohortPercentile = 0.5, defaults = {}) {
   } else if (!ctx.hasData) {
     status = STATUS.NEEDS_REVIEW;
     source = SOURCE.FALLBACK;
-    overall = FALLBACK_OVERALL[ctx.group] ?? GENERIC_FALLBACK_OVERALL;
+    // Position-aware provisional value: lean on the (unknown-role) composite so a
+    // no-data corner isn't priced like a no-data punter, but hold it inside a
+    // clearly-provisional window. Always exported NEEDS_REVIEW + low-confidence
+    // (see flagReview/buildReason), never mistaken for a graded rating.
+    const provisional = Number.isFinite(ctx.rawComposite)
+      ? ctx.rawComposite
+      : (FALLBACK_OVERALL[ctx.group] ?? GENERIC_FALLBACK_OVERALL);
+    overall = clamp(Math.round(provisional), 55, 74);
   } else {
     // Generated rating: pick a confidence tier from how much *real* evidence
     // backs it. Box-score stats and awards are strong signals; a scouting prior
@@ -333,28 +386,29 @@ export function finalize(input, ctx, cohortPercentile = 0.5, defaults = {}) {
     // (position-aware) composite and let the curve nudge only lightly. This also
     // stops a lone, evidence-free specialist from being lifted above real
     // starters on a data-empty roster.
-    const pCurve = 60 + cohortPercentile * 38; // p=0 -> 60, p=1 -> 98
-    const pWeight = ctx.hasQualityEvidence ? 0.18 : 0.1;
+    const pCurve = 58 + cohortPercentile * 42; // p=0 -> 58, p=1 -> 100
+    const pWeight = ctx.hasQualityEvidence ? 0.22 : 0.12;
     overall = (1 - pWeight) * ctx.rawComposite + pWeight * pCurve;
+    // Top-of-cohort star lift: a player who ranks near the top of their era
+    // cohort AND has real evidence backing it earns a small extra bump so a
+    // genuine standout can reach the Star band without needing a major award.
+    if (ctx.hasQualityEvidence && cohortPercentile > 0.85) {
+      overall += (cohortPercentile - 0.85) * 20; // up to +3 at the very top
+    }
   }
 
   overall = clamp(Math.round(overall), isGeneratedStatus(status) ? OVERALL_FLOOR : RATING_MIN, RATING_MAX);
 
   // --- attributes ----------------------------------------------------------
-  const attrNudges = ctx.stat.attrNudges || {};
-  const keyLift = ctx.award.lift || 0;
-  const rating = { overall };
-
-  for (const attr of ATTRIBUTE_FIELDS) {
-    const tier = tierOf(ctx.group, attr);
-    const T = TIER[tier];
-    let v = T.base + T.slope * (overall - 50) + T.jitter * jitter(seed + "|" + attr);
-    if (attrNudges[attr]) v += attrNudges[attr];
-    if (tier === "key") v += keyLift;
-    if (attr === "durability" && ctx.hasRole) v += (ctx.availability - 0.75) * 16;
-    if (attr === "playoff_clutch") v += ctx.award.overall * 0.15; // big-game pedigree
-    rating[attr] = clamp(Math.round(v), RATING_MIN, RATING_MAX);
-  }
+  const rating = {
+    overall,
+    ...projectAttributes(ctx.group, overall, seed, {
+      attrNudges: ctx.stat.attrNudges || {},
+      keyLift: ctx.award.lift || 0,
+      availability: ctx.hasRole ? ctx.availability : null,
+      awardOverall: ctx.award.overall,
+    }),
+  };
   // Overall should not trail its own best attributes too far for elite players.
   rating.overall = clamp(rating.overall, isGeneratedStatus(status) ? OVERALL_FLOOR : RATING_MIN, RATING_MAX);
 

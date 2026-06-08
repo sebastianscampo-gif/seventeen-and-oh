@@ -43,8 +43,12 @@ function roleScore(group, input) {
   if (gs != null) s += 1000 + gs * 5;                              // recorded starts dominate
   const prod = statProduction(group, input.stats || {});
   if (prod.hasStats) s += 300 + Math.max(0, prod.overallBonus) * 20; // production = real role
-  if (exp != null) s += Math.min(exp, 15) * 2;                     // experience (weak)
-  if (games != null) s += clamp(games / 16, 0, 1) * 3;            // availability (often flat)
+  if (exp != null) s += Math.min(exp, 16) * 4;                     // experience (tiebreaker)
+  // Games played is the one signal almost every row carries. Let it actually
+  // rank a group when starts/stats/experience are absent — starters take more
+  // snaps — so a roster gets a believable depth order instead of a flat block.
+  // It stays a within-roster ORDER only; the rating remains low-confidence.
+  if (games != null) s += clamp(games / 16, 0, 1) * 8;            // availability
   return s;
 }
 

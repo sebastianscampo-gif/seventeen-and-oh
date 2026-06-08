@@ -3034,7 +3034,7 @@
     "ratingConfidence": 0.88,
     "ratingSource": "generated",
     "needsReview": 0,
-    "needsManualReview": 0,
+    "needsManualReview": 9,
     "statusCounts": {
       "generated_high_confidence": 16,
       "manually_reviewed": 1,
@@ -5710,7 +5710,7 @@
     "ratingConfidence": 0.82,
     "ratingSource": "generated",
     "needsReview": 0,
-    "needsManualReview": 0,
+    "needsManualReview": 10,
     "statusCounts": {
       "generated_medium_confidence": 22,
       "generated_high_confidence": 6,
@@ -6334,12 +6334,13 @@
     "label": "1980 Cincinnati Bengals",
     "file": "1980_CIN.json",
     "playerCount": 54,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 54
+      "generated_low_confidence": 53,
+      "manual_override": 1
     }
   },
   {
@@ -6782,12 +6783,13 @@
     "label": "1981 Cincinnati Bengals",
     "file": "1981_CIN.json",
     "playerCount": 50,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 50
+      "manual_override": 1,
+      "generated_low_confidence": 49
     }
   },
   {
@@ -7006,12 +7008,13 @@
     "label": "1981 New York Giants",
     "file": "1981_NYG.json",
     "playerCount": 50,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 50
+      "generated_low_confidence": 49,
+      "manual_override": 1
     }
   },
   {
@@ -7230,12 +7233,13 @@
     "label": "1982 Cincinnati Bengals",
     "file": "1982_CIN.json",
     "playerCount": 52,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 52
+      "manual_override": 1,
+      "generated_low_confidence": 51
     }
   },
   {
@@ -7454,12 +7458,13 @@
     "label": "1982 New York Giants",
     "file": "1982_NYG.json",
     "playerCount": 56,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 56
+      "generated_low_confidence": 55,
+      "manual_override": 1
     }
   },
   {
@@ -7678,12 +7683,13 @@
     "label": "1983 Cincinnati Bengals",
     "file": "1983_CIN.json",
     "playerCount": 52,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.36,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 52
+      "generated_low_confidence": 51,
+      "manual_override": 1
     }
   },
   {
@@ -7902,12 +7908,13 @@
     "label": "1983 New York Giants",
     "file": "1983_NYG.json",
     "playerCount": 60,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 60
+      "generated_low_confidence": 59,
+      "manual_override": 1
     }
   },
   {
@@ -8126,12 +8133,13 @@
     "label": "1984 Cincinnati Bengals",
     "file": "1984_CIN.json",
     "playerCount": 54,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 54
+      "manual_override": 1,
+      "generated_low_confidence": 53
     }
   },
   {
@@ -8350,12 +8358,13 @@
     "label": "1984 New York Giants",
     "file": "1984_NYG.json",
     "playerCount": 52,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 52
+      "generated_low_confidence": 51,
+      "manual_override": 1
     }
   },
   {
@@ -8542,12 +8551,13 @@
     "label": "1985 Buffalo Bills",
     "file": "1985_BUF.json",
     "playerCount": 53,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 2,
     "statusCounts": {
-      "generated_low_confidence": 53
+      "generated_low_confidence": 52,
+      "manual_override": 1
     }
   },
   {
@@ -8561,7 +8571,7 @@
     "ratingConfidence": 0.77,
     "ratingSource": "generated",
     "needsReview": 0,
-    "needsManualReview": 2,
+    "needsManualReview": 17,
     "statusCounts": {
       "manual_override": 4,
       "generated_medium_confidence": 19
@@ -8575,12 +8585,13 @@
     "label": "1985 Cincinnati Bengals",
     "file": "1985_CIN.json",
     "playerCount": 48,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 48
+      "manual_override": 1,
+      "generated_low_confidence": 47
     }
   },
   {
@@ -8751,12 +8762,13 @@
     "label": "1985 Minnesota Vikings",
     "file": "1985_MIN.json",
     "playerCount": 48,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 48
+      "generated_low_confidence": 47,
+      "manual_override": 1
     }
   },
   {
@@ -8799,12 +8811,13 @@
     "label": "1985 New York Giants",
     "file": "1985_NYG.json",
     "playerCount": 51,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 51
+      "generated_low_confidence": 50,
+      "manual_override": 1
     }
   },
   {
@@ -8831,12 +8844,13 @@
     "label": "1985 Philadelphia Eagles",
     "file": "1985_PHI.json",
     "playerCount": 53,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 53
+      "generated_low_confidence": 52,
+      "manual_override": 1
     }
   },
   {
@@ -8991,12 +9005,13 @@
     "label": "1986 Buffalo Bills",
     "file": "1986_BUF.json",
     "playerCount": 57,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 57
+      "generated_low_confidence": 56,
+      "manual_override": 1
     }
   },
   {
@@ -9023,12 +9038,13 @@
     "label": "1986 Cincinnati Bengals",
     "file": "1986_CIN.json",
     "playerCount": 46,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 46
+      "manual_override": 1,
+      "generated_low_confidence": 45
     }
   },
   {
@@ -9199,12 +9215,13 @@
     "label": "1986 Minnesota Vikings",
     "file": "1986_MIN.json",
     "playerCount": 54,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 54
+      "generated_low_confidence": 53,
+      "manual_override": 1
     }
   },
   {
@@ -9247,12 +9264,13 @@
     "label": "1986 New York Giants",
     "file": "1986_NYG.json",
     "playerCount": 51,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 51
+      "generated_low_confidence": 50,
+      "manual_override": 1
     }
   },
   {
@@ -9279,12 +9297,13 @@
     "label": "1986 Philadelphia Eagles",
     "file": "1986_PHI.json",
     "playerCount": 57,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 57
+      "generated_low_confidence": 56,
+      "manual_override": 1
     }
   },
   {
@@ -9407,7 +9426,7 @@
     "label": "1987 Arizona Cardinals",
     "file": "1987_ARI.json",
     "playerCount": 86,
-    "ratingConfidence": 0.42,
+    "ratingConfidence": 0.43,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 2,
@@ -9423,7 +9442,7 @@
     "label": "1987 Atlanta Falcons",
     "file": "1987_ATL.json",
     "playerCount": 112,
-    "ratingConfidence": 0.42,
+    "ratingConfidence": 0.44,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 2,
@@ -9439,12 +9458,13 @@
     "label": "1987 Buffalo Bills",
     "file": "1987_BUF.json",
     "playerCount": 109,
-    "ratingConfidence": 0.38,
+    "ratingConfidence": 0.42,
     "ratingSource": "generated",
     "needsReview": 0,
-    "needsManualReview": 6,
+    "needsManualReview": 2,
     "statusCounts": {
-      "generated_low_confidence": 109
+      "generated_low_confidence": 108,
+      "manual_override": 1
     }
   },
   {
@@ -9471,12 +9491,13 @@
     "label": "1987 Cincinnati Bengals",
     "file": "1987_CIN.json",
     "playerCount": 94,
-    "ratingConfidence": 0.43,
+    "ratingConfidence": 0.45,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 2,
     "statusCounts": {
-      "generated_low_confidence": 94
+      "generated_low_confidence": 93,
+      "manual_override": 1
     }
   },
   {
@@ -9487,10 +9508,10 @@
     "label": "1987 Cleveland Browns",
     "file": "1987_CLE.json",
     "playerCount": 102,
-    "ratingConfidence": 0.43,
+    "ratingConfidence": 0.44,
     "ratingSource": "generated",
     "needsReview": 0,
-    "needsManualReview": 5,
+    "needsManualReview": 2,
     "statusCounts": {
       "generated_low_confidence": 102
     }
@@ -9503,7 +9524,7 @@
     "label": "1987 Dallas Cowboys",
     "file": "1987_DAL.json",
     "playerCount": 93,
-    "ratingConfidence": 0.4,
+    "ratingConfidence": 0.41,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 2,
@@ -9519,7 +9540,7 @@
     "label": "1987 Denver Broncos",
     "file": "1987_DEN.json",
     "playerCount": 92,
-    "ratingConfidence": 0.41,
+    "ratingConfidence": 0.44,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 2,
@@ -9551,7 +9572,7 @@
     "label": "1987 Green Bay Packers",
     "file": "1987_GB.json",
     "playerCount": 104,
-    "ratingConfidence": 0.39,
+    "ratingConfidence": 0.42,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 5,
@@ -9583,7 +9604,7 @@
     "label": "1987 Kansas City Chiefs",
     "file": "1987_KC.json",
     "playerCount": 111,
-    "ratingConfidence": 0.41,
+    "ratingConfidence": 0.43,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 6,
@@ -9599,7 +9620,7 @@
     "label": "1987 Los Angeles Chargers",
     "file": "1987_LAC.json",
     "playerCount": 98,
-    "ratingConfidence": 0.41,
+    "ratingConfidence": 0.43,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 2,
@@ -9647,12 +9668,13 @@
     "label": "1987 Minnesota Vikings",
     "file": "1987_MIN.json",
     "playerCount": 116,
-    "ratingConfidence": 0.43,
+    "ratingConfidence": 0.45,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 2,
     "statusCounts": {
-      "generated_low_confidence": 116
+      "generated_low_confidence": 115,
+      "manual_override": 1
     }
   },
   {
@@ -9679,10 +9701,10 @@
     "label": "1987 New Orleans Saints",
     "file": "1987_NO.json",
     "playerCount": 93,
-    "ratingConfidence": 0.41,
+    "ratingConfidence": 0.43,
     "ratingSource": "generated",
     "needsReview": 0,
-    "needsManualReview": 5,
+    "needsManualReview": 2,
     "statusCounts": {
       "generated_low_confidence": 93
     }
@@ -9695,12 +9717,13 @@
     "label": "1987 New York Giants",
     "file": "1987_NYG.json",
     "playerCount": 106,
-    "ratingConfidence": 0.43,
+    "ratingConfidence": 0.44,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 2,
     "statusCounts": {
-      "generated_low_confidence": 106
+      "generated_low_confidence": 105,
+      "manual_override": 1
     }
   },
   {
@@ -9711,7 +9734,7 @@
     "label": "1987 New York Jets",
     "file": "1987_NYJ.json",
     "playerCount": 100,
-    "ratingConfidence": 0.42,
+    "ratingConfidence": 0.43,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 2,
@@ -9727,12 +9750,13 @@
     "label": "1987 Philadelphia Eagles",
     "file": "1987_PHI.json",
     "playerCount": 110,
-    "ratingConfidence": 0.41,
+    "ratingConfidence": 0.43,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 2,
     "statusCounts": {
-      "generated_low_confidence": 110
+      "generated_low_confidence": 109,
+      "manual_override": 1
     }
   },
   {
@@ -9743,12 +9767,13 @@
     "label": "1987 Pittsburgh Steelers",
     "file": "1987_PIT.json",
     "playerCount": 90,
-    "ratingConfidence": 0.4,
+    "ratingConfidence": 0.41,
     "ratingSource": "generated",
     "needsReview": 0,
-    "needsManualReview": 4,
+    "needsManualReview": 2,
     "statusCounts": {
-      "generated_low_confidence": 90
+      "generated_low_confidence": 89,
+      "manual_override": 1
     }
   },
   {
@@ -9775,7 +9800,7 @@
     "label": "1987 San Francisco 49ers",
     "file": "1987_SF.json",
     "playerCount": 95,
-    "ratingConfidence": 0.4,
+    "ratingConfidence": 0.41,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 2,
@@ -9807,7 +9832,7 @@
     "label": "1987 Tampa Bay Buccaneers",
     "file": "1987_TB.json",
     "playerCount": 107,
-    "ratingConfidence": 0.36,
+    "ratingConfidence": 0.39,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 2,
@@ -9823,7 +9848,7 @@
     "label": "1987 Tennessee Titans",
     "file": "1987_TEN.json",
     "playerCount": 101,
-    "ratingConfidence": 0.42,
+    "ratingConfidence": 0.45,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 2,
@@ -9887,12 +9912,13 @@
     "label": "1988 Buffalo Bills",
     "file": "1988_BUF.json",
     "playerCount": 53,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 53
+      "generated_low_confidence": 52,
+      "manual_override": 1
     }
   },
   {
@@ -9919,12 +9945,13 @@
     "label": "1988 Cincinnati Bengals",
     "file": "1988_CIN.json",
     "playerCount": 55,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 55
+      "manual_override": 1,
+      "generated_low_confidence": 54
     }
   },
   {
@@ -10095,12 +10122,13 @@
     "label": "1988 Minnesota Vikings",
     "file": "1988_MIN.json",
     "playerCount": 52,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 52
+      "generated_low_confidence": 51,
+      "manual_override": 1
     }
   },
   {
@@ -10143,12 +10171,13 @@
     "label": "1988 New York Giants",
     "file": "1988_NYG.json",
     "playerCount": 56,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 56
+      "generated_low_confidence": 55,
+      "manual_override": 1
     }
   },
   {
@@ -10175,12 +10204,13 @@
     "label": "1988 Philadelphia Eagles",
     "file": "1988_PHI.json",
     "playerCount": 52,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.36,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 52
+      "generated_low_confidence": 51,
+      "manual_override": 1
     }
   },
   {
@@ -10191,12 +10221,13 @@
     "label": "1988 Pittsburgh Steelers",
     "file": "1988_PIT.json",
     "playerCount": 52,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 52
+      "generated_low_confidence": 51,
+      "manual_override": 1
     }
   },
   {
@@ -10319,12 +10350,13 @@
     "label": "1989 Atlanta Falcons",
     "file": "1989_ATL.json",
     "playerCount": 56,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 56
+      "generated_low_confidence": 55,
+      "manual_override": 1
     }
   },
   {
@@ -10335,12 +10367,13 @@
     "label": "1989 Buffalo Bills",
     "file": "1989_BUF.json",
     "playerCount": 50,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 50
+      "generated_low_confidence": 49,
+      "manual_override": 1
     }
   },
   {
@@ -10367,12 +10400,13 @@
     "label": "1989 Cincinnati Bengals",
     "file": "1989_CIN.json",
     "playerCount": 56,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 56
+      "manual_override": 1,
+      "generated_low_confidence": 55
     }
   },
   {
@@ -10479,12 +10513,13 @@
     "label": "1989 Kansas City Chiefs",
     "file": "1989_KC.json",
     "playerCount": 56,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 56
+      "generated_low_confidence": 55,
+      "manual_override": 1
     }
   },
   {
@@ -10543,12 +10578,13 @@
     "label": "1989 Minnesota Vikings",
     "file": "1989_MIN.json",
     "playerCount": 56,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 56
+      "generated_low_confidence": 55,
+      "manual_override": 1
     }
   },
   {
@@ -10591,12 +10627,13 @@
     "label": "1989 New York Giants",
     "file": "1989_NYG.json",
     "playerCount": 51,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 51
+      "generated_low_confidence": 50,
+      "manual_override": 1
     }
   },
   {
@@ -10623,12 +10660,13 @@
     "label": "1989 Philadelphia Eagles",
     "file": "1989_PHI.json",
     "playerCount": 58,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 58
+      "generated_low_confidence": 57,
+      "manual_override": 1
     }
   },
   {
@@ -10639,12 +10677,13 @@
     "label": "1989 Pittsburgh Steelers",
     "file": "1989_PIT.json",
     "playerCount": 52,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 52
+      "generated_low_confidence": 51,
+      "manual_override": 1
     }
   },
   {
@@ -10674,7 +10713,7 @@
     "ratingConfidence": 0.85,
     "ratingSource": "generated",
     "needsReview": 0,
-    "needsManualReview": 0,
+    "needsManualReview": 10,
     "statusCounts": {
       "generated_high_confidence": 10,
       "generated_medium_confidence": 18,
@@ -10769,12 +10808,13 @@
     "label": "1990 Atlanta Falcons",
     "file": "1990_ATL.json",
     "playerCount": 55,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 55
+      "generated_low_confidence": 54,
+      "manual_override": 1
     }
   },
   {
@@ -10785,12 +10825,13 @@
     "label": "1990 Buffalo Bills",
     "file": "1990_BUF.json",
     "playerCount": 55,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 55
+      "generated_low_confidence": 54,
+      "manual_override": 1
     }
   },
   {
@@ -10817,12 +10858,13 @@
     "label": "1990 Cincinnati Bengals",
     "file": "1990_CIN.json",
     "playerCount": 52,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 52
+      "manual_override": 1,
+      "generated_low_confidence": 51
     }
   },
   {
@@ -10929,12 +10971,13 @@
     "label": "1990 Kansas City Chiefs",
     "file": "1990_KC.json",
     "playerCount": 52,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 2,
     "statusCounts": {
-      "generated_low_confidence": 52
+      "generated_low_confidence": 51,
+      "manual_override": 1
     }
   },
   {
@@ -10945,12 +10988,13 @@
     "label": "1990 Los Angeles Chargers",
     "file": "1990_LAC.json",
     "playerCount": 58,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 58
+      "generated_low_confidence": 57,
+      "manual_override": 1
     }
   },
   {
@@ -10993,12 +11037,13 @@
     "label": "1990 Minnesota Vikings",
     "file": "1990_MIN.json",
     "playerCount": 59,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 59
+      "generated_low_confidence": 57,
+      "manual_override": 2
     }
   },
   {
@@ -11041,12 +11086,13 @@
     "label": "1990 New York Giants",
     "file": "1990_NYG.json",
     "playerCount": 52,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 52
+      "generated_low_confidence": 51,
+      "manual_override": 1
     }
   },
   {
@@ -11073,12 +11119,13 @@
     "label": "1990 Philadelphia Eagles",
     "file": "1990_PHI.json",
     "playerCount": 55,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 2,
     "statusCounts": {
-      "generated_low_confidence": 55
+      "generated_low_confidence": 54,
+      "manual_override": 1
     }
   },
   {
@@ -11089,12 +11136,13 @@
     "label": "1990 Pittsburgh Steelers",
     "file": "1990_PIT.json",
     "playerCount": 52,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 52
+      "generated_low_confidence": 51,
+      "manual_override": 1
     }
   },
   {
@@ -11217,12 +11265,13 @@
     "label": "1991 Atlanta Falcons",
     "file": "1991_ATL.json",
     "playerCount": 55,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 55
+      "generated_low_confidence": 54,
+      "manual_override": 1
     }
   },
   {
@@ -11233,12 +11282,13 @@
     "label": "1991 Buffalo Bills",
     "file": "1991_BUF.json",
     "playerCount": 59,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 59
+      "generated_low_confidence": 58,
+      "manual_override": 1
     }
   },
   {
@@ -11265,12 +11315,13 @@
     "label": "1991 Cincinnati Bengals",
     "file": "1991_CIN.json",
     "playerCount": 57,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 57
+      "generated_low_confidence": 56,
+      "manual_override": 1
     }
   },
   {
@@ -11377,12 +11428,13 @@
     "label": "1991 Kansas City Chiefs",
     "file": "1991_KC.json",
     "playerCount": 56,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 56
+      "generated_low_confidence": 55,
+      "manual_override": 1
     }
   },
   {
@@ -11393,12 +11445,13 @@
     "label": "1991 Los Angeles Chargers",
     "file": "1991_LAC.json",
     "playerCount": 61,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 61
+      "generated_low_confidence": 60,
+      "manual_override": 1
     }
   },
   {
@@ -11441,12 +11494,13 @@
     "label": "1991 Minnesota Vikings",
     "file": "1991_MIN.json",
     "playerCount": 54,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.37,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 54
+      "generated_low_confidence": 52,
+      "manual_override": 2
     }
   },
   {
@@ -11489,12 +11543,13 @@
     "label": "1991 New York Giants",
     "file": "1991_NYG.json",
     "playerCount": 58,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 58
+      "generated_low_confidence": 57,
+      "manual_override": 1
     }
   },
   {
@@ -11521,12 +11576,13 @@
     "label": "1991 Philadelphia Eagles",
     "file": "1991_PHI.json",
     "playerCount": 59,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 5,
     "statusCounts": {
-      "generated_low_confidence": 59
+      "generated_low_confidence": 58,
+      "manual_override": 1
     }
   },
   {
@@ -11537,12 +11593,13 @@
     "label": "1991 Pittsburgh Steelers",
     "file": "1991_PIT.json",
     "playerCount": 56,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 56
+      "generated_low_confidence": 55,
+      "manual_override": 1
     }
   },
   {
@@ -11665,12 +11722,13 @@
     "label": "1992 Atlanta Falcons",
     "file": "1992_ATL.json",
     "playerCount": 58,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 58
+      "generated_low_confidence": 57,
+      "manual_override": 1
     }
   },
   {
@@ -11681,12 +11739,13 @@
     "label": "1992 Buffalo Bills",
     "file": "1992_BUF.json",
     "playerCount": 56,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 56
+      "generated_low_confidence": 55,
+      "manual_override": 1
     }
   },
   {
@@ -11713,12 +11772,13 @@
     "label": "1992 Cincinnati Bengals",
     "file": "1992_CIN.json",
     "playerCount": 61,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 61
+      "generated_low_confidence": 60,
+      "manual_override": 1
     }
   },
   {
@@ -11825,12 +11885,13 @@
     "label": "1992 Kansas City Chiefs",
     "file": "1992_KC.json",
     "playerCount": 57,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 57
+      "generated_low_confidence": 56,
+      "manual_override": 1
     }
   },
   {
@@ -11841,12 +11902,13 @@
     "label": "1992 Los Angeles Chargers",
     "file": "1992_LAC.json",
     "playerCount": 62,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 62
+      "generated_low_confidence": 61,
+      "manual_override": 1
     }
   },
   {
@@ -11889,12 +11951,13 @@
     "label": "1992 Minnesota Vikings",
     "file": "1992_MIN.json",
     "playerCount": 58,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.36,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 58
+      "generated_low_confidence": 56,
+      "manual_override": 2
     }
   },
   {
@@ -11937,12 +12000,13 @@
     "label": "1992 New York Giants",
     "file": "1992_NYG.json",
     "playerCount": 58,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 58
+      "generated_low_confidence": 57,
+      "manual_override": 1
     }
   },
   {
@@ -11969,12 +12033,13 @@
     "label": "1992 Philadelphia Eagles",
     "file": "1992_PHI.json",
     "playerCount": 59,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 59
+      "generated_low_confidence": 58,
+      "manual_override": 1
     }
   },
   {
@@ -11985,12 +12050,13 @@
     "label": "1992 Pittsburgh Steelers",
     "file": "1992_PIT.json",
     "playerCount": 50,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 50
+      "generated_low_confidence": 49,
+      "manual_override": 1
     }
   },
   {
@@ -12113,12 +12179,13 @@
     "label": "1993 Atlanta Falcons",
     "file": "1993_ATL.json",
     "playerCount": 58,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 58
+      "generated_low_confidence": 57,
+      "manual_override": 1
     }
   },
   {
@@ -12129,12 +12196,13 @@
     "label": "1993 Buffalo Bills",
     "file": "1993_BUF.json",
     "playerCount": 56,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 56
+      "generated_low_confidence": 55,
+      "manual_override": 1
     }
   },
   {
@@ -12241,12 +12309,13 @@
     "label": "1993 Green Bay Packers",
     "file": "1993_GB.json",
     "playerCount": 64,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 64
+      "generated_low_confidence": 63,
+      "manual_override": 1
     }
   },
   {
@@ -12273,12 +12342,13 @@
     "label": "1993 Kansas City Chiefs",
     "file": "1993_KC.json",
     "playerCount": 58,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 58
+      "generated_low_confidence": 57,
+      "manual_override": 1
     }
   },
   {
@@ -12289,12 +12359,13 @@
     "label": "1993 Los Angeles Chargers",
     "file": "1993_LAC.json",
     "playerCount": 61,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 61
+      "generated_low_confidence": 60,
+      "manual_override": 1
     }
   },
   {
@@ -12337,12 +12408,13 @@
     "label": "1993 Minnesota Vikings",
     "file": "1993_MIN.json",
     "playerCount": 59,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 59
+      "generated_low_confidence": 57,
+      "manual_override": 2
     }
   },
   {
@@ -12385,12 +12457,13 @@
     "label": "1993 New York Giants",
     "file": "1993_NYG.json",
     "playerCount": 59,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 59
+      "generated_low_confidence": 58,
+      "manual_override": 1
     }
   },
   {
@@ -12433,12 +12506,13 @@
     "label": "1993 Pittsburgh Steelers",
     "file": "1993_PIT.json",
     "playerCount": 57,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 57
+      "generated_low_confidence": 56,
+      "manual_override": 1
     }
   },
   {
@@ -12497,12 +12571,13 @@
     "label": "1993 Tampa Bay Buccaneers",
     "file": "1993_TB.json",
     "playerCount": 63,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 63
+      "generated_low_confidence": 62,
+      "manual_override": 1
     }
   },
   {
@@ -12561,12 +12636,13 @@
     "label": "1994 Atlanta Falcons",
     "file": "1994_ATL.json",
     "playerCount": 57,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 57
+      "generated_low_confidence": 56,
+      "manual_override": 1
     }
   },
   {
@@ -12577,12 +12653,13 @@
     "label": "1994 Buffalo Bills",
     "file": "1994_BUF.json",
     "playerCount": 60,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 60
+      "generated_low_confidence": 59,
+      "manual_override": 1
     }
   },
   {
@@ -12641,12 +12718,13 @@
     "label": "1994 Dallas Cowboys",
     "file": "1994_DAL.json",
     "playerCount": 55,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 55
+      "generated_low_confidence": 54,
+      "manual_override": 1
     }
   },
   {
@@ -12689,12 +12767,13 @@
     "label": "1994 Green Bay Packers",
     "file": "1994_GB.json",
     "playerCount": 65,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 65
+      "generated_low_confidence": 64,
+      "manual_override": 1
     }
   },
   {
@@ -12721,12 +12800,13 @@
     "label": "1994 Kansas City Chiefs",
     "file": "1994_KC.json",
     "playerCount": 62,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 62
+      "generated_low_confidence": 61,
+      "manual_override": 1
     }
   },
   {
@@ -12737,12 +12817,13 @@
     "label": "1994 Los Angeles Chargers",
     "file": "1994_LAC.json",
     "playerCount": 57,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 57
+      "generated_low_confidence": 56,
+      "manual_override": 1
     }
   },
   {
@@ -12785,12 +12866,13 @@
     "label": "1994 Minnesota Vikings",
     "file": "1994_MIN.json",
     "playerCount": 58,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 58
+      "generated_low_confidence": 57,
+      "manual_override": 1
     }
   },
   {
@@ -12881,12 +12963,13 @@
     "label": "1994 Pittsburgh Steelers",
     "file": "1994_PIT.json",
     "playerCount": 56,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 56
+      "generated_low_confidence": 55,
+      "manual_override": 1
     }
   },
   {
@@ -12913,12 +12996,13 @@
     "label": "1994 San Francisco 49ers",
     "file": "1994_SF.json",
     "playerCount": 54,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 54
+      "generated_low_confidence": 53,
+      "manual_override": 1
     }
   },
   {
@@ -13009,12 +13093,13 @@
     "label": "1995 Atlanta Falcons",
     "file": "1995_ATL.json",
     "playerCount": 55,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 55
+      "generated_low_confidence": 54,
+      "manual_override": 1
     }
   },
   {
@@ -13025,12 +13110,13 @@
     "label": "1995 Buffalo Bills",
     "file": "1995_BUF.json",
     "playerCount": 57,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 57
+      "generated_low_confidence": 56,
+      "manual_override": 1
     }
   },
   {
@@ -13105,12 +13191,13 @@
     "label": "1995 Dallas Cowboys",
     "file": "1995_DAL.json",
     "playerCount": 57,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.36,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 57
+      "generated_low_confidence": 55,
+      "manual_override": 2
     }
   },
   {
@@ -13153,12 +13240,13 @@
     "label": "1995 Green Bay Packers",
     "file": "1995_GB.json",
     "playerCount": 60,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 60
+      "generated_low_confidence": 59,
+      "manual_override": 1
     }
   },
   {
@@ -13201,12 +13289,13 @@
     "label": "1995 Kansas City Chiefs",
     "file": "1995_KC.json",
     "playerCount": 58,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 58
+      "generated_low_confidence": 57,
+      "manual_override": 1
     }
   },
   {
@@ -13217,12 +13306,13 @@
     "label": "1995 Los Angeles Chargers",
     "file": "1995_LAC.json",
     "playerCount": 54,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 54
+      "generated_low_confidence": 53,
+      "manual_override": 1
     }
   },
   {
@@ -13265,12 +13355,13 @@
     "label": "1995 Minnesota Vikings",
     "file": "1995_MIN.json",
     "playerCount": 55,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 55
+      "generated_low_confidence": 54,
+      "manual_override": 1
     }
   },
   {
@@ -13361,12 +13452,13 @@
     "label": "1995 Pittsburgh Steelers",
     "file": "1995_PIT.json",
     "playerCount": 57,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 57
+      "generated_low_confidence": 56,
+      "manual_override": 1
     }
   },
   {
@@ -13505,12 +13597,13 @@
     "label": "1996 Baltimore Ravens",
     "file": "1996_BAL.json",
     "playerCount": 55,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 55
+      "generated_low_confidence": 54,
+      "manual_override": 1
     }
   },
   {
@@ -13521,12 +13614,13 @@
     "label": "1996 Buffalo Bills",
     "file": "1996_BUF.json",
     "playerCount": 57,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 57
+      "generated_low_confidence": 56,
+      "manual_override": 1
     }
   },
   {
@@ -13585,12 +13679,13 @@
     "label": "1996 Dallas Cowboys",
     "file": "1996_DAL.json",
     "playerCount": 60,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 60
+      "generated_low_confidence": 58,
+      "manual_override": 2
     }
   },
   {
@@ -13636,7 +13731,7 @@
     "ratingConfidence": 0.79,
     "ratingSource": "generated",
     "needsReview": 0,
-    "needsManualReview": 0,
+    "needsManualReview": 13,
     "statusCounts": {
       "generated_medium_confidence": 28,
       "generated_low_confidence": 1,
@@ -13684,12 +13779,13 @@
     "label": "1996 Kansas City Chiefs",
     "file": "1996_KC.json",
     "playerCount": 60,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 60
+      "generated_low_confidence": 59,
+      "manual_override": 1
     }
   },
   {
@@ -13700,12 +13796,13 @@
     "label": "1996 Los Angeles Chargers",
     "file": "1996_LAC.json",
     "playerCount": 58,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 58
+      "generated_low_confidence": 57,
+      "manual_override": 1
     }
   },
   {
@@ -13732,12 +13829,13 @@
     "label": "1996 Miami Dolphins",
     "file": "1996_MIA.json",
     "playerCount": 55,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 55
+      "generated_low_confidence": 54,
+      "manual_override": 1
     }
   },
   {
@@ -13748,12 +13846,13 @@
     "label": "1996 Minnesota Vikings",
     "file": "1996_MIN.json",
     "playerCount": 60,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 60
+      "generated_low_confidence": 59,
+      "manual_override": 1
     }
   },
   {
@@ -13845,12 +13944,13 @@
     "label": "1996 Pittsburgh Steelers",
     "file": "1996_PIT.json",
     "playerCount": 59,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 59
+      "generated_low_confidence": 58,
+      "manual_override": 1
     }
   },
   {
@@ -13877,12 +13977,13 @@
     "label": "1996 San Francisco 49ers",
     "file": "1996_SF.json",
     "playerCount": 57,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 57
+      "generated_low_confidence": 56,
+      "manual_override": 1
     }
   },
   {
@@ -13989,12 +14090,13 @@
     "label": "1997 Baltimore Ravens",
     "file": "1997_BAL.json",
     "playerCount": 60,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 60
+      "generated_low_confidence": 59,
+      "manual_override": 1
     }
   },
   {
@@ -14005,12 +14107,13 @@
     "label": "1997 Buffalo Bills",
     "file": "1997_BUF.json",
     "playerCount": 60,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 60
+      "generated_low_confidence": 59,
+      "manual_override": 1
     }
   },
   {
@@ -14069,12 +14172,13 @@
     "label": "1997 Dallas Cowboys",
     "file": "1997_DAL.json",
     "playerCount": 56,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.36,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 56
+      "generated_low_confidence": 54,
+      "manual_override": 2
     }
   },
   {
@@ -14117,12 +14221,13 @@
     "label": "1997 Green Bay Packers",
     "file": "1997_GB.json",
     "playerCount": 60,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 60
+      "generated_low_confidence": 59,
+      "manual_override": 1
     }
   },
   {
@@ -14165,12 +14270,13 @@
     "label": "1997 Kansas City Chiefs",
     "file": "1997_KC.json",
     "playerCount": 55,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 55
+      "generated_low_confidence": 54,
+      "manual_override": 1
     }
   },
   {
@@ -14181,12 +14287,13 @@
     "label": "1997 Los Angeles Chargers",
     "file": "1997_LAC.json",
     "playerCount": 64,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 5,
     "statusCounts": {
-      "generated_low_confidence": 64
+      "generated_low_confidence": 63,
+      "manual_override": 1
     }
   },
   {
@@ -14213,12 +14320,13 @@
     "label": "1997 Miami Dolphins",
     "file": "1997_MIA.json",
     "playerCount": 60,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 60
+      "generated_low_confidence": 58,
+      "manual_override": 2
     }
   },
   {
@@ -14229,12 +14337,13 @@
     "label": "1997 Minnesota Vikings",
     "file": "1997_MIN.json",
     "playerCount": 60,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.34,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 60
+      "generated_low_confidence": 59,
+      "manual_override": 1
     }
   },
   {
@@ -14357,12 +14466,13 @@
     "label": "1997 San Francisco 49ers",
     "file": "1997_SF.json",
     "playerCount": 59,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.36,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 59
+      "generated_low_confidence": 57,
+      "manual_override": 2
     }
   },
   {
@@ -14469,12 +14579,13 @@
     "label": "1998 Baltimore Ravens",
     "file": "1998_BAL.json",
     "playerCount": 63,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 63
+      "generated_low_confidence": 61,
+      "manual_override": 2
     }
   },
   {
@@ -14485,12 +14596,13 @@
     "label": "1998 Buffalo Bills",
     "file": "1998_BUF.json",
     "playerCount": 56,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 56
+      "generated_low_confidence": 55,
+      "manual_override": 1
     }
   },
   {
@@ -14549,12 +14661,13 @@
     "label": "1998 Dallas Cowboys",
     "file": "1998_DAL.json",
     "playerCount": 59,
-    "ratingConfidence": 0.33,
+    "ratingConfidence": 0.36,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 59
+      "generated_low_confidence": 57,
+      "manual_override": 2
     }
   },
   {
@@ -14597,12 +14710,13 @@
     "label": "1998 Green Bay Packers",
     "file": "1998_GB.json",
     "playerCount": 63,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 63
+      "generated_low_confidence": 62,
+      "manual_override": 1
     }
   },
   {
@@ -14645,12 +14759,13 @@
     "label": "1998 Kansas City Chiefs",
     "file": "1998_KC.json",
     "playerCount": 60,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 60
+      "generated_low_confidence": 59,
+      "manual_override": 1
     }
   },
   {
@@ -14661,12 +14776,13 @@
     "label": "1998 Los Angeles Chargers",
     "file": "1998_LAC.json",
     "playerCount": 60,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 60
+      "generated_low_confidence": 59,
+      "manual_override": 1
     }
   },
   {
@@ -14693,12 +14809,13 @@
     "label": "1998 Miami Dolphins",
     "file": "1998_MIA.json",
     "playerCount": 64,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.36,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 5,
     "statusCounts": {
-      "generated_low_confidence": 64
+      "generated_low_confidence": 62,
+      "manual_override": 2
     }
   },
   {
@@ -14709,12 +14826,13 @@
     "label": "1998 Minnesota Vikings",
     "file": "1998_MIN.json",
     "playerCount": 60,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 4,
     "statusCounts": {
-      "generated_low_confidence": 60
+      "generated_low_confidence": 59,
+      "manual_override": 1
     }
   },
   {
@@ -14837,12 +14955,13 @@
     "label": "1998 San Francisco 49ers",
     "file": "1998_SF.json",
     "playerCount": 56,
-    "ratingConfidence": 0.34,
+    "ratingConfidence": 0.35,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 3,
     "statusCounts": {
-      "generated_low_confidence": 56
+      "generated_low_confidence": 55,
+      "manual_override": 1
     }
   },
   {
@@ -14917,7 +15036,7 @@
     "label": "1999 Arizona Cardinals",
     "file": "1999_ARI.json",
     "playerCount": 60,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.46,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -14953,14 +15072,15 @@
     "label": "1999 Baltimore Ravens",
     "file": "1999_BAL.json",
     "playerCount": 60,
-    "ratingConfidence": 0.45,
+    "ratingConfidence": 0.47,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_medium_confidence": 6,
       "generated_high_confidence": 10,
-      "generated_low_confidence": 44
+      "generated_low_confidence": 42,
+      "manual_override": 2
     }
   },
   {
@@ -14971,14 +15091,15 @@
     "label": "1999 Buffalo Bills",
     "file": "1999_BUF.json",
     "playerCount": 56,
-    "ratingConfidence": 0.45,
+    "ratingConfidence": 0.49,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_medium_confidence": 6,
       "generated_high_confidence": 10,
-      "generated_low_confidence": 40
+      "generated_low_confidence": 39,
+      "manual_override": 1
     }
   },
   {
@@ -14989,7 +15110,7 @@
     "label": "1999 Carolina Panthers",
     "file": "1999_CAR.json",
     "playerCount": 62,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.46,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15025,7 +15146,7 @@
     "label": "1999 Cincinnati Bengals",
     "file": "1999_CIN.json",
     "playerCount": 63,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.46,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15043,7 +15164,7 @@
     "label": "1999 Cleveland Browns",
     "file": "1999_CLE.json",
     "playerCount": 61,
-    "ratingConfidence": 0.43,
+    "ratingConfidence": 0.45,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15061,14 +15182,15 @@
     "label": "1999 Dallas Cowboys",
     "file": "1999_DAL.json",
     "playerCount": 66,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.46,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 49,
+      "generated_low_confidence": 47,
       "generated_medium_confidence": 7,
-      "generated_high_confidence": 10
+      "generated_high_confidence": 10,
+      "manual_override": 2
     }
   },
   {
@@ -15079,7 +15201,7 @@
     "label": "1999 Denver Broncos",
     "file": "1999_DEN.json",
     "playerCount": 63,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.46,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15151,7 +15273,7 @@
     "label": "1999 Jacksonville Jaguars",
     "file": "1999_JAX.json",
     "playerCount": 64,
-    "ratingConfidence": 0.43,
+    "ratingConfidence": 0.47,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15169,13 +15291,14 @@
     "label": "1999 Kansas City Chiefs",
     "file": "1999_KC.json",
     "playerCount": 56,
-    "ratingConfidence": 0.46,
+    "ratingConfidence": 0.47,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_high_confidence": 12,
-      "generated_low_confidence": 41,
+      "generated_low_confidence": 40,
+      "manual_override": 1,
       "generated_medium_confidence": 3
     }
   },
@@ -15187,14 +15310,15 @@
     "label": "1999 Los Angeles Chargers",
     "file": "1999_LAC.json",
     "playerCount": 62,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.48,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 46,
+      "generated_low_confidence": 45,
       "generated_medium_confidence": 7,
-      "generated_high_confidence": 9
+      "generated_high_confidence": 9,
+      "manual_override": 1
     }
   },
   {
@@ -15223,14 +15347,15 @@
     "label": "1999 Miami Dolphins",
     "file": "1999_MIA.json",
     "playerCount": 62,
-    "ratingConfidence": 0.45,
+    "ratingConfidence": 0.47,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 45,
+      "generated_low_confidence": 43,
       "generated_medium_confidence": 6,
-      "generated_high_confidence": 11
+      "generated_high_confidence": 11,
+      "manual_override": 2
     }
   },
   {
@@ -15241,14 +15366,15 @@
     "label": "1999 Minnesota Vikings",
     "file": "1999_MIN.json",
     "playerCount": 59,
-    "ratingConfidence": 0.45,
+    "ratingConfidence": 0.49,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_high_confidence": 8,
       "generated_medium_confidence": 10,
-      "generated_low_confidence": 41
+      "generated_low_confidence": 39,
+      "manual_override": 2
     }
   },
   {
@@ -15277,7 +15403,7 @@
     "label": "1999 New Orleans Saints",
     "file": "1999_NO.json",
     "playerCount": 66,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.46,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15331,7 +15457,7 @@
     "label": "1999 Philadelphia Eagles",
     "file": "1999_PHI.json",
     "playerCount": 61,
-    "ratingConfidence": 0.45,
+    "ratingConfidence": 0.46,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15349,7 +15475,7 @@
     "label": "1999 Pittsburgh Steelers",
     "file": "1999_PIT.json",
     "playerCount": 60,
-    "ratingConfidence": 0.46,
+    "ratingConfidence": 0.5,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15406,7 +15532,7 @@
     "ratingConfidence": 0.77,
     "ratingSource": "generated",
     "needsReview": 0,
-    "needsManualReview": 2,
+    "needsManualReview": 13,
     "statusCounts": {
       "generated_medium_confidence": 19,
       "manual_override": 4
@@ -15492,7 +15618,7 @@
     "label": "2000 Atlanta Falcons",
     "file": "2000_ATL.json",
     "playerCount": 63,
-    "ratingConfidence": 0.42,
+    "ratingConfidence": 0.43,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15513,7 +15639,7 @@
     "ratingConfidence": 0.77,
     "ratingSource": "generated",
     "needsReview": 0,
-    "needsManualReview": 0,
+    "needsManualReview": 10,
     "statusCounts": {
       "generated_medium_confidence": 20,
       "manual_override": 4
@@ -15527,7 +15653,7 @@
     "label": "2000 Buffalo Bills",
     "file": "2000_BUF.json",
     "playerCount": 55,
-    "ratingConfidence": 0.43,
+    "ratingConfidence": 0.45,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15545,14 +15671,15 @@
     "label": "2000 Carolina Panthers",
     "file": "2000_CAR.json",
     "playerCount": 67,
-    "ratingConfidence": 0.43,
+    "ratingConfidence": 0.45,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 50,
+      "generated_low_confidence": 49,
       "generated_high_confidence": 10,
-      "generated_medium_confidence": 7
+      "generated_medium_confidence": 7,
+      "manual_override": 1
     }
   },
   {
@@ -15563,7 +15690,7 @@
     "label": "2000 Chicago Bears",
     "file": "2000_CHI.json",
     "playerCount": 68,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.47,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15617,14 +15744,15 @@
     "label": "2000 Dallas Cowboys",
     "file": "2000_DAL.json",
     "playerCount": 66,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.46,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 49,
+      "generated_low_confidence": 48,
       "generated_medium_confidence": 7,
-      "generated_high_confidence": 10
+      "generated_high_confidence": 10,
+      "manual_override": 1
     }
   },
   {
@@ -15635,7 +15763,7 @@
     "label": "2000 Denver Broncos",
     "file": "2000_DEN.json",
     "playerCount": 62,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.47,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15653,7 +15781,7 @@
     "label": "2000 Detroit Lions",
     "file": "2000_DET.json",
     "playerCount": 59,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.45,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15671,7 +15799,7 @@
     "label": "2000 Green Bay Packers",
     "file": "2000_GB.json",
     "playerCount": 61,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.45,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15725,7 +15853,7 @@
     "label": "2000 Kansas City Chiefs",
     "file": "2000_KC.json",
     "playerCount": 60,
-    "ratingConfidence": 0.43,
+    "ratingConfidence": 0.46,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15743,14 +15871,15 @@
     "label": "2000 Los Angeles Chargers",
     "file": "2000_LAC.json",
     "playerCount": 59,
-    "ratingConfidence": 0.43,
+    "ratingConfidence": 0.45,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 43,
+      "generated_low_confidence": 42,
       "generated_high_confidence": 9,
-      "generated_medium_confidence": 7
+      "generated_medium_confidence": 7,
+      "manual_override": 1
     }
   },
   {
@@ -15779,14 +15908,15 @@
     "label": "2000 Miami Dolphins",
     "file": "2000_MIA.json",
     "playerCount": 65,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.47,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 48,
+      "generated_low_confidence": 46,
       "generated_medium_confidence": 6,
-      "generated_high_confidence": 11
+      "generated_high_confidence": 11,
+      "manual_override": 2
     }
   },
   {
@@ -15797,14 +15927,15 @@
     "label": "2000 Minnesota Vikings",
     "file": "2000_MIN.json",
     "playerCount": 58,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.45,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_medium_confidence": 6,
-      "generated_low_confidence": 42,
-      "generated_high_confidence": 10
+      "generated_low_confidence": 41,
+      "generated_high_confidence": 10,
+      "manual_override": 1
     }
   },
   {
@@ -15833,7 +15964,7 @@
     "label": "2000 New Orleans Saints",
     "file": "2000_NO.json",
     "playerCount": 61,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.46,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15851,7 +15982,7 @@
     "label": "2000 New York Giants",
     "file": "2000_NYG.json",
     "playerCount": 60,
-    "ratingConfidence": 0.43,
+    "ratingConfidence": 0.45,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15869,7 +16000,7 @@
     "label": "2000 New York Jets",
     "file": "2000_NYJ.json",
     "playerCount": 58,
-    "ratingConfidence": 0.42,
+    "ratingConfidence": 0.47,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15887,7 +16018,7 @@
     "label": "2000 Philadelphia Eagles",
     "file": "2000_PHI.json",
     "playerCount": 57,
-    "ratingConfidence": 0.46,
+    "ratingConfidence": 0.49,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15905,7 +16036,7 @@
     "label": "2000 Pittsburgh Steelers",
     "file": "2000_PIT.json",
     "playerCount": 62,
-    "ratingConfidence": 0.45,
+    "ratingConfidence": 0.46,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15959,7 +16090,7 @@
     "label": "2000 St. Louis Rams",
     "file": "2000_STL.json",
     "playerCount": 58,
-    "ratingConfidence": 0.45,
+    "ratingConfidence": 0.47,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15977,7 +16108,7 @@
     "label": "2000 Tampa Bay Buccaneers",
     "file": "2000_TB.json",
     "playerCount": 56,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.48,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -15995,7 +16126,7 @@
     "label": "2000 Tennessee Titans",
     "file": "2000_TEN.json",
     "playerCount": 63,
-    "ratingConfidence": 0.43,
+    "ratingConfidence": 0.45,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -16013,13 +16144,14 @@
     "label": "2000 Washington Commanders",
     "file": "2000_WAS.json",
     "playerCount": 63,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.47,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_high_confidence": 10,
-      "generated_low_confidence": 48,
+      "generated_low_confidence": 46,
+      "manual_override": 2,
       "generated_medium_confidence": 5
     }
   },
@@ -16031,7 +16163,7 @@
     "label": "2001 Arizona Cardinals",
     "file": "2001_ARI.json",
     "playerCount": 63,
-    "ratingConfidence": 0.42,
+    "ratingConfidence": 0.44,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 1,
@@ -16049,7 +16181,7 @@
     "label": "2001 Atlanta Falcons",
     "file": "2001_ATL.json",
     "playerCount": 58,
-    "ratingConfidence": 0.46,
+    "ratingConfidence": 0.47,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -16067,14 +16199,15 @@
     "label": "2001 Baltimore Ravens",
     "file": "2001_BAL.json",
     "playerCount": 60,
-    "ratingConfidence": 0.45,
+    "ratingConfidence": 0.48,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 45,
+      "generated_low_confidence": 43,
       "generated_high_confidence": 12,
-      "generated_medium_confidence": 3
+      "generated_medium_confidence": 3,
+      "manual_override": 2
     }
   },
   {
@@ -16085,7 +16218,7 @@
     "label": "2001 Buffalo Bills",
     "file": "2001_BUF.json",
     "playerCount": 58,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.46,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -16121,7 +16254,7 @@
     "label": "2001 Chicago Bears",
     "file": "2001_CHI.json",
     "playerCount": 59,
-    "ratingConfidence": 0.45,
+    "ratingConfidence": 0.46,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -16157,7 +16290,7 @@
     "label": "2001 Cleveland Browns",
     "file": "2001_CLE.json",
     "playerCount": 70,
-    "ratingConfidence": 0.43,
+    "ratingConfidence": 0.46,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -16175,14 +16308,15 @@
     "label": "2001 Dallas Cowboys",
     "file": "2001_DAL.json",
     "playerCount": 65,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.45,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 48,
+      "generated_low_confidence": 47,
       "generated_medium_confidence": 8,
-      "generated_high_confidence": 9
+      "generated_high_confidence": 9,
+      "manual_override": 1
     }
   },
   {
@@ -16193,7 +16327,7 @@
     "label": "2001 Denver Broncos",
     "file": "2001_DEN.json",
     "playerCount": 61,
-    "ratingConfidence": 0.46,
+    "ratingConfidence": 0.47,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -16229,7 +16363,7 @@
     "label": "2001 Green Bay Packers",
     "file": "2001_GB.json",
     "playerCount": 62,
-    "ratingConfidence": 0.43,
+    "ratingConfidence": 0.45,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -16247,7 +16381,7 @@
     "label": "2001 Indianapolis Colts",
     "file": "2001_IND.json",
     "playerCount": 63,
-    "ratingConfidence": 0.43,
+    "ratingConfidence": 0.45,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -16301,14 +16435,15 @@
     "label": "2001 Los Angeles Chargers",
     "file": "2001_LAC.json",
     "playerCount": 58,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.45,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 43,
+      "generated_low_confidence": 42,
       "generated_high_confidence": 9,
-      "generated_medium_confidence": 6
+      "generated_medium_confidence": 6,
+      "manual_override": 1
     }
   },
   {
@@ -16337,14 +16472,15 @@
     "label": "2001 Miami Dolphins",
     "file": "2001_MIA.json",
     "playerCount": 65,
-    "ratingConfidence": 0.43,
+    "ratingConfidence": 0.46,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 52,
+      "generated_low_confidence": 50,
       "generated_high_confidence": 8,
-      "generated_medium_confidence": 5
+      "generated_medium_confidence": 5,
+      "manual_override": 2
     }
   },
   {
@@ -16373,7 +16509,7 @@
     "label": "2001 New England Patriots",
     "file": "2001_NE.json",
     "playerCount": 65,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.48,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -16427,7 +16563,7 @@
     "label": "2001 New York Jets",
     "file": "2001_NYJ.json",
     "playerCount": 55,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.47,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -16481,14 +16617,15 @@
     "label": "2001 Seattle Seahawks",
     "file": "2001_SEA.json",
     "playerCount": 59,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.49,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_medium_confidence": 8,
-      "generated_low_confidence": 43,
-      "generated_high_confidence": 8
+      "generated_low_confidence": 42,
+      "generated_high_confidence": 8,
+      "manual_override": 1
     }
   },
   {
@@ -16553,7 +16690,7 @@
     "label": "2001 Tennessee Titans",
     "file": "2001_TEN.json",
     "playerCount": 59,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.46,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -16571,12 +16708,13 @@
     "label": "2001 Washington Commanders",
     "file": "2001_WAS.json",
     "playerCount": 59,
-    "ratingConfidence": 0.44,
+    "ratingConfidence": 0.48,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 44,
+      "generated_low_confidence": 43,
+      "manual_override": 1,
       "generated_medium_confidence": 6,
       "generated_high_confidence": 9
     }
@@ -16625,14 +16763,15 @@
     "label": "2002 Baltimore Ravens",
     "file": "2002_BAL.json",
     "playerCount": 48,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 35,
+      "generated_low_confidence": 34,
       "generated_high_confidence": 9,
-      "generated_medium_confidence": 4
+      "generated_medium_confidence": 4,
+      "manual_override": 1
     }
   },
   {
@@ -16697,7 +16836,7 @@
     "label": "2002 Cincinnati Bengals",
     "file": "2002_CIN.json",
     "playerCount": 49,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -16733,14 +16872,15 @@
     "label": "2002 Dallas Cowboys",
     "file": "2002_DAL.json",
     "playerCount": 48,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 33,
+      "generated_low_confidence": 32,
       "generated_high_confidence": 11,
-      "generated_medium_confidence": 4
+      "generated_medium_confidence": 4,
+      "manual_override": 1
     }
   },
   {
@@ -16913,14 +17053,15 @@
     "label": "2002 Miami Dolphins",
     "file": "2002_MIA.json",
     "playerCount": 47,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 31,
+      "generated_low_confidence": 30,
       "generated_high_confidence": 9,
-      "generated_medium_confidence": 7
+      "generated_medium_confidence": 7,
+      "manual_override": 1
     }
   },
   {
@@ -16931,7 +17072,7 @@
     "label": "2002 Minnesota Vikings",
     "file": "2002_MIN.json",
     "playerCount": 46,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -17057,13 +17198,14 @@
     "label": "2002 Seattle Seahawks",
     "file": "2002_SEA.json",
     "playerCount": 47,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 33,
+      "generated_low_confidence": 32,
       "generated_high_confidence": 10,
+      "manual_override": 1,
       "generated_medium_confidence": 4
     }
   },
@@ -17147,12 +17289,13 @@
     "label": "2002 Washington Commanders",
     "file": "2002_WAS.json",
     "playerCount": 51,
-    "ratingConfidence": 0.55,
+    "ratingConfidence": 0.56,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 34,
+      "generated_low_confidence": 33,
+      "manual_override": 1,
       "generated_high_confidence": 13,
       "generated_medium_confidence": 4
     }
@@ -17165,7 +17308,7 @@
     "label": "2003 Arizona Cardinals",
     "file": "2003_ARI.json",
     "playerCount": 48,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -17201,14 +17344,15 @@
     "label": "2003 Baltimore Ravens",
     "file": "2003_BAL.json",
     "playerCount": 43,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_high_confidence": 9,
-      "generated_low_confidence": 30,
-      "generated_medium_confidence": 4
+      "generated_low_confidence": 29,
+      "generated_medium_confidence": 4,
+      "manual_override": 1
     }
   },
   {
@@ -17309,14 +17453,15 @@
     "label": "2003 Dallas Cowboys",
     "file": "2003_DAL.json",
     "playerCount": 45,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 30,
+      "generated_low_confidence": 29,
       "generated_high_confidence": 9,
-      "generated_medium_confidence": 6
+      "generated_medium_confidence": 6,
+      "manual_override": 1
     }
   },
   {
@@ -17417,7 +17562,7 @@
     "label": "2003 Jacksonville Jaguars",
     "file": "2003_JAX.json",
     "playerCount": 48,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -17489,14 +17634,15 @@
     "label": "2003 Miami Dolphins",
     "file": "2003_MIA.json",
     "playerCount": 49,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 35,
+      "generated_low_confidence": 34,
       "generated_medium_confidence": 6,
-      "generated_high_confidence": 8
+      "generated_high_confidence": 8,
+      "manual_override": 1
     }
   },
   {
@@ -17507,7 +17653,7 @@
     "label": "2003 Minnesota Vikings",
     "file": "2003_MIN.json",
     "playerCount": 43,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -17543,7 +17689,7 @@
     "label": "2003 New Orleans Saints",
     "file": "2003_NO.json",
     "playerCount": 48,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -17633,14 +17779,15 @@
     "label": "2003 Seattle Seahawks",
     "file": "2003_SEA.json",
     "playerCount": 46,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_medium_confidence": 5,
-      "generated_low_confidence": 33,
-      "generated_high_confidence": 8
+      "generated_low_confidence": 32,
+      "generated_high_confidence": 8,
+      "manual_override": 1
     }
   },
   {
@@ -17651,7 +17798,7 @@
     "label": "2003 San Francisco 49ers",
     "file": "2003_SF.json",
     "playerCount": 47,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -17728,7 +17875,8 @@
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 31,
+      "generated_low_confidence": 30,
+      "manual_override": 1,
       "generated_high_confidence": 10,
       "generated_medium_confidence": 11
     }
@@ -17777,14 +17925,15 @@
     "label": "2004 Baltimore Ravens",
     "file": "2004_BAL.json",
     "playerCount": 45,
-    "ratingConfidence": 0.55,
+    "ratingConfidence": 0.57,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_high_confidence": 11,
-      "generated_low_confidence": 28,
-      "generated_medium_confidence": 6
+      "generated_low_confidence": 26,
+      "generated_medium_confidence": 6,
+      "manual_override": 2
     }
   },
   {
@@ -17885,14 +18034,15 @@
     "label": "2004 Dallas Cowboys",
     "file": "2004_DAL.json",
     "playerCount": 50,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 33,
+      "generated_low_confidence": 32,
       "generated_medium_confidence": 8,
-      "generated_high_confidence": 9
+      "generated_high_confidence": 9,
+      "manual_override": 1
     }
   },
   {
@@ -18029,7 +18179,7 @@
     "label": "2004 Los Angeles Chargers",
     "file": "2004_LAC.json",
     "playerCount": 49,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -18065,14 +18215,15 @@
     "label": "2004 Miami Dolphins",
     "file": "2004_MIA.json",
     "playerCount": 49,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_high_confidence": 11,
       "generated_medium_confidence": 6,
-      "generated_low_confidence": 32
+      "generated_low_confidence": 31,
+      "manual_override": 1
     }
   },
   {
@@ -18173,7 +18324,7 @@
     "label": "2004 Philadelphia Eagles",
     "file": "2004_PHI.json",
     "playerCount": 47,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -18209,7 +18360,7 @@
     "label": "2004 Seattle Seahawks",
     "file": "2004_SEA.json",
     "playerCount": 48,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -18353,14 +18504,15 @@
     "label": "2005 Baltimore Ravens",
     "file": "2005_BAL.json",
     "playerCount": 50,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 33,
+      "generated_low_confidence": 31,
       "generated_medium_confidence": 8,
-      "generated_high_confidence": 9
+      "generated_high_confidence": 9,
+      "manual_override": 2
     }
   },
   {
@@ -18371,7 +18523,7 @@
     "label": "2005 Buffalo Bills",
     "file": "2005_BUF.json",
     "playerCount": 46,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -18461,14 +18613,15 @@
     "label": "2005 Dallas Cowboys",
     "file": "2005_DAL.json",
     "playerCount": 42,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 28,
+      "generated_low_confidence": 27,
       "generated_high_confidence": 10,
-      "generated_medium_confidence": 4
+      "generated_medium_confidence": 4,
+      "manual_override": 1
     }
   },
   {
@@ -18641,14 +18794,15 @@
     "label": "2005 Miami Dolphins",
     "file": "2005_MIA.json",
     "playerCount": 45,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 30,
+      "generated_low_confidence": 29,
       "generated_medium_confidence": 7,
-      "generated_high_confidence": 8
+      "generated_high_confidence": 8,
+      "manual_override": 1
     }
   },
   {
@@ -18929,14 +19083,15 @@
     "label": "2006 Baltimore Ravens",
     "file": "2006_BAL.json",
     "playerCount": 46,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 32,
+      "generated_low_confidence": 31,
       "generated_medium_confidence": 4,
-      "generated_high_confidence": 10
+      "generated_high_confidence": 10,
+      "manual_override": 1
     }
   },
   {
@@ -18965,7 +19120,7 @@
     "label": "2006 Carolina Panthers",
     "file": "2006_CAR.json",
     "playerCount": 47,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -19181,7 +19336,7 @@
     "label": "2006 Los Angeles Chargers",
     "file": "2006_LAC.json",
     "playerCount": 42,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -19217,14 +19372,15 @@
     "label": "2006 Miami Dolphins",
     "file": "2006_MIA.json",
     "playerCount": 48,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 35,
+      "generated_low_confidence": 34,
       "generated_high_confidence": 9,
-      "generated_medium_confidence": 4
+      "generated_medium_confidence": 4,
+      "manual_override": 1
     }
   },
   {
@@ -19235,7 +19391,7 @@
     "label": "2006 Minnesota Vikings",
     "file": "2006_MIN.json",
     "playerCount": 46,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -19325,7 +19481,7 @@
     "label": "2006 Philadelphia Eagles",
     "file": "2006_PHI.json",
     "playerCount": 45,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -19379,14 +19535,15 @@
     "label": "2006 San Francisco 49ers",
     "file": "2006_SF.json",
     "playerCount": 44,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 1,
     "statusCounts": {
-      "generated_low_confidence": 31,
+      "generated_low_confidence": 30,
       "generated_high_confidence": 8,
-      "generated_medium_confidence": 5
+      "generated_medium_confidence": 5,
+      "manual_override": 1
     }
   },
   {
@@ -19505,14 +19662,15 @@
     "label": "2007 Baltimore Ravens",
     "file": "2007_BAL.json",
     "playerCount": 48,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 30,
+      "generated_low_confidence": 29,
       "generated_medium_confidence": 9,
-      "generated_high_confidence": 9
+      "generated_high_confidence": 9,
+      "manual_override": 1
     }
   },
   {
@@ -19757,7 +19915,7 @@
     "label": "2007 Los Angeles Chargers",
     "file": "2007_LAC.json",
     "playerCount": 42,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -19793,14 +19951,15 @@
     "label": "2007 Miami Dolphins",
     "file": "2007_MIA.json",
     "playerCount": 48,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_medium_confidence": 9,
-      "generated_low_confidence": 31,
-      "generated_high_confidence": 8
+      "generated_low_confidence": 30,
+      "generated_high_confidence": 8,
+      "manual_override": 1
     }
   },
   {
@@ -19832,7 +19991,7 @@
     "ratingConfidence": 0.82,
     "ratingSource": "generated",
     "needsReview": 0,
-    "needsManualReview": 0,
+    "needsManualReview": 9,
     "statusCounts": {
       "generated_high_confidence": 10,
       "generated_medium_confidence": 10,
@@ -19883,7 +20042,7 @@
     "label": "2007 New York Jets",
     "file": "2007_NYJ.json",
     "playerCount": 47,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -19955,14 +20114,15 @@
     "label": "2007 San Francisco 49ers",
     "file": "2007_SF.json",
     "playerCount": 46,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 30,
+      "generated_low_confidence": 29,
       "generated_medium_confidence": 8,
-      "generated_high_confidence": 8
+      "generated_high_confidence": 8,
+      "manual_override": 1
     }
   },
   {
@@ -20045,7 +20205,7 @@
     "label": "2008 Arizona Cardinals",
     "file": "2008_ARI.json",
     "playerCount": 42,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -20153,7 +20313,7 @@
     "label": "2008 Cincinnati Bengals",
     "file": "2008_CIN.json",
     "playerCount": 53,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -20603,14 +20763,15 @@
     "label": "2008 Washington Commanders",
     "file": "2008_WAS.json",
     "playerCount": 45,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 1,
     "statusCounts": {
-      "generated_low_confidence": 32,
+      "generated_low_confidence": 31,
       "generated_high_confidence": 8,
-      "generated_medium_confidence": 5
+      "generated_medium_confidence": 5,
+      "manual_override": 1
     }
   },
   {
@@ -20657,7 +20818,7 @@
     "label": "2009 Baltimore Ravens",
     "file": "2009_BAL.json",
     "playerCount": 44,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -20765,7 +20926,7 @@
     "label": "2009 Dallas Cowboys",
     "file": "2009_DAL.json",
     "playerCount": 38,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 1,
@@ -20855,7 +21016,7 @@
     "label": "2009 Indianapolis Colts",
     "file": "2009_IND.json",
     "playerCount": 48,
-    "ratingConfidence": 0.51,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -21431,7 +21592,7 @@
     "label": "2010 Indianapolis Colts",
     "file": "2010_IND.json",
     "playerCount": 50,
-    "ratingConfidence": 0.51,
+    "ratingConfidence": 0.52,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 1,
@@ -21449,7 +21610,7 @@
     "label": "2010 Jacksonville Jaguars",
     "file": "2010_JAX.json",
     "playerCount": 49,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -21557,7 +21718,7 @@
     "label": "2010 New England Patriots",
     "file": "2010_NE.json",
     "playerCount": 48,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -22007,7 +22168,7 @@
     "label": "2011 Indianapolis Colts",
     "file": "2011_IND.json",
     "playerCount": 51,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -22385,7 +22546,7 @@
     "label": "2012 Baltimore Ravens",
     "file": "2012_BAL.json",
     "playerCount": 48,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -22457,7 +22618,7 @@
     "label": "2012 Cincinnati Bengals",
     "file": "2012_CIN.json",
     "playerCount": 49,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -22547,7 +22708,7 @@
     "label": "2012 Green Bay Packers",
     "file": "2012_GB.json",
     "playerCount": 42,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -22583,7 +22744,7 @@
     "label": "2012 Indianapolis Colts",
     "file": "2012_IND.json",
     "playerCount": 48,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 1,
@@ -23051,7 +23212,7 @@
     "label": "2013 Cleveland Browns",
     "file": "2013_CLE.json",
     "playerCount": 46,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -23159,7 +23320,7 @@
     "label": "2013 Indianapolis Colts",
     "file": "2013_IND.json",
     "playerCount": 51,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -23195,7 +23356,7 @@
     "label": "2013 Kansas City Chiefs",
     "file": "2013_KC.json",
     "playerCount": 42,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -23396,7 +23557,7 @@
     "ratingConfidence": 0.78,
     "ratingSource": "generated",
     "needsReview": 0,
-    "needsManualReview": 0,
+    "needsManualReview": 9,
     "statusCounts": {
       "manual_override": 5,
       "generated_medium_confidence": 19
@@ -23698,7 +23859,7 @@
     "label": "2014 Green Bay Packers",
     "file": "2014_GB.json",
     "playerCount": 39,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -23878,7 +24039,7 @@
     "label": "2014 New Orleans Saints",
     "file": "2014_NO.json",
     "playerCount": 47,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 1,
@@ -23914,7 +24075,7 @@
     "label": "2014 New York Jets",
     "file": "2014_NYJ.json",
     "playerCount": 46,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -23968,7 +24129,7 @@
     "label": "2014 Seattle Seahawks",
     "file": "2014_SEA.json",
     "playerCount": 52,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -24004,12 +24165,13 @@
     "label": "2014 St. Louis Rams",
     "file": "2014_STL.json",
     "playerCount": 45,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.56,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 30,
+      "manual_override": 1,
+      "generated_low_confidence": 29,
       "generated_high_confidence": 12,
       "generated_medium_confidence": 3
     }
@@ -24112,7 +24274,7 @@
     "label": "2015 Baltimore Ravens",
     "file": "2015_BAL.json",
     "playerCount": 58,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -24292,7 +24454,7 @@
     "label": "2015 Houston Texans",
     "file": "2015_HOU.json",
     "playerCount": 47,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.55,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -24400,7 +24562,7 @@
     "label": "2015 Miami Dolphins",
     "file": "2015_MIA.json",
     "playerCount": 50,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -24580,12 +24742,13 @@
     "label": "2015 St. Louis Rams",
     "file": "2015_STL.json",
     "playerCount": 50,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.54,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 35,
+      "manual_override": 1,
+      "generated_low_confidence": 34,
       "generated_high_confidence": 10,
       "generated_medium_confidence": 5
     }
@@ -24922,7 +25085,7 @@
     "label": "2016 Kansas City Chiefs",
     "file": "2016_KC.json",
     "playerCount": 73,
-    "ratingConfidence": 0.49,
+    "ratingConfidence": 0.51,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -24958,7 +25121,7 @@
     "label": "2016 Las Vegas Raiders",
     "file": "2016_LV.json",
     "playerCount": 65,
-    "ratingConfidence": 0.5,
+    "ratingConfidence": 0.52,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -25156,12 +25319,13 @@
     "label": "2016 St. Louis Rams",
     "file": "2016_STL.json",
     "playerCount": 67,
-    "ratingConfidence": 0.51,
+    "ratingConfidence": 0.52,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 51,
+      "manual_override": 1,
+      "generated_low_confidence": 50,
       "generated_high_confidence": 10,
       "generated_medium_confidence": 6
     }
@@ -25174,7 +25338,7 @@
     "label": "2016 Tampa Bay Buccaneers",
     "file": "2016_TB.json",
     "playerCount": 85,
-    "ratingConfidence": 0.5,
+    "ratingConfidence": 0.51,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -25354,7 +25518,7 @@
     "label": "2017 Cleveland Browns",
     "file": "2017_CLE.json",
     "playerCount": 64,
-    "ratingConfidence": 0.49,
+    "ratingConfidence": 0.51,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -25408,7 +25572,7 @@
     "label": "2017 Detroit Lions",
     "file": "2017_DET.json",
     "playerCount": 66,
-    "ratingConfidence": 0.5,
+    "ratingConfidence": 0.51,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -25462,7 +25626,7 @@
     "label": "2017 Indianapolis Colts",
     "file": "2017_IND.json",
     "playerCount": 69,
-    "ratingConfidence": 0.5,
+    "ratingConfidence": 0.51,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -25534,7 +25698,7 @@
     "label": "2017 Las Vegas Raiders",
     "file": "2017_LV.json",
     "playerCount": 61,
-    "ratingConfidence": 0.5,
+    "ratingConfidence": 0.51,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -25570,14 +25734,15 @@
     "label": "2017 Minnesota Vikings",
     "file": "2017_MIN.json",
     "playerCount": 57,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_high_confidence": 10,
+      "generated_high_confidence": 9,
       "generated_low_confidence": 41,
-      "generated_medium_confidence": 6
+      "generated_medium_confidence": 6,
+      "manual_override": 1
     }
   },
   {
@@ -25732,12 +25897,13 @@
     "label": "2017 St. Louis Rams",
     "file": "2017_STL.json",
     "playerCount": 61,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 45,
+      "manual_override": 1,
+      "generated_low_confidence": 44,
       "generated_high_confidence": 12,
       "generated_medium_confidence": 4
     }
@@ -25894,7 +26060,7 @@
     "label": "2018 Chicago Bears",
     "file": "2018_CHI.json",
     "playerCount": 58,
-    "ratingConfidence": 0.51,
+    "ratingConfidence": 0.52,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -26077,7 +26243,7 @@
     "ratingConfidence": 0.76,
     "ratingSource": "generated",
     "needsReview": 0,
-    "needsManualReview": 2,
+    "needsManualReview": 13,
     "statusCounts": {
       "generated_medium_confidence": 21,
       "manual_override": 3
@@ -26307,12 +26473,13 @@
     "label": "2018 St. Louis Rams",
     "file": "2018_STL.json",
     "playerCount": 60,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 45,
+      "manual_override": 1,
+      "generated_low_confidence": 44,
       "generated_high_confidence": 10,
       "generated_medium_confidence": 5
     }
@@ -26397,7 +26564,7 @@
     "label": "2019 Atlanta Falcons",
     "file": "2019_ATL.json",
     "playerCount": 68,
-    "ratingConfidence": 0.5,
+    "ratingConfidence": 0.51,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -26613,7 +26780,7 @@
     "label": "2019 Indianapolis Colts",
     "file": "2019_IND.json",
     "playerCount": 66,
-    "ratingConfidence": 0.51,
+    "ratingConfidence": 0.52,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -26703,7 +26870,7 @@
     "label": "2019 Miami Dolphins",
     "file": "2019_MIA.json",
     "playerCount": 72,
-    "ratingConfidence": 0.51,
+    "ratingConfidence": 0.52,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -26775,7 +26942,7 @@
     "label": "2019 New York Giants",
     "file": "2019_NYG.json",
     "playerCount": 66,
-    "ratingConfidence": 0.51,
+    "ratingConfidence": 0.52,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -26883,12 +27050,13 @@
     "label": "2019 St. Louis Rams",
     "file": "2019_STL.json",
     "playerCount": 61,
-    "ratingConfidence": 0.51,
+    "ratingConfidence": 0.52,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 47,
+      "manual_override": 1,
+      "generated_low_confidence": 46,
       "generated_medium_confidence": 5,
       "generated_high_confidence": 9
     }
@@ -27189,7 +27357,7 @@
     "label": "2020 Indianapolis Colts",
     "file": "2020_IND.json",
     "playerCount": 65,
-    "ratingConfidence": 0.51,
+    "ratingConfidence": 0.52,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -27459,12 +27627,13 @@
     "label": "2020 St. Louis Rams",
     "file": "2020_STL.json",
     "playerCount": 61,
-    "ratingConfidence": 0.51,
+    "ratingConfidence": 0.52,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 49,
+      "generated_low_confidence": 48,
+      "manual_override": 1,
       "generated_high_confidence": 10,
       "generated_medium_confidence": 2
     }
@@ -27480,7 +27649,7 @@
     "ratingConfidence": 0.75,
     "ratingSource": "generated",
     "needsReview": 0,
-    "needsManualReview": 4,
+    "needsManualReview": 18,
     "statusCounts": {
       "generated_medium_confidence": 23,
       "manual_override": 2
@@ -27512,7 +27681,7 @@
     "label": "2020 Washington Commanders",
     "file": "2020_WAS.json",
     "playerCount": 71,
-    "ratingConfidence": 0.5,
+    "ratingConfidence": 0.51,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -27674,7 +27843,7 @@
     "label": "2021 Dallas Cowboys",
     "file": "2021_DAL.json",
     "playerCount": 65,
-    "ratingConfidence": 0.5,
+    "ratingConfidence": 0.51,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -27692,7 +27861,7 @@
     "label": "2021 Denver Broncos",
     "file": "2021_DEN.json",
     "playerCount": 70,
-    "ratingConfidence": 0.5,
+    "ratingConfidence": 0.51,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -27710,7 +27879,7 @@
     "label": "2021 Detroit Lions",
     "file": "2021_DET.json",
     "playerCount": 75,
-    "ratingConfidence": 0.49,
+    "ratingConfidence": 0.51,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -27764,7 +27933,7 @@
     "label": "2021 Indianapolis Colts",
     "file": "2021_IND.json",
     "playerCount": 66,
-    "ratingConfidence": 0.5,
+    "ratingConfidence": 0.51,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -28034,12 +28203,13 @@
     "label": "2021 St. Louis Rams",
     "file": "2021_STL.json",
     "playerCount": 66,
-    "ratingConfidence": 0.51,
+    "ratingConfidence": 0.52,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 50,
+      "generated_low_confidence": 49,
+      "manual_override": 1,
       "generated_medium_confidence": 8,
       "generated_high_confidence": 8
     }
@@ -28088,7 +28258,7 @@
     "label": "2021 Washington Commanders",
     "file": "2021_WAS.json",
     "playerCount": 76,
-    "ratingConfidence": 0.51,
+    "ratingConfidence": 0.52,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -28340,14 +28510,15 @@
     "label": "2022 Indianapolis Colts",
     "file": "2022_IND.json",
     "playerCount": 65,
-    "ratingConfidence": 0.51,
+    "ratingConfidence": 0.52,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_high_confidence": 10,
-      "generated_low_confidence": 50,
-      "generated_medium_confidence": 5
+      "generated_low_confidence": 49,
+      "generated_medium_confidence": 5,
+      "manual_override": 1
     }
   },
   {
@@ -28376,7 +28547,7 @@
     "label": "2022 Kansas City Chiefs",
     "file": "2022_KC.json",
     "playerCount": 60,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -28556,14 +28727,15 @@
     "label": "2022 Pittsburgh Steelers",
     "file": "2022_PIT.json",
     "playerCount": 67,
-    "ratingConfidence": 0.51,
+    "ratingConfidence": 0.52,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 53,
+      "generated_low_confidence": 52,
       "generated_medium_confidence": 3,
-      "generated_high_confidence": 11
+      "generated_high_confidence": 11,
+      "manual_override": 1
     }
   },
   {
@@ -28615,7 +28787,8 @@
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 53,
+      "generated_low_confidence": 52,
+      "manual_override": 1,
       "generated_high_confidence": 11,
       "generated_medium_confidence": 7
     }
@@ -28682,7 +28855,7 @@
     "label": "2023 Arizona Cardinals",
     "file": "2023_ARI.json",
     "playerCount": 67,
-    "ratingConfidence": 0.5,
+    "ratingConfidence": 0.51,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
@@ -29171,7 +29344,7 @@
     "ratingConfidence": 0.78,
     "ratingSource": "generated",
     "needsReview": 0,
-    "needsManualReview": 2,
+    "needsManualReview": 10,
     "statusCounts": {
       "generated_medium_confidence": 19,
       "manual_override": 5
@@ -29185,12 +29358,13 @@
     "label": "2023 St. Louis Rams",
     "file": "2023_STL.json",
     "playerCount": 58,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.53,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 42,
+      "manual_override": 1,
+      "generated_low_confidence": 41,
       "generated_medium_confidence": 7,
       "generated_high_confidence": 9
     }
@@ -29246,7 +29420,8 @@
     "statusCounts": {
       "generated_low_confidence": 60,
       "generated_medium_confidence": 5,
-      "generated_high_confidence": 11
+      "generated_high_confidence": 10,
+      "manual_override": 1
     }
   },
   {
@@ -29766,7 +29941,8 @@
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 46,
+      "generated_low_confidence": 45,
+      "manual_override": 1,
       "generated_high_confidence": 9,
       "generated_medium_confidence": 8
     }
@@ -29815,7 +29991,7 @@
     "label": "2024 Washington Commanders",
     "file": "2024_WAS.json",
     "playerCount": 65,
-    "ratingConfidence": 0.51,
+    "ratingConfidence": 0.52,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,

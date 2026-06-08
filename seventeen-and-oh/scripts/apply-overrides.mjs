@@ -13,7 +13,11 @@
 // Run:  node scripts/apply-overrides.mjs   (or: npm run data:overrides)
 
 import { readCsv, writeCsv } from "./lib/csv.mjs";
-import { RATING_FIELDS, RATINGS_COLUMNS, STATUS, SOURCE, ALL_STATUSES } from "./lib/schema.mjs";
+import {
+  RATING_FIELDS, RATINGS_COLUMNS, ATTRIBUTE_FIELDS, POSITION_GROUP,
+  STATUS, SOURCE, ALL_STATUSES,
+} from "./lib/schema.mjs";
+import { projectAttributes } from "./lib/ratings-engine.mjs";
 import { fromRoot, log, num } from "./lib/util.mjs";
 
 function run() {
@@ -79,7 +83,23 @@ function run() {
     if ((ov.last_updated || "").trim()) prov.push(ov.last_updated.trim());
     const note = [ov.reason, prov.length ? `[${prov.join(", ")}]` : ""].filter(Boolean).join(" ");
 
+    const overallOverridden = fieldsSet.includes("overall");
+    const group = POSITION_GROUP[(ov.position || "").trim()] || "RB";
+
     for (const r of matches) {
+      // When an override changes `overall` but leaves some attributes blank,
+      // re-derive those blanks from the NEW overall using the same position
+      // model the engine uses. Without this, an override that sets only
+      // `overall` (e.g. an elite stat-less lineman bumped to 92) would keep the
+      // attributes computed from its old, wrong overall — a star with depth-tier
+      // attributes. Explicitly overridden attributes always win (applied below).
+      if (overallOverridden) {
+        const seed = `${r.player_id}|${r.season}|${r.team_code}`;
+        const derived = projectAttributes(group, num(ov.overall), seed);
+        for (const a of ATTRIBUTE_FIELDS) {
+          if (!fieldsSet.includes(a)) r[a] = derived[a];
+        }
+      }
       for (const f of fieldsSet) r[f] = num(ov[f]);
       r.status = status;
       r.rating_source = SOURCE.MANUAL;

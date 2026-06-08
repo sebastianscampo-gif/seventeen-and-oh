@@ -193,44 +193,53 @@ export const AWARD_TIERS = [
 export const AWARD_BONUS_CAP = 26; // max combined award contribution to overall
 
 // ---------------------------------------------------------------------------
-// Stat references. For each group, `refs` maps a stat column to the value
-// considered "elite" for that era/position; production is scored as a
-// fraction of that reference. `attr` lists which attributes the stat nudges.
-// Stats are optional — absent stats simply contribute nothing.
+// Stat references. For each group, `stats` lists box-score columns with two
+// anchors: `avg` (a league-average STARTER's production) and `elite`. Production
+// is scored CENTERED on average:  frac = (v - avg) / (elite - avg), so an
+// average season reads ~0, an elite season reads ~+1, and a clearly
+// below-replacement season reads negative. This is the core fix for "volume
+// compilers" (a QB with empty yards but a 78 passer rating, a kicker hitting 70%
+// on many attempts) who used to look elite under a zero-based fraction. `attr`
+// lists which attributes the stat nudges. Stats are optional — absent stats
+// contribute nothing (the rating then leans on role + position + awards).
+//   FRAC_FLOOR: how far below average a season is allowed to count against you.
 // ---------------------------------------------------------------------------
+export const FRAC_FLOOR = -0.6; // below-average production can subtract, but is bounded
+export const FRAC_CEIL = 1.25; // historic outliers can read a bit above "elite"
+
 export const STAT_MODEL = {
   QB: {
-    overallScale: 12,
+    overallScale: 16,
     stats: [
-      { col: "pass_yds", elite: 4500, attr: ["pass_rating", "awareness"] },
-      { col: "pass_td", elite: 38, attr: ["pass_rating", "clutch"] },
-      { col: "passer_rating", elite: 110, attr: ["pass_rating", "awareness"] },
-      { col: "rush_yds", elite: 600, attr: ["speed", "run_rating"], weight: 0.4 },
+      { col: "pass_yds", avg: 3200, elite: 4600, attr: ["pass_rating", "awareness"], weight: 0.8 },
+      { col: "pass_td", avg: 22, elite: 40, attr: ["pass_rating", "clutch"] },
+      { col: "passer_rating", avg: 88, elite: 112, attr: ["pass_rating", "awareness"], weight: 1.4 },
+      { col: "rush_yds", avg: 150, elite: 700, attr: ["speed", "run_rating"], weight: 0.3 },
     ],
-    penalties: [{ col: "pass_int", bad: 22, attr: ["awareness"] }],
+    penalties: [{ col: "pass_int", bad: 16, attr: ["awareness"] }],
   },
   RB: {
-    overallScale: 11,
+    overallScale: 13,
     stats: [
-      { col: "rush_yds", elite: 1700, attr: ["run_rating", "speed", "strength"] },
-      { col: "rush_td", elite: 16, attr: ["run_rating", "clutch"] },
-      { col: "receptions", elite: 70, attr: ["receiving", "hands"], weight: 0.5 },
+      { col: "rush_yds", avg: 700, elite: 1700, attr: ["run_rating", "speed", "strength"] },
+      { col: "rush_td", avg: 6, elite: 16, attr: ["run_rating", "clutch"] },
+      { col: "receptions", avg: 28, elite: 75, attr: ["receiving", "hands"], weight: 0.5 },
     ],
   },
   WR: {
-    overallScale: 11,
+    overallScale: 13,
     stats: [
-      { col: "rec_yds", elite: 1500, attr: ["receiving", "speed"] },
-      { col: "receptions", elite: 105, attr: ["hands", "receiving"] },
-      { col: "rec_td", elite: 14, attr: ["receiving", "clutch"] },
+      { col: "rec_yds", avg: 650, elite: 1500, attr: ["receiving", "speed"] },
+      { col: "receptions", avg: 50, elite: 110, attr: ["hands", "receiving"] },
+      { col: "rec_td", avg: 5, elite: 14, attr: ["receiving", "clutch"] },
     ],
   },
   TE: {
-    overallScale: 10,
+    overallScale: 11,
     stats: [
-      { col: "rec_yds", elite: 1000, attr: ["receiving", "hands"] },
-      { col: "receptions", elite: 80, attr: ["hands", "receiving"] },
-      { col: "rec_td", elite: 10, attr: ["receiving", "clutch"] },
+      { col: "rec_yds", avg: 400, elite: 1050, attr: ["receiving", "hands"] },
+      { col: "receptions", avg: 35, elite: 85, attr: ["hands", "receiving"] },
+      { col: "rec_td", avg: 4, elite: 11, attr: ["receiving", "clutch"] },
     ],
   },
   OL: {
@@ -238,59 +247,64 @@ export const STAT_MODEL = {
     stats: [], // OL has no box-score stats; rating leans on role + awards.
   },
   EDGE: {
-    overallScale: 12,
+    overallScale: 14,
     stats: [
-      { col: "sacks", elite: 16, attr: ["pass_rush", "speed"] },
-      { col: "tackles", elite: 70, attr: ["run_defense", "tackling"], weight: 0.5 },
-      { col: "forced_fumbles", elite: 5, attr: ["pass_rush", "clutch"], weight: 0.4 },
+      { col: "sacks", avg: 5, elite: 16, attr: ["pass_rush", "speed"], weight: 1.2 },
+      { col: "tackles", avg: 35, elite: 75, attr: ["run_defense", "tackling"], weight: 0.5 },
+      { col: "forced_fumbles", avg: 1, elite: 5, attr: ["pass_rush", "clutch"], weight: 0.4 },
     ],
   },
   DL: {
-    overallScale: 11,
+    overallScale: 12,
     stats: [
-      { col: "sacks", elite: 11, attr: ["pass_rush"] },
-      { col: "tackles", elite: 75, attr: ["run_defense", "tackling"] },
+      { col: "sacks", avg: 3, elite: 12, attr: ["pass_rush"] },
+      { col: "tackles", avg: 40, elite: 80, attr: ["run_defense", "tackling"] },
     ],
   },
   LB: {
-    overallScale: 11,
+    overallScale: 12,
     stats: [
-      { col: "tackles", elite: 150, attr: ["tackling", "run_defense"] },
-      { col: "sacks", elite: 10, attr: ["pass_rush"], weight: 0.6 },
-      { col: "def_int", elite: 4, attr: ["coverage", "zone_coverage"], weight: 0.6 },
+      { col: "tackles", avg: 75, elite: 150, attr: ["tackling", "run_defense"] },
+      { col: "sacks", avg: 2, elite: 11, attr: ["pass_rush"], weight: 0.6 },
+      { col: "def_int", avg: 1, elite: 4, attr: ["coverage", "zone_coverage"], weight: 0.6 },
     ],
   },
   CB: {
-    overallScale: 10,
+    overallScale: 11,
     stats: [
-      { col: "def_int", elite: 7, attr: ["coverage", "man_coverage", "hands"] },
-      { col: "tackles", elite: 80, attr: ["tackling"], weight: 0.4 },
+      { col: "def_int", avg: 2, elite: 7, attr: ["coverage", "man_coverage", "hands"] },
+      { col: "tackles", avg: 45, elite: 85, attr: ["tackling"], weight: 0.4 },
     ],
   },
   S: {
-    overallScale: 10,
+    overallScale: 11,
     stats: [
-      { col: "def_int", elite: 6, attr: ["coverage", "zone_coverage", "hands"] },
-      { col: "tackles", elite: 110, attr: ["tackling", "run_defense"] },
+      { col: "def_int", avg: 2, elite: 6, attr: ["coverage", "zone_coverage", "hands"] },
+      { col: "tackles", avg: 60, elite: 115, attr: ["tackling", "run_defense"] },
     ],
   },
   K: {
     overallScale: 9,
     stats: [
-      { col: "fg_pct", elite: 90, attr: ["kicking"] },
-      { col: "fg_made", elite: 32, attr: ["kicking", "clutch"], weight: 0.6 },
+      { col: "fg_pct", avg: 80, elite: 92, attr: ["kicking"], weight: 1.2 },
+      { col: "fg_made", avg: 20, elite: 34, attr: ["kicking", "clutch"], weight: 0.6 },
     ],
   },
   P: {
     overallScale: 8,
-    stats: [{ col: "punt_avg", elite: 47, attr: ["punting"] }],
+    stats: [{ col: "punt_avg", avg: 43, elite: 48, attr: ["punting"] }],
   },
 };
 
-// Baseline overall used as a graceful fallback when role/stat data is missing.
+// Provisional baseline used only when a player has NO usable role/stat/award
+// signal at all (the rare !hasData branch). Position-sensible, clearly in
+// "rotation/backup provisional" territory, and always exported with
+// needs_manual_review = true + a low-confidence reason so it is never mistaken
+// for a graded rating. Not a lazy "70 for everyone": premium spots sit a touch
+// higher, specialists lower, and the value is re-derived per position below.
 export const FALLBACK_OVERALL = {
-  QB: 66, RB: 66, WR: 66, TE: 65, OL: 66,
-  EDGE: 67, DL: 66, LB: 66, CB: 66, S: 65, K: 68, P: 66,
+  QB: 70, RB: 68, WR: 68, TE: 67, OL: 68,
+  EDGE: 70, DL: 68, LB: 68, CB: 70, S: 67, K: 66, P: 64,
 };
 export const GENERIC_FALLBACK_OVERALL = 62;
 
@@ -310,14 +324,19 @@ export const GENERIC_FALLBACK_OVERALL = 62;
 // relative to a neutral baseline (scarcity + impact). Scaled by role weight so a
 // backup at a premium position isn't treated as more valuable than a starter
 // elsewhere. Roughly centered on zero across a full roster.
+// These are PREMIUMS above a neutral-position starter (not absolute ratings).
+// The bulk of "a QB is valuable" is carried by the high ceiling production +
+// awards can reach; this knob only spreads positions a few points so a starting
+// corner/edge out-bases a starting guard. Kept small so an *average* starter at
+// a premium position doesn't balloon (an avg starting QB should read ~80, not 90).
 export const POSITION_VALUE = {
-  QB: 7,
-  EDGE: 4, CB: 4,
-  WR: 3, LT: 3,
-  DT: 2, S: 2, RT: 2,
-  TE: 1, RB: 1, LB: 1, C: 1,
+  QB: 4,
+  EDGE: 3, CB: 3,
+  WR: 2, LT: 2,
+  DT: 1, S: 1, RT: 1,
+  TE: 1, RB: 0, LB: 1, C: 0,
   LG: 0, RG: 0,
-  K: -2, P: -3,
+  K: -3, P: -4,
 };
 
 // Role tiers. `base` is the overall a player at this tier sits at before
@@ -326,13 +345,23 @@ export const POSITION_VALUE = {
 // `weight` scales how much positional value applies (full for starters, little
 // for depth). `unknown` is the honest middle used when a roster gives us no way
 // to rank its players (e.g. a bio-only import with no starts/stats/experience).
+// Bases map to the brief's role-based provisional ranges (the rating a player at
+// this tier sits at BEFORE position value, production, awards, and percentile):
+//   starter1 78  -> average lead starter  (Average starter 76-81)
+//   starter2 74  -> weak/second starter   (Weak starter 72-75)
+//   rotation 69  -> rotation player        (Rotation 68-73)
+//   backup   64  -> backup                 (Backup 62-68)
+//   depth    59  -> deep roster            (Deep roster 55-62)
+//   unknown  72  -> honest middle (ambiguous room; flagged low-confidence)
+// Evidence (production/awards/percentile) lifts the genuinely good toward Star
+// (88-91) and Elite (92-99); curated overrides finalize marquee names.
 export const ROLE_TIER = {
-  starter1: { base: 74, startRatio: 0.95, weight: 1.00 },
-  starter2: { base: 71, startRatio: 0.80, weight: 0.90 },
-  rotation: { base: 66, startRatio: 0.50, weight: 0.55 },
-  backup:   { base: 62, startRatio: 0.28, weight: 0.30 },
-  depth:    { base: 58, startRatio: 0.12, weight: 0.15 },
-  unknown:  { base: 67, startRatio: 0.45, weight: 0.50 },
+  starter1: { base: 78, startRatio: 0.95, weight: 1.00 },
+  starter2: { base: 74, startRatio: 0.80, weight: 0.90 },
+  rotation: { base: 69, startRatio: 0.50, weight: 0.55 },
+  backup:   { base: 64, startRatio: 0.28, weight: 0.30 },
+  depth:    { base: 59, startRatio: 0.12, weight: 0.15 },
+  unknown:  { base: 72, startRatio: 0.45, weight: 0.50 },
 };
 
 // How many players "start" at each position group (maps a within-roster depth
