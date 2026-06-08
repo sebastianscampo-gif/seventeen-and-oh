@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import {
   GameMode,
   Player,
@@ -14,6 +14,10 @@ import { computeTeamProfile } from "@/lib/team-profile";
 import { simulateSeason } from "@/lib/simulation";
 import { loadIndex, type TeamSeasonSummary } from "@/lib/data";
 import { getRosterForTeamSeason } from "@/lib/draft-select";
+import {
+  getTeamSeasonsByYearRange,
+  type TimelineRange,
+} from "@/lib/timeline";
 import StartScreen from "./components/StartScreen";
 import DraftScreen from "./components/DraftScreen";
 import ScoreScreen from "./components/ScoreScreen";
@@ -36,6 +40,10 @@ export default function Home() {
   const [draftedIds, setDraftedIds] = useState<string[]>([]);
   const [score, setScore] = useState<ScoreBreakdown | null>(null);
   const [sim, setSim] = useState<SimulationResult | null>(null);
+  // The roster-timeline window chosen on the start screen — the spin wheel only
+  // ever lands on team-seasons inside this range. null until a draft starts;
+  // reset() clears it so a restart can pick a fresh timeline.
+  const [range, setRange] = useState<TimelineRange | null>(null);
   // Dev/debug switches, read once from the URL (?debug, ?seed=123). Lazy
   // initializers (SSR-guarded) so they're set before first paint without a
   // cascading effect setState. They never change after mount.
@@ -59,8 +67,20 @@ export default function Home() {
       .catch((err) => console.error("Failed to load team-season index", err));
   }, []);
 
-  function start(m: GameMode) {
+  // Team-seasons the spin wheel is allowed to land on, narrowed to the chosen
+  // timeline. Falls back to the full catalog before a range is set (the draft
+  // can't begin until one is, so this is just a safe default).
+  const draftCatalog = useMemo(
+    () =>
+      range
+        ? getTeamSeasonsByYearRange(catalog, range.startYear, range.endYear)
+        : catalog,
+    [catalog, range]
+  );
+
+  function start(m: GameMode, timeline: TimelineRange) {
     setMode(m);
+    setRange(timeline);
     setRoster(createEmptyRoster());
     setDraftedIds([]);
     setScore(null);
@@ -122,6 +142,7 @@ export default function Home() {
 
   function reset() {
     setPhase("start");
+    setRange(null);
     setRoster(createEmptyRoster());
     setDraftedIds([]);
     setTeamSeason(null);
@@ -133,12 +154,14 @@ export default function Home() {
 
   return (
     <main className="flex flex-1 flex-col">
-      {phase === "start" && <StartScreen onStart={start} />}
+      {phase === "start" && (
+        <StartScreen catalog={catalog} onStart={start} />
+      )}
       {phase === "draft" && (
         <DraftScreen
           mode={mode}
           roster={roster}
-          catalog={catalog}
+          catalog={draftCatalog}
           teamSeason={teamSeason}
           draftedIds={draftedIds}
           loadingRoster={loadingRoster}

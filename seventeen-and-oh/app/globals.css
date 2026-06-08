@@ -86,3 +86,75 @@ body {
     outline-color: rgba(255, 255, 255, 0.6);
   }
 }
+
+/* Roster timeline dual-handle slider (RosterTimelineFilter) ---------------- */
+/* Two <input type="range"> stack over a shared track. The input body ignores
+   pointer events so clicks fall through to whichever thumb is under the cursor;
+   only the thumbs re-enable pointer events, which is what makes a two-handle
+   range work with native inputs. The visible track/fill are painted by divs
+   underneath, so the inputs themselves stay transparent. */
+.timeline-thumb {
+  pointer-events: none;
+  -webkit-appearance: none;
+  appearance: none;
+  background: transparent;
+}
+.timeline-thumb::-webkit-slider-runnable-track {
+  background: transparent;
+  border: none;
+}
+.timeline-thumb::-moz-range-track {
+  background: transparent;
+  border: none;
+}
+.timeline-thumb::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  pointer-events: auto;
+  height: 18px;
+  width: 18px;
+  border-radius: 9999px;
+  background: #ffffff;
+  border: 2px solid rgba(56, 189, 248, 0.9);
+  box-shadow:
+    0 0 8px rgba(56, 189, 248, 0.55),
+    0 1px 3px rgba(0, 0, 0, 0.35);
+  cursor: grab;
+  transition: transform 100ms ease-out;
+}
+.timeline-thumb::-moz-range-thumb {
+  pointer-events: auto;
+  height: 18px;
+  width: 18px;
+  border-radius: 9999px;
+  background: #ffffff;
+  border: 2px solid rgba(56, 189, 248, 0.9);
+  box-shadow:
+    0 0 8px rgba(56, 189, 248, 0.55),
+    0 1px 3px rgba(0, 0, 0, 0.35);
+  cursor: grab;
+  transition: transform 100ms ease-out;
+}
+.timeline-thumb:active::-webkit-slider-thumb {
+  cursor: grabbing;
+  transform: scale(1.12);
+}
+.timeline-thumb:active::-moz-range-thumb {
+  cursor: grabbing;
+  transform: scale(1.12);
+}
+.timeline-thumb:focus-visible::-webkit-slider-thumb {
+  outline: 2px solid rgba(125, 211, 252, 0.9);
+  outline-offset: 2px;
+}
+.timeline-thumb:focus-visible::-moz-range-thumb {
+  outline: 2px solid rgba(125, 211, 252, 0.9);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .timeline-thumb::-webkit-slider-thumb,
+  .timeline-thumb::-moz-range-thumb {
+    transition: none;
+  }
+}
