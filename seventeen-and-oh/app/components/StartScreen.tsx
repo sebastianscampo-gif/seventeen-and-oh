@@ -1,4 +1,5 @@
 "use client";
+import Image from "next/image";
 import { useMemo, useState } from "react";
 import { GameMode } from "@/lib/types";
 import type { TeamSeasonSummary } from "@/lib/data";
@@ -49,13 +50,18 @@ export default function StartScreen({
 
   return (
     <div className="mx-auto flex w-full max-w-2xl flex-1 flex-col items-center px-5 py-10">
-      <div className="mb-4 inline-flex items-center gap-2 rounded-full bg-white/5 px-3 py-1 text-xs font-medium uppercase tracking-widest text-white/50 ring-1 ring-white/10">
+      <div className="mb-5 inline-flex items-center gap-2 rounded-full bg-white/5 px-3 py-1 text-xs font-medium uppercase tracking-widest text-white/50 ring-1 ring-white/10">
         NFL Historical Draft
       </div>
-      <h1 className="bg-gradient-to-b from-white to-white/50 bg-clip-text text-center text-7xl font-black tracking-tighter text-transparent sm:text-8xl">
-        17-0
-      </h1>
-      <p className="mt-4 max-w-md text-center text-base leading-relaxed text-white/60">
+      <Image
+        src="/logo.png"
+        alt="17-0"
+        width={640}
+        height={593}
+        priority
+        className="h-auto w-60 drop-shadow-[0_12px_44px_rgba(56,189,248,0.22)] sm:w-72"
+      />
+      <p className="mt-5 max-w-md text-center text-base leading-relaxed text-white/60">
         Draft one player at a time from legendary NFL team-seasons. Build a full
         24-man roster, then chase a flawless regular season and a Super Bowl
         ring.

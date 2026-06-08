@@ -1,4 +1,5 @@
 "use client";
+import Image from "next/image";
 import { useEffect, useMemo, useState } from "react";
 import {
   GameMode,
@@ -152,8 +153,56 @@ export default function Home() {
     setSim(null);
   }
 
+  // The corner logo returns to the hub. Mid-draft that discards the in-progress
+  // roster, so confirm first; once the roster's scored (score/sim) there's
+  // nothing left to lose, so go straight back.
+  function goToHub() {
+    if (phase === "draft" && draftedIds.length > 0) {
+      const ok =
+        typeof window === "undefined" ||
+        window.confirm("Return to the hub? Your in-progress roster will be lost.");
+      if (!ok) return;
+    }
+    reset();
+  }
+
   return (
-    <main className="flex flex-1 flex-col">
+    <main className={`flex flex-1 flex-col ${phase !== "start" ? "pt-16" : ""}`}>
+      {/* Persistent brand mark during gameplay — tap to return to the hub. */}
+      {phase !== "start" && (
+        <button
+          onClick={goToHub}
+          aria-label="Back to hub"
+          title="Back to hub"
+          className="group fixed left-3 top-3 z-50 flex items-center gap-2 rounded-2xl bg-slate-950/70 py-1.5 pl-1.5 pr-3 ring-1 ring-white/10 backdrop-blur-md transition hover:bg-slate-900/80 hover:ring-white/25"
+        >
+          <Image
+            src="/logo.png"
+            alt="17-0"
+            width={640}
+            height={593}
+            className="h-8 w-auto"
+          />
+          <span className="flex items-center gap-1 text-xs font-semibold uppercase tracking-wide text-white/55 transition group-hover:text-white/90">
+            <svg
+              viewBox="0 0 20 20"
+              fill="none"
+              aria-hidden
+              className="h-3.5 w-3.5"
+            >
+              <path
+                d="M12.5 5 7.5 10l5 5"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+            Hub
+          </span>
+        </button>
+      )}
+
       {phase === "start" && (
         <StartScreen catalog={catalog} onStart={start} />
       )}
