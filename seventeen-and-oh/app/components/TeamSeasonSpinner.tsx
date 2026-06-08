@@ -8,7 +8,10 @@ import {
   selectRandomTeamSeason,
   isValidTeamSeason,
 } from "@/lib/draft-select";
-import { teamTheme } from "@/lib/teamColors";
+import {
+  getTeamColorTheme,
+  DEFAULT_TEAM_THEME,
+} from "@/lib/teamColorThemes";
 
 // A slot-machine / wheel-spin selector for one team-season. The two reels (TEAM
 // and SEASON) flip rapidly through *whole, valid* catalog entries — never a team
@@ -63,23 +66,33 @@ function Reel({
   value,
   spinning,
   landed,
-  glow,
+  variant,
 }: {
   label: string;
   value: string | null;
   spinning: boolean;
   landed: boolean;
-  glow: string;
+  variant: "team" | "season";
 }) {
+  // Team colors paint whenever a real team is on screen (mid-spin or landed). At
+  // idle the reels stay neutral dark so the page never flashes color. Colors are
+  // read from the inherited `--team-*` CSS variables set on the spin container, so
+  // each rapid swap during the spin updates them and CSS transitions ease the
+  // border/glow shift. Only the TEAM reel takes the gradient background; the
+  // SEASON reel just borrows the team's edge + glow so the pair reads as a set.
+  const themed = landed || spinning;
+  const isTeam = variant === "team";
   return (
     <div
-      className={`relative flex-1 overflow-hidden rounded-2xl ring-1 transition-shadow duration-300 ${
-        landed ? "ring-white/25" : "ring-white/10"
-      }`}
+      className="relative flex-1 overflow-hidden rounded-2xl transition-all duration-300"
       style={{
         background:
-          "linear-gradient(180deg, rgba(255,255,255,0.05) 0%, rgba(8,11,18,0.6) 55%, rgba(8,11,18,0.9) 100%)",
-        boxShadow: landed ? `0 0 0 1px ${glow}55, 0 12px 40px -12px ${glow}aa` : undefined,
+          isTeam && themed
+            ? "linear-gradient(180deg, rgba(8,11,18,0.50) 0%, rgba(8,11,18,0.72) 100%), var(--team-gradient)"
+            : "linear-gradient(180deg, rgba(255,255,255,0.05) 0%, rgba(8,11,18,0.6) 55%, rgba(8,11,18,0.9) 100%)",
+        boxShadow: themed
+          ? "inset 0 0 0 1px color-mix(in srgb, var(--team-border) 55%, transparent), 0 14px 44px -16px var(--team-glow)"
+          : "inset 0 0 0 1px rgba(255,255,255,0.10)",
       }}
     >
       {/* slot-window sheen: subtle fades top & bottom to read like a reel */}
@@ -92,9 +105,15 @@ function Reel({
         {value ? (
           <div
             key={value}
-            className={`text-center text-2xl font-black leading-tight tracking-tight text-white sm:text-3xl ${
+            className={`text-center text-2xl font-black leading-tight tracking-tight sm:text-3xl ${
               spinning ? "reel-roll blur-[0.4px]" : landed ? "reel-pop" : ""
             }`}
+            style={{
+              // Team name stays crisp white; the locked season number picks up the
+              // team accent. During the flicker both read white for legibility.
+              color:
+                !isTeam && landed ? "var(--team-accent)" : "var(--team-text)",
+            }}
           >
             {value}
           </div>
@@ -124,6 +143,16 @@ export default function TeamSeasonSpinner({
 
   const rafRef = useRef<number | null>(null);
   const timeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  // Synchronous re-entry lock. The "Spin the Wheel" button sits inside the
+  // tap-anywhere container, and both wire onClick={startSpin}. A single click on
+  // the button bubbles to the container, so both handlers run in the same event —
+  // and because `setPhase("spinning")` hasn't flushed yet, the `phase` check in
+  // startSpin can't catch the second call. Without this ref, that fires TWO spins
+  // that race to two different team-seasons (the reels show one, the slower roster
+  // fetch sets the parent's teamSeason to the other). The ref flips synchronously
+  // so the duplicate call bails. It resets naturally each round (the parent
+  // remounts the spinner via key={filled}).
+  const spinLockRef = useRef(false);
 
   // Cancel any in-flight animation if we unmount mid-spin (parent remounts the
   // component per round, so this fires between rounds).
@@ -145,6 +174,8 @@ export default function TeamSeasonSpinner({
 
   function startSpin() {
     if (phase !== "idle" || disabled || !ready) return; // no double-spin
+    if (spinLockRef.current) return; // bail on the bubbled second onClick
+    spinLockRef.current = true;
 
     // Fix the outcome up front from the SEEDED rng so it is fully reproducible
     // and immune to frame-rate jitter. The cosmetic per-tick flicker below uses
@@ -202,17 +233,33 @@ export default function TeamSeasonSpinner({
 
   const spinning = phase === "spinning";
   const landed = phase === "landed";
-  const glow = display ? teamTheme(display.teamCode).accent : "#60a5fa";
+
+  // The visible team's palette, exposed to the reels + locked-in badge as
+  // inherited CSS variables. At idle (no team shown) we fall back to the navy
+  // DEFAULT so nothing tints until the wheel is actually showing a team.
+  const theme = display ? getTeamColorTheme(display.teamCode) : DEFAULT_TEAM_THEME;
+  const teamVars = {
+    "--team-primary": theme.primary,
+    "--team-secondary": theme.secondary,
+    "--team-accent": theme.accent,
+    "--team-text": theme.text,
+    "--team-border": theme.border,
+    "--team-glow": theme.glow,
+    "--team-gradient": theme.gradient,
+  } as React.CSSProperties;
 
   return (
     <div className="w-full">
-      {/* Tap-anywhere spin area */}
+      {/* Tap-anywhere spin area. The team CSS vars live here so the reels and the
+          locked-in badge below all inherit them; the container itself paints no
+          team color, so the surrounding page never flashes. */}
       <div
         role={interactive ? "button" : undefined}
         tabIndex={interactive ? 0 : -1}
         aria-label={interactive ? "Spin the wheel" : undefined}
         onClick={interactive ? startSpin : undefined}
         onKeyDown={onKeyDown}
+        style={teamVars}
         className={`rounded-3xl bg-white/[0.02] p-4 ring-1 ring-white/10 sm:p-5 ${
           interactive ? "cursor-pointer transition hover:ring-white/20" : ""
         }`}
@@ -223,7 +270,7 @@ export default function TeamSeasonSpinner({
             value={display ? display.team : null}
             spinning={spinning}
             landed={landed}
-            glow={glow}
+            variant="team"
           />
           <div
             className={`flex w-8 shrink-0 items-center justify-center text-3xl font-light sm:w-10 sm:text-4xl ${
@@ -238,7 +285,7 @@ export default function TeamSeasonSpinner({
             value={display ? String(display.season) : null}
             spinning={spinning}
             landed={landed}
-            glow={glow}
+            variant="season"
           />
         </div>
 
@@ -295,8 +342,20 @@ export default function TeamSeasonSpinner({
               )}
             </button>
           ) : (
-            <div className="inline-flex items-center gap-2 rounded-full bg-emerald-500/15 px-4 py-1.5 text-sm font-semibold text-emerald-300 ring-1 ring-emerald-500/30">
-              <span aria-hidden>✓</span> Locked in — {display?.label}
+            <div
+              className="inline-flex items-center gap-2 rounded-full px-4 py-1.5 text-sm font-semibold transition-all duration-300"
+              style={{
+                backgroundColor:
+                  "color-mix(in srgb, var(--team-primary) 24%, transparent)",
+                color: "var(--team-text)",
+                boxShadow:
+                  "inset 0 0 0 1px color-mix(in srgb, var(--team-border) 55%, transparent), 0 0 18px var(--team-glow)",
+              }}
+            >
+              <span aria-hidden style={{ color: "var(--team-accent)" }}>
+                ✓
+              </span>{" "}
+              Locked in — {display?.label}
             </div>
           )}
 

@@ -3,7 +3,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { GameMode, Player, Position, RosterSlot, TeamSeason } from "@/lib/types";
 import type { TeamSeasonSummary } from "@/lib/data";
 import { POSITION_NAMES } from "@/lib/positions";
-import { teamTheme } from "@/lib/teamColors";
+import { getTeamColorTheme } from "@/lib/teamColorThemes";
 import TeamSeasonSpinner from "./TeamSeasonSpinner";
 import FootballFormationMap from "./FootballFormationMap";
 import RosterDetailsPanel from "./RosterDetailsPanel";
@@ -105,7 +105,18 @@ export default function DraftScreen({
   const [pending, setPending] = useState<Player | null>(null);
   const [inspectedSlotId, setInspectedSlotId] = useState<string | null>(null);
   const reveal = mode === "classic";
-  const theme = teamTheme(teamSeason?.teamCode ?? "");
+  // The locked team-season's palette (navy DEFAULT until one is revealed). Exposed
+  // to the draft panel + roster dividers below as inherited `--team-*` CSS vars.
+  const theme = getTeamColorTheme(teamSeason?.teamCode ?? "");
+  const teamVars = {
+    "--team-primary": theme.primary,
+    "--team-secondary": theme.secondary,
+    "--team-accent": theme.accent,
+    "--team-text": theme.text,
+    "--team-border": theme.border,
+    "--team-glow": theme.glow,
+    "--team-gradient": theme.gradient,
+  } as React.CSSProperties;
   const filled = roster.filter((s) => s.player).length;
   const total = roster.length;
 
@@ -238,24 +249,38 @@ export default function DraftScreen({
           )}
 
           {teamSeason && !loadingRoster && (
-            <div className={pending ? "pointer-events-none opacity-40" : ""}>
+            <div
+              style={teamVars}
+              className={pending ? "pointer-events-none opacity-40" : ""}
+            >
               <div
-                className="mb-4 overflow-hidden rounded-2xl p-4 ring-1 ring-white/10"
+                className="mb-4 overflow-hidden rounded-2xl p-4 transition-all duration-300"
                 style={{
-                  background: `linear-gradient(135deg, ${theme.primary} 0%, ${theme.primary}cc 55%, #080b12 150%)`,
+                  // The team gradient under a soft navy scrim so the heading stays
+                  // readable on every palette; team edge + glow frame the panel.
+                  background:
+                    "linear-gradient(135deg, rgba(2,6,12,0.28) 0%, rgba(2,6,12,0.58) 100%), var(--team-gradient)",
+                  boxShadow:
+                    "inset 0 0 0 1px color-mix(in srgb, var(--team-border) 45%, transparent), 0 18px 48px -24px var(--team-glow)",
                 }}
               >
-                <div className="text-xs font-semibold uppercase tracking-widest text-white/60">
+                <div
+                  className="text-xs font-semibold uppercase tracking-widest"
+                  style={{ color: theme.mutedText }}
+                >
                   Pick a player to draft
                 </div>
                 <div className="mt-1 flex flex-wrap items-baseline gap-x-3">
                   <span
                     className="text-2xl font-black tracking-tight"
-                    style={{ color: theme.accent }}
+                    style={{ color: "var(--team-accent)" }}
                   >
                     {teamSeason.season}
                   </span>
-                  <span className="text-xl font-bold text-white">
+                  <span
+                    className="text-xl font-bold"
+                    style={{ color: "var(--team-text)" }}
+                  >
                     {teamSeason.team}
                   </span>
                 </div>
@@ -271,7 +296,13 @@ export default function DraftScreen({
                       <span className="text-xs text-white/30">
                         {POSITION_NAMES[g.pos]}
                       </span>
-                      <div className="h-px flex-1 bg-white/10" />
+                      <div
+                        className="h-px flex-1"
+                        style={{
+                          background:
+                            "linear-gradient(to right, color-mix(in srgb, var(--team-border) 38%, transparent) 0%, rgba(255,255,255,0.06) 55%, transparent 100%)",
+                        }}
+                      />
                     </div>
                     <div className="grid gap-2 sm:grid-cols-2">
                       {g.players.map((p) => (
