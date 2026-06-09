@@ -17,6 +17,8 @@ export interface FootballFormationMapProps {
   showRatings: boolean;
   /** Slot currently highlighted in the details panel. */
   activeSlotId?: string | null;
+  /** Best-fit open slot for the pending player — gets an extra glow. */
+  suggestedSlotId?: string | null;
 }
 
 // Per-side identity colors: offense blue, defense red, special teams amber.
@@ -57,6 +59,7 @@ function SlotMarker({
   pending,
   showRatings,
   active,
+  suggested,
   onSlotClick,
   onAssignPlayerToSlot,
 }: {
@@ -64,6 +67,7 @@ function SlotMarker({
   pending: Player | null;
   showRatings: boolean;
   active: boolean;
+  suggested: boolean;
   onSlotClick?: (slotId: string) => void;
   onAssignPlayerToSlot?: (playerId: string, slotId: string) => void;
 }) {
@@ -105,11 +109,12 @@ function SlotMarker({
     inert ? "opacity-25" : "",
     active ? "z-30" : isDropTarget ? "z-20" : "z-10",
     isDropTarget
-      ? `field-target cursor-pointer bg-slate-950/70 ring-2 ${TONE_RING[placeTone!]}`
+      ? `field-target cursor-pointer bg-slate-950/70 ring-2 ${TONE_RING[placeTone!]}${suggested ? " field-suggest animate-pulse" : ""}`
       : filled
         ? `${color.fill} ${color.ring} ${canInspect ? "cursor-pointer hover:ring-white/70" : ""}`
         : "border border-dashed border-white/20 bg-slate-950/45 ring-white/10",
     active ? "outline outline-2 outline-white/70" : "",
+    suggested && isDropTarget ? "shadow-[0_0_16px_rgba(52,211,153,0.45)]" : "",
   ].join(" ");
 
   return (
@@ -172,6 +177,7 @@ export default function FootballFormationMap({
   onAssignPlayerToSlot,
   showRatings,
   activeSlotId = null,
+  suggestedSlotId = null,
 }: FootballFormationMapProps) {
   const pending = selectedDraftedPlayer;
   const placing = !!pending;
@@ -213,6 +219,7 @@ export default function FootballFormationMap({
               pending={pending}
               showRatings={showRatings}
               active={activeSlotId === slot.id}
+              suggested={suggestedSlotId === slot.id}
               onSlotClick={onSlotClick}
               onAssignPlayerToSlot={onAssignPlayerToSlot}
             />
