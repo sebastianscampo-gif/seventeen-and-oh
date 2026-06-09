@@ -25,6 +25,8 @@ interface IndexRow {
 }
 
 // Mirror lib/data.ts toPlayer: overall fallback 60, playoffClutch fallback=overall.
+// Reads the raw exported JSON shape, so an untyped bag is intentional here.
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 function toPlayer(gp: any): Player {
   const attributes: Record<string, number> = {};
   for (const [k, v] of Object.entries(gp.attributes ?? {})) {
