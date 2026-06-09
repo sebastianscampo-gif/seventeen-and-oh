@@ -1,0 +1,5 @@
+player_id,name,team_code,team_name,season,position,current_overall,issue,recommended_action
+00-0005106,Brett Favre,GB,Green Bay Packers,1999,QB,84,"production-implied floor 88, rated 84 (-4)",override to ~88 (4068pY/22pTD)
+00-0016098,Fred Taylor,JAX,Jacksonville Jaguars,1999,RB,75,"production-implied floor 78, rated 75 (-3)",override to ~78 (732rY (lead back))
+00-0010379,Dan Marino,MIA,Miami Dolphins,1999,QB,71,"production-implied floor 76, rated 71 (-5)",override to ~76 (2378pY (clear starter))
+00-0003292,Kerry Collins,NYG,New York Giants,1999,QB,72,"production-implied floor 76, rated 72 (-4)",override to ~76 (2318pY (clear starter))

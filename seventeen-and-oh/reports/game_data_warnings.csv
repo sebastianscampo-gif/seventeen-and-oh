@@ -1,105 +1,13 @@
 team_season,severity,rule,detail
-1965_ARI,WARN,generic_roster,65% of roster in the 67-71 generic band
-1965_BUF,WARN,generic_roster,67% of roster in the 67-71 generic band
-1966_ARI,WARN,generic_roster,67% of roster in the 67-71 generic band
-1966_ATL,WARN,generic_roster,64% of roster in the 67-71 generic band
-1967_ARI,WARN,generic_roster,70% of roster in the 67-71 generic band
-1967_ATL,WARN,generic_roster,56% of roster in the 67-71 generic band
-1967_BUF,WARN,generic_roster,58% of roster in the 67-71 generic band
-1968_ARI,WARN,generic_roster,78% of roster in the 67-71 generic band
-1968_ATL,WARN,generic_roster,65% of roster in the 67-71 generic band
-1968_BUF,WARN,generic_roster,52% of roster in the 67-71 generic band
-1969_ARI,WARN,generic_roster,72% of roster in the 67-71 generic band
-1969_ATL,WARN,generic_roster,64% of roster in the 67-71 generic band
-1970_ARI,WARN,generic_roster,82% of roster in the 67-71 generic band
-1970_ATL,WARN,generic_roster,65% of roster in the 67-71 generic band
-1970_BUF,WARN,generic_roster,55% of roster in the 67-71 generic band
-1971_ARI,WARN,generic_roster,76% of roster in the 67-71 generic band
-1971_ATL,WARN,generic_roster,71% of roster in the 67-71 generic band
-1971_BUF,WARN,generic_roster,52% of roster in the 67-71 generic band
-1972_ARI,WARN,generic_roster,80% of roster in the 67-71 generic band
-1972_ATL,WARN,generic_roster,67% of roster in the 67-71 generic band
-1972_MIA,WARN,inflated_qb,Earl Morrall QB 91 is 90+ with status=generated_high_confidence (no manual override)
-1973_ARI,WARN,generic_roster,81% of roster in the 67-71 generic band
-1973_ATL,WARN,generic_roster,59% of roster in the 67-71 generic band
-1973_BUF,WARN,generic_roster,60% of roster in the 67-71 generic band
-1974_ARI,WARN,generic_roster,85% of roster in the 67-71 generic band
-1974_ATL,WARN,generic_roster,64% of roster in the 67-71 generic band
-1974_BUF,WARN,generic_roster,60% of roster in the 67-71 generic band
-1975_ARI,WARN,generic_roster,84% of roster in the 67-71 generic band
-1975_ATL,WARN,generic_roster,54% of roster in the 67-71 generic band
-1975_BUF,WARN,generic_roster,56% of roster in the 67-71 generic band
-1976_ARI,WARN,generic_roster,77% of roster in the 67-71 generic band
-1976_ATL,WARN,generic_roster,64% of roster in the 67-71 generic band
-1977_ARI,WARN,generic_roster,63% of roster in the 67-71 generic band
-1977_ATL,WARN,generic_roster,60% of roster in the 67-71 generic band
-1977_BUF,WARN,generic_roster,63% of roster in the 67-71 generic band
-1978_ARI,WARN,generic_roster,81% of roster in the 67-71 generic band
-1978_ATL,WARN,generic_roster,66% of roster in the 67-71 generic band
-1978_BUF,WARN,generic_roster,52% of roster in the 67-71 generic band
-1978_PIT,WARN,inflated_qb,Terry Bradshaw QB 99 is 90+ with status=manually_reviewed (no manual override)
-1979_ARI,WARN,generic_roster,70% of roster in the 67-71 generic band
-1979_ATL,WARN,generic_roster,67% of roster in the 67-71 generic band
-1979_BUF,WARN,generic_roster,57% of roster in the 67-71 generic band
-1980_ARI,WARN,generic_roster,84% of roster in the 67-71 generic band
-1980_ATL,WARN,generic_roster,71% of roster in the 67-71 generic band
-1981_ARI,WARN,generic_roster,78% of roster in the 67-71 generic band
-1981_ATL,WARN,generic_roster,53% of roster in the 67-71 generic band
-1982_ARI,WARN,generic_roster,76% of roster in the 67-71 generic band
-1982_ATL,WARN,generic_roster,58% of roster in the 67-71 generic band
-1983_ARI,WARN,generic_roster,71% of roster in the 67-71 generic band
-1983_ATL,WARN,generic_roster,72% of roster in the 67-71 generic band
-1983_BUF,WARN,generic_roster,52% of roster in the 67-71 generic band
-1984_ARI,WARN,generic_roster,82% of roster in the 67-71 generic band
-1984_ATL,WARN,generic_roster,62% of roster in the 67-71 generic band
-1984_BUF,WARN,generic_roster,52% of roster in the 67-71 generic band
-1985_ARI,WARN,generic_roster,74% of roster in the 67-71 generic band
-1985_ATL,WARN,generic_roster,70% of roster in the 67-71 generic band
-1985_BUF,WARN,generic_roster,53% of roster in the 67-71 generic band
-1985_CHI,WARN,inflated_qb,Jim McMahon QB 91 is 90+ with status=generated_medium_confidence (no manual override)
-1986_ARI,WARN,generic_roster,85% of roster in the 67-71 generic band
-1986_ATL,WARN,generic_roster,54% of roster in the 67-71 generic band
-1988_ARI,WARN,generic_roster,80% of roster in the 67-71 generic band
-1988_ATL,WARN,generic_roster,58% of roster in the 67-71 generic band
-1989_ARI,WARN,generic_roster,73% of roster in the 67-71 generic band
-1989_ATL,WARN,generic_roster,63% of roster in the 67-71 generic band
-1989_BUF,WARN,generic_roster,56% of roster in the 67-71 generic band
-1990_ARI,WARN,generic_roster,77% of roster in the 67-71 generic band
-1990_ATL,WARN,generic_roster,58% of roster in the 67-71 generic band
-1990_BUF,WARN,generic_roster,56% of roster in the 67-71 generic band
-1991_ARI,WARN,generic_roster,73% of roster in the 67-71 generic band
-1991_ATL,WARN,generic_roster,56% of roster in the 67-71 generic band
-1992_ARI,WARN,generic_roster,76% of roster in the 67-71 generic band
-1993_ARI,WARN,generic_roster,77% of roster in the 67-71 generic band
-1993_ATL,WARN,generic_roster,53% of roster in the 67-71 generic band
-1993_BUF,WARN,generic_roster,55% of roster in the 67-71 generic band
-1994_ARI,WARN,generic_roster,79% of roster in the 67-71 generic band
-1994_ATL,WARN,generic_roster,60% of roster in the 67-71 generic band
-1994_BUF,WARN,generic_roster,52% of roster in the 67-71 generic band
-1995_ARI,WARN,generic_roster,73% of roster in the 67-71 generic band
-1995_ATL,WARN,generic_roster,65% of roster in the 67-71 generic band
-1995_BUF,WARN,generic_roster,58% of roster in the 67-71 generic band
-1996_ARI,WARN,generic_roster,72% of roster in the 67-71 generic band
-1996_ATL,WARN,generic_roster,56% of roster in the 67-71 generic band
-1997_ARI,WARN,generic_roster,79% of roster in the 67-71 generic band
-1997_ATL,WARN,generic_roster,60% of roster in the 67-71 generic band
-1997_BAL,WARN,generic_roster,57% of roster in the 67-71 generic band
-1998_ARI,WARN,generic_roster,81% of roster in the 67-71 generic band
-1998_ATL,WARN,generic_roster,59% of roster in the 67-71 generic band
-1998_BAL,WARN,generic_roster,57% of roster in the 67-71 generic band
-1999_CAR,WARN,inflated_qb,Steve Beuerlein QB 96 is 90+ with status=generated_high_confidence (no manual override)
-1999_IND,WARN,inflated_qb,Peyton Manning QB 92 is 90+ with status=generated_high_confidence (no manual override)
-1999_LV,WARN,inflated_qb,Rich Gannon QB 90 is 90+ with status=generated_high_confidence (no manual override)
-1999_WAS,WARN,inflated_qb,Brad Johnson QB 91 is 90+ with status=generated_high_confidence (no manual override)
 2000_ARI,WARN,generic_roster,52% of roster in the 67-71 generic band
 2000_IND,WARN,inflated_qb,Peyton Manning QB 95 is 90+ with status=generated_high_confidence (no manual override)
 2000_LV,WARN,inflated_qb,Rich Gannon QB 92 is 90+ with status=generated_high_confidence (no manual override)
 2000_MIN,WARN,inflated_qb,Daunte Culpepper QB 97 is 90+ with status=generated_high_confidence (no manual override)
 2000_SF,WARN,inflated_qb,Jeff Garcia QB 96 is 90+ with status=generated_high_confidence (no manual override)
 2001_GB,WARN,inflated_qb,Brett Favre QB 94 is 90+ with status=generated_high_confidence (no manual override)
+2001_LAR,WARN,inflated_qb,Kurt Warner QB 97 is 90+ with status=generated_high_confidence (no manual override)
 2001_LV,WARN,inflated_qb,Rich Gannon QB 93 is 90+ with status=generated_high_confidence (no manual override)
 2001_SF,WARN,inflated_qb,Jeff Garcia QB 93 is 90+ with status=generated_high_confidence (no manual override)
-2001_STL,WARN,inflated_qb,Kurt Warner QB 97 is 90+ with status=generated_high_confidence (no manual override)
 2002_BUF,WARN,inflated_qb,Drew Bledsoe QB 91 is 90+ with status=generated_high_confidence (no manual override)
 2002_IND,WARN,inflated_qb,Peyton Manning QB 91 is 90+ with status=generated_high_confidence (no manual override)
 2002_KC,WARN,inflated_qb,Trent Green QB 92 is 90+ with status=generated_high_confidence (no manual override)
@@ -128,8 +36,8 @@ team_season,severity,rule,detail
 2006_CIN,WARN,inflated_qb,Carson Palmer QB 93 is 90+ with status=generated_high_confidence (no manual override)
 2006_IND,WARN,inflated_qb,Peyton Manning QB 96 is 90+ with status=generated_high_confidence (no manual override)
 2006_LAC,WARN,inflated_qb,Philip Rivers QB 90 is 90+ with status=generated_high_confidence (no manual override)
+2006_LAR,WARN,inflated_qb,Marc Bulger QB 92 is 90+ with status=generated_high_confidence (no manual override)
 2006_NO,WARN,inflated_qb,Drew Brees QB 94 is 90+ with status=generated_high_confidence (no manual override)
-2006_STL,WARN,inflated_qb,Marc Bulger QB 92 is 90+ with status=generated_high_confidence (no manual override)
 2007_DAL,WARN,inflated_qb,Tony Romo QB 95 is 90+ with status=generated_high_confidence (no manual override)
 2007_GB,WARN,inflated_qb,Brett Favre QB 93 is 90+ with status=generated_high_confidence (no manual override)
 2007_IND,WARN,inflated_qb,Peyton Manning QB 94 is 90+ with status=generated_high_confidence (no manual override)
@@ -227,24 +135,24 @@ team_season,severity,rule,detail
 2017_DET,WARN,inflated_qb,Matthew Stafford QB 95 is 90+ with status=generated_high_confidence (no manual override)
 2017_KC,WARN,inflated_qb,Alex Smith QB 95 is 90+ with status=generated_high_confidence (no manual override)
 2017_LAC,WARN,inflated_qb,Philip Rivers QB 93 is 90+ with status=generated_high_confidence (no manual override)
+2017_LAR,WARN,inflated_qb,Jared Goff QB 92 is 90+ with status=generated_high_confidence (no manual override)
 2017_NE,WARN,inflated_qb,Tom Brady QB 97 is 90+ with status=generated_high_confidence (no manual override)
 2017_NO,WARN,inflated_qb,Drew Brees QB 94 is 90+ with status=generated_high_confidence (no manual override)
 2017_PHI,WARN,inflated_qb,Carson Wentz QB 93 is 90+ with status=generated_high_confidence (no manual override)
 2017_PIT,WARN,inflated_qb,Ben Roethlisberger QB 91 is 90+ with status=generated_high_confidence (no manual override)
 2017_SEA,WARN,inflated_qb,Russell Wilson QB 96 is 90+ with status=generated_high_confidence (no manual override)
-2017_STL,WARN,inflated_qb,Jared Goff QB 92 is 90+ with status=generated_high_confidence (no manual override)
 2017_WAS,WARN,inflated_qb,Kirk Cousins QB 91 is 90+ with status=generated_high_confidence (no manual override)
 2018_ATL,WARN,inflated_qb,Matt Ryan QB 99 is 90+ with status=generated_high_confidence (no manual override)
 2018_GB,WARN,inflated_qb,Aaron Rodgers QB 91 is 90+ with status=generated_high_confidence (no manual override)
 2018_HOU,WARN,inflated_qb,Deshaun Watson QB 94 is 90+ with status=generated_high_confidence (no manual override)
 2018_IND,WARN,inflated_qb,Andrew Luck QB 97 is 90+ with status=generated_high_confidence (no manual override)
 2018_LAC,WARN,inflated_qb,Philip Rivers QB 95 is 90+ with status=generated_high_confidence (no manual override)
+2018_LAR,WARN,inflated_qb,Jared Goff QB 96 is 90+ with status=generated_high_confidence (no manual override)
 2018_MIN,WARN,inflated_qb,Kirk Cousins QB 93 is 90+ with status=generated_high_confidence (no manual override)
 2018_NE,WARN,inflated_qb,Tom Brady QB 92 is 90+ with status=generated_high_confidence (no manual override)
 2018_NO,WARN,inflated_qb,Drew Brees QB 98 is 90+ with status=generated_high_confidence (no manual override)
 2018_PIT,WARN,inflated_qb,Ben Roethlisberger QB 96 is 90+ with status=generated_high_confidence (no manual override)
 2018_SEA,WARN,inflated_qb,Russell Wilson QB 97 is 90+ with status=generated_high_confidence (no manual override)
-2018_STL,WARN,inflated_qb,Jared Goff QB 96 is 90+ with status=generated_high_confidence (no manual override)
 2019_ATL,WARN,inflated_qb,Matt Ryan QB 91 is 90+ with status=generated_high_confidence (no manual override)
 2019_BAL,WARN,inflated_qb,Lamar Jackson QB 99 is 90+ with status=generated_high_confidence (no manual override)
 2019_DAL,WARN,inflated_qb,Dak Prescott QB 97 is 90+ with status=generated_high_confidence (no manual override)
@@ -279,9 +187,9 @@ team_season,severity,rule,detail
 2021_IND,WARN,inflated_qb,Carson Wentz QB 90 is 90+ with status=generated_high_confidence (no manual override)
 2021_KC,WARN,inflated_qb,Patrick Mahomes QB 97 is 90+ with status=generated_high_confidence (no manual override)
 2021_LAC,WARN,inflated_qb,Justin Herbert QB 98 is 90+ with status=generated_high_confidence (no manual override)
+2021_LAR,WARN,inflated_qb,Matthew Stafford QB 99 is 90+ with status=generated_high_confidence (no manual override)
 2021_LV,WARN,inflated_qb,Derek Carr QB 92 is 90+ with status=generated_high_confidence (no manual override)
 2021_MIN,WARN,inflated_qb,Kirk Cousins QB 95 is 90+ with status=generated_high_confidence (no manual override)
-2021_STL,WARN,inflated_qb,Matthew Stafford QB 99 is 90+ with status=generated_high_confidence (no manual override)
 2021_TB,WARN,inflated_qb,Tom Brady QB 99 is 90+ with status=generated_high_confidence (no manual override)
 2022_BUF,WARN,inflated_qb,Josh Allen QB 97 is 90+ with status=generated_high_confidence (no manual override)
 2022_CIN,WARN,inflated_qb,Joe Burrow QB 97 is 90+ with status=generated_high_confidence (no manual override)

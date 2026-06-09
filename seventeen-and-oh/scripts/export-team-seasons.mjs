@@ -20,6 +20,18 @@ import { camel, eraOf, fromRoot, list, log, num, teamSeasonId, teamSeasonLabel }
 
 const OUT_DIR = fromRoot("public", "team-seasons");
 
+// --- Game scope (Option 1 — quality-first) -----------------------------------
+// The rated, simulated database is scoped to the era where the source feed
+// actually carries performance evidence. Per reports/recommended_game_scope.md,
+// box-score stats begin in 1999 (stats_completeness 0% -> 28%); everything
+// earlier is bio-only and produced the 67-71 compression bug. We therefore
+// export only 1999+ as the main pool. Raw/processed data is untouched, so a
+// curated pre-1999 "Legacy" pool (Option 2) remains possible later by lowering
+// this floor. Override at the CLI, e.g.  SCOPE_MIN_SEASON=2002 npm run data:export
+const MIN_SEASON = Number(process.env.SCOPE_MIN_SEASON ?? 1999);
+const MAX_SEASON = Number(process.env.SCOPE_MAX_SEASON ?? 9999);
+const inScope = (season) => season >= MIN_SEASON && season <= MAX_SEASON;
+
 // The exported provenance line. Generated rows now carry a specific, one-line
 // `rating_reason` in `note` (e.g. "Rated 78: inferred WR2 by depth rank…"), so we
 // surface it directly when present and only fall back to generic per-status text
@@ -63,11 +75,13 @@ function run() {
   fs.mkdirSync(OUT_DIR, { recursive: true });
   const manifest = [];
   let fileCount = 0;
+  let outOfScope = 0;
 
   for (const reg of registry) {
     const season = num(reg.season);
     const teamCode = reg.team_code;
     if (!season || !teamCode) continue;
+    if (!inScope(season)) { outOfScope++; continue; } // Option 1: 1999+ rated pool
     const id = teamSeasonId(season, teamCode);
     const roster = psByTs.get(id) || [];
     if (roster.length === 0) {
@@ -206,7 +220,17 @@ function run() {
   manifest.sort((a, b) => a.season - b.season || a.teamCode.localeCompare(b.teamCode));
   fs.writeFileSync(`${OUT_DIR}/index.json`, JSON.stringify(manifest, null, 2) + "\n");
 
+  // Prune any previously-exported team-season files now out of scope, so
+  // public/team-seasons/ exactly matches the manifest the client loads.
+  const keep = new Set(manifest.map((m) => m.file));
+  let pruned = 0;
+  for (const f of fs.readdirSync(OUT_DIR)) {
+    if (f === "index.json" || !f.endsWith(".json")) continue;
+    if (!keep.has(f)) { fs.unlinkSync(`${OUT_DIR}/${f}`); pruned++; }
+  }
+
   log.ok(`${fileCount} team-season JSON files + index.json written to public/team-seasons/`);
+  log.info(`scope ${MIN_SEASON}-${MAX_SEASON === 9999 ? "present" : MAX_SEASON}: skipped ${outOfScope} out-of-scope registry rows, pruned ${pruned} stale files.`);
   log.info("the app fetches these on demand via lib/data.ts (no client bundle barrel).");
 }
 

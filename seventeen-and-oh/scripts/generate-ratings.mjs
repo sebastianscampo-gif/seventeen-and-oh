@@ -21,16 +21,44 @@
 import { readCsv, writeCsv } from "./lib/csv.mjs";
 import {
   RATING_FIELDS, RATINGS_COLUMNS, STAT_COLUMNS, ALL_STATUSES,
-  POSITION_GROUP, STARTER_COUNTS, tierFromRank,
+  POSITION_GROUP, STARTER_COUNTS, tierFromRank, STATUS,
 } from "./lib/schema.mjs";
-import { computeContext, finalize, statProduction } from "./lib/ratings-engine.mjs";
-import { clamp, fromRoot, list, log, num } from "./lib/util.mjs";
+import { computeContext, finalize, statProduction, projectAttributes } from "./lib/ratings-engine.mjs";
+import { clamp, fromRoot, jitter, list, log, num } from "./lib/util.mjs";
 
 // Threshold below which a position group on a roster carries no usable signal to
 // tell its players apart (e.g. a bio-only import where everyone shows the same
 // flat games count and no starts/stats/experience). Such groups are ranked only
 // if they are small enough that every member is plainly a starter.
 const SIGNAL_EPSILON = 5;
+
+// --- 1999 depth individualization -------------------------------------------
+// The 1999 overhaul brief requires every player rated individually, with no
+// roster stacked on one OVR and no statless backup priced like a starter. The
+// engine ranks the no-evidence depth (the statless OL/DL/LB/DB it can only order,
+// not grade) but lands the whole ambiguous group on a single team-scaled number
+// (~71 on weak teams, pushed to ~77 on strong ones). That is exactly the cluster
+// the brief forbids. For those rows ONLY — 1999, low-confidence, zero quality
+// evidence — we spread the otherwise-identical value deterministically by real
+// experience plus a stable per-player seed, centered in the backup band so depth
+// on a strong team is never starter-rated. Reproducible (seeded, no RNG) and
+// scoped to 1999; curated overrides and any evidence-backed rating are untouched.
+const DEPTH_SEASON = 1999;
+const DEPTH_CAP = 72;      // no-evidence depth is centered no higher than this
+const DEPTH_FLOOR = 54;    // ...and never below this
+const DEPTH_CEIL = 78;     // ...nor above this without real evidence
+const DEPTH_EXP_TILT = 3;  // experience tilt amplitude (vet > rookie)
+const DEPTH_SPREAD = 8;    // deterministic per-player spread amplitude
+const DEPTH_DOWN_SKEW = 2; // small bias toward the backup band
+
+function disperseDepthOverall(input, ctx, overall, seed) {
+  const exp = num(input.years_exp);
+  const expTilt = exp != null ? clamp((exp - 4) / 6, -1, 1) * DEPTH_EXP_TILT : 0;
+  const noise = jitter(seed + "|d99"); // stable per-player value in [-1, 1]
+  const center = Math.min(overall, DEPTH_CAP);
+  const disp = center + expTilt + noise * DEPTH_SPREAD - DEPTH_DOWN_SKEW;
+  return clamp(Math.round(disp), DEPTH_FLOOR, DEPTH_CEIL);
+}
 
 // A within-roster ranking score. Higher = more likely a starter. Recorded starts
 // dominate; real box-score production is next; experience/availability are weak
@@ -156,10 +184,38 @@ function run() {
   const out = [];
   const statusCounts = Object.fromEntries(ALL_STATUSES.map((s) => [s, 0]));
   let reviewCount = 0;
+  let dispersedCount = 0;
   for (const it of items) {
     const { rating, status, source, confidence, reason, needsReview } = finalize(
       it.input, it.ctx, percentile.get(it), { confidence: it.defConfidence }
     );
+
+    // 1999-only: individualize the no-evidence depth cluster so a roster never
+    // stacks on one OVR (see the depth-individualization note at top of file).
+    let finalRating = rating;
+    let finalNote = reason || "";
+    if (
+      it.input.season === DEPTH_SEASON &&
+      !it.ctx.hasQualityEvidence &&
+      (status === STATUS.GENERATED_LOW || status === STATUS.NEEDS_REVIEW)
+    ) {
+      const seed = `${it.input.player_id || it.input.name || "x"}|${it.input.season || ""}|${it.input.team_code || ""}`;
+      const dispersed = disperseDepthOverall(it.input, it.ctx, rating.overall, seed);
+      if (dispersed !== rating.overall) {
+        finalRating = {
+          overall: dispersed,
+          ...projectAttributes(it.ctx.group, dispersed, seed, {
+            attrNudges: it.ctx.stat.attrNudges || {},
+            keyLift: it.ctx.award.lift || 0,
+            availability: it.ctx.hasRole ? it.ctx.availability : null,
+            awardOverall: it.ctx.award.overall,
+          }),
+        };
+        finalNote = finalNote ? `${finalNote} [1999 depth individualized]` : finalNote;
+        dispersedCount++;
+      }
+    }
+
     statusCounts[status] = (statusCounts[status] || 0) + 1;
     if (needsReview) reviewCount++;
     const rowOut = {
@@ -170,9 +226,9 @@ function run() {
       rating_source: source,
       rating_confidence: confidence,
       needs_manual_review: needsReview ? "true" : "",
-      note: reason || "",
+      note: finalNote,
     };
-    for (const f of RATING_FIELDS) rowOut[f] = rating[f];
+    for (const f of RATING_FIELDS) rowOut[f] = finalRating[f];
     out.push(rowOut);
   }
 
@@ -184,6 +240,7 @@ function run() {
 
   log.ok(`${out.length} ratings written`);
   log.info(`within-roster ranking: ${groups.size} position groups, ${ambiguousGroups} ambiguous (no signal)`);
+  log.info(`1999 depth individualized (no-evidence cluster): ${dispersedCount}`);
   log.info(`flagged needs_manual_review: ${reviewCount}`);
   log.info(
     "by status: " +

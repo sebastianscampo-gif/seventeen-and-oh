@@ -1,0 +1,15 @@
+position_group,earliest_strong_year,earliest_usable_year,main_data_available,main_data_missing,confidence_level,manual_review_needed
+QB,1999,1999,"passing yds/TD/INT, passer rating, rush yds (1999+)",pre-1999 box scores; advanced/EPA,high (1999+),no
+RB,1999,1999,"rush yds/TD, receptions, rec yds (1999+)",pre-1999 box scores; snap/touch share,high (1999+),no
+WR,1999,1999,"receptions, rec yds/TD (1999+)",pre-1999 box scores; routes/targets,high (1999+),no
+TE,1999,1999,"receptions, rec yds/TD (1999+)",pre-1999 box scores; blocking grades,medium (1999+),no
+OT,none,none,"bio (ht/wt), games/started, depth",ALL box-score & grading stats (every era),low (role/bio only),yes
+OG,none,none,"bio (ht/wt), games/started, depth",ALL box-score & grading stats (every era),low (role/bio only),yes
+C,none,none,"bio (ht/wt), games/started, depth",ALL box-score & grading stats (every era),low (role/bio only),yes
+EDGE,none,none,"bio, games/started, depth",sacks/tackles/FF empty in EVERY era,low (role/bio only),yes
+DT,none,none,"bio, games/started, depth",sacks/tackles empty in EVERY era,low (role/bio only),yes
+LB,none,none,"bio, games/started, depth",tackles/sacks/INT empty in EVERY era,low (role/bio only),yes
+CB,none,none,"bio, games/started, depth",INT/PD/tackles empty in EVERY era,low (role/bio only),yes
+S,none,none,"bio, games/started, depth",INT/tackles/FF empty in EVERY era,low (role/bio only),yes
+K,none,none,"bio, games/started, depth",FG made/att/pct empty in EVERY era,low (role/bio only),yes
+P,none,none,"bio, games/started, partial games (1999+)",punt avg/yds empty in EVERY era,low (role/bio only),yes

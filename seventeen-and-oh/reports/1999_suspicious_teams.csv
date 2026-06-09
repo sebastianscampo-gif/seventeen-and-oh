@@ -1,0 +1,32 @@
+team_code,team_name,season,players_total,average_ovr,min_ovr,max_ovr,percent_67_to_71,percent_same_rating,issue,recommended_action
+ARI,Arizona Cardinals,1999,60,71.4,51,85,50.0,40.0,50% in 67-71 generic band; 40% share OVR 71,Author curated overrides for stars + clear starters; let true depth fall to engine.
+TB,Tampa Bay Buccaneers,1999,58,73.1,52,86,6.9,27.6,28% share OVR 75; SB-class team but max only 86,Author curated overrides for stars + clear starters; let true depth fall to engine.
+ATL,Atlanta Falcons,1999,58,70.4,51,89,29.3,31.0,31% share OVR 72,Author curated overrides for stars + clear starters; let true depth fall to engine.
+BAL,Baltimore Ravens,1999,60,71.5,51,96,16.7,30.0,30% share OVR 72,Author curated overrides for stars + clear starters; let true depth fall to engine.
+CIN,Cincinnati Bengals,1999,63,70.8,52,87,9.5,31.7,32% share OVR 72,Author curated overrides for stars + clear starters; let true depth fall to engine.
+CLE,Cleveland Browns,1999,61,72.2,59,89,14.8,27.9,28% share OVR 72,Author curated overrides for stars + clear starters; let true depth fall to engine.
+DAL,Dallas Cowboys,1999,66,72.0,50,98,6.1,28.8,29% share OVR 73,Author curated overrides for stars + clear starters; let true depth fall to engine.
+GB,Green Bay Packers,1999,61,71.8,50,90,4.9,26.2,26% share OVR 73,Author curated overrides for stars + clear starters; let true depth fall to engine.
+IND,Indianapolis Colts,1999,59,72.7,51,98,11.9,27.1,27% share OVR 73,Author curated overrides for stars + clear starters; let true depth fall to engine.
+LV,Oakland Raiders,1999,58,73.1,51,92,8.6,31.0,31% share OVR 74,Author curated overrides for stars + clear starters; let true depth fall to engine.
+MIA,Miami Dolphins,1999,62,72.2,52,93,6.5,32.3,32% share OVR 74,Author curated overrides for stars + clear starters; let true depth fall to engine.
+NE,New England Patriots,1999,62,72.7,51,86,12.9,25.8,26% share OVR 74,Author curated overrides for stars + clear starters; let true depth fall to engine.
+NYJ,New York Jets,1999,61,72.8,50,92,4.9,45.9,46% share OVR 75,Author curated overrides for stars + clear starters; let true depth fall to engine.
+PHI,Philadelphia Eagles,1999,61,72.0,51,87,9.8,36.1,36% share OVR 75,Author curated overrides for stars + clear starters; let true depth fall to engine.
+SEA,Seattle Seahawks,1999,59,73.3,50,89,10.2,32.2,32% share OVR 75,Author curated overrides for stars + clear starters; let true depth fall to engine.
+SF,San Francisco 49ers,1999,63,72.8,52,88,6.3,36.5,37% share OVR 75,Author curated overrides for stars + clear starters; let true depth fall to engine.
+TEN,Tennessee Titans,1999,58,74.4,55,90,6.9,37.9,38% share OVR 76,Author curated overrides for stars + clear starters; let true depth fall to engine.
+WAS,Washington Redskins,1999,59,75.4,56,93,3.4,52.5,53% share OVR 76,Author curated overrides for stars + clear starters; let true depth fall to engine.
+BUF,Buffalo Bills,1999,56,72.9,51,97,19.6,21.4,none,OK — spot-check only.
+CAR,Carolina Panthers,1999,62,72.0,50,96,25.8,14.5,none,OK — spot-check only.
+CHI,Chicago Bears,1999,62,72.4,55,94,24.2,24.2,none,OK — spot-check only.
+DEN,Denver Broncos,1999,63,70.5,50,88,7.9,22.2,none,OK — spot-check only.
+DET,Detroit Lions,1999,64,72.2,51,92,4.7,21.9,none,OK — spot-check only.
+JAX,Jacksonville Jaguars,1999,64,72.6,50,96,25.0,21.9,none,OK — spot-check only.
+KC,Kansas City Chiefs,1999,56,73.5,52,95,12.5,23.2,none,OK — spot-check only.
+LAC,San Diego Chargers,1999,62,72.0,56,95,11.3,16.1,none,OK — spot-check only.
+LAR,St. Louis Rams,1999,23,89.1,82,97,0.0,21.7,none,OK — spot-check only.
+MIN,Minnesota Vikings,1999,59,72.5,50,95,5.1,20.3,none,OK — spot-check only.
+NO,New Orleans Saints,1999,66,71.1,50,84,12.1,21.2,none,OK — spot-check only.
+NYG,New York Giants,1999,60,73.3,53,90,8.3,25.0,none,OK — spot-check only.
+PIT,Pittsburgh Steelers,1999,60,71.8,50,86,15.0,25.0,none,OK — spot-check only.

@@ -29,6 +29,14 @@ const RATINGS = fromRoot("data", "processed", "ratings.csv");
 const OUT = fromRoot("reports", "game_data_warnings.csv");
 const COLUMNS = ["team_season", "severity", "rule", "detail"];
 
+// Mirror the export scope (Option 1 — rated pool is 1999+). Elite fixtures for
+// team-seasons outside the exported scope are skipped rather than failed, so the
+// pre-1999 legends below stay as ready fixtures if a Legacy pool is added later.
+const MIN_SEASON = Number(process.env.SCOPE_MIN_SEASON ?? 1999);
+const MAX_SEASON = Number(process.env.SCOPE_MAX_SEASON ?? 9999);
+const seasonOf = (ts) => Number(String(ts).split("_")[0]);
+const tsInScope = (ts) => seasonOf(ts) >= MIN_SEASON && seasonOf(ts) <= MAX_SEASON;
+
 // Unambiguous greats that must clear a floor on the given roster. Mixed engine-
 // rated (Mahomes, Jefferson) and override-backed (Donald, Watt, Nelson) so the
 // list guards BOTH the engine and the override layer against regressions.
@@ -36,11 +44,11 @@ const KNOWN_ELITE = [
   ["2007_NE", "Tom Brady", 96], ["2007_NE", "Randy Moss", 95],
   ["2022_KC", "Patrick Mahomes", 95], ["2022_MIN", "Justin Jefferson", 93],
   ["1985_CHI", "Walter Payton", 93], ["1985_CHI", "Mike Singletary", 90],
-  ["1999_STL", "Kurt Warner", 93], ["1999_STL", "Marshall Faulk", 93],
+  ["1999_LAR", "Kurt Warner", 93], ["1999_LAR", "Marshall Faulk", 93],
   ["2000_BAL", "Ray Lewis", 95], ["1978_PIT", "Joe Greene", 93],
   ["1978_PIT", "Jack Lambert", 93], ["2013_SEA", "Richard Sherman", 89],
   ["2013_SEA", "Earl Thomas", 89], ["2022_PIT", "T.J. Watt", 92],
-  ["2022_IND", "Quenton Nelson", 88], ["2018_STL", "Aaron Donald", 95],
+  ["2022_IND", "Quenton Nelson", 88], ["2018_LAR", "Aaron Donald", 95],
   ["1996_GB", "Reggie White", 95], ["1986_NYG", "Lawrence Taylor", 95],
 ];
 
@@ -98,7 +106,9 @@ function run() {
   }
 
   // --- 3: known-elite floor ---
+  let skippedElite = 0;
   for (const [ts, name, floor] of KNOWN_ELITE) {
+    if (!tsInScope(ts)) { skippedElite++; continue; } // legacy fixture, out of rated scope
     const doc = docs.get(ts);
     if (!doc) { add(ts, "FAIL", "missing_team_season", `expected team-season file ${ts}.json not found`); continue; }
     const pl = (doc.players || []).find((p) => (p.name || "").toLowerCase() === name.toLowerCase());
@@ -115,7 +125,7 @@ function run() {
   const warns = warnings.filter((w) => w.severity === "WARN").length;
   const rel = OUT.split("/").slice(-2).join("/");
   log.ok(`validated ${files.length} game-ready JSON files → ${rel}`);
-  log.info(`FAIL=${fails}   WARN=${warns}`);
+  log.info(`FAIL=${fails}   WARN=${warns}   (skipped ${skippedElite} out-of-scope elite fixtures < ${MIN_SEASON})`);
   if (fails > 0) {
     log.warn("FAIL-level game-data problems:");
     for (const w of warnings.filter((w) => w.severity === "FAIL").slice(0, 12)) log.warn(`  ${w.team_season} [${w.rule}] ${w.detail}`);

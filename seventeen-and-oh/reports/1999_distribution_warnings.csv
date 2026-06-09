@@ -1,0 +1,10 @@
+team_code,team_name,season,rule,severity,detail
+ATL,Atlanta Falcons,1999,starter_rated_like_backup,WARN,"2 recorded starter(s) rated <=68: Winslow Oliver 68, Tony Graziani 66"
+CHI,Chicago Bears,1999,starter_rated_like_backup,WARN,"2 recorded starter(s) rated <=68: James Allen 68, Macey Brooks 68"
+DET,Detroit Lions,1999,starter_rated_like_backup,WARN,1 recorded starter(s) rated <=68: Sedrick Irvin 68
+JAX,Jacksonville Jaguars,1999,band_67_71_over_30,WARN,"31.3% of roster rated 67-71 (band still broad — confirm it is spread, not stacked)"
+NO,New Orleans Saints,1999,starter_rated_like_backup,WARN,1 recorded starter(s) rated <=68: Billy Joe Hobert 68
+NYJ,New York Jets,1999,starter_rated_like_backup,WARN,1 recorded starter(s) rated <=68: Quinn Early 68
+PHI,Philadelphia Eagles,1999,starter_rated_like_backup,WARN,"3 recorded starter(s) rated <=68: Cecil Martin 68, Dameane Douglas 68, Doug Pederson 66"
+PIT,Pittsburgh Steelers,1999,starter_rated_like_backup,WARN,1 recorded starter(s) rated <=68: Mike Tomczak 67
+SF,San Francisco 49ers,1999,starter_rated_like_backup,WARN,1 recorded starter(s) rated <=68: Mark Harris 68

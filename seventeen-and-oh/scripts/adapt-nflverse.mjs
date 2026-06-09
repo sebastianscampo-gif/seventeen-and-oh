@@ -13,7 +13,7 @@
 //   • weekly roster rows -> one season row per player (modal team/position)
 //   • status filter (keep players who were actually on the team)
 //   • season-aware franchise code normalization (OAK->LV, SD->LAC, season-
-//     dependent BAL->IND/BAL and STL->ARI/STL, HOU->TEN/HOU, etc.)
+//     dependent BAL->IND/BAL and STL->ARI/LAR, HOU->TEN/HOU, etc.)
 //   • position mapping to our 16 slots (FB->RB, T->LT(+RT), DE->EDGE, NT->DT…)
 //   • season stat aggregation from weekly player_stats (+ computed passer rating)
 //
@@ -98,9 +98,9 @@ function normTeam(raw, season) {
     case "OTI": return "TEN"; // Houston/Tennessee Oilers
     case "HOU": case "HST": return season >= 2002 ? "HOU" : "TEN"; // Oilers(<=1996)->TEN; Texans(2002+, nflverse HST 2002-15)->HOU
     case "BAL": case "CLT": case "BLT": return season >= 1996 ? "BAL" : "IND"; // Colts(<=1983)->IND; Ravens(1996+, nflverse BLT 2002-15)
-    case "RAM": return "STL"; // our Rams franchise code
-    case "STL": case "SL": return season >= 1995 ? "STL" : "ARI"; // St.L Cardinals(<=1987)->ARI; St.L Rams(1995-2015, nflverse SL 2002-15)
-    case "LA": case "LAR": return "STL"; // LA Rams -> our Rams code
+    case "RAM": return "LAR"; // our Rams franchise code (modern: Los Angeles)
+    case "STL": case "SL": return season >= 1995 ? "LAR" : "ARI"; // St.L Cardinals(<=1987)->ARI; St.L Rams(1995-2015, nflverse SL 2002-15)->LAR
+    case "LA": case "LAR": return "LAR"; // LA Rams -> our Rams code
     default: return c; // stable: ATL BUF CAR CHI CIN DAL DEN DET GB KC MIA MIN NYG NYJ PHI PIT SEA SF TB CLE IND DEN ...
   }
 }
