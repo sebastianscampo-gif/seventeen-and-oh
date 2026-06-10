@@ -302,7 +302,7 @@ export default function DraftScreen({
 
   const teamSeasonCard = teamSeason && !loadingRoster && (
     <div
-      className="overflow-hidden rounded-2xl p-3.5 transition-all duration-300"
+      className="overflow-hidden rounded-2xl p-4 transition-all duration-300"
       style={{
         ...teamVars,
         background:
@@ -312,52 +312,50 @@ export default function DraftScreen({
       }}
     >
       <div
-        className="text-[10px] font-semibold uppercase tracking-widest"
+        className="text-xs font-semibold uppercase tracking-widest"
         style={{ color: theme.mutedText }}
       >
-        Current team-season
+        This round&apos;s team-season
       </div>
-      <div className="mt-1 flex flex-wrap items-baseline gap-x-2 gap-y-0.5">
+      <div className="mt-1 flex flex-wrap items-baseline gap-x-3 gap-y-0.5">
         <span
-          className="text-xl font-black tracking-tight"
+          className="text-2xl font-black tracking-tight"
           style={{ color: "var(--team-accent)" }}
         >
           {teamSeason.season}
         </span>
         <span
-          className="text-lg font-bold leading-tight"
+          className="text-xl font-bold leading-tight"
           style={{ color: "var(--team-text)" }}
         >
           {teamSeason.team}
         </span>
       </div>
-      <p className="mt-1 text-[11px] text-white/45">{teamSeason.label}</p>
+      <p className="mt-1 text-xs text-white/45">{teamSeason.label}</p>
     </div>
   );
 
   const playerSelection = teamSeason && !loadingRoster && (
-    <div
-      style={teamVars}
-      className="flex min-h-0 flex-1 flex-col"
-    >
-      <div className="mb-2 flex shrink-0 items-center justify-between">
-        <div className="text-[10px] font-semibold uppercase tracking-wider text-white/40">
+    <div style={teamVars}>
+      <div className="mb-2 flex items-center justify-between">
+        <div className="text-xs font-semibold uppercase tracking-wider text-white/50">
           Available players
         </div>
-        <span className="text-[10px] text-white/30">
-          {flatPlayers.length} left
-        </span>
+        <span className="text-xs text-white/30">{flatPlayers.length} left</span>
       </div>
       <div
-        className={`min-h-0 flex-1 space-y-3 overflow-y-auto pr-0.5 max-lg:max-h-[min(42vh,28rem)] ${
+        className={`space-y-5 ${
           pending ? "pointer-events-none opacity-40" : ""
         }`}
       >
         {groups.map((g) => (
           <div key={g.pos}>
-            <div className="mb-1.5 flex items-center gap-2">
-              <span className="font-mono text-[10px] font-bold text-white/40">
+            <div className="mb-2 flex items-center gap-2">
+              <span className="font-mono text-xs font-bold text-white/40">
                 {g.pos}
+              </span>
+              <span className="text-xs text-white/30">
+                {POSITION_NAMES[g.pos]}
               </span>
               <div
                 className="h-px flex-1"
@@ -367,7 +365,7 @@ export default function DraftScreen({
                 }}
               />
             </div>
-            <div className="space-y-1.5">
+            <div className="grid gap-2 sm:grid-cols-2">
               {g.players.map((p) => (
                 <PlayerCard
                   key={p.id}
@@ -389,7 +387,7 @@ export default function DraftScreen({
 
   return (
     <div className="mx-auto flex w-full max-w-7xl flex-1 flex-col px-4 py-4 lg:py-5">
-      {/* Round progress — full width header */}
+      {/* Round progress — full-width header */}
       <div className="mb-3 shrink-0">
         <div className="flex items-center justify-between text-xs font-medium text-white/50">
           <span>
@@ -407,71 +405,29 @@ export default function DraftScreen({
         </div>
       </div>
 
-      {/* Two-column draft layout */}
-      <div className="grid min-h-0 flex-1 gap-4 lg:grid-cols-[minmax(0,1fr)_minmax(300px,34%)] lg:items-start">
-        {/* LEFT: Football field / roster board */}
-        <div
-          ref={fieldRef}
-          className="order-3 min-w-0 scroll-mt-4 lg:order-1"
-        >
-          <FootballFormationMap
-            rosterSlots={roster}
-            selectedDraftedPlayer={pending}
-            mode={mode}
-            showRatings={reveal}
-            activeSlotId={inspectedSlotId}
-            suggestedSlotId={suggestedSlotId}
-            onSlotClick={(id) => setInspectedSlotId(id)}
-            onAssignPlayerToSlot={(_playerId, slotId) => placePlayer(slotId)}
-          />
-
-          {pending && (
-            <div className="mt-3 hidden items-center justify-between gap-3 rounded-xl bg-emerald-500/10 px-4 py-3 ring-1 ring-emerald-400/30 lg:flex">
-              <div className="min-w-0">
-                <div className="text-[11px] font-semibold uppercase tracking-wider text-emerald-200/70">
-                  On the clock
-                </div>
-                <div className="truncate font-bold text-white">
-                  {pending.name}
-                  <span className="ml-1 font-normal text-white/50">
-                    · tap a glowing position or confirm in the sidebar
-                  </span>
-                </div>
-              </div>
-            </div>
-          )}
-        </div>
-
-        {/* RIGHT: Draft sidebar — dashboard + team-season + players */}
-        <aside className="order-1 flex min-h-0 flex-col gap-3 lg:order-2 lg:sticky lg:top-16 lg:max-h-[calc(100vh-5.5rem)]">
-          {/* Desktop: dashboard at top */}
-          <div className="hidden shrink-0 lg:block">
-            <RosterDetailsPanel
-              roster={roster}
-              mode={mode}
-              pending={pending}
-              activeSlotId={inspectedSlotId}
-            />
-          </div>
-
-          {/* Spinner — hidden while placing a player */}
+      {/* Two-column draft layout:
+          LEFT  = the draft itself (spin → team/year bar → players → controls).
+          RIGHT = roster status (Team Dashboard + a compact field below it),
+          sticky so the board stays visible while you scroll the player list. */}
+      <div className="grid flex-1 gap-4 lg:grid-cols-[minmax(0,1fr)_minmax(21rem,37%)] lg:items-start">
+        {/* LEFT / MAIN: team-season selection + available players */}
+        <div className="min-w-0 space-y-4">
+          {/* This round's wheel lands on a team-season (hidden while placing). */}
           {!pending && (
-            <div className="shrink-0">
-              <TeamSeasonSpinner
-                key={filled}
-                teamSeasons={catalog}
-                onSpinComplete={onSpinComplete}
-                disabled={loadingRoster}
-                mode={mode}
-                avoidId={avoidId}
-                seed={seed == null ? undefined : seed + filled}
-                debug={debug}
-              />
-            </div>
+            <TeamSeasonSpinner
+              key={filled}
+              teamSeasons={catalog}
+              onSpinComplete={onSpinComplete}
+              disabled={loadingRoster}
+              mode={mode}
+              avoidId={avoidId}
+              seed={seed == null ? undefined : seed + filled}
+              debug={debug}
+            />
           )}
 
           {loadingRoster && (
-            <div className="flex shrink-0 items-center justify-center gap-2 rounded-2xl bg-white/[0.03] py-5 text-sm text-white/50 ring-1 ring-white/10">
+            <div className="flex items-center justify-center gap-2 rounded-2xl bg-white/[0.03] py-6 text-sm text-white/50 ring-1 ring-white/10">
               <svg
                 className="h-4 w-4 animate-spin text-white/60"
                 viewBox="0 0 24 24"
@@ -497,13 +453,15 @@ export default function DraftScreen({
           )}
 
           {!teamSeason && !loadingRoster && !pending && (
-            <p className="shrink-0 text-center text-sm text-white/40">
+            <p className="text-center text-sm text-white/40">
               Spin to lock in a team-season, then draft one of its players.
             </p>
           )}
 
+          {/* Team/year bar — stays in the main area, not the sidebar. */}
           {teamSeasonCard}
 
+          {/* Draft controls — appear in place when a player is selected. */}
           {pending && validSlots.length > 0 && (
             <PlacementOptions
               pending={pending}
@@ -514,22 +472,35 @@ export default function DraftScreen({
             />
           )}
 
-          {/* Scrollable player list fills remaining sidebar height on desktop */}
+          {/* Available players — the core draft list. */}
           {playerSelection}
+        </div>
 
-          <div className="shrink-0">
-            <RosterNeedsSummary roster={roster} />
-          </div>
+        {/* RIGHT / SIDEBAR: Team Dashboard with the compact field below it. */}
+        <aside className="space-y-3 lg:sticky lg:top-16 lg:max-h-[calc(100vh-5rem)] lg:overflow-y-auto lg:pr-1">
+          <RosterDetailsPanel
+            roster={roster}
+            mode={mode}
+            pending={pending}
+            activeSlotId={inspectedSlotId}
+          />
 
-          {/* Mobile: dashboard at bottom */}
-          <div className="shrink-0 lg:hidden">
-            <RosterDetailsPanel
-              roster={roster}
+          {/* Compact, still-readable roster board under the dashboard. */}
+          <div ref={fieldRef} className="scroll-mt-20">
+            <FootballFormationMap
+              compact
+              rosterSlots={roster}
+              selectedDraftedPlayer={pending}
               mode={mode}
-              pending={pending}
+              showRatings={reveal}
               activeSlotId={inspectedSlotId}
+              suggestedSlotId={suggestedSlotId}
+              onSlotClick={(id) => setInspectedSlotId(id)}
+              onAssignPlayerToSlot={(_playerId, slotId) => placePlayer(slotId)}
             />
           </div>
+
+          <RosterNeedsSummary roster={roster} />
         </aside>
       </div>
     </div>

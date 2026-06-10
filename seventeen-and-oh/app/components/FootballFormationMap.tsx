@@ -19,6 +19,8 @@ export interface FootballFormationMapProps {
   activeSlotId?: string | null;
   /** Best-fit open slot for the pending player — gets an extra glow. */
   suggestedSlotId?: string | null;
+  /** Shrinks the field + markers so it fits a narrow sidebar column. */
+  compact?: boolean;
 }
 
 // Per-side identity colors: offense blue, defense red, special teams amber.
@@ -60,6 +62,7 @@ function SlotMarker({
   showRatings,
   active,
   suggested,
+  compact,
   onSlotClick,
   onAssignPlayerToSlot,
 }: {
@@ -68,6 +71,7 @@ function SlotMarker({
   showRatings: boolean;
   active: boolean;
   suggested: boolean;
+  compact: boolean;
   onSlotClick?: (slotId: string) => void;
   onAssignPlayerToSlot?: (playerId: string, slotId: string) => void;
 }) {
@@ -105,7 +109,7 @@ function SlotMarker({
     filled && slot.fit != null ? fitTier(slot.fit).tone : null;
 
   const classes = [
-    "absolute flex w-11 -translate-x-1/2 -translate-y-1/2 flex-col items-center justify-center rounded-xl px-0.5 py-1 text-center leading-none ring-1 transition sm:w-[3.35rem]",
+    `absolute flex -translate-x-1/2 -translate-y-1/2 flex-col items-center justify-center rounded-xl px-0.5 py-1 text-center leading-none ring-1 transition ${compact ? "w-9" : "w-11 sm:w-[3.35rem]"}`,
     inert ? "opacity-25" : "",
     active ? "z-30" : isDropTarget ? "z-20" : "z-10",
     isDropTarget
@@ -178,6 +182,7 @@ export default function FootballFormationMap({
   showRatings,
   activeSlotId = null,
   suggestedSlotId = null,
+  compact = false,
 }: FootballFormationMapProps) {
   const pending = selectedDraftedPlayer;
   const placing = !!pending;
@@ -192,7 +197,9 @@ export default function FootballFormationMap({
     <div className="rounded-2xl bg-black/30 p-2 ring-1 ring-white/10">
       <div className="overflow-x-auto">
         <div
-          className="relative aspect-[16/10] min-w-[34rem] overflow-hidden rounded-xl ring-1 ring-white/15"
+          className={`relative aspect-[16/10] overflow-hidden rounded-xl ring-1 ring-white/15 ${
+            compact ? "min-w-[21rem]" : "min-w-[34rem]"
+          }`}
           style={{ background: fieldBackground }}
           aria-label={mode === "blind" ? "Formation map (ratings hidden)" : "Formation map"}
         >
@@ -220,6 +227,7 @@ export default function FootballFormationMap({
               showRatings={showRatings}
               active={activeSlotId === slot.id}
               suggested={suggestedSlotId === slot.id}
+              compact={compact}
               onSlotClick={onSlotClick}
               onAssignPlayerToSlot={onAssignPlayerToSlot}
             />
