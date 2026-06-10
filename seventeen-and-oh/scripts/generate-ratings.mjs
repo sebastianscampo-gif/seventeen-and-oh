@@ -32,18 +32,21 @@ import { clamp, fromRoot, jitter, list, log, num } from "./lib/util.mjs";
 // if they are small enough that every member is plainly a starter.
 const SIGNAL_EPSILON = 5;
 
-// --- 1999 depth individualization -------------------------------------------
-// The 1999 overhaul brief requires every player rated individually, with no
+// --- depth individualization (1999, 2000) ------------------------------------
+// The season-overhaul brief requires every player rated individually, with no
 // roster stacked on one OVR and no statless backup priced like a starter. The
 // engine ranks the no-evidence depth (the statless OL/DL/LB/DB it can only order,
 // not grade) but lands the whole ambiguous group on a single team-scaled number
 // (~71 on weak teams, pushed to ~77 on strong ones). That is exactly the cluster
-// the brief forbids. For those rows ONLY — 1999, low-confidence, zero quality
-// evidence — we spread the otherwise-identical value deterministically by real
-// experience plus a stable per-player seed, centered in the backup band so depth
-// on a strong team is never starter-rated. Reproducible (seeded, no RNG) and
-// scoped to 1999; curated overrides and any evidence-backed rating are untouched.
-const DEPTH_SEASON = 1999;
+// the brief forbids. For those rows ONLY — an overhauled season, low-confidence,
+// zero quality evidence — we spread the otherwise-identical value deterministically
+// by real experience plus a stable per-player seed, centered in the backup band so
+// depth on a strong team is never starter-rated. Reproducible (seeded, no RNG) and
+// scoped to the overhauled seasons; curated overrides and any evidence-backed
+// rating are untouched. The jitter salt stays "|d99" so the 1999 outputs remain
+// byte-identical to the original 1999 pass (the seed already includes the season,
+// so 2000 rows get their own distinct, stable spread).
+const DEPTH_SEASONS = new Set([1999, 2000, 2001, 2002]);
 const DEPTH_CAP = 72;      // no-evidence depth is centered no higher than this
 const DEPTH_FLOOR = 54;    // ...and never below this
 const DEPTH_CEIL = 78;     // ...nor above this without real evidence
@@ -195,7 +198,7 @@ function run() {
     let finalRating = rating;
     let finalNote = reason || "";
     if (
-      it.input.season === DEPTH_SEASON &&
+      DEPTH_SEASONS.has(it.input.season) &&
       !it.ctx.hasQualityEvidence &&
       (status === STATUS.GENERATED_LOW || status === STATUS.NEEDS_REVIEW)
     ) {
@@ -211,7 +214,7 @@ function run() {
             awardOverall: it.ctx.award.overall,
           }),
         };
-        finalNote = finalNote ? `${finalNote} [1999 depth individualized]` : finalNote;
+        finalNote = finalNote ? `${finalNote} [${it.input.season} depth individualized]` : finalNote;
         dispersedCount++;
       }
     }
@@ -240,7 +243,7 @@ function run() {
 
   log.ok(`${out.length} ratings written`);
   log.info(`within-roster ranking: ${groups.size} position groups, ${ambiguousGroups} ambiguous (no signal)`);
-  log.info(`1999 depth individualized (no-evidence cluster): ${dispersedCount}`);
+  log.info(`depth individualized (no-evidence cluster, ${[...DEPTH_SEASONS].join("/")}): ${dispersedCount}`);
   log.info(`flagged needs_manual_review: ${reviewCount}`);
   log.info(
     "by status: " +

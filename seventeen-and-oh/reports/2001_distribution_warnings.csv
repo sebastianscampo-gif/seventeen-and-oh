@@ -1,0 +1,7 @@
+team_code,team_name,season,rule,severity,detail
+ARI,Arizona Cardinals,2001,starter_rated_like_backup,WARN,1 recorded starter(s) rated <=68: Arnold Jackson 68
+ATL,Atlanta Falcons,2001,starter_rated_like_backup,WARN,1 recorded starter(s) rated <=68: Rodney Thomas 67
+BUF,Buffalo Bills,2001,starter_rated_like_backup,WARN,"2 recorded starter(s) rated <=68: Reggie Germany 68, Avion Black 67"
+CAR,Carolina Panthers,2001,starter_rated_like_backup,WARN,"2 recorded starter(s) rated <=68: Chris Hetherington 68, Patrick Jeffers 67"
+DET,Detroit Lions,2001,starter_rated_like_backup,WARN,1 recorded starter(s) rated <=68: Desmond Howard 68
+MIN,Minnesota Vikings,2001,starter_rated_like_backup,WARN,1 recorded starter(s) rated <=68: Chris Walsh 68

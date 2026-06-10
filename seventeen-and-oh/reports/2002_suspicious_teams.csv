@@ -1,0 +1,33 @@
+team_code,team_name,season,players_total,average_ovr,min_ovr,max_ovr,percent_67_to_71,percent_same_rating,issue,recommended_action
+DEN,Denver Broncos,2002,47,72.8,54,93,31.9,12.8,32% in 67-71 generic band,Author curated overrides for stars + clear starters; let true depth fall to engine.
+DET,Detroit Lions,2002,51,71.3,51,84,31.4,13.7,31% in 67-71 generic band,Author curated overrides for stars + clear starters; let true depth fall to engine.
+TB,Tampa Bay Buccaneers,2002,51,72.4,50,89,17.6,9.8,SB-class team but max only 89,Author curated overrides for stars + clear starters; let true depth fall to engine.
+ARI,Arizona Cardinals,2002,54,70.1,51,83,29.6,14.8,none,OK — spot-check only.
+ATL,Atlanta Falcons,2002,43,72.4,50,86,27.9,9.3,none,OK — spot-check only.
+BAL,Baltimore Ravens,2002,48,71.9,58,96,22.9,8.3,none,OK — spot-check only.
+BUF,Buffalo Bills,2002,46,73.0,50,95,28.3,10.9,none,OK — spot-check only.
+CAR,Carolina Panthers,2002,48,71.6,50,83,27.1,10.4,none,OK — spot-check only.
+CHI,Chicago Bears,2002,53,70.5,51,92,20.8,9.4,none,OK — spot-check only.
+CIN,Cincinnati Bengals,2002,49,72.2,52,88,24.5,8.2,none,OK — spot-check only.
+CLE,Cleveland Browns,2002,44,73.0,52,87,27.3,13.6,none,OK — spot-check only.
+DAL,Dallas Cowboys,2002,48,73.3,50,96,25.0,16.7,none,OK — spot-check only.
+GB,Green Bay Packers,2002,49,72.4,54,91,22.4,12.2,none,OK — spot-check only.
+HOU,Houston Texans,2002,46,72.6,54,87,15.2,10.9,none,OK — spot-check only.
+IND,Indianapolis Colts,2002,43,72.7,50,99,25.6,14.0,none,OK — spot-check only.
+JAX,Jacksonville Jaguars,2002,46,72.7,55,90,21.7,10.9,none,OK — spot-check only.
+KC,Kansas City Chiefs,2002,50,72.8,52,97,16.0,10.0,none,OK — spot-check only.
+LAC,San Diego Chargers,2002,46,73.1,52,96,15.2,10.9,none,OK — spot-check only.
+LAR,St. Louis Rams,2002,46,72.0,53,91,15.2,15.2,none,OK — spot-check only.
+LV,Oakland Raiders,2002,53,73.2,52,96,15.1,9.4,none,OK — spot-check only.
+MIA,Miami Dolphins,2002,47,72.9,55,96,17.0,10.6,none,OK — spot-check only.
+MIN,Minnesota Vikings,2002,46,73.0,52,94,28.3,15.2,none,OK — spot-check only.
+NE,New England Patriots,2002,43,73.6,50,90,11.6,14.0,none,OK — spot-check only.
+NO,New Orleans Saints,2002,44,74.0,51,93,22.7,13.6,none,OK — spot-check only.
+NYG,New York Giants,2002,46,73.2,51,93,28.3,13.0,none,OK — spot-check only.
+NYJ,New York Jets,2002,43,74.2,52,92,20.9,11.6,none,OK — spot-check only.
+PHI,Philadelphia Eagles,2002,43,73.9,56,86,18.6,14.0,none,OK — spot-check only.
+PIT,Pittsburgh Steelers,2002,46,73.4,53,97,15.2,15.2,none,OK — spot-check only.
+SEA,Seattle Seahawks,2002,47,73.5,53,93,17.0,12.8,none,OK — spot-check only.
+SF,San Francisco 49ers,2002,46,74.3,52,96,19.6,13.0,none,OK — spot-check only.
+TEN,Tennessee Titans,2002,45,73.8,56,90,26.7,11.1,none,OK — spot-check only.
+WAS,Washington Redskins,2002,51,72.6,54,97,21.6,9.8,none,OK — spot-check only.

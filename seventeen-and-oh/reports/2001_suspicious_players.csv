@@ -1,0 +1,5 @@
+player_id,name,team_code,team_name,season,position,current_overall,issue,recommended_action
+00-0004054,Terrell Davis,DEN,Denver Broncos,2001,RB,74,"production-implied floor 78, rated 74 (-4)",override to ~78 (701rY (lead back))
+00-0000865,Charlie Batch,DET,Detroit Lions,2001,QB,72,"production-implied floor 76, rated 72 (-4)",override to ~76 (2392pY (clear starter))
+00-0006355,Trent Green,KC,Kansas City Chiefs,2001,QB,80,"production-implied floor 84, rated 80 (-4)",override to ~84 (3783pY/17pTD)
+00-0001215,Jerome Bettis,PIT,Pittsburgh Steelers,2001,RB,76,"production-implied floor 83, rated 76 (-7)",override to ~83 (1072rY/4rTD)

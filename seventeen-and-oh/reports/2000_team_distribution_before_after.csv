@@ -1,0 +1,32 @@
+team_code,team_name,season,players_total,avg_ovr_before,avg_ovr_after,min_ovr_before,min_ovr_after,max_ovr_before,max_ovr_after,players_90_plus_before,players_90_plus_after,players_80_plus_before,players_80_plus_after,percent_67_to_71_before,percent_67_to_71_after
+BAL,Baltimore Ravens,2000,24,88.1,80.9,79,72,99,99,11,2,23,14,0,0
+PHI,Philadelphia Eagles,2000,57,73.2,73.4,56,60,90,88,1,0,8,10,14,14
+LV,Oakland Raiders,2000,55,73.6,73.3,50,52,92,89,2,0,5,10,7.3,12.7
+BUF,Buffalo Bills,2000,55,72.2,72.5,52,53,91,87,1,0,7,8,7.3,16.4
+WAS,Washington Redskins,2000,63,74.1,72.5,54,54,98,88,3,0,11,11,12.7,15.9
+LAR,St. Louis Rams,2000,58,73.5,72.4,50,51,96,99,3,4,9,11,10.3,15.5
+MIN,Minnesota Vikings,2000,58,73.5,72.4,51,52,97,94,4,2,5,10,5.2,20.7
+TB,Tampa Bay Buccaneers,2000,56,72.8,72.3,52,53,88,92,0,2,11,12,17.9,23.2
+TEN,Tennessee Titans,2000,63,73.6,72.3,55,56,93,88,1,0,8,13,12.7,22.2
+IND,Indianapolis Colts,2000,59,73.6,72.1,57,57,97,94,3,3,8,7,8.5,22
+JAX,Jacksonville Jaguars,2000,65,72.3,72,50,51,92,92,3,1,5,11,13.8,23.1
+MIA,Miami Dolphins,2000,65,72.4,72,51,52,93,88,2,0,5,11,13.8,18.5
+SEA,Seattle Seahawks,2000,58,73.4,71.9,52,51,89,92,0,1,5,7,5.2,12.1
+NYG,New York Giants,2000,60,73.1,71.8,51,52,90,88,1,0,7,10,8.3,11.7
+DET,Detroit Lions,2000,59,72.2,71.6,53,53,88,84,0,0,5,7,10.2,22
+NYJ,New York Jets,2000,58,72.6,71.6,54,54,91,90,1,1,12,6,17.2,15.5
+DEN,Denver Broncos,2000,62,71.5,71.5,50,52,95,90,3,1,10,11,16.1,11.3
+ATL,Atlanta Falcons,2000,63,71.4,71.4,50,50,85,84,0,0,6,9,38.1,14.3
+GB,Green Bay Packers,2000,61,72.9,71.3,51,52,91,85,1,0,7,8,6.6,13.1
+SF,San Francisco 49ers,2000,60,73.7,71.2,50,50,96,90,2,1,6,8,3.3,13.3
+NE,New England Patriots,2000,65,72,71.1,49,49,88,86,0,0,4,8,4.6,10.8
+KC,Kansas City Chiefs,2000,60,72,70.8,53,54,96,90,2,2,8,9,11.7,18.3
+DAL,Dallas Cowboys,2000,66,71.3,70.7,50,50,96,95,1,1,6,7,10.6,21.2
+PIT,Pittsburgh Steelers,2000,62,72,70.7,51,51,86,84,0,0,7,6,12.9,12.9
+CAR,Carolina Panthers,2000,67,71.6,70.4,51,51,98,87,2,0,6,8,14.9,19.4
+LAC,San Diego Chargers,2000,59,72.5,70.4,50,49,95,90,2,1,5,5,5.1,18.6
+NO,New Orleans Saints,2000,61,71.9,70.4,50,51,93,90,1,1,7,8,9.8,9.8
+ARI,Arizona Cardinals,2000,64,70.6,69.8,51,50,89,88,0,0,4,5,51.6,18.8
+CIN,Cincinnati Bengals,2000,61,71,69.4,51,50,87,88,0,0,2,3,14.8,21.3
+CLE,Cleveland Browns,2000,68,70.5,69.3,51,50,84,82,0,0,4,4,4.4,19.1
+CHI,Chicago Bears,2000,68,70.1,68.3,49,49,84,86,0,0,7,3,10.3,17.6

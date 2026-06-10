@@ -10,7 +10,6 @@ season,team_code,severity,rule,detail
 1989,SF,WARN,too_many_elite,32% of roster at 90+ (10/31)
 1996,GB,WARN,too_many_elite,24% of roster at 90+ (8/34)
 1999,LAR,WARN,too_many_elite,22% of roster at 90+ (5/23)
-2000,BAL,WARN,too_many_elite,46% of roster at 90+ (11/24)
 2007,NE,WARN,too_many_elite,61% of roster at 90+ (14/23)
 2013,SEA,WARN,too_many_elite,46% of roster at 90+ (11/24)
 2018,KC,WARN,too_many_elite,42% of roster at 90+ (10/24)
@@ -867,16 +866,3 @@ season,team_code,severity,rule,detail
 1998,TB,INFO,too_flat,"66% share overall 76 (39/59) — expected: bio-only cluster, no evidence to separate them"
 1998,TEN,INFO,too_flat,"75% share overall 76 (41/55) — expected: bio-only cluster, no evidence to separate them"
 1998,WAS,INFO,too_flat,"72% share overall 76 (48/67) — expected: bio-only cluster, no evidence to separate them"
-2000,ARI,INFO,too_flat,"48% share overall 71 (31/64) — expected: bio-only cluster, no evidence to separate them"
-2000,BUF,INFO,too_flat,"47% share overall 72 (26/55) — expected: bio-only cluster, no evidence to separate them"
-2000,CAR,INFO,too_flat,"48% share overall 72 (32/67) — expected: bio-only cluster, no evidence to separate them"
-2000,CIN,INFO,too_flat,"46% share overall 72 (28/61) — expected: bio-only cluster, no evidence to separate them"
-2000,DET,INFO,too_flat,"42% share overall 73 (25/59) — expected: bio-only cluster, no evidence to separate them"
-2000,MIN,INFO,too_flat,"47% share overall 74 (27/58) — expected: bio-only cluster, no evidence to separate them"
-2000,PIT,INFO,too_flat,"40% share overall 75 (25/62) — expected: bio-only cluster, no evidence to separate them"
-2000,SEA,INFO,too_flat,"55% share overall 75 (32/58) — expected: bio-only cluster, no evidence to separate them"
-2000,SF,INFO,too_flat,"45% share overall 75 (27/60) — expected: bio-only cluster, no evidence to separate them"
-2001,NYG,INFO,too_flat,"42% share overall 75 (25/59) — expected: bio-only cluster, no evidence to separate them"
-2001,PHI,INFO,too_flat,"45% share overall 75 (26/58) — expected: bio-only cluster, no evidence to separate them"
-2001,PIT,INFO,too_flat,"46% share overall 75 (26/56) — expected: bio-only cluster, no evidence to separate them"
-2001,WAS,INFO,too_flat,"42% share overall 76 (25/59) — expected: bio-only cluster, no evidence to separate them"

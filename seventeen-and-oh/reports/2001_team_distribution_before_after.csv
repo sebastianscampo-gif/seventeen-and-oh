@@ -1,0 +1,32 @@
+team_code,team_name,season,players_total,avg_ovr_before,avg_ovr_after,min_ovr_before,min_ovr_after,max_ovr_before,max_ovr_after,players_90_plus_before,players_90_plus_after,players_80_plus_before,players_80_plus_after,percent_67_to_71_before,percent_67_to_71_after
+LAR,St. Louis Rams,2001,56,74.9,75,53,54,97,96,3,4,9,12,7.1,7.1
+SF,San Francisco 49ers,2001,61,74.7,73.6,51,52,98,93,2,2,7,9,4.9,13.1
+LV,Oakland Raiders,2001,60,73.7,73.5,52,53,93,91,3,1,8,11,10,11.7
+TB,Tampa Bay Buccaneers,2001,57,73,73.5,51,52,90,91,1,2,6,14,10.5,17.5
+BAL,Baltimore Ravens,2001,60,72.7,73.3,55,56,96,96,4,2,7,12,36.7,21.7
+PHI,Philadelphia Eagles,2001,58,72.6,73.1,50,51,89,88,0,0,6,14,5.2,12.1
+PIT,Pittsburgh Steelers,2001,56,73.3,73.1,51,53,89,90,0,1,4,10,7.1,12.5
+NYJ,New York Jets,2001,55,73.2,72.5,52,52,92,91,1,1,10,10,14.5,14.5
+JAX,Jacksonville Jaguars,2001,62,72.5,72.3,51,51,95,90,2,1,5,12,9.7,12.9
+GB,Green Bay Packers,2001,62,72.5,72.2,50,51,94,90,2,1,8,12,8.1,8.1
+CHI,Chicago Bears,2001,59,71.8,72.1,50,51,93,90,1,1,7,9,18.6,15.3
+KC,Kansas City Chiefs,2001,61,72.8,72,50,50,93,93,2,3,5,8,6.6,14.8
+WAS,Washington Redskins,2001,59,74.2,72,53,53,97,88,1,0,8,11,11.9,16.9
+NYG,New York Giants,2001,59,73.4,71.9,52,52,88,97,0,1,7,11,5.1,8.5
+NO,New Orleans Saints,2001,60,73,71.8,50,50,93,90,1,1,5,11,10,16.7
+TEN,Tennessee Titans,2001,59,73,71.8,53,54,91,86,1,0,7,13,6.8,13.6
+IND,Indianapolis Colts,2001,63,72.3,71.7,51,51,99,95,2,1,9,10,11.1,15.9
+MIA,Miami Dolphins,2001,65,73,71.5,52,53,93,92,2,1,11,11,10.8,15.4
+DEN,Denver Broncos,2001,61,71.7,71.4,52,53,96,90,1,1,8,10,13.1,21.3
+LAC,San Diego Chargers,2001,58,73.3,71.4,51,50,95,89,2,0,7,10,5.2,8.6
+NE,New England Patriots,2001,65,71,71.3,55,54,92,88,1,0,9,12,15.4,15.4
+MIN,Minnesota Vikings,2001,63,73,71.1,55,55,93,92,1,1,3,5,11.1,17.5
+ARI,Arizona Cardinals,2001,63,71.9,71,51,50,95,91,1,1,9,1,47.6,23.8
+BUF,Buffalo Bills,2001,58,72.1,71,52,51,87,86,0,0,8,7,34.5,24.1
+CAR,Carolina Panthers,2001,62,71.1,70.7,51,50,86,86,0,0,3,7,22.6,22.6
+SEA,Seattle Seahawks,2001,59,72.2,70.6,50,50,93,92,3,1,9,8,13.6,10.2
+DET,Detroit Lions,2001,62,70.8,70.5,50,50,88,84,0,0,3,5,8.1,14.5
+ATL,Atlanta Falcons,2001,58,71.4,70.4,50,50,83,83,0,0,7,3,31,17.2
+CIN,Cincinnati Bengals,2001,61,71.1,70.2,52,51,90,89,1,0,3,5,11.5,14.8
+DAL,Dallas Cowboys,2001,65,71.3,70.1,50,50,96,92,1,1,5,9,6.2,12.3
+CLE,Cleveland Browns,2001,70,71,69.2,54,54,92,86,1,0,8,5,11.4,12.9

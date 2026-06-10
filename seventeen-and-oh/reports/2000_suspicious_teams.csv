@@ -1,0 +1,32 @@
+team_code,team_name,season,players_total,average_ovr,min_ovr,max_ovr,percent_67_to_71,percent_same_rating,issue,recommended_action
+ARI,Arizona Cardinals,2000,64,70.6,51,89,51.6,48.4,52% in 67-71 generic band; 48% share OVR 71,Author curated overrides for stars + clear starters; let true depth fall to engine.
+ATL,Atlanta Falcons,2000,63,71.4,50,85,38.1,30.2,38% in 67-71 generic band; 30% share OVR 71,Author curated overrides for stars + clear starters; let true depth fall to engine.
+BUF,Buffalo Bills,2000,55,72.2,52,91,7.3,47.3,47% share OVR 72,Author curated overrides for stars + clear starters; let true depth fall to engine.
+CAR,Carolina Panthers,2000,67,71.6,51,98,14.9,47.8,48% share OVR 72,Author curated overrides for stars + clear starters; let true depth fall to engine.
+CHI,Chicago Bears,2000,68,70.1,49,84,10.3,32.4,32% share OVR 72,Author curated overrides for stars + clear starters; let true depth fall to engine.
+CIN,Cincinnati Bengals,2000,61,71.0,51,87,14.8,45.9,46% share OVR 72,Author curated overrides for stars + clear starters; let true depth fall to engine.
+CLE,Cleveland Browns,2000,68,70.5,51,84,4.4,35.3,35% share OVR 72,Author curated overrides for stars + clear starters; let true depth fall to engine.
+DAL,Dallas Cowboys,2000,66,71.3,50,96,10.6,36.4,36% share OVR 72,Author curated overrides for stars + clear starters; let true depth fall to engine.
+DET,Detroit Lions,2000,59,72.2,53,88,10.2,42.4,42% share OVR 73,Author curated overrides for stars + clear starters; let true depth fall to engine.
+GB,Green Bay Packers,2000,61,72.9,51,91,6.6,39.3,39% share OVR 73,Author curated overrides for stars + clear starters; let true depth fall to engine.
+IND,Indianapolis Colts,2000,59,73.6,57,97,8.5,37.3,37% share OVR 73,Author curated overrides for stars + clear starters; let true depth fall to engine.
+JAX,Jacksonville Jaguars,2000,65,72.3,50,92,13.8,33.8,34% share OVR 73,Author curated overrides for stars + clear starters; let true depth fall to engine.
+LAC,San Diego Chargers,2000,59,72.5,50,95,5.1,33.9,34% share OVR 74,Author curated overrides for stars + clear starters; let true depth fall to engine.
+LAR,St. Louis Rams,2000,58,73.5,50,96,10.3,25.9,26% share OVR 75,Author curated overrides for stars + clear starters; let true depth fall to engine.
+LV,Oakland Raiders,2000,55,73.6,50,92,7.3,36.4,36% share OVR 74,Author curated overrides for stars + clear starters; let true depth fall to engine.
+MIA,Miami Dolphins,2000,65,72.4,51,93,13.8,36.9,37% share OVR 74,Author curated overrides for stars + clear starters; let true depth fall to engine.
+MIN,Minnesota Vikings,2000,58,73.5,51,97,5.2,46.6,47% share OVR 74,Author curated overrides for stars + clear starters; let true depth fall to engine.
+NE,New England Patriots,2000,65,72.0,49,88,4.6,40.0,40% share OVR 74,Author curated overrides for stars + clear starters; let true depth fall to engine.
+NO,New Orleans Saints,2000,61,71.9,50,93,9.8,26.2,26% share OVR 75,Author curated overrides for stars + clear starters; let true depth fall to engine.
+PHI,Philadelphia Eagles,2000,57,73.2,56,90,14.0,29.8,30% share OVR 75,Author curated overrides for stars + clear starters; let true depth fall to engine.
+PIT,Pittsburgh Steelers,2000,62,72.0,51,86,12.9,40.3,40% share OVR 75,Author curated overrides for stars + clear starters; let true depth fall to engine.
+SEA,Seattle Seahawks,2000,58,73.4,52,89,5.2,55.2,55% share OVR 75,Author curated overrides for stars + clear starters; let true depth fall to engine.
+SF,San Francisco 49ers,2000,60,73.7,50,96,3.3,45.0,45% share OVR 75,Author curated overrides for stars + clear starters; let true depth fall to engine.
+TEN,Tennessee Titans,2000,63,73.6,55,93,12.7,31.7,32% share OVR 75,Author curated overrides for stars + clear starters; let true depth fall to engine.
+WAS,Washington Redskins,2000,63,74.1,54,98,12.7,25.4,25% share OVR 76,Author curated overrides for stars + clear starters; let true depth fall to engine.
+BAL,Baltimore Ravens,2000,24,88.1,79,99,0.0,20.8,none,OK — spot-check only.
+DEN,Denver Broncos,2000,62,71.5,50,95,16.1,22.6,none,OK — spot-check only.
+KC,Kansas City Chiefs,2000,60,72.0,53,96,11.7,25.0,none,OK — spot-check only.
+NYG,New York Giants,2000,60,73.1,51,90,8.3,25.0,none,OK — spot-check only.
+NYJ,New York Jets,2000,58,72.6,54,91,17.2,17.2,none,OK — spot-check only.
+TB,Tampa Bay Buccaneers,2000,56,72.8,52,88,17.9,17.9,none,OK — spot-check only.

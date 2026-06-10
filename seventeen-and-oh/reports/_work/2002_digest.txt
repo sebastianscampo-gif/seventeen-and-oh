@@ -1,0 +1,1890 @@
+
+========== ARI (Arizona Cardinals) — 54 players ==========
+-- QB --
+  80 QB   gs16 Jake Plummer             pass 2972/18td/20int  rush 283/2  rec 1-2/
+  68 QB   gs 0 Preston Parsons          
+  60 QB   gs 0 Josh McCown              pass 66/td/2int  rush 20/
+-- RB --
+  83 RB   gs14 Marcel Shipp             rush 834/6  rec 38-413/3
+  72 RB   gs 9 Thomas Jones             rush 511/2  rec 20-113/
+  69 RB   gs 9 Joel Makovicka           rush 54/  rec 15-81/3
+  63 RB   gs 0 Travis Prentice          
+  59 RB   gs 0 Dennis McKinley          
+  52 RB   gs 0 Damien Anderson          rush 65/  rec 3-36/
+-- WR --
+  73 WR   gs11 Frank Sanders            rush 2/  rec 34-400/2
+  72 WR   gs 8 David Boston             rush 29/  rec 32-512/1
+  71 WR   gs 9 Jason McAddley           rec 25-362/1
+  63 WR   gs 0 MarTay Jenkins           rush 6/  rec 21-250/1
+  60 WR   gs 0 Bryan Gilmore            rec 1-14/
+  56 WR   gs 0 Arnold Jackson           rec 5-42/1
+  56 WR   gs 0 Nate Poole               rec 13-108/1
+  51 WR   gs 0 Jake Soliday             rec 4-39/
+-- TE --
+  82 TE   gs15 Freddie Jones            rec 44-358/1
+  77 TE   gs12 Steve Bush               rec 19-121/1
+  67 TE   gs 0 Mike Banks               
+-- OL --
+  81 LT   gs 0 John Fina                
+  79 C    gs 0 Mike Gruttadauria        
+  79 LG   gs 0 Pete Kendall             
+  75 LG   gs 0 Chris Dishman            
+  75 LG   gs 0 Raleigh Roundtree        
+  71 LT   gs 0 Anthony Clement          
+  71 LT   gs 0 Kendrick Rogers          
+  71 LT   gs 0 L.J. Shelton             
+  69 C    gs 0 Nathan Hodel             
+  66 LT   gs 0 Leonard Davis            
+  61 C    gs 0 Jason Starkey            rec 1-7/
+  61 C    gs 0 Steven Grace             
+  61 LG   gs 0 Teag Whiting             
+  61 LG   gs 0 Tony Wragge              
+-- DL --
+  82 EDGE gs 0 Tom Burke                
+  80 DT   gs 0 Barron Tanner            
+  77 EDGE gs 0 Fred Wakefield           
+  76 DT   gs 0 Russell Davis            
+  71 EDGE gs 0 Dennis Johnson           
+  71 EDGE gs 0 Kyle Vanden Bosch        
+  70 DT   gs 0 Marcus Bell              
+  70 DT   gs 0 Mario Fatafehi           
+  65 DT   gs 0 Nate Dwyer               
+  61 DT   gs 0 Wendell Bryant           
+-- LB --
+  76 LB   gs 0 Trev Faulk               
+-- CB --
+  81 CB   gs 0 Coby Rhinehart           
+  81 CB   gs 0 Duane Starks             
+  77 CB   gs 0 David Barrett            
+  70 CB   gs 0 Renaldo Hill             
+-- S --
+  77 S    gs 0 Nijrell Eason            
+  73 S    gs 0 Quentin Harris           
+-- K --
+  71 K    gs 0 Bill Gramatica           
+  71 K    gs 0 Tim Duncan               
+-- P --
+  69 P    gs 0 Scott Player             
+
+========== ATL (Atlanta Falcons) — 43 players ==========
+-- QB --
+  84 QB   gs15 Michael Vick             pass 2936/16td/8int  rush 777/8
+  68 QB   gs 0 Kurt Kittner             
+  63 QB   gs 0 Doug Johnson             pass 448/2td/3int  rush 16/1
+-- RB --
+  86 RB   gs15 Warrick Dunn             rush 927/7  rec 50-377/2
+  78 RB   gs12 T.J. Duckett             rush 507/4  rec 9-61/
+  76 RB   gs15 Bob Christian            rush 119/3  rec 13-174/
+  51 RB   gs 0 George Layne             rush 5/  rec 2-11/
+  50 RB   gs 0 Travis Jervey            rush 17/
+-- WR --
+  85 WR   gs16 Brian Finneran           rec 56-838/6
+  77 WR   gs13 Shawn Jefferson          rec 27-394/1
+  73 WR   gs11 Trevor Gaylor            rec 25-385/3
+  67 WR   gs 0 Darrin Chiaverini        
+  66 WR   gs 0 Jimmy Farris             
+  62 WR   gs 0 Quentin McCord           rec 11-253/1
+-- TE --
+  86 TE   gs16 Alge Crumpler            rec 36-455/5
+  78 TE   gs13 Reggie Kelly             rec 14-162/
+  63 TE   gs 0 Derek Rackley            
+  58 TE   gs 0 Brian Kozlowski          rec 6-59/
+-- OL --
+  81 LT   gs 0 Bob Whitfield            
+  79 C    gs 0 Todd McClure             
+  77 LT   gs 0 Michael Thompson         
+  76 LT   gs 0 Todd Weiner              
+  75 LG   gs 0 Travis Claridge          
+  71 LT   gs 0 Kevin Shaffer            
+  69 LG   gs 0 Kynan Forney             
+  69 LG   gs 0 Martin Bibla             
+  69 C    gs 0 Roberto Garza            
+-- DL --
+  82 EDGE gs 0 Travis Hall              
+  80 DT   gs 0 Ellis Johnson            
+  77 EDGE gs 0 Brady Smith              
+  76 DT   gs 0 Edward Jasper            
+  71 EDGE gs 0 Patrick Kerney           
+  71 EDGE gs 0 Ronald Flemons           
+  70 DT   gs 0 Ryan Watson              
+  66 EDGE gs 0 Karon Riley              
+-- CB --
+  81 CB   gs 0 Ashley Ambrose           
+  81 CB   gs 0 Ray Buchanan             
+  77 CB   gs 0 Juran Bolden             
+  70 CB   gs 0 Fred Weary               
+  70 CB   gs 0 Kevin Mathis             
+  62 CB   gs 0 Allen Rossum             
+-- K --
+  74 K    gs 0 Jay Feely                
+-- P --
+  69 P    gs 0 Chris Mohr               
+
+========== BAL (Baltimore Ravens) — 48 players ==========
+-- QB --
+  73 QB   gs10 Jeff Blake               pass 2084/13td/11int  rush 106/1
+  68 QB   gs 0 Anthony Wright           
+  62 QB   gs 0 Chris Redman             pass 1034/7td/3int  rush 8/
+-- RB --
+  88 RB   gs16 Jamal Lewis              rush 1327/6  rec 47-442/1
+  75 RB   gs15 Chester Taylor           rush 122/  rec 14-129/2
+  74 RB   gs12 Alan Ricard              rush 58/2  rec 10-60/
+  63 RB   gs 0 Dameon Hunter            
+  63 RB   gs 0 Sam Gash                 
+-- WR --
+  86 WR   gs16 Travis Taylor            rush 105/  rec 61-869/6
+  74 WR   gs12 Ron Johnson              rec 10-114/1
+  71 WR   gs 8 Brandon Stokley          rush 31/  rec 24-357/2
+  66 WR   gs 0 Jeff Ogden               
+  62 WR   gs 0 Milton Wynn              
+  61 WR   gs 0 Javin Hunter             rush 9/  rec 5-35/
+  60 WR   gs 0 Randy Hymes              rec 6-123/
+-- TE --
+  92 TE   gs16 Todd Heap                rush 38/  rec 68-836/6
+  72 TE   gs10 Terry Jones              rec 11-106/1
+  58 TE   gs 0 John Jones               rec 6-47/1
+-- OL --
+  96 LT   gs 0 Jonathan Ogden           
+  81 LT   gs 0 Ethan Brooks             
+  79 C    gs 0 Mike Flynn               
+  77 LT   gs 0 Edwin Mulitalo           
+  75 LG   gs 0 Bennie Anderson          
+  69 LG   gs 0 Casey Rabach             
+  69 LG   gs 0 Damion Cook              
+  69 LG   gs 0 Jason Thomas             
+  69 C    gs 0 Joe Maese                
+  66 LT   gs 0 Lawrence Smith           
+  65 LG   gs 0 Mike Collins             
+-- DL --
+  82 EDGE gs 0 Michael McCrary          
+  80 DT   gs 0 Kelly Gregg              
+  77 EDGE gs 0 Riddick Parker           
+  76 DT   gs 0 Ma'ake Kemoeatu          
+  71 EDGE gs 0 David Nugent             
+  71 EDGE gs 0 Marques Douglas          
+  66 EDGE gs 0 Adalius Thomas           
+  61 EDGE gs 0 Anthony Weaver           
+  61 EDGE gs 0 Howard Green             
+-- CB --
+  81 CB   gs 0 James Trapp              
+  81 CB   gs 0 Tommy Knight             
+  77 CB   gs 0 Robert Tate              
+  70 CB   gs 0 Alvin Porter             
+  67 CB   gs 0 Chris McAlister          
+  65 CB   gs 0 Gary Baxter              
+  62 CB   gs 0 Lamont Brightful         
+-- S --
+  77 S    gs 0 Raymond Perryman         
+-- K --
+  74 K    gs 0 Matt Stover              
+-- P --
+  70 P    gs 0 Dave Zastudil            rush -12/
+
+========== BUF (Buffalo Bills) — 46 players ==========
+-- QB --
+  91 QB   gs16 Drew Bledsoe             pass 4359/24td/15int  rush 67/2
+  68 QB   gs 0 Travis Brown             
+  62 QB   gs 0 Alex Van Pelt            pass 5/td/int
+-- RB --
+  92 RB   gs16 Travis Henry             rush 1438/13  rec 43-309/1
+  78 RB   gs16 Larry Centers            rush 56/2  rec 43-388/
+  56 RB   gs 0 Shawn Bryson             rush 35/  rec 1-9/
+  53 RB   gs 0 Phillip Crosby           rec 4-33/
+  52 RB   gs 0 Sammy Morris             rush 5/  rec 3-48/
+  50 RB   gs 0 Joe Burns                rush 7/
+-- WR --
+  95 WR   gs16 Eric Moulds              rush 7/  rec 100-1292/10
+  94 WR   gs16 Peerless Price           rush -13/  rec 94-1252/9
+  80 WR   gs16 Josh Reed                rec 37-509/2
+  72 WR   gs 0 Andre Rone               
+  62 WR   gs 0 Charlie Rogers           
+  60 WR   gs 0 Charles Johnson          rec 3-39/
+-- TE --
+  84 TE   gs16 Jay Riemersma            rec 32-350/
+  73 TE   gs10 Dave Moore               rec 16-141/2
+  67 TE   gs 0 Brady McDonnell          
+-- OL --
+  81 LT   gs 0 Marcus Price             
+  79 C    gs 0 Billy Conaty             
+  75 LG   gs 0 Marques Sullivan         
+  75 C    gs 0 Trey Teague              
+  74 LG   gs 0 Ruben Brown              rec 1--6/
+  71 LT   gs 0 Jonas Jennings           
+  71 LT   gs 0 Mike Houghton            
+  71 LT   gs 0 Mike Williams            
+  69 LG   gs 0 Mike Pucillo             
+-- DL --
+  82 EDGE gs 0 Chidi Ahanotu            
+  80 DT   gs 0 Pat Williams             
+  77 EDGE gs 0 Kendrick Office          
+  76 DT   gs 0 Ron Edwards              
+  71 EDGE gs 0 Aaron Schobel            
+  71 EDGE gs 0 Grant Irons              
+  70 DT   gs 0 Justin Bannan            
+  70 DT   gs 0 Tyrone Robertson         
+  66 EDGE gs 0 Ryan Denney              
+-- LB --
+  76 LB   gs 0 Dominique Stevenson      
+-- CB --
+  81 CB   gs 0 Chris Watson             
+  81 CB   gs 0 Jason Bostic             
+  77 CB   gs 0 Antoine Winfield         
+  70 CB   gs 0 Marcus Floyd             
+  70 CB   gs 0 Nate Clements            
+  66 CB   gs 0 Kevin Thomas             
+-- S --
+  78 S    gs 0 Ahmad Brooks             
+-- K --
+  74 K    gs 0 Mike Hollis              
+-- P --
+  69 P    gs 0 Brian Moorman            rush -6/
+
+========== CAR (Carolina Panthers) — 48 players ==========
+-- QB --
+  79 QB   gs14 Rodney Peete             pass 2630/15td/14int  rush 14/
+  61 QB   gs 0 Chris Weinke             pass 180/td/3int  rush 9/
+  55 QB   gs 0 Randy Fasani             pass 171/td/4int  rush 95/
+-- RB --
+  78 RB   gs12 Dee Brown                rush 360/4  rec 17-86/1
+  77 RB   gs11 Lamar Smith              rush 737/7  rec 20-167/
+  75 RB   gs15 Brad Hoover              rush 129/  rec 17-187/2
+  75 RB   gs13 Nick Goings              rush 188/  rec 18-91/
+  63 RB   gs 0 DeShaun Foster           
+  63 RB   gs 0 Skip Hicks               
+  50 RB   gs 0 Joe Montgomery           rush 20/
+  50 RB   gs 0 Rod Smart                rush 2/
+-- WR --
+  83 WR   gs14 Muhsin Muhammad          rush 40/  rec 63-823/3
+  83 WR   gs15 Steve Smith              rush -4/  rec 54-872/3
+  72 WR   gs 0 Nathan Black             
+  70 WR   gs10 Isaac Byrd               rec 14-164/1
+  68 WR   gs 9 Karl Hankton             rush -4/  rec 9-146/
+-- TE --
+  80 TE   gs12 Wesley Walls             rec 19-241/4
+  78 TE   gs15 Kris Mangum              rec 16-159/
+  63 TE   gs 0 Keith Heinrich           
+  63 TE   gs 0 Shawn Draper             
+  59 TE   gs 0 Jermaine Wiggins         rec 10-62/1
+-- OL --
+  81 LT   gs 0 Melvin Tuten             
+  81 LT   gs 0 Todd Steussie            
+  79 LG   gs 0 Kevin Donnalley          
+  75 LG   gs 0 Derrick Fletcher         
+  75 C    gs 0 Jeff Mitchell            
+  69 LG   gs 0 Jamar Nesbit             
+  69 LG   gs 0 Jeno James               
+  69 C    gs 0 Louis Williams           
+  69 LG   gs 0 Tutan Reyes              
+-- DL --
+  82 EDGE gs 0 Josh Taves               
+  80 DT   gs 0 Sean Gilbert             
+  77 EDGE gs 0 Al Wallace               
+  76 DT   gs 0 Brentson Buckner         
+  71 EDGE gs 0 Kemp Rasmussen           
+  71 EDGE gs 0 Mike Rucker              
+  70 DT   gs 0 Kris Jenkins             
+  70 DT   gs 0 Shane Burton             
+  66 EDGE gs 0 Julius Peppers           
+-- CB --
+  81 CB   gs 0 Emmanuel McDaniel        
+  81 CB   gs 0 Terry Cousin             
+  77 CB   gs 0 Terry Fair               
+  70 CB   gs 0 Brad Franklin            
+  70 CB   gs 0 Reggie Howard            
+  66 CB   gs 0 Dante Wesley             
+-- K --
+  74 K    gs 0 John Kasay               
+  67 K    gs 0 Shayne Graham            
+-- P --
+  74 P    gs 0 Todd Sauerbrun           
+
+========== CHI (Chicago Bears) — 53 players ==========
+-- QB --
+  73 QB   gs10 Jim Miller               pass 1944/13td/9int  rush 11/
+  72 QB   gs 8 Chris Chandler           pass 1023/4td/4int  rush 32/
+  58 QB   gs 0 Cory Sauter              pass 59/td/int  rush 8/
+  51 QB   gs 0 Henry Burris             pass 207/3td/5int  rush 104/
+-- RB --
+  81 RB   gs12 Anthony Thomas           rush 721/6  rec 24-163/
+  76 RB   gs15 Leon Johnson             pass 27/td/int  rush 329/1  rec 16-125/
+  74 RB   gs12 Stanley Pritchett        rush 2/  rec 19-165/1
+  63 RB   gs 0 Rabih Abdullah           
+  54 RB   gs 0 Daimon Shelton           rec 7-34/
+  52 RB   gs 0 Adrian Peterson          rush 101/1  rec 3-18/
+-- WR --
+  92 WR   gs16 Marty Booker             pass 44/1td/int  rec 97-1189/6
+  83 WR   gs16 Dez White                rush 11/  rec 51-656/4
+  77 WR   gs15 Marcus Robinson          rec 21-244/3
+  68 WR   gs10 Ahmad Merritt            rush 5/  rec 14-100/
+  66 WR   gs 0 Jamin Elliott            
+  62 WR   gs 0 David Terrell            rec 9-127/3
+-- TE --
+  74 TE   gs10 John Davis               rec 20-193/3
+  63 TE   gs 0 Fred Baxter              rec 5-51/
+  60 TE   gs 0 Dustin Lyman             rec 14-121/2
+  53 TE   gs 0 John Gilmore             rec 10-130/
+-- OL --
+  81 LT   gs 0 James Williams           
+  79 LG   gs 0 Chris Villarrial         
+  79 C    gs 0 Kevin Dogins             
+  77 LT   gs 0 Aaron Gibson             
+  75 C    gs 0 Olin Kreutz              
+  71 LT   gs 0 Bernard Robertson        
+  69 LG   gs 0 Josh Warner              
+  69 LG   gs 0 Rex Tucker               
+  66 LT   gs 0 Steve Edwards            
+  65 LG   gs 0 Mike Gandy               
+  65 C    gs 0 Patrick Mannelly         
+  61 LT   gs 0 Marc Colombo             
+  61 LG   gs 0 Terrence Metcalf         
+-- DL --
+  82 EDGE gs 0 Phillip Daniels          
+  80 DT   gs 0 Keith Traylor            
+  77 EDGE gs 0 Bryan Robinson           
+  76 DT   gs 0 Ted Washington           
+  71 EDGE gs 0 Bobby Setzer             
+  71 EDGE gs 0 Joe Tafoya               
+  70 DT   gs 0 Christian Peter          
+  70 DT   gs 0 Ernest Grant             
+  66 EDGE gs 0 Alex Brown               
+  65 DT   gs 0 Alfonso Boone            
+  61 EDGE gs 0 John Stamper             
+-- CB --
+  81 CB   gs 0 Jerry Azumah             
+  81 CB   gs 0 R.W. McQuarters          
+  77 CB   gs 0 Todd McMillon            
+  71 CB   gs 0 Reggie Austin            
+  71 CB   gs 0 Roosevelt Williams       
+-- S --
+  78 S    gs 0 Travis Coleman           
+  73 S    gs 0 Eric Joyce               
+-- K --
+  74 K    gs 0 Paul Edinger             
+-- P --
+  70 P    gs 0 Brad Maynard             pass 12/1td/int  rush 20/
+
+========== CIN (Cincinnati Bengals) — 49 players ==========
+-- QB --
+  81 QB   gs13 Jon Kitna                pass 3178/16td/16int  rush 57/4
+  63 QB   gs 0 Joe Germaine             
+  60 QB   gs 0 Gus Frerotte             pass 437/1td/5int  rush 22/
+  54 QB   gs 0 Akili Smith              pass 117/td/1int  rush 5/
+-- RB --
+  88 RB   gs16 Corey Dillon             rush 1311/7  rec 43-298/
+  76 RB   gs15 Lorenzo Neal             rush 31/  rec 21-133/1
+  70 RB   gs10 Brandon Bennett          rush 155/  rec 18-109/
+  54 RB   gs 0 Nicolas Luchey           rush 59/2  rec 7-46/
+  52 RB   gs 0 Rudi Johnson             rush 67/  rec 6-34/
+-- WR --
+  88 WR   gs16 Chad Ochocinco           rec 69-1166/5
+  83 WR   gs15 Peter Warrick            rush 22/  rec 53-606/6
+  80 WR   gs15 Ron Dugans               rec 47-421/
+  79 WR   gs15 T.J. Houshmandzadeh      rec 41-492/1
+  61 WR   gs 0 Danny Farmer             rec 9-115/
+-- TE --
+  80 TE   gs14 Matt Schobel             rec 27-212/2
+  67 TE   gs 0 Brad St. Louis           
+  63 TE   gs 0 Chris Edmonds            
+  63 TE   gs 0 Sean Brewer              
+  61 TE   gs 0 Tony Stewart             rec 1-6/
+-- OL --
+  81 LT   gs 0 Richmond Webb            
+  79 LG   gs 0 Matt O'Dwyer             
+  79 C    gs 0 Rich Braham              
+  77 LT   gs 0 Willie Anderson          
+  75 C    gs 0 Brock Gutierrez          
+  70 LG   gs 0 Victor Leyva             
+  69 LG   gs 0 Mike Goff                
+  69 LG   gs 0 Scott Rehberg            
+  69 LG   gs 0 Thatcher Szalay          
+  66 LT   gs 0 Levi Jones               
+  66 LT   gs 0 Reggie Coleman           
+-- DL --
+  82 EDGE gs 0 Vaughn Booker            
+  80 DT   gs 0 Bernard Whittington      
+  77 EDGE gs 0 Reinard Wilson           
+  76 DT   gs 0 Oliver Gibson            
+  71 EDGE gs 0 Eric Ogbogu              
+  71 EDGE gs 0 Justin Smith             
+  70 DT   gs 0 Glen Steele              
+  70 DT   gs 0 Tony Williams            
+  65 DT   gs 0 Ronald Smith             
+-- LB --
+  77 LB   gs 0 Dwayne Levels            
+-- CB --
+  81 CB   gs 0 Artrell Hawkins          
+  81 CB   gs 0 Jeff Burris              
+  77 CB   gs 0 Kevin Kaesviharn         
+  71 CB   gs 0 Ligarius Jennings        
+-- S --
+  78 S    gs 0 Reggie Myles             
+  73 S    gs 0 Lavar Glover             
+-- K --
+  75 K    gs 0 Neil Rackers             
+  67 K    gs 0 Travis Dorsch            
+-- P --
+  75 P    gs 0 Nick Harris              
+
+========== CLE (Cleveland Browns) — 44 players ==========
+-- QB --
+  80 QB   gs14 Tim Couch                pass 2842/18td/18int  rush 77/
+  68 QB   gs 0 Kevin Thompson           
+  67 QB   gs 0 Kelly Holcomb            pass 790/8td/4int  rush 9/
+  63 QB   gs 0 Josh Booty               
+-- RB --
+  83 RB   gs16 William Green            rush 887/6  rec 16-113/
+  81 RB   gs14 Jamel White              rush 470/3  rec 63-452/
+  59 RB   gs 0 R.J. Bowers              
+  58 RB   gs 0 James Jackson            rush 54/  rec 3-10/
+-- WR --
+  87 WR   gs16 Quincy Morgan            rush 7/  rec 56-964/7
+  84 WR   gs16 Kevin Johnson            pass 33/1td/int  rec 67-703/4
+  81 WR   gs16 Andre Davis              rush 7/  rec 37-420/6
+  81 WR   gs12 Dennis Northcutt         rush 104/1  rec 38-601/5
+  60 WR   gs 0 Andre King               rec 5-41/
+  54 WR   gs 0 Frisman Jackson          rec 1-6/
+-- TE --
+  80 TE   gs15 Mark Campbell            rec 25-179/3
+  73 TE   gs11 Steve Heiden             rec 17-105/1
+  58 TE   gs 0 Aaron Shea               rec 7-49/
+  52 TE   gs 0 Darnell Sanders          rec 3-23/1
+-- OL --
+  81 LT   gs 0 Ryan Tucker              
+  79 LG   gs 0 Barry Stokes             
+  79 C    gs 0 Dave Wohlabaugh          
+  77 LT   gs 0 Ross Verba               
+  75 LG   gs 0 Shaun O'Hara             
+  71 LT   gs 0 Joaquin Gonzalez         
+  70 LG   gs 0 Chad Beasley             
+  70 C    gs 0 Melvin Fowler            
+  70 LG   gs 0 Paul Zukauskas           
+-- DL --
+  82 EDGE gs 0 Kenard Lang              
+  80 DT   gs 0 Ryan Kuehl               
+  77 EDGE gs 0 Tyrone Rogers            
+  76 DT   gs 0 Orpheus Roye             
+  71 EDGE gs 0 Courtney Brown           
+  71 EDGE gs 0 Mark Word                
+  70 DT   gs 0 Alvin McKinley           
+  70 DT   gs 0 Gerard Warren            
+  66 EDGE gs 0 Cedric Scott             
+-- CB --
+  81 CB   gs 0 Corey Fuller             
+  81 CB   gs 0 Daylon McCutcheon        
+  77 CB   gs 0 Lewis Sanders            
+  71 CB   gs 0 Anthony Henry            
+  71 CB   gs 0 Raymond Walls            
+-- S --
+  78 S    gs 0 Michael Jameson          
+-- K --
+  75 K    gs 0 Phil Dawson              
+-- P --
+  75 P    gs 0 Chris Gardocki           
+
+========== DAL (Dallas Cowboys) — 48 players ==========
+-- QB --
+  71 QB   gs 9 Chad Hutchinson          pass 1555/7td/8int  rush 74/
+  68 QB   gs 0 Clint Stoerner           
+  62 QB   gs 0 Quincy Carter            pass 1465/7td/8int  rush 91/
+-- RB --
+  83 RB   gs16 Emmitt Smith             rush 975/5  rec 16-89/
+  77 RB   gs16 Troy Hambrick            rush 317/1  rec 21-99/
+  76 RB   gs16 Michael Wiley            rush 168/1  rec 13-144/
+  74 RB   gs13 Robert Thomas            rush 31/  rec 12-80/
+  59 RB   gs 0 Woodrow Dantzler         
+  50 RB   gs 0 Jason McKie              rec 1-7/
+-- WR --
+  87 WR   gs16 Joey Galloway            rush 31/  rec 61-908/6
+  84 WR   gs16 Antonio Bryant           rush 40/  rec 44-733/6
+  76 WR   gs14 Darnay Scott             rush 14/  rec 22-218/1
+  75 WR   gs13 Ken-Yon Rambo            rec 14-211/
+  66 WR   gs 0 Randal Williams          
+  60 WR   gs 0 Reginald Swinton         rush 23/  rec 7-63/
+-- TE --
+  79 TE   gs12 Tony McGee               rec 23-294/1
+  78 TE   gs12 James Whalen             rec 17-152/
+  56 TE   gs 0 Mike Lucky               rec 1-22/
+-- OL --
+  96 LG   gs 0 Larry Allen              
+  81 LT   gs 0 Flozell Adams            
+  79 LG   gs 0 Jeremy McKinney          
+  77 LT   gs 0 Marques McFadden         
+  77 LT   gs 0 Solomon Page             
+  71 LT   gs 0 Javiar Collins           
+  71 LT   gs 0 Kurt Vollers             
+  71 LT   gs 0 Tyson Walter             
+  70 LG   gs 0 Matt Lehr                
+  65 C    gs 0 Andre Gurode             
+  65 C    gs 0 Jeff Grau                
+-- DL --
+  82 EDGE gs 0 Greg Ellis               
+  80 DT   gs 0 La'Roi Glover            
+  77 EDGE gs 0 Ebenezer Ekuban          
+  76 DT   gs 0 Brandon Noble            
+  71 EDGE gs 0 Demetric Evans           
+  71 EDGE gs 0 Peppi Zellner            
+  70 DT   gs 0 Colston Weatherington    
+  70 DT   gs 0 Michael Myers            
+  66 EDGE gs 0 Daleroy Stewart          
+  65 DT   gs 0 John Nix                 
+-- LB --
+  77 LB   gs 0 Louis Mackey             
+-- CB --
+  81 CB   gs 0 Dwayne Goodrich          
+  81 CB   gs 0 Jermaine Jones           
+  77 CB   gs 0 Mario Edwards            
+  71 CB   gs 0 Derek Ross               
+  71 CB   gs 0 Pete Hunter              
+-- S --
+  79 S    gs 0 Keith Davis              
+-- K --
+  75 K    gs 0 Billy Cundiff            
+-- P --
+  75 P    gs 0 Filip Filipovic          
+
+========== DEN (Denver Broncos) — 47 players ==========
+-- QB --
+  83 QB   gs13 Brian Griese             pass 3214/15td/15int  rush 107/1
+  68 QB   gs 0 Jarious Jackson          
+  64 QB   gs 0 Steve Beuerlein          pass 925/6td/5int  rush 9/1
+-- RB --
+  93 RB   gs16 Clinton Portis           rush 1508/15  rec 33-364/2
+  78 RB   gs15 Mike Anderson            rush 386/2  rec 18-167/2
+  69 RB   gs 9 Olandis Gary             rush 147/1  rec 18-148/
+  63 RB   gs 0 KaRon Coleman            
+  63 RB   gs 0 Kyle Johnson             
+  54 RB   gs 0 Reuben Droughns          rush 11/1  rec 5-53/1
+-- WR --
+  89 WR   gs16 Rod Smith                rush 9/  rec 89-1027/5
+  85 WR   gs16 Ed McCaffrey             rush 22/  rec 69-903/2
+  79 WR   gs15 Ashley Lelie             rush 40/  rec 35-525/2
+  69 WR   gs 8 Scottie Montgomery       rush 27/  rec 4-51/1
+  67 WR   gs 0 Herb Haygood             
+-- TE --
+  88 TE   gs13 Shannon Sharpe           rec 61-686/3
+  74 TE   gs10 Dwayne Carswell          rec 21-189/1
+  63 TE   gs 0 Mike Leach               
+  59 TE   gs 0 Patrick Hape             rec 6-26/2
+  58 TE   gs 0 Jeb Putzier              
+-- OL --
+  81 LT   gs 0 Blake Brockermeyer       
+  81 LT   gs 0 Matt Lepsis              
+  79 C    gs 0 Tom Nalen                
+  77 LT   gs 0 Ephraim Salaam           
+  75 LG   gs 0 Dan Neil                 
+  71 LT   gs 0 Cooper Carlisle          
+  70 C    gs 0 Ben Hamilton             
+  70 LG   gs 0 Lennie Friedman          
+  70 LG   gs 0 Steve Herndon            
+-- DL --
+  82 EDGE gs 0 Keith Washington         
+  80 DT   gs 0 Chester McGlockton       
+  77 EDGE gs 0 Kavika Pittman           
+  76 DT   gs 0 Lional Dalton            
+  71 EDGE gs 0 Bert Berry               
+  71 EDGE gs 0 Trevor Pryce             
+  70 DT   gs 0 Monsanto Pope            
+  70 DT   gs 0 Montae Reagor            
+  66 EDGE gs 0 Reggie Hayward           
+  65 DT   gs 0 Dorsett Davis            
+-- CB --
+  81 CB   gs 0 Jimmy Spencer            
+  81 CB   gs 0 Tyrone Poole             
+  77 CB   gs 0 Denard Walker            
+  71 CB   gs 0 Deltha O'Neal            
+  71 CB   gs 0 Kelly Herndon            
+  66 CB   gs 0 Lenny Walls              
+-- K --
+  75 K    gs 0 Jason Elam               
+-- P --
+  70 P    gs 0 Tom Rouen                
+  63 P    gs 0 Micah Knorr              rush -10/
+
+========== DET (Detroit Lions) — 51 players ==========
+-- QB --
+  77 QB   gs14 Joey Harrington          pass 2294/12td/16int  rush 4/
+  71 QB   gs 8 Mike McMahon             pass 874/7td/9int  rush 96/3  rec 1-7/
+  68 QB   gs 0 Ty Detmer                
+  63 QB   gs 0 Dave Dickenson           
+-- RB --
+  84 RB   gs14 James Stewart            rush 1021/4  rec 46-333/2
+  77 RB   gs15 Cory Schlesinger         rush 139/2  rec 35-263/
+  70 RB   gs10 Aveion Cason             rush 107/  rec 19-288/2
+  51 RB   gs 0 Lamont Warren            rush 8/  rec 4-56/2
+  51 RB   gs 0 Rafael Cooper            rush 57/  rec 1-4/
+  51 RB   gs 0 Stephen Trejo            rec 2-13/
+-- WR --
+  81 WR   gs14 Bill Schroeder           rec 36-595/5
+  77 WR   gs15 Scotty Anderson          rec 25-322/1
+  74 WR   gs10 Az-Zahir Hakim           rush 3/  rec 37-541/3
+  74 WR   gs12 Larry Foster             rec 14-152/
+  70 WR   gs 9 Germane Crowell          rec 22-201/1
+  66 WR   gs 0 Desmond Howard           
+  55 WR   gs 0 Eddie Drummond           rush 38/  rec 2--3/
+-- TE --
+  81 TE   gs14 Mikhael Ricks            rec 27-339/3
+  70 TE   gs 8 John Owens               rec 5-49/
+  63 TE   gs 0 Bradford Banta           
+  55 TE   gs 0 Matt Murphy              rec 1-8/
+-- OL --
+  81 LT   gs 0 Matt Joyce               
+  79 LG   gs 0 Ray Brown                
+  79 LG   gs 0 Tony Semple              
+  77 LT   gs 0 Kerlin Blaise            
+  75 C    gs 0 Eric Beverly             
+  71 LT   gs 0 Jeff Backus              
+  71 LT   gs 0 Stockar McDougle         
+  70 LG   gs 0 Josh Lovelady            
+  70 LG   gs 0 Tyrone Hopson            
+  65 C    gs 0 Dominic Raiola           
+  65 LG   gs 0 Frank Romero             
+-- DL --
+  82 EDGE gs 0 Robert Porcher           
+  80 DT   gs 0 Kelvin Pritchett         
+  78 EDGE gs 0 Jared DeVries            
+  76 DT   gs 0 Luther Elliss            
+  71 EDGE gs 0 James Hall               
+  71 EDGE gs 0 Kalimba Edwards          
+  70 DT   gs 0 Shaun Rogers             
+  70 DT   gs 0 Travis Kirschke          
+  65 DT   gs 0 Antwan Lake              
+-- LB --
+  78 LB   gs 0 Richard Jordan           
+  77 LB   gs 0 Josh Thornhill           
+-- CB --
+  81 CB   gs 0 Eric Davis               
+  77 CB   gs 0 Donovan Greer            
+  76 CB   gs 0 Todd Lyght               
+  71 CB   gs 0 Andre' Goodman           
+  71 CB   gs 0 Jimmy Wyrick             
+  66 CB   gs 0 Chris Cash               
+-- K --
+  75 K    gs 0 Jason Hanson             
+-- P --
+  69 P    gs 0 John Jett                
+
+========== GB (Green Bay Packers) — 49 players ==========
+-- QB --
+  89 QB   gs16 Brett Favre              pass 3658/27td/16int  rush 73/
+  68 QB   gs 0 Craig Nall               
+  66 QB   gs 0 Doug Pederson            pass 134/1td/int  rush -1/
+-- RB --
+  88 RB   gs14 Ahman Green              rush 1240/7  rec 57-393/2
+  75 RB   gs14 William Henderson        rush 27/1  rec 26-168/3
+  71 RB   gs10 Tony Fisher              rush 283/2  rec 18-70/
+  59 RB   gs 0 Antonio Carter           
+  54 RB   gs 0 Najeh Davenport          rush 184/1  rec 5-33/
+-- WR --
+  91 WR   gs16 Donald Driver            rush 70/  rec 70-1064/9
+  83 WR   gs15 Terry Glenn              rec 56-817/2
+  77 WR   gs14 Javon Walker             rush 11/  rec 23-319/1
+  72 WR   gs11 Robert Ferguson          rec 22-293/3
+  63 WR   gs 0 Eric Metcalf             rush 7/
+  59 WR   gs 0 Karsten Bailey           rec 3-26/
+-- TE --
+  89 TE   gs16 Bubba Franks             pass 31/1td/int  rec 54-442/7
+  66 TE   gs 0 Tyrone Davis             rec 9-107/1
+  58 TE   gs 0 David Martin             rec 8-33/1
+-- OL --
+  79 C    gs 0 Frank Winters            
+  79 LG   gs 0 Jeff Blackshear          
+  79 C    gs 0 Rob Davis                
+  77 LT   gs 0 Barrett Brooks           
+  77 LT   gs 0 Earl Dotson              
+  71 LT   gs 0 Jerry Wisne              
+  70 LG   gs 0 Marco Rivera             
+  70 C    gs 0 Mike Flanagan            
+  66 LT   gs 0 Chad Clifton             
+  66 LT   gs 0 Mark Tauscher            
+  65 LG   gs 0 Mike Wahle               rec 1-7/
+  61 LG   gs 0 Bill Ferrario            
+  61 LT   gs 0 Kevin Barry              
+-- DL --
+  82 EDGE gs 0 Joe Johnson              
+  78 EDGE gs 0 Vonnie Holliday          
+  76 DT   gs 0 Billy Lyon               
+  75 DT   gs 0 Gilbert Brown            
+  71 EDGE gs 0 Jamal Reynolds           
+  71 EDGE gs 0 Kabeer Gbaja-Biamila     
+  70 DT   gs 0 Cletidus Hunt            
+  70 DT   gs 0 Rod Walker               
+  66 EDGE gs 0 Aaron Kampman            
+  65 DT   gs 0 Steve Warren             
+-- CB --
+  81 CB   gs 0 Bryant Westbrook         
+  81 CB   gs 0 Tyrone Williams          
+  77 CB   gs 0 Tod McBride              
+  71 CB   gs 0 Jacoby Shepherd          
+  71 CB   gs 0 Mike McKenzie            
+  66 CB   gs 0 Bhawoh Jue               
+-- S --
+  79 S    gs 0 Erwin Swiney             
+-- K --
+  75 K    gs 0 Ryan Longwell            
+-- P --
+  75 P    gs 0 Josh Bidwell             
+
+========== HOU (Houston Texans) — 46 players ==========
+-- QB --
+  79 QB   gs16 David Carr               pass 2592/9td/15int  rush 282/3
+  74 QB   gs 0 Tony Banks               
+  68 QB   gs 0 Mike Quinn               
+-- RB --
+  82 RB   gs16 James Allen              pass 5/1td/int  rush 519/  rec 47-302/
+  79 RB   gs16 Jonathan Wells           rush 529/3  rec 9-48/
+  73 RB   gs13 Jarrod Baxter            rush 14/  rec 5-33/1
+  63 RB   gs 0 Moran Norris             
+-- WR --
+  84 WR   gs16 Corey Bradford           rush -11/  rec 45-697/6
+  79 WR   gs16 Jabar Gaffney            pass 39/1td/int  rec 41-483/1
+  76 WR   gs13 JaJuan Dawson            rec 21-286/
+  66 WR   gs 0 Frank Murphy             
+  61 WR   gs 0 Avion Black              rec 6-52/
+  60 WR   gs 0 Jermaine Lewis           rush 8/  rec 2-41/
+  54 WR   gs 0 Atnaf Harris             rec 1-8/
+-- TE --
+  87 TE   gs14 Billy Miller             rec 51-613/3
+  65 TE   gs 0 Jabari Holloway          rec 7-73/
+  64 TE   gs 0 Rod Rutledge             
+  63 TE   gs 0 Sean McDermott           
+-- OL --
+  81 LT   gs 0 Jimmy Herndon            
+  81 LT   gs 0 Tony Boselli             
+  79 LG   gs 0 DeMingo Graham           
+  75 LG   gs 0 Ryan Schau               
+  75 C    gs 0 Steve McKinney           
+  72 LT   gs 0 Cameron Spikes           
+  72 LT   gs 0 Ryan Young               
+  72 LT   gs 0 Tarlos Thomas            
+  71 LT   gs 0 Barry Hall               
+  66 LT   gs 0 Chester Pitts            
+  65 LG   gs 0 Fred Weary               
+  61 LG   gs 0 Milford Brown            
+-- DL --
+  82 EDGE gs 0 Gary Walker              
+  80 DT   gs 0 Seth Payne               
+  78 EDGE gs 0 Corey Sears              
+  76 DT   gs 0 Shawn Worthen            
+  71 EDGE gs 0 Jerry DeLoach            
+  70 DT   gs 0 Charles Hill             
+-- CB --
+  82 CB   gs 0 Marcus Coleman           
+  81 CB   gs 0 Aaron Glenn              
+  77 CB   gs 0 Jason Simmons            
+  71 CB   gs 0 Kenny Wright             
+  71 CB   gs 0 Pat Dennis               
+  66 CB   gs 0 Demarcus Faggins         
+  66 CB   gs 0 Jason Bell               
+-- S --
+  79 S    gs 0 Kyries Hebert            
+-- K --
+  75 K    gs 0 Kris Brown               
+-- P --
+  69 P    gs 0 Chad Stanley             rush 6/
+
+========== IND (Indianapolis Colts) — 43 players ==========
+-- QB --
+  91 QB   gs16 Peyton Manning           pass 4200/27td/19int  rush 148/2
+  74 QB   gs 0 Brock Huard              
+-- RB --
+  83 RB   gs14 Edgerrin James           rush 989/2  rec 61-354/1
+  73 RB   gs 9 James Mungro             rush 336/8  rec 13-81/
+  56 RB   gs 0 Detron Smith             rec 1-14/
+  53 RB   gs 0 Jim Finn                 rush 8/  rec 6-31/
+  51 RB   gs 0 Ricky Williams           rush 35/  rec 1-20/1
+  50 RB   gs 0 Autry Denson             rush 2/
+-- WR --
+  99 WR   gs16 Marvin Harrison          rush 10/  rec 143-1722/11
+  82 WR   gs15 Reggie Wayne             rec 49-716/4
+  80 WR   gs14 Qadry Ismail             rec 44-462/3
+  70 WR   gs10 Troy Walters             rush 33/  rec 18-207/
+  66 WR   gs 0 Adam Herzing             
+  59 WR   gs 0 Drew Haddad              rec 1-11/
+-- TE --
+  88 TE   gs15 Marcus Pollard           rec 43-478/6
+  71 TE   gs 9 Joe Dean Davenport       rec 8-70/
+  63 TE   gs 0 Justin Snow              
+  57 TE   gs 0 Mike Roberg              rec 2-17/1
+-- OL --
+  81 LT   gs 0 Adam Meadows             
+  81 LT   gs 0 Tarik Glenn              
+  81 LT   gs 0 Waverly Jackson          
+  75 C    gs 0 Jeff Saturday            
+  75 C    gs 0 Rob Murphy               
+  70 LG   gs 0 Rick DeMulling           
+  70 LG   gs 0 Ryan Diem                
+  70 LG   gs 0 Tupe Peko                
+-- DL --
+  82 EDGE gs 0 Chad Bratzke             
+  80 DT   gs 0 James Cannida            
+  78 EDGE gs 0 Chukie Nwokorie          
+  76 DT   gs 0 Josh Williams            
+  71 EDGE gs 0 Brad Scioli              
+  71 EDGE gs 0 Dwight Freeney           
+  70 DT   gs 0 David Pugh               
+  70 DT   gs 0 Larry Tripplett          
+  66 EDGE gs 0 Josh Mallard             
+  61 EDGE gs 0 Raheem Brock             
+-- CB --
+  82 CB   gs 0 Cliff Crosby             
+  82 CB   gs 0 Walt Harris              
+  77 CB   gs 0 David Macklin            
+  71 CB   gs 0 Joseph Jefferson         
+  71 CB   gs 0 Nicholas Harper          
+-- K --
+  75 K    gs 0 Mike Vanderjagt          
+-- P --
+  75 P    gs 0 Hunter Smith             
+
+========== JAX (Jacksonville Jaguars) — 46 players ==========
+-- QB --
+  80 QB   gs15 Mark Brunell             pass 2788/10td/7int  rush 207/
+  68 QB   gs 0 Kent Graham              
+  61 QB   gs 0 David Garrard            pass 231/td/2int  rush 139/2
+-- RB --
+  89 RB   gs16 Fred Taylor              rush 1314/8  rec 49-408/
+  81 RB   gs15 Stacey Mack              rush 436/9  rec 11-79/
+  63 RB   gs 0 Dan Alexander            
+  59 RB   gs 0 Elvis Joseph             
+  57 RB   gs 0 Patrick Washington       rec 1-5/
+-- WR --
+  90 WR   gs16 Jimmy Smith              rush 2/  rec 80-1027/7
+  80 WR   gs16 Bobby Shaw               rec 44-525/1
+  72 WR   gs 0 Jimmy Redmond            
+  69 WR   gs 8 Pat Johnson              rush -9/  rec 9-187/2
+  68 WR   gs 0 Micah Ross               
+-- TE --
+  86 TE   gs16 Kyle Brady               rec 43-461/4
+  79 TE   gs13 Pete Mitchell            rec 25-246/2
+  55 TE   gs 0 Chris Luzar              rec 1-5/
+-- OL --
+  81 LT   gs 0 Todd Fordham             
+  81 LT   gs 0 Zach Wiegert             
+  79 LG   gs 0 Chris Naeole             
+  75 LG   gs 0 Daryl Terrell            
+  75 C    gs 0 John Wade                
+  70 LG   gs 0 Brad Meester             
+  70 LG   gs 0 Drew Inzer               
+  70 C    gs 0 Joe Zelenka              
+  70 LG   gs 0 Leander Jordan           
+  66 LT   gs 0 Dave Kadela              
+  66 LT   gs 0 Maurice Williams         
+  61 LT   gs 0 Mike Pearson             
+-- DL --
+  82 EDGE gs 0 Marco Coleman            
+  80 DT   gs 0 Larry Smith              
+  78 EDGE gs 0 Tony Brackens            
+  76 DT   gs 0 Marcus Stroud            
+  71 EDGE gs 0 Paul Spicer              
+  71 EDGE gs 0 Rob Meier                
+  70 DT   gs 0 Clenton Ballard          
+  66 EDGE gs 0 Chris Combs              
+  66 DT   gs 0 John Henderson           
+  61 EDGE gs 0 Javor Mills              
+-- CB --
+  74 CB   gs 0 Fernando Bryant          
+  74 CB   gs 0 Ike Charlton             
+  74 CB   gs 0 Jason Craft              
+  74 CB   gs 0 Kiwaukee Thomas          
+  74 CB   gs 0 Robert Bean              
+-- S --
+  79 S    gs 0 Steve Smith              
+-- K --
+  76 K    gs 0 Danny Boyd               
+-- P --
+  75 P    gs 0 Chris Hanson             
+
+========== KC (Kansas City Chiefs) — 50 players ==========
+-- QB --
+  92 QB   gs16 Trent Green              pass 3690/26td/13int  rush 225/1
+  74 QB   gs 0 Todd Collins             pass 73/1td/int  rush 7/
+  58 QB   gs 0 Jonathan Quinn           rush -1/
+-- RB --
+  97 RB   gs14 Priest Holmes            rush 1615/21  rec 70-672/3
+  75 RB   gs13 Tony Richardson          rush 81/2  rec 18-125/1
+  74 RB   gs12 Michael Cloud            rush 115/2  rec 6-48/
+  63 RB   gs 0 Jarmar Julien            
+  53 RB   gs 0 Derrick Blaylock         rush 72/  rec 5-47/
+  52 RB   gs 0 Omar Easy                rec 3-23/1
+-- WR --
+  83 WR   gs16 Eddie Kennison           rush 58/  rec 53-906/2
+  78 WR   gs15 Dante' Hall              rush 54/  rec 20-322/3
+  77 WR   gs14 Johnnie Morton           rush 124/  rec 29-397/1
+  75 WR   gs11 Marc Boerigter           rec 20-420/8
+  59 WR   gs 0 Marvin Minnis            rec 1-4/
+-- TE --
+  92 TE   gs16 Tony Gonzalez            rec 63-773/7
+  63 TE   gs 0 Kendall Gammon           
+  62 TE   gs 0 Jason Dunn               rec 2-16/
+  57 TE   gs 0 Billy Baber              rec 2-10/1
+-- OL --
+  82 LT   gs 0 Willie Roaf              
+  81 LT   gs 0 Marcus Spears            
+  79 LG   gs 0 Will Shields             
+  75 C    gs 0 Casey Wiegmann           
+  75 LG   gs 0 Donald Willis            
+  72 LT   gs 0 Willie Jones             
+  70 LG   gs 0 Brian Waters             
+  70 C    gs 0 Jason Andersen           
+  70 LG   gs 0 Victor Allotey           
+  66 LT   gs 0 Darnell Alford           
+  62 LT   gs 0 John Tait                rush 28/
+-- DL --
+  82 EDGE gs 0 Ritchie Owens            
+  80 DT   gs 0 John Browning            
+  78 EDGE gs 0 Duane Clemons            
+  76 DT   gs 0 Nate Hobgood-Chittick    
+  72 EDGE gs 0 Eric Hicks               
+  72 EDGE gs 0 R-Kal Truluck            
+  70 DT   gs 0 Derrick Ransom           
+  70 DT   gs 0 Eric Downing             
+  66 EDGE gs 0 Gary Stills              
+  65 DT   gs 0 Eddie Freeman            
+  61 DT   gs 0 Ryan Sims                
+-- LB --
+  78 LB   gs 0 Tony Newson              
+-- CB --
+  82 CB   gs 0 Ray Crockett             
+  82 CB   gs 0 Taje Allen               
+  77 CB   gs 0 Eric Warfield            
+  71 CB   gs 0 Corey Harris             
+  71 CB   gs 0 William Bartee           
+-- S --
+  80 S    gs 0 Clint Finley             
+-- K --
+  76 K    gs 0 Morten Andersen          
+  67 K    gs 0 Michael Husted           
+-- P --
+  76 P    gs 0 Dan Stryzinski           
+
+========== LAC (Los Angeles Chargers) — 46 players ==========
+-- QB --
+  82 QB   gs16 Drew Brees               pass 3284/17td/16int  rush 130/1
+  68 QB   gs 0 Seth Burford             
+  60 QB   gs 0 Doug Flutie              pass 64/td/int  rush 6/
+-- RB --
+  96 RB   gs16 LaDainian Tomlinson      rush 1683/14  rec 79-489/1
+  75 RB   gs13 Fred McCrary             rush 1/  rec 22-96/3
+  63 RB   gs 0 Joey Goodspeed           
+  63 RB   gs 0 Ronney Jenkins           
+  59 RB   gs 0 Terrell Fletcher         rush 128/1  rec 10-62/
+  52 RB   gs 0 Jesse Chatman            rush 19/  rec 3-44/
+-- WR --
+  84 WR   gs12 Curtis Conway            rush 53/2  rec 57-852/5
+  81 WR   gs16 Tim Dwight               rush 108/1  rec 50-623/2
+  76 WR   gs12 Reche Caldwell           pass 20/td/int  rush 9/  rec 22-208/3
+  72 WR   gs 0 Dondre Gilliam           
+  63 WR   gs 0 Eric Parker              rec 17-268/1
+-- TE --
+  83 TE   gs14 Stephen Alexander        rec 45-510/1
+  73 TE   gs 9 Josh Norman              rec 16-201/1
+  57 TE   gs 0 Justin Peelle            rec 3-15/
+-- OL --
+  82 LT   gs 0 Vaughn Parker            
+  79 C    gs 0 Cory Raymer              
+  79 C    gs 0 David Binn               
+  77 LT   gs 0 Ed Ellis                 
+  75 LG   gs 0 Bob Hallen               
+  72 LT   gs 0 Damion McIntosh          
+  72 LT   gs 0 Sammy Williams           
+  70 LG   gs 0 Kelvin Garmon            
+  70 LG   gs 0 Michael Keathley         
+  65 LG   gs 0 Jason Ball               
+  65 LG   gs 0 Toniu Fonoti             
+-- DL --
+  82 EDGE gs 0 Raylee Johnson           
+  80 DT   gs 0 Shawn Price              
+  78 EDGE gs 0 Marcellus Wiley          
+  76 DT   gs 0 Jason Fisk               
+  72 EDGE gs 0 Adrian Dingle            
+  72 EDGE gs 0 Otis Leverette           
+  71 DT   gs 0 Jamal Williams           
+  71 DT   gs 0 Leonardo Carson          
+  65 DT   gs 0 DeQuincy Scott           
+-- CB --
+  82 CB   gs 0 Alex Molden              
+  82 CB   gs 0 Ryan McNeil              
+  77 CB   gs 0 Davis Sanchez            
+  71 CB   gs 0 Tay Cody                 
+  71 CB   gs 0 Tony Okanlawon           
+  66 CB   gs 0 Quentin Jammer           
+-- S --
+  80 S    gs 0 Kevin House              
+-- K --
+  76 K    gs 0 Steve Christie           
+-- P --
+  76 P    gs 0 Darren Bennett           
+
+========== LAR (Los Angeles Rams) — 46 players ==========
+-- QB --
+  74 QB   gs 0 Jamie Martin             pass 1216/7td/10int  rush 6/
+  62 QB   gs 0 Kurt Warner              pass 1431/3td/11int  rush 33/
+  58 QB   gs 0 Marc Bulger              pass 1826/14td/6int  rush -13/1  rec 1-3/
+  53 QB   gs 0 Scott Covington          pass 7/td/int
+-- RB --
+  88 RB   gs14 Marshall Faulk           rush 953/8  rec 80-537/2
+  71 RB   gs11 Lamar Gordon             rush 228/1  rec 30-278/2
+  63 RB   gs 0 J.R. Niklos              
+  59 RB   gs 0 Chris Massey             
+  56 RB   gs 0 Chris Hetherington       rec 1-2/
+  54 RB   gs 0 James Hodgins            rush 7/  rec 9-47/
+  53 RB   gs 0 Trung Canidate           rush 48/  rec 4-31/
+-- WR --
+  91 WR   gs16 Torry Holt               rush 18/  rec 91-1302/4
+  90 WR   gs16 Isaac Bruce              rush 18/  rec 79-1075/7
+  81 WR   gs15 Ricky Proehl             rec 43-466/4
+  70 WR   gs 9 Troy Edwards             rush 21/  rec 18-157/2
+  67 WR   gs 0 Dane Looker              
+  61 WR   gs 0 Terrence Wilkins         rush 56/  rec 5-31/
+-- TE --
+  83 TE   gs16 Ernie Conwell            rush 30/1  rec 34-419/2
+  71 TE   gs 8 Brandon Manumaleuna      rec 8-106/1
+-- OL --
+  80 LG   gs 0 Tom Nutten               
+  79 C    gs 0 Andy McCollum            
+  79 C    gs 0 Frank Garcia             
+  75 LG   gs 0 Adam Timmerman           
+  75 LG   gs 0 Heath Irwin              
+  72 LT   gs 0 Grant Williams           
+  72 LT   gs 0 John St. Clair           
+  72 LT   gs 0 Orlando Pace             
+  70 LG   gs 0 Andy King                
+  65 C    gs 0 Andy Eby                 
+  65 LG   gs 0 James Broyles            
+-- DL --
+  82 EDGE gs 0 Tyoka Jackson            
+  81 DT   gs 0 Jeff Zgonina             
+  78 EDGE gs 0 Leonard Little           
+  77 DT   gs 0 Brian Young              
+  72 EDGE gs 0 Bryce Fisher             
+  72 EDGE gs 0 Grant Wistrom            
+  71 DT   gs 0 Damione Lewis            
+  71 DT   gs 0 Ryan Pickett             
+-- CB --
+  82 CB   gs 0 Aeneas Williams          
+  82 CB   gs 0 Dexter McCleon           
+  73 CB   gs 0 Dre' Bly                 
+  72 CB   gs 0 James Whitley            
+  72 CB   gs 0 Jerametrius Butler       
+  66 CB   gs 0 Travis Fisher            
+-- K --
+  77 K    gs 0 Jeff Wilkins             
+-- P --
+  77 P    gs 0 Mitch Berger             
+
+========== LV (Las Vegas Raiders) — 53 players ==========
+-- QB --
+  96 QB   gs16 Rich Gannon              pass 4689/26td/10int  rush 156/3
+  68 QB   gs 0 Rick Mirer               
+  65 QB   gs 0 Marques Tuiasosopo       rush -3/
+  63 QB   gs 0 Ronald Curry             
+-- RB --
+  89 RB   gs16 Charlie Garner           rush 962/7  rec 91-941/4
+  79 RB   gs12 Zack Crockett            rush 118/8
+  77 RB   gs14 Tyrone Wheatley          rush 419/2  rec 12-71/
+  76 RB   gs12 Jon Ritchie              rec 10-66/1
+  59 RB   gs 0 Madre Hill               
+  54 RB   gs 0 Terry Kirby              rush 51/  rec 17-115/1
+  52 RB   gs 0 Randy Jordan             rush 14/1  rec 2-19/
+-- WR --
+  92 WR   gs16 Jerry Rice               rush 20/  rec 92-1211/7
+  86 WR   gs16 Jerry Porter             rush 6/  rec 51-688/9
+  86 WR   gs16 Tim Brown                rush 19/  rec 81-930/2
+  72 WR   gs 0 James Jett               
+  66 WR   gs 0 Alvis Whitted            
+  66 WR   gs 0 Marcus Williams          
+  60 WR   gs 0 Marcus Knight            rec 3-26/
+-- TE --
+  81 TE   gs13 Doug Jolley              rec 32-409/2
+  80 TE   gs13 Roland Williams          rec 27-213/
+  67 TE   gs 0 Jeremy Brigham           
+  63 TE   gs 0 Brandon Christenson      
+  59 TE   gs 0 Mondriel Fulcher         
+-- OL --
+  82 LT   gs 0 Lincoln Kennedy          
+  79 C    gs 0 Barret Robbins           
+  79 LG   gs 0 Brad Badger              
+  75 C    gs 0 Adam Treu                
+  75 LG   gs 0 Frank Middleton          
+  72 LT   gs 0 Barry Sims               
+  72 LT   gs 0 Chad Slaughter           
+  70 LG   gs 0 Matt Stinchcomb          
+  70 LG   gs 0 Mo Collins               
+  66 LT   gs 0 Langston Walker          
+-- DL --
+  82 EDGE gs 0 Trace Armstrong          
+  80 DT   gs 0 John Parrella            
+  78 EDGE gs 0 Regan Upshaw             
+  76 DT   gs 0 Sam Adams                
+  72 EDGE gs 0 Chris Cooper             
+  72 EDGE gs 0 Tony Bryant              
+  71 DT   gs 0 Junior Ioane             
+  71 DT   gs 0 Roderick Coleman         
+  66 EDGE gs 0 DeLawrence Grant         
+  61 EDGE gs 0 Kenyon Coleman           
+-- LB --
+  78 LB   gs 0 Tim Johnson              
+-- CB --
+  82 CB   gs 0 Darrien Gordon           
+  82 CB   gs 0 Terrance Shaw            
+  77 CB   gs 0 Tory James               
+  71 CB   gs 0 Charles Woodson          
+  71 CB   gs 0 Clarence Love            
+  62 CB   gs 0 Phillip Buchanon         
+-- S --
+  80 S    gs 0 Keyon Nash               
+-- K --
+  76 K    gs 0 Sebastian Janikowski     
+-- P --
+  76 P    gs 0 Shane Lechler            
+
+========== MIA (Miami Dolphins) — 47 players ==========
+-- QB --
+  76 QB   gs11 Jay Fiedler              pass 2024/14td/9int  rush 99/3
+  62 QB   gs 0 Ray Lucas                pass 1045/4td/6int  rush 126/2
+  55 QB   gs 0 Sage Rosenfels           rush -9/
+-- RB --
+  96 RB   gs16 Ricky Williams           rush 1853/16  rec 47-363/1
+  77 RB   gs14 Rob Konrad               rush 2/  rec 34-233/3
+  70 RB   gs11 Robert Edwards           rush 107/1  rec 18-126/1
+  70 RB   gs10 Travis Minor             rush 180/2
+  63 RB   gs 0 Deon Dyer                
+  63 RB   gs 0 Leonard Henry            
+-- WR --
+  82 WR   gs15 Chris Chambers           rush 78/  rec 52-734/3
+  78 WR   gs14 James McKnight           rush 58/  rec 29-528/2
+  75 WR   gs15 Dedric Ward              rec 19-172/
+  66 WR   gs 0 Albert Johnson           
+  62 WR   gs 0 Oronde Gadsden           rec 16-228/
+  61 WR   gs 0 Cris Carter              rec 8-66/1
+  55 WR   gs 0 Robert Baker             rec 1-17/
+-- TE --
+  86 TE   gs16 Randy McMichael          rush 8/  rec 39-485/4
+  66 TE   gs 0 Jed Weaver               rec 6-75/3
+  59 TE   gs 0 Ed Perry                 
+  56 TE   gs 0 Desmond Clark            rec 2-42/
+-- OL --
+  82 LT   gs 0 Mark Dixon               
+  79 C    gs 0 Tim Ruddy                
+  79 LG   gs 0 Todd Perry               
+  77 LT   gs 0 Marcus Spriggs           
+  75 LG   gs 0 Jamie Nails              
+  72 LT   gs 0 Greg Jerman              
+  72 LT   gs 0 Todd Wade                
+  70 C    gs 0 Seth McKinney            
+  70 LG   gs 0 Troy Andrew              
+-- DL --
+  93 EDGE gs 0 Jason Taylor             
+  82 EDGE gs 0 Rob Burnett              
+  81 DT   gs 0 Tim Bowens               
+  78 EDGE gs 0 Jay Williams             
+  76 DT   gs 0 Larry Chester            
+  72 EDGE gs 0 David Bowens             
+  71 DT   gs 0 Dario Romero             
+  71 DT   gs 0 Jermaine Haley           
+  66 EDGE gs 0 Adewale Ogunleye         
+-- LB --
+  79 LB   gs 0 Justin Seaverns          
+-- CB --
+  82 CB   gs 0 Patrick Surtain          
+  82 CB   gs 0 Sam Madison              
+  77 CB   gs 0 Paul Miranda             
+  71 CB   gs 0 Jamar Fletcher           
+  71 CB   gs 0 Ray Green                
+  66 CB   gs 0 Omare Lowe               
+-- K --
+  76 K    gs 0 Olindo Mare              
+-- P --
+  76 P    gs 0 Mark Royals              
+
+========== MIN (Minnesota Vikings) — 46 players ==========
+-- QB --
+  82 QB   gs16 Daunte Culpepper         pass 3853/18td/23int  rush 609/10
+  71 QB   gs 0 Todd Bouman              pass 85/td/int  rush 9/
+  68 QB   gs 0 Shaun Hill               
+-- RB --
+  86 RB   gs16 Michael Bennett          rush 1296/5  rec 37-351/1
+  84 RB   gs16 Moe Williams             rush 414/11  rec 27-251/
+  77 RB   gs14 Jim Kleinsasser          rush 17/  rec 37-393/1
+  63 RB   gs 0 Harold Morrow            
+  63 RB   gs 0 James Wofford            
+  52 RB   gs 0 Doug Chapman             rush 89/
+-- WR --
+  94 WR   gs16 Randy Moss               pass 13/1td/int  rush 51/  rec 106-1347/7
+  82 WR   gs14 D'Wayne Bates            rec 50-689/4
+  70 WR   gs11 Chris Walsh              rec 14-172/1
+  69 WR   gs 8 Derrick Alexander        rec 14-134/1
+  63 WR   gs 0 Nick Davis               rush 11/
+  59 WR   gs 0 Cedric James             rec 1-29/
+  57 WR   gs 0 Kelly Campbell           rush 11/  rec 13-176/3
+-- TE --
+  82 TE   gs13 Byron Chamberlain        rec 34-389/
+  63 TE   gs 0 Hunter Goodwin           rec 4-20/1
+-- OL --
+  82 LT   gs 0 Everett Lindsay          
+  79 LG   gs 0 Corbin Lacina            
+  79 LG   gs 0 David Dixon              
+  77 LT   gs 0 Chris Liwienski          
+  75 C    gs 0 Matt Birk                
+  72 LT   gs 0 Lewis Kelly              
+  70 C    gs 0 Brody Liddiard           
+  70 C    gs 0 Cory Withrow             
+  70 C    gs 0 Michael Early            
+  66 LT   gs 0 Adam Haayer              
+  66 LT   gs 0 Bryant McKinnie          
+-- DL --
+  82 EDGE gs 0 Lance Johnstone          
+  81 DT   gs 0 Darius Holland           
+  78 EDGE gs 0 Lorenzo Bromell          
+  76 DT   gs 0 Talance Sawyer           
+  72 EDGE gs 0 Chuck Wiley              
+  72 EDGE gs 0 Kenny Mixon              
+  71 DT   gs 0 Cedric Killings          
+  71 DT   gs 0 Chris Hovan              
+  65 DT   gs 0 Fred Robbins             
+-- CB --
+  82 CB   gs 0 Corey Chavous            
+  82 CB   gs 0 Tyrone Carter            
+  77 CB   gs 0 Eric Kelly               
+  71 CB   gs 0 Brian Williams           
+  71 CB   gs 0 Carey Scott              
+-- K --
+  76 K    gs 0 Gary Anderson            
+  68 K    gs 0 Hayden Epstein           
+-- P --
+  70 P    gs 0 Kyle Richardson          
+
+========== NE (New England Patriots) — 43 players ==========
+-- QB --
+  90 QB   gs16 Tom Brady                pass 3764/28td/14int  rush 110/1
+  66 QB   gs 0 Damon Huard              rush 4/
+  54 QB   gs 0 Rohan Davey              pass 3/td/int  rush -4/
+-- RB --
+  85 RB   gs16 Antowain Smith           rush 982/6  rec 31-243/2
+  78 RB   gs15 Kevin Faulk              rush 271/2  rec 37-379/3
+  76 RB   gs15 Marc Edwards             rush 96/  rec 23-196/
+  51 RB   gs 0 J.R. Redmond             rush 2/  rec 2-5/
+  50 RB   gs 0 Patrick Pass             rush 27/
+-- WR --
+  87 WR   gs14 Troy Brown               rush 14/  rec 97-890/3
+  85 WR   gs16 David Patten             rush 6/  rec 61-824/5
+  79 WR   gs13 Deion Branch             rec 43-489/2
+  70 WR   gs11 Donald Hayes             rec 12-133/2
+  69 WR   gs 8 David Givens             rec 9-92/1
+  66 WR   gs 0 Fred Coleman             
+-- TE --
+  85 TE   gs15 Christian Fauria         rec 27-253/7
+  73 TE   gs10 Daniel Graham            rec 15-150/1
+  72 TE   gs 8 Cameron Cleeland         rec 16-112/1
+-- OL --
+  79 C    gs 0 Grey Ruegamer            
+  79 LG   gs 0 Joe Andruzzi             
+  79 C    gs 0 Mike Compton             
+  75 LG   gs 0 Damien Woody             
+  75 C    gs 0 Lonie Paxton             
+  72 LT   gs 0 Greg Randall             
+  72 LT   gs 0 Kenyatta Jones           
+  72 LT   gs 0 Tom Ashworth             
+  70 LG   gs 0 Adrian Klemm             
+  66 LT   gs 0 Matt Light               
+  65 LG   gs 0 Steve Neal               
+  61 LT   gs 0 Matt Knutson             
+-- DL --
+  82 EDGE gs 0 Anthony Pleasant         
+  81 DT   gs 0 Bernard Holsey           
+  78 EDGE gs 0 Bobby Hamilton           
+  76 DT   gs 0 Richard Seymour          
+  72 EDGE gs 0 Rick Lyle                
+  72 EDGE gs 0 Willie McGinest          
+  66 EDGE gs 0 Jarvis Green             
+-- CB --
+  82 CB   gs 0 Otis Smith               
+  82 CB   gs 0 Terrell Buckley          
+  77 CB   gs 0 Ty Law                   
+  71 CB   gs 0 Ben Kelly                
+  71 CB   gs 0 Leonard Myers            
+-- K --
+  76 K    gs 0 Adam Vinatieri           
+-- P --
+  76 P    gs 0 Ken Walter               
+
+========== NO (New Orleans Saints) — 44 players ==========
+-- QB --
+  88 QB   gs16 Aaron Brooks             pass 3572/27td/15int  rush 253/2
+  78 QB   gs 0 Jake Delhomme            pass 113/td/int  rush -2/
+  68 QB   gs 0 J.T. O'Sullivan          
+-- RB --
+  92 RB   gs15 Deuce McAllister         rush 1388/13  rec 47-352/3
+  68 RB   gs 8 Terrelle Smith           rush 11/  rec 9-30/
+  56 RB   gs 0 Fred McAfee              rush 11/
+  54 RB   gs 0 James Fenderson          rush 65/1  rec 6-38/
+  51 RB   gs 0 Curtis Keaton            rush 19/
+-- WR --
+  93 WR   gs16 Joe Horn                 rush 2/  rec 88-1312/7
+  83 WR   gs13 Donte' Stallworth        rush 2/  rec 42-594/8
+  81 WR   gs14 Jerome Pathon            rec 43-523/4
+  77 WR   gs12 Jake Reed                rec 21-360/3
+  69 WR   gs 9 Michael Lewis            rush 15/  rec 8-200/
+  67 WR   gs 0 Derrick Lewis            
+-- TE --
+  77 TE   gs12 Boo Williams             rec 13-143/2
+  77 TE   gs12 David Sloan              rec 12-127/
+  56 TE   gs 0 Lamont Hall              rec 2-6/
+-- OL --
+  82 LT   gs 0 Spencer Folau            
+  79 C    gs 0 Jerry Fontenot           
+  79 LG   gs 0 Wally Williams           
+  77 LT   gs 0 Scott Sanderson          
+  75 C    gs 0 Bubba Miller             
+  72 LT   gs 0 Kyle Turley              
+  72 LT   gs 0 Victor Riley             
+  70 LG   gs 0 Kendyl Jacox             
+  70 C    gs 0 Kevin Houser             
+  65 LG   gs 0 LeCharles Bentley        
+-- DL --
+  82 EDGE gs 0 Willie Whitehead         
+  81 DT   gs 0 Norman Hand              
+  78 EDGE gs 0 Darren Howard            
+  76 DT   gs 0 Grady Jackson            
+  72 EDGE gs 0 Charles Grant            
+  71 DT   gs 0 Kenny Smith              
+  71 DT   gs 0 Martin Chase             
+-- LB --
+  79 LB   gs 0 J.J. Jones               
+-- CB --
+  82 CB   gs 0 Dale Carter              
+  82 CB   gs 0 Ken Irvin                
+  77 CB   gs 0 Jerry Wilson             
+  71 CB   gs 0 Fakhir Brown             
+  71 CB   gs 0 Fred Thomas              
+  66 CB   gs 0 Keyuo Craver             
+  66 CB   gs 0 Michael Hawthorne        
+-- K --
+  77 K    gs 0 John Carney              
+-- P --
+  76 P    gs 0 Toby Gowin               
+
+========== NYG (New York Giants) — 46 players ==========
+-- QB --
+  88 QB   gs16 Kerry Collins            pass 4073/19td/14int  rush -3/
+  71 QB   gs 0 Jesse Palmer             pass 30/td/int  rush -3/
+  68 QB   gs 0 Jason Garrett            
+-- RB --
+  92 RB   gs16 Tiki Barber              rush 1387/11  rec 69-597/
+  78 RB   gs16 Ron Dayne                rush 428/3  rec 11-49/
+  77 RB   gs13 Charles Stackhouse       rec 13-88/3
+  63 RB   gs 0 Damon Washington         
+  51 RB   gs 0 Delvin Joyce             rush 2/  rec 1-5/
+-- WR --
+  93 WR   gs16 Amani Toomer             rush 2/  rec 82-1343/8
+  72 WR   gs10 Ron Dixon                rec 22-377/2
+  68 WR   gs 9 Daryl Jones              rush 4/  rec 8-90/
+  67 WR   gs 0 Jonathan Carter          
+  67 WR   gs 0 Tony Simmons             
+  64 WR   gs 0 Ike Hilliard             rush 7/  rec 27-386/2
+  60 WR   gs 0 Tim Carter               rush 28/  rec 2-37/
+  58 WR   gs 0 Derek Dorris             
+-- TE --
+  90 TE   gs15 Jeremy Shockey           rec 74-894/2
+  78 TE   gs14 Dan Campbell             rec 22-175/1
+  63 TE   gs 0 Trey Junkin              
+  57 TE   gs 0 Marcellus Rivers         rec 2-25/1
+-- OL --
+  82 LT   gs 0 Luke Petitgout           
+  79 C    gs 0 Dusty Zeigler            
+  79 LG   gs 0 Jason Whittle            
+  77 LT   gs 0 Mike Rosenthal           
+  75 C    gs 0 Chris Bober              
+  72 LT   gs 0 Ian Allen                
+  70 C    gs 0 Omar Smith               
+  70 LG   gs 0 Rich Seubert             
+  70 LG   gs 0 Tam Hopkins              
+-- DL --
+  82 EDGE gs 0 Michael Strahan          
+  81 DT   gs 0 Keith Hamilton           
+  78 EDGE gs 0 Kenny Holmes             
+  76 DT   gs 0 Cornelius Griffin        
+  72 EDGE gs 0 Dwight Johnson           
+  72 EDGE gs 0 Frank Ferrara            
+  71 DT   gs 0 Lance Legree             
+  71 DT   gs 0 Matt Mitrione            
+  66 EDGE gs 0 Byron Frisch             
+-- CB --
+  82 CB   gs 0 Jason Sehorn             
+  82 CB   gs 0 Kato Serwanga            
+  77 CB   gs 0 Reggie Stephens          
+  71 CB   gs 0 Ralph Brown              
+  71 CB   gs 0 William James            
+  66 CB   gs 0 Will Allen               
+-- K --
+  77 K    gs 0 Matt Bryant              
+-- P --
+  71 P    gs 0 Matt Allen               rush 23/
+
+========== NYJ (New York Jets) — 43 players ==========
+-- QB --
+  92 QB   gs15 Chad Pennington          pass 3120/22td/6int  rush 49/2
+  68 QB   gs 0 Todd Husak               
+  63 QB   gs 0 Vinny Testaverde         pass 499/3td/3int  rush 23/
+  58 QB   gs 0 Tory Woodbury            rec 1-13/
+-- RB --
+  87 RB   gs16 Curtis Martin            rush 1094/7  rec 49-362/
+  79 RB   gs16 Richie Anderson          rush 27/  rec 45-257/1
+  77 RB   gs13 LaMont Jordan            rush 316/3  rec 17-160/
+  70 RB   gs 8 Jerald Sowell            rec 9-85/1
+  52 RB   gs 0 Chad Morton              rush 8/  rec 3-19/
+-- WR --
+  91 WR   gs16 Laveranues Coles         rush 39/  rec 89-1264/5
+  85 WR   gs15 Wayne Chrebet            rec 51-691/9
+  79 WR   gs15 Santana Moss             rush 48/  rec 30-433/4
+  61 WR   gs 0 Kevin Swayne             rec 5-78/
+-- TE --
+  82 TE   gs14 Anthony Becht            rec 28-243/5
+  64 TE   gs 0 James Dearth             
+  62 TE   gs 0 Chris Baker              rec 2-14/
+-- OL --
+  82 LT   gs 0 John Elliott             
+  79 LG   gs 0 Dave Szott               
+  79 C    gs 0 Kevin Mawae              
+  77 LT   gs 0 Jason Fabini             
+  75 LG   gs 0 J.P. Machado             
+  72 LT   gs 0 Chris Smith              
+  72 LT   gs 0 Kareem McKenzie          
+  70 C    gs 0 Dennis O'Sullivan        
+  70 LG   gs 0 Randy Thomas             
+  65 LG   gs 0 Jonathan Goodwin         
+-- DL --
+  82 EDGE gs 0 Steve White              
+  81 DT   gs 0 Larry Webster            
+  78 EDGE gs 0 Shaun Ellis              
+  77 DT   gs 0 Josh Evans               
+  72 EDGE gs 0 Bryan Thomas             
+  72 EDGE gs 0 John Abraham             
+  71 DT   gs 0 James Reed               
+  71 DT   gs 0 Jason Ferguson           
+  65 DT   gs 0 Alan Harper              
+-- LB --
+  79 LB   gs 0 Khary Campbell           
+-- CB --
+  82 CB   gs 0 Aaron Beasley            
+  82 CB   gs 0 Donnie Abraham           
+  77 CB   gs 0 Ray Mickens              
+  71 CB   gs 0 Andrew Davison           
+  71 CB   gs 0 Jamie Henderson          
+-- K --
+  77 K    gs 0 John Hall                
+-- P --
+  70 P    gs 0 Matt Turk                rush 14/
+
+========== PHI (Philadelphia Eagles) — 43 players ==========
+-- QB --
+  77 QB   gs10 Donovan McNabb           pass 2289/17td/6int  rush 460/6
+  74 QB   gs 0 Koy Detmer               pass 224/2td/int  rush 4/1
+  63 QB   gs 0 Tim Hasselbeck           
+  56 QB   gs 0 A.J. Feeley              pass 1011/6td/5int  rush 6/
+-- RB --
+  85 RB   gs16 Duce Staley              rush 1029/5  rec 51-541/3
+  78 RB   gs16 Dorsey Levens            rush 411/1  rec 19-124/1
+  75 RB   gs14 Brian Westbrook          pass 25/1td/int  rush 193/  rec 9-86/
+  74 RB   gs13 Cecil Martin             rush -4/  rec 15-126/
+  59 RB   gs 0 Brian Mitchell           pass 57/1td/int
+-- WR --
+  86 WR   gs15 Todd Pinkston            rush -15/  rec 60-798/7
+  84 WR   gs16 James Thrash             rush 126/2  rec 52-635/6
+  82 WR   gs15 Antonio Freeman          rec 46-600/4
+  72 WR   gs 0 Dameane Douglas          
+  68 WR   gs10 Freddie Mitchell         rec 12-105/
+  67 WR   gs 0 Freddie Milons           
+-- TE --
+  84 TE   gs15 Chad Lewis               rec 42-398/3
+  66 TE   gs 0 Jeff Thomason            rec 10-128/2
+  56 TE   gs 0 Mike Bartrum             rec 1-8/
+-- OL --
+  82 LT   gs 0 Jon Runyan               
+  82 LT   gs 0 Tra Thomas               
+  79 LG   gs 0 Jermane Mayberry         
+  75 LG   gs 0 Doug Brzezinski          
+  75 LG   gs 0 John Welbourn            
+  72 LT   gs 0 Artis Hicks              
+  70 LG   gs 0 Bobbie Williams          
+  70 C    gs 0 Hank Fraley              
+  70 C    gs 0 Scott Peters             
+-- DL --
+  82 EDGE gs 0 Hugh Douglas             
+  81 DT   gs 0 Paul Grasmanis           
+  78 EDGE gs 0 Ndukwe Kalu              
+  77 DT   gs 0 Darwin Walker            
+  72 EDGE gs 0 Brandon Whiting          
+  72 EDGE gs 0 Derrick Burgess          
+  71 DT   gs 0 Corey Simon              
+  71 DT   gs 0 Jeremy Slechta           
+-- CB --
+  82 CB   gs 0 Bobby Taylor             
+  82 CB   gs 0 Troy Vincent             
+  77 CB   gs 0 Al Harris                
+  72 CB   gs 0 Lito Sheppard            
+  72 CB   gs 0 Sheldon Brown            
+-- K --
+  70 K    gs 0 David Akers              rush 10/
+-- P --
+  76 P    gs 0 Lee Johnson              
+  63 P    gs 0 Sean Landeta             
+
+========== PIT (Pittsburgh Steelers) — 46 players ==========
+-- QB --
+  83 QB   gs12 Tommy Maddox             pass 2836/20td/16int  rush 43/
+  69 QB   gs 0 Charlie Batch            
+  65 QB   gs 0 Kordell Stewart          pass 1155/6td/6int  rush 191/2
+-- RB --
+  82 RB   gs16 Amos Zereoue             rush 762/4  rec 42-341/
+  81 RB   gs12 Jerome Bettis            rush 666/9  rec 7-57/
+  74 RB   gs13 Dan Kreider              rush 16/  rec 18-122/1
+  53 RB   gs 0 Chris Fuamatu-Ma'afala   rush 115/  rec 2-12/
+  53 RB   gs 0 Verron Haynes            rush 51/  rec 3-10/
+-- WR --
+  97 WR   gs16 Hines Ward               rush 142/  rec 112-1329/12
+  92 WR   gs16 Plaxico Burress          rec 78-1325/7
+  80 WR   gs16 Antwaan Randle El        pass 45/td/int  rush 134/  rec 47-489/2
+  71 WR   gs11 Terance Mathis           rec 23-218/2
+  67 WR   gs 0 Lee Mays                 
+-- TE --
+  72 TE   gs10 Mark Bruener             rec 13-66/1
+  71 TE   gs 9 Jerame Tuman             rec 4-63/1
+  63 TE   gs 0 Dan O'Leary              
+  59 TE   gs 0 John Allred              
+  59 TE   gs 0 Marco Battaglia          
+  55 TE   gs 0 Matt Cushing             rec 1-4/
+-- OL --
+  82 LT   gs 0 Wayne Gandy              
+  79 LG   gs 0 Alan Faneca              
+  79 C    gs 0 Jeff Hartings            
+  75 C    gs 0 Mike Schneck             
+  75 LG   gs 0 Oliver Ross              
+  72 LT   gs 0 Marvel Smith             
+  72 LT   gs 0 Mathias Nkwenti          
+  70 C    gs 0 Chukky Okobi             
+  70 LG   gs 0 Keydrick Vincent         
+  65 LG   gs 0 Kendall Simmons          
+-- DL --
+  82 EDGE gs 0 Kimo Von Oelhoffen       
+  78 EDGE gs 0 Aaron Smith              
+  74 DT   gs 0 Casey Hampton            
+  74 DT   gs 0 Chris Hoke               
+  74 DT   gs 0 Kendrick Clancy          
+  72 EDGE gs 0 Brett Keisel             
+  72 EDGE gs 0 Rodney Bailey            
+-- LB --
+  80 LB   gs 0 James Harrison           
+-- CB --
+  82 CB   gs 0 Chad Scott               
+  82 CB   gs 0 DeWayne Washington       
+  77 CB   gs 0 Deshea Townsend          
+  72 CB   gs 0 Chidi Iwuoma             
+  72 CB   gs 0 Hank Poteat              
+-- S --
+  80 S    gs 0 Erik Totten              
+-- K --
+  77 K    gs 0 Todd Peterson            
+  68 K    gs 0 Jeff Reed                
+-- P --
+  77 P    gs 0 Josh Miller              
+
+========== SEA (Seattle Seahawks) — 47 players ==========
+-- QB --
+  84 QB   gs13 Matt Hasselbeck          pass 3075/15td/10int  rush 202/1
+  69 QB   gs 0 Jeff George              
+  63 QB   gs 0 Jeff Kelly               
+  61 QB   gs 0 Trent Dilfer             pass 1182/4td/6int  rush 27/
+-- RB --
+  93 RB   gs16 Shaun Alexander          rush 1175/16  rec 59-460/2
+  75 RB   gs14 Mack Strong              rush 94/  rec 22-120/2
+  68 RB   gs 8 Heath Evans              rush 53/  rec 8-41/
+  53 RB   gs 0 Maurice Morris           rush 153/  rec 3-25/
+-- WR --
+  90 WR   gs16 Koren Robinson           rush 56/  rec 78-1240/5
+  84 WR   gs13 Darrell Jackson          rush 3/  rec 62-877/4
+  82 WR   gs15 Bobby Engram             rec 50-619/
+  68 WR   gs 8 James Williams           rec 9-99/
+  63 WR   gs 0 Alex Bannister           
+  62 WR   gs 0 Kevin Kasper             rush 19/  rec 15-180/3
+-- TE --
+  84 TE   gs15 Itula Mili               rec 43-508/2
+  75 TE   gs11 Jerramy Stevens          rec 26-252/3
+  56 TE   gs 0 Ryan Hannam              rec 1-16/1
+-- OL --
+  82 LT   gs 0 Walter Jones             
+  79 LG   gs 0 Chris Gray               
+  79 C    gs 0 Robbie Tobeck            
+  77 LT   gs 0 Chris Terry              
+  77 LT   gs 0 Jerry Wunsch             
+  72 LT   gs 0 Dennis Norman            
+  72 LT   gs 0 Floyd Womack             
+  70 LG   gs 0 Floyd Wedderburn         
+  70 C    gs 0 J.P. Darche              
+  65 LG   gs 0 Konrad Dean              
+  65 LG   gs 0 Steve Hutchinson         
+  61 LT   gs 0 Matt Hill                
+-- DL --
+  93 DT   gs 0 John Randle              
+  82 EDGE gs 0 Brandon Mitchell         
+  78 EDGE gs 0 Antonio Cochran          
+  77 DT   gs 0 Chad Eaton               
+  72 EDGE gs 0 Anton Palepoi            
+  72 EDGE gs 0 Lamar King               
+  71 DT   gs 0 Cedric Woodard           
+  71 DT   gs 0 Norris McCleary          
+  65 DT   gs 0 John Hilliard            
+  61 DT   gs 0 Rocky Bernard            
+-- CB --
+  82 CB   gs 0 Doug Evans               
+  82 CB   gs 0 Willie Williams          
+  77 CB   gs 0 Shawn Springs            
+  72 CB   gs 0 Ken Lucas                
+  72 CB   gs 0 Kris Richard             
+-- S --
+  81 S    gs 0 Walter Bernard           
+-- K --
+  77 K    gs 0 Rian Lindell             
+-- P --
+  71 P    gs 0 Jeff Feagles             rush -23/
+
+========== SF (San Francisco 49ers) — 46 players ==========
+-- QB --
+  87 QB   gs16 Jeff Garcia              pass 3344/21td/10int  rush 353/3
+  69 QB   gs 0 Brandon Doman            
+  66 QB   gs 0 Tim Rattay               pass 232/2td/int
+-- RB --
+  87 RB   gs16 Garrison Hearst          rush 972/8  rec 48-317/1
+  80 RB   gs14 Kevan Barlow             rush 675/4  rec 14-136/1
+  76 RB   gs15 Fred Beasley             rush 75/  rec 22-152/1
+  63 RB   gs 0 Jamal Robertson          
+  63 RB   gs 0 Terry Jackson            
+  52 RB   gs 0 Paul Smith               rush 90/  rec 5-33/
+-- WR --
+  96 WR   gs14 Terrell Owens            rush 79/1  rec 100-1300/13
+  85 WR   gs15 Tai Streets              rec 72-756/5
+  77 WR   gs12 J.J. Stokes              rec 32-332/1
+  72 WR   gs 0 Vinny Sutherland         
+  69 WR   gs 9 Cedrick Wilson           rec 15-166/1
+-- TE --
+  81 TE   gs12 Eric Johnson             rec 36-321/
+  71 TE   gs 8 Justin Swift             rec 10-63/
+  67 TE   gs 0 Brian Jennings           
+-- OL --
+  82 LT   gs 0 Derrick Deese            
+  82 LT   gs 0 Matt Willig              
+  79 LG   gs 0 Ron Stone                
+  77 LT   gs 0 Scott Gragg              
+  75 LG   gs 0 Dave Fiore               
+  72 LT   gs 0 Jerome Davis             
+  70 C    gs 0 Ben Lynch                
+  70 LG   gs 0 Craig Osika              
+  70 C    gs 0 Jeremy Newberry          
+  66 LT   gs 0 Kyle Kosier              
+  65 LG   gs 0 Eric Heitmann            
+-- DL --
+  82 EDGE gs 0 Sean Moran               
+  81 DT   gs 0 Dana Stubblefield        
+  78 EDGE gs 0 Chike Okeafor            
+  77 DT   gs 0 Jim Flanigan             
+  72 EDGE gs 0 Andre Carter             
+  72 EDGE gs 0 John Engelberger         
+  71 DT   gs 0 Bryant Young             
+  71 DT   gs 0 Ross Kolodziej           
+  65 DT   gs 0 Josh Shaw                
+-- LB --
+  80 LB   gs 0 Cornelius Anthony        
+-- CB --
+  82 CB   gs 0 Ahmed Plummer            
+  82 CB   gs 0 Duane Hawthorne          
+  78 CB   gs 0 Jason Webster            
+  72 CB   gs 0 Mike Rumph               
+  72 CB   gs 0 Rashad Holman            
+  62 CB   gs 0 Jimmy Williams           
+-- K --
+  77 K    gs 0 Jeff Chandler            
+-- P --
+  77 P    gs 0 Bill LaFleur             
+
+========== TB (Tampa Bay Buccaneers) — 51 players ==========
+-- QB --
+  86 QB   gs13 Brad Johnson             pass 3049/22td/6int  rush 30/
+  62 QB   gs 0 Rob Johnson              pass 536/1td/2int  rush 73/
+  55 QB   gs 0 Shaun King               pass 80/td/1int  rush 25/
+-- RB --
+  81 RB   gs16 Michael Pittman          rush 718/1  rec 59-477/
+  81 RB   gs16 Mike Alstott             rush 548/5  rec 35-242/2
+  74 RB   gs12 Aaron Stecker            rush 174/  rec 13-69/
+  63 RB   gs 0 Darian Barnes            
+  53 RB   gs 0 Jameel Cook              rec 4-43/
+  50 RB   gs 0 Travis Stephens          rec 1-6/
+-- WR --
+  89 WR   gs16 Keyshawn Johnson         rec 76-1088/5
+  84 WR   gs14 Keenan McCardell         rush 3/  rec 61-670/6
+  79 WR   gs13 Joe Jurevicius           rec 37-423/4
+  69 WR   gs 8 Karl Williams            rush -5/  rec 7-77/1
+  67 WR   gs 0 Charles Lee              
+  67 WR   gs 0 Marquise Walker          
+  59 WR   gs 0 Reggie Barlow            rec 3-23/
+-- TE --
+  81 TE   gs14 Ken Dilger               rec 34-329/2
+  79 TE   gs13 Rickey Dudley            rec 16-192/3
+  63 TE   gs 0 Casey Crawford           
+  63 TE   gs 0 Daniel Wilcox            
+  56 TE   gs 0 Todd Yoder               rec 2-26/
+-- OL --
+  82 LT   gs 0 Lomas Brown              
+  82 LT   gs 0 Roman Oben               
+  80 C    gs 0 Jeff Christy             
+  75 LG   gs 0 Kerry Jenkins            
+  75 LG   gs 0 Todd Washington          
+  72 LT   gs 0 Cornell Green            
+  70 LG   gs 0 Cosey Coleman            
+  70 LG   gs 0 Dan Goodspeed            
+  70 C    gs 0 Mike Solwold             
+  65 LG   gs 0 Russ Hochstein           
+  65 C    gs 0 Ryan Benjamin            
+  61 LT   gs 0 Kenyatta Walker          
+-- DL --
+  82 EDGE gs 0 Simeon Rice              
+  81 DT   gs 0 Warren Sapp              
+  78 EDGE gs 0 Greg Spires              
+  77 DT   gs 0 Chuck Darby              
+  72 EDGE gs 0 Corey Smith              
+  72 EDGE gs 0 Ellis Wyms               
+  71 DT   gs 0 Anthony McFarland        
+  71 DT   gs 0 Buck Gurley              
+  65 DT   gs 0 Devone Claybrooks        
+-- LB --
+  81 LB   gs 0 Ron Warner               
+  80 LB   gs 0 Justin Smith             
+-- CB --
+  82 CB   gs 0 Brian Kelly              
+  82 CB   gs 0 Ronde Barber             
+  78 CB   gs 0 Corey Ivy                
+  72 CB   gs 0 Dwight Smith             
+  72 CB   gs 0 Tim Wansley              
+-- K --
+  78 K    gs 0 Martin Gramatica         
+-- P --
+  71 P    gs 0 Tom Tupa                 rush -9/
+
+========== TEN (Tennessee Titans) — 45 players ==========
+-- QB --
+  87 QB   gs16 Steve McNair             pass 3387/22td/15int  rush 440/3
+  69 QB   gs 0 Billy Volek              
+  60 QB   gs 0 Neil O'Donnell           pass 24/td/int  rush -3/
+-- RB --
+  90 RB   gs16 Eddie George             rush 1165/12  rec 36-255/2
+  69 RB   gs 9 John Simon               rush 18/1  rec 16-167/3
+  69 RB   gs10 Mike Green               rush 71/  rec 7-57/1
+  69 RB   gs 8 Robert Holcombe          rush 242/  rec 10-91/
+  56 RB   gs 0 Greg Comella             rec 10-70/
+-- WR --
+  88 WR   gs14 Derrick Mason            rec 79-1012/5
+  79 WR   gs15 Drew Bennett             rec 33-478/2
+  77 WR   gs14 Justin McCareins         rush 18/  rec 19-301/2
+  75 WR   gs11 Kevin Dyson              rush -4/  rec 41-460/4
+  67 WR   gs 0 Chris Sanders            
+  67 WR   gs 0 Darrell Hill             
+  59 WR   gs 0 Eddie Berlin             rec 1-14/
+-- TE --
+  82 TE   gs14 Frank Wycheck            pass 13/td/int  rec 40-346/2
+  72 TE   gs 9 Erron Kinney             rec 13-173/
+  57 TE   gs 0 Shad Meier               rec 1-17/1
+-- OL --
+  82 LT   gs 0 Brad Hopkins             
+  82 LT   gs 0 Jason Mathews            
+  80 LG   gs 0 Tom Ackerman             
+  77 LT   gs 0 Fred Miller              
+  75 C    gs 0 Aaron Graham             
+  72 LT   gs 0 Matt Martin              
+  70 LG   gs 0 Benji Olson              
+  70 C    gs 0 Gennaro DiNapoli         
+  70 LG   gs 0 Zach Piller              
+  65 LG   gs 0 Justin Hartwig           
+-- DL --
+  83 EDGE gs 0 Kevin Carter             
+  81 DT   gs 0 Henry Ford               
+  78 EDGE gs 0 Jevon Kearse             
+  77 DT   gs 0 John Thornton            
+  73 EDGE gs 0 Juqua Parker             
+  72 EDGE gs 0 Carlos Hall              
+  71 DT   gs 0 Albert Haynesworth       
+  71 DT   gs 0 Robaire Smith            
+-- LB --
+  81 LB   gs 0 Brad Kassell             
+-- CB --
+  82 CB   gs 0 Dainon Sidney            
+  82 CB   gs 0 Samari Rolle             
+  78 CB   gs 0 Donald Mitchell          
+  72 CB   gs 0 Andre Dyson              
+  72 CB   gs 0 Mike Echols              
+  66 CB   gs 0 Tony Beckham             
+-- K --
+  78 K    gs 0 Joe Nedney               
+-- P --
+  71 P    gs 0 Craig Hentrich           pass 17/td/int  rush 5/
+
+========== WAS (Washington Commanders) — 51 players ==========
+-- QB --
+  71 QB   gs 9 Patrick Ramsey           pass 1539/9td/8int  rush -1/1
+  62 QB   gs 0 Shane Matthews           pass 1251/11td/6int  rush 31/  rec 1--13/
+  56 QB   gs 0 Danny Wuerffel           pass 719/3td/6int  rush 76/
+-- RB --
+  82 RB   gs12 Stephen Davis            rush 820/7  rec 23-142/1
+  79 RB   gs15 Kenny Watson             rush 534/1  rec 32-253/1
+  72 RB   gs 9 Bryan Johnson            rec 15-114/
+  70 RB   gs10 Ladell Betts             rush 307/1  rec 12-154/
+  63 RB   gs 0 Robert Gillespie         
+  54 RB   gs 0 Rock Cartwright          rush 22/  rec 11-121/1
+-- WR --
+  89 WR   gs16 Rod Gardner              rush 1/  rec 71-1006/8
+  83 WR   gs15 Derrius Thompson         rush 77/  rec 53-773/4
+  76 WR   gs14 Chris Doering            rec 18-192/2
+  76 WR   gs12 Kevin Lockett            pass 14/1td/int  rec 16-205/4
+  70 WR   gs 8 Darnerien McCants        rush 9/  rec 21-256/2
+  68 WR   gs10 Jacquez Green            rush 9/  rec 5-94/
+  67 WR   gs 0 Justin Skaggs            
+  62 WR   gs 0 Richmond Flowers         
+-- TE --
+  73 TE   gs11 Zeron Flemister          rec 10-146/2
+  71 TE   gs 9 Walter Rasby             rec 9-85/
+  57 TE   gs 0 Leonard Stephens         rec 1-13/
+-- OL --
+  80 C    gs 0 Ethan Albright           
+  80 LG   gs 0 Kipp Vickers             
+  80 LG   gs 0 Tre Johnson              
+  75 LG   gs 0 Brenden Stai             
+  75 C    gs 0 Larry Moore              
+  72 LT   gs 0 Jon Jansen               
+  70 LG   gs 0 David Loverne            
+  70 C    gs 0 Pat Downey               
+  70 C    gs 0 Wilbert Brown            
+  66 LT   gs 0 Chris Samuels            
+  65 LG   gs 0 Ross Tucker              
+  61 LT   gs 0 Alex Sulfsted            
+-- DL --
+  97 EDGE gs 0 Bruce Smith              
+  81 DT   gs 0 Dan Wilkinson            
+  78 EDGE gs 0 Carl Powell              
+  77 DT   gs 0 Daryl Gardener           
+  73 EDGE gs 0 LaDairis Jackson         
+  73 EDGE gs 0 Renaldo Wynn             
+  71 DT   gs 0 Delbert Cowsette         
+  66 EDGE gs 0 Bernard Jackson          
+  61 EDGE gs 0 Greg Scott               
+-- CB --
+  83 CB   gs 0 Darrell Green            
+  83 CB   gs 0 Todd Franz               
+  73 CB   gs 0 Champ Bailey             rush 4/
+  72 CB   gs 0 Fred Smoot               
+  72 CB   gs 0 Rashad Bauman            
+-- S --
+  81 S    gs 0 Bruce Branch             
+  74 S    gs 0 Ricot Joseph             
+-- K --
+  78 K    gs 0 Jose Cortez              
+-- P --
+  77 P    gs 0 Bryan Barker             
+  67 P    gs 0 Craig Jarrett            

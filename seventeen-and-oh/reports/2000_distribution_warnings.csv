@@ -1,0 +1,8 @@
+team_code,team_name,season,rule,severity,detail
+CIN,Cincinnati Bengals,2000,starter_rated_like_backup,WARN,1 recorded starter(s) rated <=68: Ron Dugans 68
+DET,Detroit Lions,2000,playoff_team_no_85,WARN,playoff-class team (9-7) tops out at 84 (<85)
+DET,Detroit Lions,2000,starter_rated_like_backup,WARN,1 recorded starter(s) rated <=68: Brian Stablein 68
+LAC,San Diego Chargers,2000,starter_rated_like_backup,WARN,"2 recorded starter(s) rated <=68: Ryan Leaf 68, Trevor Gaylor 68"
+PIT,Pittsburgh Steelers,2000,playoff_team_no_85,WARN,playoff-class team (9-7) tops out at 84 (<85)
+SF,San Francisco 49ers,2000,starter_rated_like_backup,WARN,1 recorded starter(s) rated <=68: Paul Smith 68
+TEN,Tennessee Titans,2000,sb_team_no_90,WARN,SB-class team (13-3) tops out at 88 (<90)

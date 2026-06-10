@@ -961,100 +961,100 @@ season,team_code,team_name,wins,losses,ties,team_strength,rating_source,rating_c
 1999,TB,Tampa Bay Buccaneers,11,5,0,86,generated,0.55,,nflverse import
 1999,TEN,Tennessee Titans,13,3,0,90,generated,0.55,,nflverse import
 1999,WAS,Washington Redskins,10,6,0,82,generated,0.55,,nflverse import
-2000,ARI,Arizona Cardinals,,,,70,generated,0.55,,nflverse import
-2000,ATL,Atlanta Falcons,,,,70,generated,0.55,,nflverse import
+2000,ARI,Arizona Cardinals,3,13,0,63,generated,0.55,,nflverse import
+2000,ATL,Atlanta Falcons,4,12,0,66,generated,0.55,,nflverse import
 2000,BAL,Baltimore Ravens,12,4,0,93,generated,0.6,,Record-setting defense. Migrated from legacy demo data.
-2000,BUF,Buffalo Bills,,,,70,generated,0.55,,nflverse import
-2000,CAR,Carolina Panthers,,,,70,generated,0.55,,nflverse import
-2000,CHI,Chicago Bears,,,,70,generated,0.55,,nflverse import
-2000,CIN,Cincinnati Bengals,,,,70,generated,0.55,,nflverse import
-2000,CLE,Cleveland Browns,,,,70,generated,0.55,,nflverse import
-2000,DAL,Dallas Cowboys,,,,70,generated,0.55,,nflverse import
-2000,DEN,Denver Broncos,,,,70,generated,0.55,,nflverse import
-2000,DET,Detroit Lions,,,,70,generated,0.55,,nflverse import
-2000,GB,Green Bay Packers,,,,70,generated,0.55,,nflverse import
-2000,IND,Indianapolis Colts,,,,70,generated,0.55,,nflverse import
-2000,JAX,Jacksonville Jaguars,,,,70,generated,0.55,,nflverse import
-2000,KC,Kansas City Chiefs,,,,70,generated,0.55,,nflverse import
-2000,LAC,Los Angeles Chargers,,,,70,generated,0.55,,nflverse import
-2000,LV,Las Vegas Raiders,,,,70,generated,0.55,,nflverse import
-2000,MIA,Miami Dolphins,,,,70,generated,0.55,,nflverse import
-2000,MIN,Minnesota Vikings,,,,70,generated,0.55,,nflverse import
-2000,NE,New England Patriots,,,,70,generated,0.55,,nflverse import
-2000,NO,New Orleans Saints,,,,70,generated,0.55,,nflverse import
-2000,NYG,New York Giants,,,,70,generated,0.55,,nflverse import
-2000,NYJ,New York Jets,,,,70,generated,0.55,,nflverse import
-2000,PHI,Philadelphia Eagles,,,,70,generated,0.55,,nflverse import
-2000,PIT,Pittsburgh Steelers,,,,70,generated,0.55,,nflverse import
-2000,SEA,Seattle Seahawks,,,,70,generated,0.55,,nflverse import
-2000,SF,San Francisco 49ers,,,,70,generated,0.55,,nflverse import
-2000,LAR,Los Angeles Rams,,,,70,generated,0.55,,nflverse import
-2000,TB,Tampa Bay Buccaneers,,,,70,generated,0.55,,nflverse import
-2000,TEN,Tennessee Titans,,,,70,generated,0.55,,nflverse import
-2000,WAS,Washington Commanders,,,,70,generated,0.55,,nflverse import
-2001,ARI,Arizona Cardinals,,,,70,generated,0.55,,nflverse import
-2001,ATL,Atlanta Falcons,,,,70,generated,0.55,,nflverse import
-2001,BAL,Baltimore Ravens,,,,70,generated,0.55,,nflverse import
-2001,BUF,Buffalo Bills,,,,70,generated,0.55,,nflverse import
-2001,CAR,Carolina Panthers,,,,70,generated,0.55,,nflverse import
-2001,CHI,Chicago Bears,,,,70,generated,0.55,,nflverse import
-2001,CIN,Cincinnati Bengals,,,,70,generated,0.55,,nflverse import
-2001,CLE,Cleveland Browns,,,,70,generated,0.55,,nflverse import
-2001,DAL,Dallas Cowboys,,,,70,generated,0.55,,nflverse import
-2001,DEN,Denver Broncos,,,,70,generated,0.55,,nflverse import
-2001,DET,Detroit Lions,,,,70,generated,0.55,,nflverse import
-2001,GB,Green Bay Packers,,,,70,generated,0.55,,nflverse import
-2001,IND,Indianapolis Colts,,,,70,generated,0.55,,nflverse import
-2001,JAX,Jacksonville Jaguars,,,,70,generated,0.55,,nflverse import
-2001,KC,Kansas City Chiefs,,,,70,generated,0.55,,nflverse import
-2001,LAC,Los Angeles Chargers,,,,70,generated,0.55,,nflverse import
-2001,LV,Las Vegas Raiders,,,,70,generated,0.55,,nflverse import
-2001,MIA,Miami Dolphins,,,,70,generated,0.55,,nflverse import
-2001,MIN,Minnesota Vikings,,,,70,generated,0.55,,nflverse import
-2001,NE,New England Patriots,,,,70,generated,0.55,,nflverse import
-2001,NO,New Orleans Saints,,,,70,generated,0.55,,nflverse import
-2001,NYG,New York Giants,,,,70,generated,0.55,,nflverse import
-2001,NYJ,New York Jets,,,,70,generated,0.55,,nflverse import
-2001,PHI,Philadelphia Eagles,,,,70,generated,0.55,,nflverse import
-2001,PIT,Pittsburgh Steelers,,,,70,generated,0.55,,nflverse import
-2001,SEA,Seattle Seahawks,,,,70,generated,0.55,,nflverse import
-2001,SF,San Francisco 49ers,,,,70,generated,0.55,,nflverse import
-2001,LAR,Los Angeles Rams,,,,70,generated,0.55,,nflverse import
-2001,TB,Tampa Bay Buccaneers,,,,70,generated,0.55,,nflverse import
-2001,TEN,Tennessee Titans,,,,70,generated,0.55,,nflverse import
-2001,WAS,Washington Commanders,,,,70,generated,0.55,,nflverse import
-2002,ARI,Arizona Cardinals,,,,70,generated,0.55,,nflverse import
-2002,ATL,Atlanta Falcons,,,,70,generated,0.55,,nflverse import
-2002,BAL,Baltimore Ravens,,,,70,generated,0.55,,nflverse import
-2002,BUF,Buffalo Bills,,,,70,generated,0.55,,nflverse import
-2002,CAR,Carolina Panthers,,,,70,generated,0.55,,nflverse import
-2002,CHI,Chicago Bears,,,,70,generated,0.55,,nflverse import
-2002,CIN,Cincinnati Bengals,,,,70,generated,0.55,,nflverse import
-2002,CLE,Cleveland Browns,,,,70,generated,0.55,,nflverse import
-2002,DAL,Dallas Cowboys,,,,70,generated,0.55,,nflverse import
-2002,DEN,Denver Broncos,,,,70,generated,0.55,,nflverse import
-2002,DET,Detroit Lions,,,,70,generated,0.55,,nflverse import
-2002,GB,Green Bay Packers,,,,70,generated,0.55,,nflverse import
-2002,HOU,Houston Texans,,,,70,generated,0.55,,nflverse import
-2002,IND,Indianapolis Colts,,,,70,generated,0.55,,nflverse import
-2002,JAX,Jacksonville Jaguars,,,,70,generated,0.55,,nflverse import
-2002,KC,Kansas City Chiefs,,,,70,generated,0.55,,nflverse import
-2002,LAC,Los Angeles Chargers,,,,70,generated,0.55,,nflverse import
-2002,LV,Las Vegas Raiders,,,,70,generated,0.55,,nflverse import
-2002,MIA,Miami Dolphins,,,,70,generated,0.55,,nflverse import
-2002,MIN,Minnesota Vikings,,,,70,generated,0.55,,nflverse import
-2002,NE,New England Patriots,,,,70,generated,0.55,,nflverse import
-2002,NO,New Orleans Saints,,,,70,generated,0.55,,nflverse import
-2002,NYG,New York Giants,,,,70,generated,0.55,,nflverse import
-2002,NYJ,New York Jets,,,,70,generated,0.55,,nflverse import
-2002,PHI,Philadelphia Eagles,,,,70,generated,0.55,,nflverse import
-2002,PIT,Pittsburgh Steelers,,,,70,generated,0.55,,nflverse import
-2002,SEA,Seattle Seahawks,,,,70,generated,0.55,,nflverse import
-2002,SF,San Francisco 49ers,,,,70,generated,0.55,,nflverse import
-2002,LAR,Los Angeles Rams,,,,70,generated,0.55,,nflverse import
-2002,TB,Tampa Bay Buccaneers,,,,70,generated,0.55,,nflverse import
-2002,TEN,Tennessee Titans,,,,70,generated,0.55,,nflverse import
-2002,WAS,Washington Commanders,,,,70,generated,0.55,,nflverse import
+2000,BUF,Buffalo Bills,8,8,0,76,generated,0.55,,nflverse import
+2000,CAR,Carolina Panthers,7,9,0,73,generated,0.55,,nflverse import
+2000,CHI,Chicago Bears,5,11,0,67,generated,0.55,,nflverse import
+2000,CIN,Cincinnati Bengals,4,12,0,65,generated,0.55,,nflverse import
+2000,CLE,Cleveland Browns,3,13,0,62,generated,0.55,,nflverse import
+2000,DAL,Dallas Cowboys,5,11,0,70,generated,0.55,,nflverse import
+2000,DEN,Denver Broncos,11,5,0,83,generated,0.55,,nflverse import
+2000,DET,Detroit Lions,9,7,0,76,generated,0.55,,nflverse import
+2000,GB,Green Bay Packers,9,7,0,78,generated,0.55,,nflverse import
+2000,IND,Indianapolis Colts,10,6,0,83,generated,0.55,,nflverse import
+2000,JAX,Jacksonville Jaguars,7,9,0,76,generated,0.55,,nflverse import
+2000,KC,Kansas City Chiefs,7,9,0,75,generated,0.55,,nflverse import
+2000,LAC,San Diego Chargers,1,15,0,58,generated,0.55,,nflverse import
+2000,LV,Oakland Raiders,12,4,0,88,generated,0.55,,nflverse import
+2000,MIA,Miami Dolphins,11,5,0,83,generated,0.55,,nflverse import
+2000,MIN,Minnesota Vikings,11,5,0,85,generated,0.55,,nflverse import
+2000,NE,New England Patriots,5,11,0,69,generated,0.55,,nflverse import
+2000,NO,New Orleans Saints,10,6,0,82,generated,0.55,,nflverse import
+2000,NYG,New York Giants,12,4,0,87,generated,0.55,,nflverse import
+2000,NYJ,New York Jets,9,7,0,79,generated,0.55,,nflverse import
+2000,PHI,Philadelphia Eagles,11,5,0,83,generated,0.55,,nflverse import
+2000,PIT,Pittsburgh Steelers,9,7,0,78,generated,0.55,,nflverse import
+2000,SEA,Seattle Seahawks,6,10,0,72,generated,0.55,,nflverse import
+2000,SF,San Francisco 49ers,6,10,0,71,generated,0.55,,nflverse import
+2000,LAR,St. Louis Rams,10,6,0,85,generated,0.55,,nflverse import
+2000,TB,Tampa Bay Buccaneers,10,6,0,84,generated,0.55,,nflverse import
+2000,TEN,Tennessee Titans,13,3,0,90,generated,0.55,,nflverse import
+2000,WAS,Washington Redskins,8,8,0,78,generated,0.55,,nflverse import
+2001,ARI,Arizona Cardinals,7,9,0,65,generated,0.55,,nflverse import
+2001,ATL,Atlanta Falcons,7,9,0,67,generated,0.55,,nflverse import
+2001,BAL,Baltimore Ravens,10,6,0,86,generated,0.55,,nflverse import
+2001,BUF,Buffalo Bills,3,13,0,61,generated,0.55,,nflverse import
+2001,CAR,Carolina Panthers,1,15,0,56,generated,0.55,,nflverse import
+2001,CHI,Chicago Bears,13,3,0,86,generated,0.55,,nflverse import
+2001,CIN,Cincinnati Bengals,6,10,0,64,generated,0.55,,nflverse import
+2001,CLE,Cleveland Browns,7,9,0,68,generated,0.55,,nflverse import
+2001,DAL,Dallas Cowboys,5,11,0,65,generated,0.55,,nflverse import
+2001,DEN,Denver Broncos,8,8,0,78,generated,0.55,,nflverse import
+2001,DET,Detroit Lions,2,14,0,58,generated,0.55,,nflverse import
+2001,GB,Green Bay Packers,12,4,0,85,generated,0.55,,nflverse import
+2001,IND,Indianapolis Colts,6,10,0,75,generated,0.55,,nflverse import
+2001,JAX,Jacksonville Jaguars,6,10,0,69,generated,0.55,,nflverse import
+2001,KC,Kansas City Chiefs,6,10,0,69,generated,0.55,,nflverse import
+2001,LAC,San Diego Chargers,5,11,0,64,generated,0.55,,nflverse import
+2001,LV,Oakland Raiders,10,6,0,85,generated,0.55,,nflverse import
+2001,MIA,Miami Dolphins,11,5,0,83,generated,0.55,,nflverse import
+2001,MIN,Minnesota Vikings,5,11,0,68,generated,0.55,,nflverse import
+2001,NE,New England Patriots,11,5,0,86,generated,0.55,,nflverse import
+2001,NO,New Orleans Saints,7,9,0,73,generated,0.55,,nflverse import
+2001,NYG,New York Giants,7,9,0,73,generated,0.55,,nflverse import
+2001,NYJ,New York Jets,10,6,0,80,generated,0.55,,nflverse import
+2001,PHI,Philadelphia Eagles,11,5,0,85,generated,0.55,,nflverse import
+2001,PIT,Pittsburgh Steelers,13,3,0,90,generated,0.55,,nflverse import
+2001,SEA,Seattle Seahawks,9,7,0,75,generated,0.55,,nflverse import
+2001,SF,San Francisco 49ers,12,4,0,84,generated,0.55,,nflverse import
+2001,LAR,St. Louis Rams,14,2,0,93,generated,0.55,,nflverse import
+2001,TB,Tampa Bay Buccaneers,9,7,0,83,generated,0.55,,nflverse import
+2001,TEN,Tennessee Titans,7,9,0,73,generated,0.55,,nflverse import
+2001,WAS,Washington Redskins,8,8,0,73,generated,0.55,,nflverse import
+2002,ARI,Arizona Cardinals,5,11,0,64,generated,0.55,,nflverse import
+2002,ATL,Atlanta Falcons,9,6,1,81,generated,0.55,,nflverse import
+2002,BAL,Baltimore Ravens,7,9,0,73,generated,0.55,,nflverse import
+2002,BUF,Buffalo Bills,8,8,0,76,generated,0.55,,nflverse import
+2002,CAR,Carolina Panthers,7,9,0,73,generated,0.55,,nflverse import
+2002,CHI,Chicago Bears,4,12,0,65,generated,0.55,,nflverse import
+2002,CIN,Cincinnati Bengals,2,14,0,56,generated,0.55,,nflverse import
+2002,CLE,Cleveland Browns,9,7,0,79,generated,0.55,,nflverse import
+2002,DAL,Dallas Cowboys,5,11,0,66,generated,0.55,,nflverse import
+2002,DEN,Denver Broncos,9,7,0,80,generated,0.55,,nflverse import
+2002,DET,Detroit Lions,3,13,0,60,generated,0.55,,nflverse import
+2002,GB,Green Bay Packers,12,4,0,88,generated,0.55,,nflverse import
+2002,HOU,Houston Texans,4,12,0,58,generated,0.55,,nflverse import
+2002,IND,Indianapolis Colts,10,6,0,82,generated,0.55,,nflverse import
+2002,JAX,Jacksonville Jaguars,6,10,0,70,generated,0.55,,nflverse import
+2002,KC,Kansas City Chiefs,8,8,0,78,generated,0.55,,nflverse import
+2002,LAC,San Diego Chargers,8,8,0,77,generated,0.55,,nflverse import
+2002,LV,Oakland Raiders,11,5,0,90,generated,0.55,,nflverse import
+2002,MIA,Miami Dolphins,9,7,0,81,generated,0.55,,nflverse import
+2002,MIN,Minnesota Vikings,6,10,0,72,generated,0.55,,nflverse import
+2002,NE,New England Patriots,9,7,0,80,generated,0.55,,nflverse import
+2002,NO,New Orleans Saints,9,7,0,78,generated,0.55,,nflverse import
+2002,NYG,New York Giants,10,6,0,82,generated,0.55,,nflverse import
+2002,NYJ,New York Jets,9,7,0,80,generated,0.55,,nflverse import
+2002,PHI,Philadelphia Eagles,12,4,0,89,generated,0.55,,nflverse import
+2002,PIT,Pittsburgh Steelers,10,5,1,85,generated,0.55,,nflverse import
+2002,SEA,Seattle Seahawks,7,9,0,72,generated,0.55,,nflverse import
+2002,SF,San Francisco 49ers,10,6,0,83,generated,0.55,,nflverse import
+2002,LAR,St. Louis Rams,7,9,0,78,generated,0.55,,nflverse import
+2002,TB,Tampa Bay Buccaneers,12,4,0,92,generated,0.55,,nflverse import
+2002,TEN,Tennessee Titans,11,5,0,87,generated,0.55,,nflverse import
+2002,WAS,Washington Redskins,7,9,0,71,generated,0.55,,nflverse import
 2003,ARI,Arizona Cardinals,,,,70,generated,0.55,,nflverse import
 2003,ATL,Atlanta Falcons,,,,70,generated,0.55,,nflverse import
 2003,BAL,Baltimore Ravens,,,,70,generated,0.55,,nflverse import
