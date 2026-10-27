@@ -1,0 +1,33 @@
+team_code,team_name,season,total_players,qbs,rbs,wrs,tes,offensive_linemen,defensive_linemen,linebackers,cornerbacks,safeties,kickers,punters,missing_position_groups,roster_status
+ARI,Arizona Cardinals,2004,46,3,6,6,2,10,9,1,4,3,1,1,none,ok
+ATL,Atlanta Falcons,2004,49,3,8,5,3,11,10,0,5,2,1,1,lb,incomplete (missing lb)
+BAL,Baltimore Ravens,2004,45,3,8,5,4,10,7,0,5,0,2,1,lb/s,incomplete (missing lb/s)
+BUF,Buffalo Bills,2004,45,3,5,5,6,10,9,0,5,0,1,1,lb/s,incomplete (missing lb/s)
+CAR,Carolina Panthers,2004,50,4,9,5,3,10,9,1,5,1,2,1,none,ok
+CHI,Chicago Bears,2004,49,5,5,4,3,11,10,2,5,2,1,1,none,ok
+CIN,Cincinnati Bengals,2004,51,3,5,7,4,11,10,1,8,0,1,1,s,incomplete (missing s)
+CLE,Cleveland Browns,2004,52,4,4,6,5,14,11,1,5,0,1,1,s,incomplete (missing s)
+DAL,Dallas Cowboys,2004,50,3,6,7,5,10,9,1,5,2,1,1,none,ok
+DEN,Denver Broncos,2004,47,3,7,6,4,10,10,0,6,0,1,0,lb/s,incomplete (missing lb/s)
+DET,Detroit Lions,2004,48,3,7,8,3,11,8,0,5,1,1,1,lb,incomplete (missing lb)
+GB,Green Bay Packers,2004,50,3,6,6,4,11,9,1,7,0,1,2,s,incomplete (missing s)
+HOU,Houston Texans,2004,45,3,5,6,3,12,6,2,5,1,1,1,none,ok
+IND,Indianapolis Colts,2004,45,3,4,6,3,9,9,1,6,1,1,2,none,ok
+JAX,Jacksonville Jaguars,2004,48,3,6,5,5,11,10,0,6,0,1,1,lb/s,incomplete (missing lb/s)
+KC,Kansas City Chiefs,2004,46,3,5,6,4,10,9,1,5,1,1,1,none,ok
+LAC,San Diego Chargers,2004,49,4,5,9,4,11,9,0,4,1,1,1,lb,incomplete (missing lb)
+LAR,St. Louis Rams,2004,46,4,7,6,2,10,9,1,5,0,1,1,s,incomplete (missing s)
+LV,Oakland Raiders,2004,48,4,6,8,4,9,9,0,5,1,1,1,lb,incomplete (missing lb)
+MIA,Miami Dolphins,2004,49,3,8,6,3,9,10,1,5,2,1,1,none,ok
+MIN,Minnesota Vikings,2004,48,3,5,5,5,12,8,0,7,0,2,1,lb/s,incomplete (missing lb/s)
+NE,New England Patriots,2004,46,3,5,7,4,11,7,1,6,0,1,1,s,incomplete (missing s)
+NO,New Orleans Saints,2004,43,3,4,6,4,9,10,0,5,0,1,1,lb/s,incomplete (missing lb/s)
+NYG,New York Giants,2004,53,3,5,7,3,11,13,3,5,1,1,1,none,ok
+NYJ,New York Jets,2004,43,4,4,5,3,9,10,0,5,1,1,1,lb,incomplete (missing lb)
+PHI,Philadelphia Eagles,2004,47,3,7,5,4,10,10,1,5,0,1,1,s,incomplete (missing s)
+PIT,Pittsburgh Steelers,2004,44,3,6,5,4,10,7,0,6,1,1,1,lb,incomplete (missing lb)
+SEA,Seattle Seahawks,2004,48,3,5,8,3,10,9,1,4,2,1,2,none,ok
+SF,San Francisco 49ers,2004,48,4,5,7,4,10,9,0,5,2,1,1,lb,incomplete (missing lb)
+TB,Tampa Bay Buccaneers,2004,51,4,7,6,5,10,11,0,5,0,2,1,lb/s,incomplete (missing lb/s)
+TEN,Tennessee Titans,2004,49,3,4,6,3,11,10,2,6,1,2,1,none,ok
+WAS,Washington Redskins,2004,54,3,8,6,3,11,10,4,5,2,1,1,none,ok

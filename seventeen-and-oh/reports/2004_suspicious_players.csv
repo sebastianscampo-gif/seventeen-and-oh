@@ -1,0 +1,7 @@
+player_id,name,team_code,team_name,season,position,current_overall,issue,recommended_action
+00-0022180,Lee Suggs,CLE,Cleveland Browns,2004,RB,74,"production-implied floor 78, rated 74 (-4)",override to ~78 (744rY (lead back))
+00-0016193,Vinny Testaverde,DAL,Dallas Cowboys,2004,QB,81,"production-implied floor 84, rated 81 (-3)",override to ~84 (3518pY/17pTD)
+00-0016098,Fred Taylor,JAX,Jacksonville Jaguars,2004,RB,83,"production-implied floor 86, rated 83 (-3)",override to ~86 (1224rY/2rTD)
+00-0011754,Randy Moss,MIN,Minnesota Vikings,2004,WR,82,"production-implied floor 90, rated 82 (-8)",override to ~90 (767recY/13TD)
+00-0015523,Duce Staley,PIT,Pittsburgh Steelers,2004,RB,73,"production-implied floor 78, rated 73 (-5)",override to ~78 (830rY (lead back))
+00-0022092,Chris Brown,TEN,Tennessee Titans,2004,RB,79,"production-implied floor 83, rated 79 (-4)",override to ~83 (1067rY/6rTD)

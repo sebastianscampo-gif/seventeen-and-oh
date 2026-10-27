@@ -1,0 +1,1924 @@
+
+========== ARI (Arizona Cardinals) — 48 players ==========
+-- QB --
+  78 QB   gs13 Jeff Blake               pass 2252/13td/15int  rush 177/2
+  68 QB   gs ? Preston Parsons          
+  63 QB   gs ? Josh McCown              pass 1018/5td/6int  rush 164/1
+-- RB --
+  84 RB   gs16 Marcel Shipp             rush 830/0  rec 30-184/0
+  71 RB   gs10 Emmitt Smith             rush 256/2  rec 14-107/0
+  69 RB   gs11 Damien Anderson          rush 68/0  rec 6-36/0
+  69 RB   gs 9 James Hodgins            rush 6/0  rec 14-58/2
+  62 RB   gs ? Josh Rue                 
+  51 RB   gs ? Josh Scobey              rec 1-9/0
+-- WR --
+  95 WR   gs16 Anquan Boldin            rush 40/0  rec 101-1377/8
+  78 WR   gs13 Bryant Johnson           rec 35-438/1
+  71 WR   gs10 Bryan Gilmore            rec 17-213/2
+  63 WR   gs ? Nate Poole               rec 13-177/1
+  60 WR   gs ? Kevin Kasper             rush -4/0  rec 1-23/0
+  55 WR   gs ? Jason McAddley           rec 4-53/0
+-- TE --
+  87 TE   gs15 Freddie Jones            rec 55-517/3
+  67 TE   gs ? Mike Banks               
+  65 TE   gs ? Steve Bush               rec 11-71/1
+  62 TE   gs ? Lorenzo Diamond          
+-- OL --
+  79 LG   gs ? Chris Dishman            
+  79 LG   gs ? Frank Garcia             
+  79 LG   gs ? Pete Kendall             
+  77 LT   gs ? Anthony Clement          
+  75 LG   gs ? Raleigh Roundtree        
+  71 LT   gs ? L.J. Shelton             
+  69 LG   gs ? Cameron Spikes           
+  69 C    gs ? Jason Starkey            
+  69 C    gs ? Nathan Hodel             
+  66 LT   gs ? Kendrick Rogers          
+  65 LG   gs ? Leonard Davis            
+  61 LG   gs ? Reggie Wells             
+-- EDGE --
+  82 EDGE gs ? Fred Wakefield           
+  77 EDGE gs ? Dennis Johnson           
+  71 EDGE gs ? Calvin Pace              
+  71 EDGE gs ? Kenny King               
+-- DT --
+  80 DT   gs ? Barron Tanner            
+  76 DT   gs ? Derrick Ransom           
+  70 DT   gs ? Marcus Bell              
+  70 DT   gs ? Russell Davis            
+  65 DT   gs ? Wendell Bryant           
+-- CB --
+  81 CB   gs ? Coby Rhinehart           
+  81 CB   gs ? Emmanuel McDaniel        
+  77 CB   gs ? David Barrett            
+  70 CB   gs ? Jason Goss               
+  70 CB   gs ? Renaldo Hill             
+-- K --
+  71 K    gs ? Bill Gramatica           
+  71 K    gs ? Neil Rackers             
+-- P --
+  75 P    gs ? Scott Player             
+
+========== ATL (Atlanta Falcons) — 47 players ==========
+-- QB --
+  71 QB   gs10 Doug Johnson             pass 1655/8td/12int  rush 21/1
+  62 QB   gs ? Michael Vick             pass 585/4td/3int  rush 255/1
+  56 QB   gs ? Kurt Kittner             pass 391/2td/6int  rush 13/0
+-- RB --
+  86 RB   gs16 T.J. Duckett             rush 779/11  rec 11-94/0
+  76 RB   gs14 Justin Griffith          rush 168/0  rec 21-122/2
+  75 RB   gs11 Warrick Dunn             rush 672/3  rec 37-336/2
+  62 RB   gs ? Travis Jervey            
+  53 RB   gs ? Woodrow Dantzler         rush 21/1
+  50 RB   gs ? George Layne             rush 15/0  rec 1-3/0
+-- WR --
+  85 WR   gs16 Peerless Price           rush 3/0  rec 64-838/3
+  73 WR   gs11 Brian Finneran           rec 26-368/2
+  72 WR   gs ? John Lewis               
+  69 WR   gs ? Jimmy Farris             rec 6-100/2
+  67 WR   gs ? LaTarence Dunbar         
+  59 WR   gs ? Terrence Edwards         rec 1-10/0
+-- TE --
+  87 TE   gs16 Alge Crumpler            rec 44-552/3
+  72 TE   gs 9 Brian Kozlowski          rec 10-87/0
+  67 TE   gs ? Sean Brewer              
+-- OL --
+  81 LT   gs ? Bob Whitfield            
+  81 LT   gs ? Todd Weiner              
+  79 C    gs ? Todd McClure             
+  77 LT   gs ? Dwayne Morgan            
+  75 LG   gs ? Travis Claridge          
+  69 C    gs ? Derek Rackley            
+  69 LG   gs ? Kynan Forney             
+  69 LG   gs ? Michael Moore            
+  69 C    gs ? Roberto Garza            
+  66 LT   gs ? Matt Knutson             
+  65 LG   gs ? Martin Bibla             
+  61 LT   gs ? Kevin Shaffer            
+-- EDGE --
+  82 EDGE gs ? Travis Hall              
+  77 EDGE gs ? Brady Smith              
+  71 EDGE gs ? Patrick Kerney           
+  71 EDGE gs ? Raymond House            
+-- DT --
+  80 DT   gs ? Ellis Johnson            
+  76 DT   gs ? Edward Jasper            
+  70 DT   gs ? Demetrin Veal            
+-- LB --
+  76 LB   gs ? Terrence Robinson        
+-- CB --
+  81 CB   gs ? Juran Bolden             
+  81 CB   gs ? Tyrone Williams          
+  77 CB   gs ? Kevin Mathis             
+  70 CB   gs ? Tod McBride              
+  67 CB   gs ? Allen Rossum             
+  65 CB   gs ? Derek Ross               
+-- S --
+  77 S    gs ? Brandon Williams         
+-- K --
+  74 K    gs ? Jay Feely                
+-- P --
+  69 P    gs ? Chris Mohr               
+
+========== BAL (Baltimore Ravens) — 43 players ==========
+-- QB --
+  71 QB   gs10 Kyle Boller              pass 1260/7td/9int  rush 52/0
+  62 QB   gs ? Anthony Wright           pass 1199/9td/8int  rush 75/0
+  54 QB   gs ? Chris Redman             pass 58/0td/2int  rush 4/0
+-- RB --
+  94 RB   gs16 Jamal Lewis              rush 2063/14  rec 26-205/0
+  78 RB   gs16 Chester Taylor           rush 276/2  rec 20-132/0
+  74 RB   gs14 Alan Ricard              rush 79/0  rec 9-62/0
+  62 RB   gs ? Harold Morrow            
+  62 RB   gs ? Ovie Mughelli            
+  53 RB   gs ? Musa Smith               rush 31/2
+-- WR --
+  81 WR   gs16 Travis Taylor            rush 62/0  rec 39-632/3
+  80 WR   gs13 Marcus Robinson          rec 31-451/6
+  69 WR   gs 8 Frank Sanders            rec 14-170/0
+  59 WR   gs ? Ron Johnson              rec 1-12/0
+-- TE --
+  89 TE   gs16 Todd Heap                rush 21/0  rec 57-693/3
+  79 TE   gs12 Terry Jones              rec 19-159/3
+  67 TE   gs ? John Jones               
+-- OL --
+  96 LT   gs ? Jonathan Ogden           rec 1-1/1
+  81 LT   gs ? Ethan Brooks             
+  81 LT   gs ? Orlando Brown            
+  79 C    gs ? Mike Flynn               
+  75 LG   gs ? Edwin Mulitalo           
+  69 LG   gs ? Bennie Anderson          
+  69 LG   gs ? Damion Cook              
+  69 C    gs ? Joe Maese                
+  69 C    gs ? Mike Solwold             
+  65 LG   gs ? Casey Rabach             
+-- EDGE --
+  82 EDGE gs ? Riddick Parker           
+  77 EDGE gs ? Marques Douglas          
+  71 EDGE gs ? Anthony Weaver           
+  71 EDGE gs ? Jarret Johnson           
+-- DT --
+  80 DT   gs ? Joe Salave'a             
+  76 DT   gs ? Kelly Gregg              
+  70 DT   gs ? Aubrayo Franklin         
+  70 DT   gs ? Ma'ake Kemoeatu          
+-- CB --
+  81 CB   gs ? Corey Fuller             
+  81 CB   gs ? Tommy Knight             
+  77 CB   gs ? Chris McAlister          
+  70 CB   gs ? Gary Baxter              
+  70 CB   gs ? Raymond Walls            
+  65 CB   gs ? Lamont Brightful         
+-- K --
+  74 K    gs ? Matt Stover              
+  67 K    gs ? Wade Richey              
+-- P --
+  75 P    gs ? Dave Zastudil            
+
+========== BUF (Buffalo Bills) — 45 players ==========
+-- QB --
+  79 QB   gs16 Drew Bledsoe             pass 2860/11td/12int  rush 29/2
+  62 QB   gs ? Alex Van Pelt            pass 49/0td/3int  rush -6/0
+  57 QB   gs ? Travis Brown             pass 160/0td/1int  rush 5/0
+-- RB --
+  89 RB   gs15 Travis Henry             rush 1353/10  rec 28-158/1
+  69 RB   gs10 Joe Burns                rush 113/0  rec 7-62/0
+  69 RB   gs 9 Sammy Morris             rush 70/1  rec 14-100/0
+  68 RB   gs 9 Sam Gash                 rush 3/0  rec 11-83/0
+  63 RB   gs ? Willis McGahee           
+  50 RB   gs ? Ken Simonton             rush 4/0
+-- WR --
+  84 WR   gs15 Bobby Shaw               rec 56-732/4
+  82 WR   gs13 Eric Moulds              rec 64-780/1
+  82 WR   gs14 Josh Reed                rush 38/0  rec 58-588/2
+  63 WR   gs ? Antonio Brown            rush 17/0
+  60 WR   gs ? Clarence Coleman         rec 8-69/0
+  60 WR   gs ? Sam Aiken                rec 3-35/0
+-- TE --
+  81 TE   gs13 Mark Campbell            rec 34-339/1
+  65 TE   gs ? Dave Moore               rec 7-82/2
+  56 TE   gs ? Ryan Neufeld             rush 14/0  rec 3-41/0
+-- OL --
+  81 LT   gs ? Marcus Price             
+  79 LG   gs ? Ruben Brown              
+  79 C    gs ? Trey Teague              
+  75 LG   gs ? Marques Sullivan         
+  75 C    gs ? Ross Tucker              
+  71 LT   gs ? Bernard Robertson        
+  71 LT   gs ? Jonas Jennings           
+  71 LT   gs ? Mike Williams            
+  69 LG   gs ? Mike Pucillo             
+  65 LG   gs ? Ben Sobieski             
+  65 C    gs ? Jon Dorenbos             
+-- EDGE --
+  82 EDGE gs ? Keith McKenzie           
+  77 EDGE gs ? Aaron Schobel            
+  71 EDGE gs ? Chris Kelsay             
+  71 EDGE gs ? Ryan Denney              
+-- DT --
+  80 DT   gs ? Sam Adams                
+  76 DT   gs ? Pat Williams             
+  70 DT   gs ? Justin Bannan            
+  70 DT   gs ? Ron Edwards              
+  65 DT   gs ? Lauvale Sape             
+-- CB --
+  81 CB   gs ? Antoine Winfield         
+  81 CB   gs ? Dainon Sidney            
+  77 CB   gs ? Nate Clements            
+  70 CB   gs ? Kevin Thomas             
+  70 CB   gs ? Terrence McGee           
+-- K --
+  74 K    gs ? Rian Lindell             
+-- P --
+  69 P    gs ? Brian Moorman            rush 21/0
+
+========== CAR (Carolina Panthers) — 44 players ==========
+-- QB --
+  85 QB   gs16 Jake Delhomme            pass 3219/19td/16int  rush 43/1
+  68 QB   gs ? Chris Weinke             
+  59 QB   gs ? Rodney Peete             pass 19/0td/0int
+-- RB --
+  87 RB   gs14 Stephen Davis            rush 1444/8  rec 14-159/0
+  79 RB   gs14 DeShaun Foster           rush 429/0  rec 26-207/2
+  74 RB   gs12 Brad Hoover              rush 21/0  rec 12-72/1
+  69 RB   gs 9 Nick Goings              rush 69/0  rec 12-97/1
+  53 RB   gs ? Rod Smart                rush 49/0  rec 3-11/0
+-- WR --
+  91 WR   gs16 Steve Smith              rush 42/0  rec 88-1110/7
+  84 WR   gs15 Muhsin Muhammad          rush -2/0  rec 54-837/3
+  78 WR   gs12 Ricky Proehl             rec 27-389/4
+  67 WR   gs ? Eugene Baker             
+  67 WR   gs ? Walter Young             
+  60 WR   gs ? Karl Hankton             rec 2-27/0
+  59 WR   gs ? Kevin Dyson              rec 2-15/0
+-- TE --
+  74 TE   gs10 Kris Mangum              rec 17-199/0
+  65 TE   gs ? Jermaine Wiggins         rec 8-80/1
+  62 TE   gs ? Marco Battaglia          
+  57 TE   gs ? Mike Seidman             rec 5-35/0
+-- OL --
+  81 LT   gs ? Matt Willig              
+  81 LT   gs ? Todd Steussie            
+  79 LG   gs ? Kevin Donnalley          
+  75 LG   gs ? Doug Brzezinski          
+  75 C    gs ? Jeff Mitchell            
+  71 LT   gs ? Jordan Gross             
+  69 C    gs ? Bruce Nelson             
+  69 LG   gs ? Jeno James               
+  69 LG   gs ? Tutan Reyes              
+-- EDGE --
+  82 EDGE gs ? Kavika Pittman           
+  77 EDGE gs ? Al Wallace               
+  71 EDGE gs ? Kemp Rasmussen           
+  71 EDGE gs ? Mike Rucker              
+  66 EDGE gs ? Julius Peppers           
+-- DT --
+  80 DT   gs ? Brentson Buckner         
+  76 DT   gs ? Shane Burton             
+  70 DT   gs ? Kindal Moorehead         
+  70 DT   gs ? Kris Jenkins             
+-- CB --
+  81 CB   gs ? Terry Cousin             
+  81 CB   gs ? William Hampton          
+  77 CB   gs ? Reggie Howard            
+  70 CB   gs ? Dante Wesley             
+  70 CB   gs ? Ricky Manning            
+-- K --
+  74 K    gs ? John Kasay               
+-- P --
+  69 P    gs ? Todd Sauerbrun           
+
+========== CHI (Chicago Bears) — 49 players ==========
+-- QB --
+  72 QB   gs 9 Kordell Stewart          pass 1418/7td/12int  rush 290/3
+  71 QB   gs 8 Chris Chandler           pass 1050/3td/7int  rush 35/0
+  55 QB   gs ? Rex Grossman             pass 437/2td/1int  rush -1/0
+-- RB --
+  82 RB   gs13 Anthony Thomas           rush 1024/6  rec 9-36/0
+  76 RB   gs14 Stanley Pritchett        rush 93/2  rec 18-83/0
+  74 RB   gs12 Rabih Abdullah           rush 37/0  rec 8-55/0
+  63 RB   gs ? Jason McKie              
+  54 RB   gs ? Brock Forsey             rush 191/2  rec 3-37/0
+  51 RB   gs ? Adrian Peterson          rush 70/0  rec 1-5/0
+-- WR --
+  83 WR   gs13 Marty Booker             rush -7/0  rec 52-715/4
+  82 WR   gs15 Dez White                rush 13/0  rec 49-583/3
+  79 WR   gs15 David Terrell            rush 4/0  rec 43-361/1
+  71 WR   gs 8 Justin Gage              rec 17-338/2
+  69 WR   gs 8 Bobby Wade               rush 14/0  rec 12-137/0
+  67 WR   gs ? Daryl Jones              
+  55 WR   gs ? Ahmad Merritt            rec 3-50/0
+-- TE --
+  84 TE   gs15 Desmond Clark            rec 44-433/2
+  67 TE   gs ? John Gilmore             
+  65 TE   gs ? Dustin Lyman             rec 11-80/0
+  62 TE   gs ? Gabriel Reid             
+  62 TE   gs ? Robert Johnson           
+-- OL --
+  79 LG   gs ? Chris Villarrial         
+  79 LG   gs ? Corbin Lacina            
+  79 C    gs ? Patrick Mannelly         
+  77 LT   gs ? Aaron Gibson             
+  71 LT   gs ? Mike Gandy               
+  71 C    gs ? Olin Kreutz              rec 1--8/0
+  70 C    gs ? Josh Warner              
+  70 LG   gs ? Qasim Mitchell           
+  70 LG   gs ? Steve Edwards            
+  65 LG   gs ? Bryan Anderson           
+  65 LG   gs ? Terrence Metcalf         
+-- EDGE --
+  82 EDGE gs ? Phillip Daniels          
+  77 EDGE gs ? Joe Tafoya               
+  71 EDGE gs ? Alex Brown               
+  71 EDGE gs ? Michael Haynes           
+-- DT --
+  80 DT   gs ? Keith Traylor            
+  76 DT   gs ? Bryan Robinson           
+  70 DT   gs ? Alfonso Boone            
+  70 DT   gs ? Charles Hill             
+  65 DT   gs ? Tron LaFavor             
+  61 DT   gs ? Ian Scott                
+-- CB --
+  81 CB   gs ? Todd McMillon            
+  76 CB   gs ? R.W. McQuarters          
+  73 CB   gs ? Jerry Azumah             
+  70 CB   gs ? Brock Williams           
+  70 CB   gs ? Charles Tillman          
+-- K --
+  75 K    gs ? Paul Edinger             
+-- P --
+  70 P    gs ? Brad Maynard             
+
+========== CIN (Cincinnati Bengals) — 47 players ==========
+-- QB --
+  90 QB   gs16 Jon Kitna                pass 3605/26td/15int  rush 117/0
+  74 QB   gs ? Shane Matthews           
+  68 QB   gs ? Carson Palmer            
+-- RB --
+  85 RB   gs13 Rudi Johnson             rush 967/9  rec 21-146/0
+  78 RB   gs13 Corey Dillon             rush 541/2  rec 11-71/0
+  77 RB   gs14 Brandon Bennett          rush 173/0  rec 25-176/1
+  75 RB   gs14 Jeremi Johnson           rush 41/1  rec 15-82/1
+  63 RB   gs ? Kenny Watson             
+-- WR --
+  95 WR   gs16 Chad Ochocinco           rec 90-1355/10
+  89 WR   gs15 Peter Warrick            rush 143/0  rec 80-833/7
+  73 WR   gs10 Kelley Washington        rush 5/0  rec 22-299/4
+  72 WR   gs ? T.J. Houshmandzadeh      
+  67 WR   gs ? Lawrence Hamilton        
+  60 WR   gs ? Kevin Walter             rec 3-18/0
+-- TE --
+  76 TE   gs11 Matt Schobel             rec 24-332/2
+  75 TE   gs10 Tony Stewart             rec 21-212/0
+  72 TE   gs 9 Reggie Kelly             rec 13-81/1
+  62 TE   gs ? Brad St. Louis           
+-- OL --
+  81 LT   gs ? Willie Anderson          
+  79 LG   gs ? Matt O'Dwyer             
+  79 LG   gs ? Rich Braham              
+  75 C    gs ? Mike Goff                
+  75 LG   gs ? Scott Rehberg            
+  71 LT   gs ? Levi Jones               
+  71 LT   gs ? Victor Leyva             
+  70 LG   gs ? Alex Sulfsted            
+  70 LG   gs ? Thatcher Szalay          
+  66 LT   gs ? Scott Kooistra           
+  65 LG   gs ? Eric Steinbach           
+-- EDGE --
+  82 EDGE gs ? Duane Clemons            
+  78 EDGE gs ? Carl Powell              
+  71 EDGE gs ? Elton Patterson          
+  71 EDGE gs ? Justin Smith             
+-- DT --
+  80 DT   gs ? Oliver Gibson            
+  76 DT   gs ? Tony Williams            
+  70 DT   gs ? Glen Steele              
+  70 DT   gs ? John Thornton            
+  65 DT   gs ? Langston Moore           
+-- CB --
+  81 CB   gs ? Jeff Burris              
+  81 CB   gs ? Tory James               
+  77 CB   gs ? Artrell Hawkins          
+  70 CB   gs ? Reggie Myles             
+  70 CB   gs ? Terrell Roberts          
+  66 CB   gs ? Dennis Weathersby        
+-- K --
+  75 K    gs ? Shayne Graham            
+-- P --
+  75 P    gs ? Kyle Richardson          
+  63 P    gs ? Nick Harris              
+
+========== CLE (Cleveland Browns) — 51 players ==========
+-- QB --
+  73 QB   gs10 Tim Couch                pass 1319/7td/6int  rush 39/1  rec 1--3/0
+  72 QB   gs10 Kelly Holcomb            pass 1797/10td/12int  rush 7/0
+  68 QB   gs ? Nate Hybl                
+-- RB --
+  79 RB   gs16 Jamel White              rush 266/1  rec 46-303/1
+  72 RB   gs10 James Jackson            rush 382/3  rec 14-114/0
+  63 RB   gs ? Nick Maddox              
+  61 RB   gs ? William Green            rush 559/1  rec 10-50/0
+  55 RB   gs ? Lee Suggs                rush 289/2  rec 2-0/0
+-- WR --
+  83 WR   gs15 Dennis Northcutt         rush 83/0  rec 62-729/2
+  82 WR   gs16 Andre Davis              rush 28/0  rec 40-576/5
+  81 WR   gs16 Quincy Morgan            rush -4/0  rec 38-516/3
+  67 WR   gs ? C.J. Jones               
+  62 WR   gs ? Andre King               rec 9-88/0
+  60 WR   gs ? Frisman Jackson          rec 2-29/0
+-- TE --
+  72 TE   gs 8 Darnell Sanders          rec 15-95/1
+  67 TE   gs ? Steve Heiden             rec 18-134/0
+  56 TE   gs ? Aaron Shea               rec 2-9/0
+  53 TE   gs ? Keith Heinrich           rec 8-64/2
+  51 TE   gs ? Chad Mustard             rec 4-29/0
+-- OL --
+  81 LT   gs ? Barry Stokes             
+  81 LT   gs ? Ryan Tucker              
+  81 LT   gs ? Scot Osborne             
+  75 LG   gs ? Paul Zukauskas           
+  75 C    gs ? Shaun O'Hara             
+  71 LT   gs ? Chad Beasley             
+  71 LT   gs ? Joaquin Gonzalez         
+  70 LG   gs ? Craig Osika              
+  70 C    gs ? Melvin Fowler            
+  65 LG   gs ? Enoch DeMar              
+  65 C    gs ? Ryan Pontbriand          
+  57 C    gs ? Jeff Faine               
+-- EDGE --
+  82 EDGE gs ? Kenard Lang              
+  78 EDGE gs ? Tyrone Rogers            
+  71 EDGE gs ? Courtney Brown           
+  71 EDGE gs ? Mark Word                
+  66 EDGE gs ? Felipe Claybrooks        
+-- DT --
+  80 DT   gs ? Orpheus Roye             
+  76 DT   gs ? Michael Myers            
+  70 DT   gs ? Alvin McKinley           
+  70 DT   gs ? John Nix                 
+  65 DT   gs ? Gerard Warren            
+  61 DT   gs ? Antonio Garay            
+-- LB --
+  77 LB   gs ? Mason Unck               
+-- CB --
+  81 CB   gs ? Daylon McCutcheon        
+  81 CB   gs ? Lewis Sanders            
+  77 CB   gs ? Anthony Henry            
+  71 CB   gs ? Leigh Bodden             
+  71 CB   gs ? Michael Lehan            
+-- K --
+  70 K    gs ? Phil Dawson              rush 14/0
+-- P --
+  75 P    gs ? Chris Gardocki           
+  67 P    gs ? Derrick Frost            
+
+========== DAL (Dallas Cowboys) — 45 players ==========
+-- QB --
+  80 QB   gs16 Quincy Carter            pass 3302/17td/21int  rush 257/2
+  68 QB   gs ? Tony Romo                
+  60 QB   gs ? Chad Hutchinson          pass 8/0td/0int  rush -3/0
+-- RB --
+  83 RB   gs16 Troy Hambrick            rush 972/5  rec 17-99/0
+  80 RB   gs15 Richie Anderson          rush 306/1  rec 69-493/4
+  71 RB   gs10 Aveion Cason             pass 37/0td/0int  rush 220/2  rec 17-142/0
+  63 RB   gs ? Michael Bates            
+  52 RB   gs ? Erik Bickerstaff         rush 56/1
+  52 RB   gs ? Jamar Martin             rush 7/0  rec 2-9/0
+-- WR --
+  83 WR   gs13 Terry Glenn              rush 55/0  rec 52-754/5
+  80 WR   gs14 Antonio Bryant           rec 39-550/2
+  80 WR   gs13 Joey Galloway            rush 22/0  rec 34-672/2
+  67 WR   gs ? Cedric James             
+  63 WR   gs ? Randal Williams          
+  62 WR   gs ? Reginald Swinton         rush 11/0  rec 9-100/0
+  60 WR   gs ? Zuriel Smith             rec 3-46/0
+-- TE --
+  76 TE   gs11 Jason Witten             rec 35-347/1
+  74 TE   gs11 Dan Campbell             rec 20-195/1
+  62 TE   gs ? James Whalen             
+  57 TE   gs ? Jeff Robinson            rec 2-8/2
+-- OL --
+  96 LG   gs ? Larry Allen              
+  81 LT   gs ? Flozell Adams            
+  79 C    gs ? Gennaro DiNapoli         
+  77 LT   gs ? Javiar Collins           
+  77 LT   gs ? Ryan Young               
+  71 LT   gs ? Kurt Vollers             
+  70 LG   gs ? Andre Gurode             
+  70 LG   gs ? Matt Lehr                
+  70 C    gs ? Tyson Walter             
+  66 LT   gs ? Torrin Tucker            
+-- EDGE --
+  82 EDGE gs ? Greg Ellis               
+  78 EDGE gs ? Eric Ogbogu              
+  71 EDGE gs ? Ebenezer Ekuban          
+  71 EDGE gs ? Kenyon Coleman           
+-- DT --
+  80 DT   gs ? La'Roi Glover            
+  76 DT   gs ? Willie Blade             
+  70 DT   gs ? Daleroy Stewart          
+  70 DT   gs ? Jermaine Brooks          
+-- CB --
+  81 CB   gs ? Andrew Davison           
+  81 CB   gs ? Mario Edwards            
+  77 CB   gs ? Pete Hunter              
+  71 CB   gs ? Jemeel Powell            
+  71 CB   gs ? Terence Newman           
+-- K --
+  75 K    gs ? Billy Cundiff            
+-- P --
+  76 P    gs ? Toby Gowin               
+
+========== DEN (Denver Broncos) — 49 players ==========
+-- QB --
+  78 QB   gs11 Jake Plummer             pass 2183/15td/7int  rush 205/3
+  61 QB   gs ? Steve Beuerlein          pass 389/2td/5int  rush 13/0
+  55 QB   gs ? Danny Kanell             pass 442/2td/5int  rush 5/0
+  49 QB   gs ? Jarious Jackson          pass 41/0td/1int  rush 9/0
+-- RB --
+  92 RB   gs13 Clinton Portis           rush 1591/14  rec 38-314/0
+  72 RB   gs10 Mike Anderson            rush 257/3  rec 12-53/2
+  71 RB   gs 9 Quentin Griffin          rush 345/0  rec 8-61/0
+  54 RB   gs ? Reuben Droughns          rush 14/0  rec 9-87/2
+  50 RB   gs ? Cecil Sapp               rush 31/0
+-- WR --
+  86 WR   gs15 Rod Smith                pass 72/0td/0int  rush 98/0  rec 74-846/3
+  81 WR   gs16 Ashley Lelie             rush 43/0  rec 37-628/2
+  70 WR   gs 9 Ed McCaffrey             rec 19-195/0
+  67 WR   gs ? Charlie Adams            
+  67 WR   gs ? Nate Jackson             
+  62 WR   gs ? Chris Cole               rush 8/0  rec 3-36/0
+  61 WR   gs ? Adrian Madise            rush 10/0  rec 2-10/0
+-- TE --
+  92 TE   gs15 Shannon Sharpe           rec 62-770/8
+  65 TE   gs ? Dwayne Carswell          rec 6-53/1
+  62 TE   gs ? Mike Leach               
+  56 TE   gs ? Patrick Hape             rec 3-30/0
+  51 TE   gs ? Jeb Putzier              rec 4-34/0
+-- OL --
+  81 LT   gs ? Blake Brockermeyer       
+  81 LT   gs ? Matt Lepsis              
+  79 C    gs ? Tom Nalen                
+  77 LT   gs ? Ephraim Salaam           
+  75 LG   gs ? Dan Neil                 
+  71 LT   gs ? George Foster            
+  70 LG   gs ? Ben Hamilton             
+  70 LG   gs ? Steve Herndon            
+  65 LG   gs ? Cooper Carlisle          rec 1-6/1
+-- EDGE --
+  82 EDGE gs ? Bert Berry               
+  78 EDGE gs ? Trevor Pryce             
+  71 EDGE gs ? Bryant McNeal            
+  71 EDGE gs ? Reggie Hayward           
+-- DT --
+  80 DT   gs ? Darius Holland           
+  76 DT   gs ? Daryl Gardener           
+  70 DT   gs ? Mario Fatafehi           
+  70 DT   gs ? Monsanto Pope            
+  65 DT   gs ? Dorsett Davis            
+-- CB --
+  81 CB   gs ? Jimmy Spencer            
+  81 CB   gs ? Ryan McNeil              
+  77 CB   gs ? Scott Turner             
+  71 CB   gs ? Kelly Herndon            
+  71 CB   gs ? Willie Middlebrooks      
+  66 CB   gs ? Lenny Walls              
+  62 CB   gs ? Deltha O'Neal            rec 2-4/0
+  61 CB   gs ? Roosevelt Williams       
+-- K --
+  75 K    gs ? Jason Elam               
+-- P --
+  70 P    gs ? Micah Knorr              
+
+========== DET (Detroit Lions) — 51 players ==========
+-- QB --
+  78 QB   gs16 Joey Harrington          pass 2880/17td/22int  rush 98/0  rec 1-8/0
+  68 QB   gs ? Ty Detmer                
+  61 QB   gs ? Mike McMahon             pass 87/0td/2int  rush 32/0
+-- RB --
+  82 RB   gs16 Shawn Bryson             rush 606/3  rec 54-340/0
+  78 RB   gs16 Cory Schlesinger         rush 16/0  rec 34-247/2
+  77 RB   gs13 Olandis Gary             rush 384/2  rec 13-69/0
+  53 RB   gs ? Avon Cobourne            rush 27/0  rec 4-30/0
+  52 RB   gs ? Artose Pinner            rush 99/0  rec 5-40/0
+  51 RB   gs ? Paul Smith               rush 5/0  rec 5-45/0
+  50 RB   gs ? Stephen Trejo            rec 1-2/0
+-- WR --
+  81 WR   gs13 Az-Zahir Hakim           pass 21/0td/0int  rush 51/0  rec 49-449/4
+  79 WR   gs14 Bill Schroeder           rec 36-397/2
+  67 WR   gs ? James Williams           
+  67 WR   gs ? Shawn Jefferson          rush 3/0  rec 6-46/0
+  65 WR   gs ? Scotty Anderson          rec 17-325/2
+  64 WR   gs ? Charles Rogers           rush 17/0  rec 22-243/3
+  58 WR   gs ? Eddie Drummond           rush 1/0
+  55 WR   gs ? David Kircus             rec 3-53/0
+-- TE --
+  82 TE   gs13 Mikhael Ricks            rec 37-434/2
+  75 TE   gs10 Casey Fitzsimmons        rec 23-160/2
+  67 TE   gs ? Bradford Banta           
+  62 TE   gs ? John Owens               
+-- OL --
+  81 LT   gs ? Matt Joyce               
+  79 LG   gs ? Eric Beverly             
+  79 LG   gs ? Ray Brown                
+  77 LT   gs ? Kerlin Blaise            
+  77 LT   gs ? Stockar McDougle         
+  72 LT   gs ? Victor Rogers            
+  71 LT   gs ? Jeff Backus              
+  70 C    gs ? Dominic Raiola           
+  70 LG   gs ? Josh Lovelady            
+-- EDGE --
+  82 EDGE gs ? Robert Porcher           
+  78 EDGE gs ? Jared DeVries            
+  71 EDGE gs ? James Hall               
+  71 EDGE gs ? Kalimba Edwards          
+-- DT --
+  80 DT   gs ? Kelvin Pritchett         
+  76 DT   gs ? Dan Wilkinson            
+  70 DT   gs ? Luther Elliss            
+  70 DT   gs ? Shaun Rogers             
+  65 DT   gs ? Colin Cole               
+  61 DT   gs ? Cory Redding             
+-- CB --
+  81 CB   gs ? Doug Evans               
+  81 CB   gs ? Otis Smith               
+  77 CB   gs ? Dre' Bly                 
+  71 CB   gs ? Andre' Goodman           
+  71 CB   gs ? Leonard Myers            
+  66 CB   gs ? Blue Adams               
+-- S --
+  78 S    gs ? Julius Curry             
+  73 S    gs ? Roderick Babers          
+-- K --
+  75 K    gs ? Jason Hanson             
+-- P --
+  76 P    gs ? John Jett                
+
+========== GB (Green Bay Packers) — 46 players ==========
+-- QB --
+  89 QB   gs16 Brett Favre              pass 3361/32td/21int  rush 15/0
+  73 QB   gs ? Doug Pederson            pass 16/0td/0int  rush -7/0
+  68 QB   gs ? Craig Nall               
+-- RB --
+  96 RB   gs16 Ahman Green              rush 1883/15  rec 50-367/5
+  77 RB   gs14 Najeh Davenport          rush 420/2  rec 6-38/0
+  76 RB   gs13 Tony Fisher              rush 200/1  rec 21-206/2
+  75 RB   gs11 William Henderson        rec 24-214/3
+  51 RB   gs ? Nicolas Luchey           rush 3/0  rec 1-12/0
+-- WR --
+  86 WR   gs16 Javon Walker             rush 1/0  rec 41-716/9
+  82 WR   gs15 Donald Driver            rush 51/0  rec 52-621/2
+  80 WR   gs13 Robert Ferguson          rush -8/0  rec 38-520/4
+  72 WR   gs ? Antonio Chatman          
+  69 WR   gs10 Antonio Freeman          rec 14-141/0
+-- TE --
+  82 TE   gs13 Bubba Franks             rec 30-241/4
+  74 TE   gs10 Wesley Walls             rec 20-222/1
+  72 TE   gs 8 David Martin             rec 13-79/2
+-- OL --
+  79 LG   gs ? Marco Rivera             
+  79 C    gs ? Mike Flanagan            
+  79 C    gs ? Rob Davis                
+  77 LT   gs ? Marcus Spriggs           
+  75 LG   gs ? Mike Wahle               
+  72 LT   gs ? Chad Clifton             
+  72 LT   gs ? Kevin Barry              
+  72 LT   gs ? Mark Tauscher            
+  70 LG   gs ? Grey Ruegamer            
+  66 LT   gs ? Brennan Curtin           
+-- EDGE --
+  82 EDGE gs ? Joe Johnson              
+  78 EDGE gs ? Chukie Nwokorie          
+  71 EDGE gs ? Jamal Reynolds           
+  71 EDGE gs ? Kabeer Gbaja-Biamila     
+  66 EDGE gs ? Aaron Kampman            
+-- DT --
+  80 DT   gs ? Gilbert Brown            
+  76 DT   gs ? Grady Jackson            
+  70 DT   gs ? Cletidus Hunt            
+  70 DT   gs ? Larry Smith              
+  65 DT   gs ? Rod Walker               
+  61 DT   gs ? Kenny Peterson           
+  61 DT   gs ? Terdell Sands            
+-- CB --
+  81 CB   gs ? Al Harris                
+  81 CB   gs ? Mike McKenzie            
+  77 CB   gs ? Derek Combs              
+  71 CB   gs ? Chris Johnson            
+  71 CB   gs ? Erwin Swiney             
+-- K --
+  75 K    gs ? Ryan Longwell            
+  67 K    gs ? Travis Dorsch            
+-- P --
+  76 P    gs ? Josh Bidwell             
+
+========== HOU (Houston Texans) — 51 players ==========
+-- QB --
+  77 QB   gs12 David Carr               pass 2013/9td/13int  rush 151/2
+  65 QB   gs ? Tony Banks               pass 693/5td/3int  rush 27/0
+  63 QB   gs ? Mike Quinn               
+  55 QB   gs ? Dave Ragone              pass 135/0td/1int  rush 51/0  rec 1--5/0
+-- RB --
+  87 RB   gs14 Domanick Williams        rush 1031/8  rec 47-351/0
+  71 RB   gs 8 Stacey Mack              rush 253/4  rec 9-55/0
+  68 RB   gs 9 Tony Hollings            rush 102/0  rec 2-25/0
+  63 RB   gs ? Greg Comella             
+  54 RB   gs ? Moran Norris             rec 7-40/0
+  51 RB   gs ? Jonathan Wells           rush 14/0  rec 2-17/0
+-- WR --
+  87 WR   gs16 Andre Johnson            rush -10/0  rec 66-976/4
+  79 WR   gs14 Corey Bradford           rec 24-460/4
+  78 WR   gs13 Jabar Gaffney            rush 13/0  rec 34-402/2
+  72 WR   gs ? J.J. Moses               
+  62 WR   gs ? Derick Armstrong         rec 7-75/1
+-- TE --
+  83 TE   gs15 Billy Miller             rec 40-355/3
+  68 TE   gs ? Rashod Kent              
+  65 TE   gs ? Jabari Holloway          rec 8-84/0
+  62 TE   gs ? Matt Murphy              
+-- OL --
+  79 LG   gs ? Steve McKinney           
+  79 C    gs ? Todd Washington          
+  79 LG   gs ? Zach Wiegert             
+  77 LT   gs ? Greg Randall             
+  75 LG   gs ? Michael Keathley         
+  72 LT   gs ? Curry Dawson             
+  72 LT   gs ? Garrick Jones            
+  70 LG   gs ? Chester Pitts            
+  70 LG   gs ? Fred Weary               
+  65 C    gs ? Bryan Pittman            
+  65 LG   gs ? Milford Brown            
+  61 C    gs ? Jamal Powell             
+  61 LT   gs ? Seth Wand                
+-- EDGE --
+  82 EDGE gs ? Gary Walker              
+  78 EDGE gs ? Corey Sears              
+  72 EDGE gs ? Junior Ioane             
+  71 EDGE gs ? Jason Davis              
+-- DT --
+  80 DT   gs ? Steve Martin             
+  76 DT   gs ? Seth Payne               
+  71 DT   gs ? Jeremy Slechta           
+  71 DT   gs ? Jerry DeLoach            
+  65 DT   gs ? Terrance Martin          
+-- LB --
+  77 LB   gs ? Shantee Orr              
+-- CB --
+  81 CB   gs ? Aaron Glenn              
+  81 CB   gs ? Kenny Wright             
+  77 CB   gs ? Darrick Vaughn           
+  71 CB   gs ? Demarcus Faggins         
+  71 CB   gs ? Jason Bell               
+-- S --
+  78 S    gs ? Rober' Freeman           
+  73 S    gs ? Curry Burns              
+-- K --
+  75 K    gs ? Kris Brown               
+-- P --
+  70 P    gs ? Chad Stanley             rush 12/0
+
+========== IND (Indianapolis Colts) — 46 players ==========
+-- QB --
+  95 QB   gs16 Peyton Manning           pass 4267/29td/10int  rush 29/0  rec 1--2/0
+  68 QB   gs ? Cory Sauter              
+  66 QB   gs ? Brock Huard              pass 22/0td/0int  rush 9/0
+-- RB --
+  90 RB   gs13 Edgerrin James           rush 1257/11  rec 51-292/0
+  70 RB   gs 8 Ricky Williams           rush 155/2  rec 22-157/1
+  69 RB   gs10 Dominic Rhodes           rush 157/0  rec 6-62/1
+  63 RB   gs ? Detron Smith             
+  63 RB   gs ? Tom Lopienski            
+  53 RB   gs ? James Mungro             rush 60/2  rec 1--4/0
+-- WR --
+  94 WR   gs15 Marvin Harrison          rush 3/0  rec 94-1272/10
+  88 WR   gs15 Reggie Wayne             rec 68-838/7
+  79 WR   gs12 Troy Walters             rush 6/0  rec 36-456/3
+  67 WR   gs ? Terrence Wilkins         
+  64 WR   gs ? Brandon Stokley          rec 22-211/3
+  63 WR   gs ? JaJuan Dawson            
+  60 WR   gs ? Aaron Moorehead          rec 7-101/0
+  54 WR   gs ? Brad Pyatt               rec 1-2/0
+-- TE --
+  85 TE   gs13 Marcus Pollard           rec 40-541/3
+  76 TE   gs10 Dallas Clark             rec 29-340/1
+  63 TE   gs ? Pete Mitchell            
+  56 TE   gs ? Joe Dean Davenport       rec 3-23/0
+-- OL --
+  81 LT   gs ? Adam Meadows             
+  81 LT   gs ? Tarik Glenn              
+  79 C    gs ? Jeff Saturday            
+  75 C    gs ? Justin Snow              
+  75 LG   gs ? Rick DeMulling           
+  72 LT   gs ? Ryan Diem                
+  70 LG   gs ? Makoa Freitas            
+  70 LG   gs ? Steve Sciullo            
+  70 LG   gs ? Tupe Peko                
+-- EDGE --
+  82 EDGE gs ? Chad Bratzke             
+  78 EDGE gs ? Brad Scioli              
+  72 EDGE gs ? Dwight Freeney           
+  72 EDGE gs ? Raheem Brock             
+  66 EDGE gs ? Robert Mathis            
+-- DT --
+  80 DT   gs ? Montae Reagor            
+  76 DT   gs ? Josh Williams            
+  71 DT   gs ? Larry Tripplett          
+-- CB --
+  82 CB   gs ? Walt Harris              
+  81 CB   gs ? Cliff Crosby             
+  77 CB   gs ? David Macklin            
+  71 CB   gs ? Joseph Jefferson         
+  71 CB   gs ? Nicholas Harper          
+  66 CB   gs ? Donald Strickland        
+-- K --
+  76 K    gs ? Mike Vanderjagt          
+-- P --
+  70 P    gs ? Hunter Smith             rush 21/1
+
+========== JAX (Jacksonville Jaguars) — 48 players ==========
+-- QB --
+  79 QB   gs15 Byron Leftwich           pass 2819/14td/17int  rush 108/2
+  75 QB   gs ? David Garrard            pass 86/1td/0int
+  63 QB   gs ? Quinn Gray               
+  59 QB   gs ? Mark Brunell             pass 484/2td/0int  rush 19/1
+-- RB --
+  90 RB   gs16 Fred Taylor              rush 1572/6  rec 48-370/1
+  77 RB   gs15 LaBrandon Toefield       pass 32/0td/0int  rush 212/2  rec 14-105/1
+  76 RB   gs14 Marc Edwards             rush 13/1  rec 31-226/0
+  68 RB   gs 9 Chris Fuamatu-Ma'afala   rush 144/1  rec 1-2/0
+  52 RB   gs ? David Allen              rush 8/0  rec 6-60/1
+-- WR --
+  83 WR   gs12 Jimmy Smith              rec 54-805/4
+  83 WR   gs15 Kevin Johnson            rec 58-634/3
+  79 WR   gs12 Troy Edwards             rush -9/0  rec 35-487/3
+  70 WR   gs10 Cortez Hankton           rec 17-166/0
+  61 WR   gs ? Jermaine Lewis           rush 6/0  rec 4-100/1
+  57 WR   gs ? Matthew Hatchette        rec 15-203/2
+  55 WR   gs ? Jimmy Redmond            rec 3-67/0
+-- TE --
+  80 TE   gs14 Kyle Brady               rec 29-281/1
+  73 TE   gs 8 George Wrighster         rec 13-150/2
+  56 TE   gs ? Chris Luzar              rec 3-30/0
+-- OL --
+  81 LT   gs ? Sammy Williams           
+  79 LG   gs ? Chris Naeole             
+  79 LG   gs ? Jamar Nesbit             
+  75 C    gs ? Brad Meester             
+  75 C    gs ? Joe Zelenka              
+  72 LT   gs ? Leander Jordan           
+  72 LT   gs ? Maurice Williams         
+  72 LT   gs ? Mike Pearson             
+  70 LG   gs ? Brett Romberg            
+  66 LT   gs ? Marques Ogden            
+  65 LG   gs ? Vincent Manuwai          
+-- EDGE --
+  82 EDGE gs ? Hugh Douglas             
+  78 EDGE gs ? Tony Brackens            
+  72 EDGE gs ? Lionel Barnes            
+  72 EDGE gs ? Paul Spicer              
+  66 EDGE gs ? Rob Meier                
+  61 EDGE gs ? Brandon Green            
+-- DT --
+  80 DT   gs ? Marcus Stroud            
+  76 DT   gs ? John Henderson           
+  71 DT   gs ? Matt Leonard             
+-- LB --
+  78 LB   gs ? Tony Gilbert             
+-- CB --
+  82 CB   gs ? Fernando Bryant          
+  82 CB   gs ? James Trapp              
+  77 CB   gs ? Jason Craft              
+  71 CB   gs ? Kiwaukee Thomas          
+  71 CB   gs ? Rashean Mathis           
+-- S --
+  78 S    gs ? Raymond Perryman         
+-- K --
+  76 K    gs ? Seth Marler              
+-- P --
+  76 P    gs ? Chris Hanson             
+
+========== KC (Kansas City Chiefs) — 43 players ==========
+-- QB --
+  92 QB   gs16 Trent Green              pass 4039/24td/12int  rush 83/2
+  68 QB   gs ? Jonathan Quinn           
+  68 QB   gs ? Todd Collins             pass 74/0td/0int  rush -7/0
+-- RB --
+  97 RB   gs16 Priest Holmes            rush 1420/27  rec 74-690/0
+  70 RB   gs 9 Derrick Blaylock         rush 112/2  rec 15-181/1
+  69 RB   gs10 Tony Richardson          rush 59/0  rec 12-76/0
+  53 RB   gs ? Larry Johnson            rush 85/1  rec 1-2/0
+  52 RB   gs ? Omar Easy                rec 3-19/0
+-- WR --
+  86 WR   gs16 Eddie Kennison           rush 9/0  rec 56-854/5
+  83 WR   gs15 Johnnie Morton           rush 94/0  rec 50-740/4
+  79 WR   gs15 Dante' Hall              rush 66/0  rec 40-423/1
+  72 WR   gs ? LaShaun Ward             
+  69 WR   gs 9 Marc Boerigter           rec 11-158/0
+-- TE --
+  94 TE   gs16 Tony Gonzalez            rec 71-915/10
+  65 TE   gs ? Jason Dunn               rec 5-35/3
+  63 TE   gs ? Kendall Gammon           
+  55 TE   gs ? Billy Baber              rec 1-20/0
+-- OL --
+  81 LT   gs ? Marcus Spears            
+  81 LT   gs ? Willie Roaf              
+  79 LG   gs ? Will Shields             
+  75 C    gs ? Casey Wiegmann           
+  75 LG   gs ? Donald Willis            
+  72 LT   gs ? Brett Williams           
+  72 LT   gs ? John Tait                
+  72 LT   gs ? Jordan Black             
+  70 LG   gs ? Brian Waters             
+-- EDGE --
+  82 EDGE gs ? R-Kal Truluck            
+  78 EDGE gs ? Eric Hicks               
+  72 EDGE gs ? Gary Stills              
+  72 EDGE gs ? Vonnie Holliday          
+  66 EDGE gs ? Eddie Freeman            
+  61 EDGE gs ? Jimmy Wilkerson          
+-- DT --
+  80 DT   gs ? John Browning            
+  76 DT   gs ? Eric Downing             
+  71 DT   gs ? Montique Sharpe          
+  71 DT   gs ? Ryan Sims                
+-- CB --
+  82 CB   gs ? Dexter McCleon           
+  82 CB   gs ? Eric Warfield            
+  77 CB   gs ? William Bartee           
+  71 CB   gs ? Julian Battle            
+-- S --
+  79 S    gs ? Darrius Johnson          
+-- K --
+  76 K    gs ? Morten Andersen          
+-- P --
+  76 P    gs ? Jason Baker              
+
+========== LAC (Los Angeles Chargers) — 50 players ==========
+-- QB --
+  72 QB   gs11 Drew Brees               pass 2108/11td/15int  rush 84/0  rec 1-21/1
+  65 QB   gs ? Doug Flutie              pass 1097/9td/4int  rush 168/2
+-- RB --
+  96 RB   gs16 LaDainian Tomlinson      pass 21/1td/0int  rush 1645/13  rec 100-725/4
+  75 RB   gs13 Lorenzo Neal             rush 40/1  rec 16-62/0
+  63 RB   gs ? Andrew Pinnock           
+  57 RB   gs ? Leon Johnson             rush 26/0
+  53 RB   gs ? Jesse Chatman            rush 17/0  rec 5-54/0
+-- WR --
+  88 WR   gs14 David Boston             rush 18/0  rec 70-880/7
+  69 WR   gs 8 Tim Dwight               rush 88/0  rec 14-193/0
+  67 WR   gs ? Micah Ross               
+  66 WR   gs ? Dondre Gilliam           rec 6-95/0
+  65 WR   gs ? Eric Parker              rush 21/0  rec 18-244/3
+  63 WR   gs ? Grant Mattos             
+  62 WR   gs ? Reche Caldwell           rush 39/0  rec 8-80/0
+  58 WR   gs ? Kassim Osgood            rec 13-278/2
+-- TE --
+  76 TE   gs 9 Antonio Gates            rec 24-389/2
+  66 TE   gs ? Justin Peelle            rec 16-133/1
+  58 TE   gs ? Stephen Alexander        
+  57 TE   gs ? Josh Norman              rec 6-72/1
+-- OL --
+  82 LT   gs ? Vaughn Parker            
+  79 C    gs ? Cory Raymer              
+  79 C    gs ? David Binn               
+  77 LT   gs ? Ed Ellis                 
+  75 C    gs ? Bob Hallen               
+  72 LT   gs ? Damion McIntosh          
+  70 C    gs ? David Brandt             
+  70 LG   gs ? Kelvin Garmon            
+  70 LG   gs ? Solomon Page             
+  66 LT   gs ? Phil Bogle               
+  65 C    gs ? Jason Ball               
+  61 LT   gs ? Courtney Van Buren       
+  61 LG   gs ? Kris Dielman             
+-- EDGE --
+  82 EDGE gs ? Raylee Johnson           
+  78 EDGE gs ? Marcellus Wiley          
+  72 EDGE gs ? Adrian Dingle            
+  72 EDGE gs ? DeQuincy Scott           
+  66 EDGE gs ? Otis Leverette           
+  61 EDGE gs ? Omari Hand               
+-- DT --
+  80 DT   gs ? Jason Fisk               
+  76 DT   gs ? Jamal Williams           
+  71 DT   gs ? Jacques Cesaire          
+  71 DT   gs ? Leonardo Carson          
+-- CB --
+  74 CB   gs ? Drayton Florence         
+  74 CB   gs ? Kevin House              
+  74 CB   gs ? Quentin Jammer           
+  74 CB   gs ? Sammy Davis              
+  74 CB   gs ? Tony Okanlawon           
+-- K --
+  76 K    gs ? Steve Christie           
+-- P --
+  70 P    gs ? Darren Bennett           
+  67 P    gs ? Mike Scifres             
+
+========== LAR (Los Angeles Rams) — 45 players ==========
+-- QB --
+  84 QB   gs15 Marc Bulger              pass 3845/22td/22int  rush 75/4
+  69 QB   gs ? Scott Covington          
+  60 QB   gs ? Kurt Warner              pass 365/1td/1int
+-- RB --
+  81 RB   gs11 Marshall Faulk           rush 818/10  rec 45-290/1
+  72 RB   gs 8 Arlen Harris             rush 255/4  rec 15-102/0
+  70 RB   gs 9 Lamar Gordon             rush 298/1  rec 8-59/0
+  63 RB   gs ? Joey Goodspeed           
+  50 RB   gs ? Chris Massey             rush -1/0
+-- WR --
+  99 WR   gs16 Torry Holt               rush 5/0  rec 117-1696/12
+  87 WR   gs14 Isaac Bruce              pass 66/0td/0int  rush 17/0  rec 69-981/5
+  81 WR   gs16 Dane Looker              pass 11/0td/0int  rec 47-495/3
+  70 WR   gs 9 Mike Furrey              rush 5/0  rec 20-189/0
+  61 WR   gs ? Shaun McDonald           rush 7/0  rec 10-62/0
+  54 WR   gs ? Kevin Curtis             rec 4-13/0
+-- TE --
+  80 TE   gs13 Brandon Manumaleuna      rush 15/0  rec 29-238/2
+  73 TE   gs10 Cameron Cleeland         rush -5/0  rec 10-145/0
+  68 TE   gs ? Richard Angulo           
+-- OL --
+  82 LT   gs ? Grant Williams           
+  80 C    gs ? Andy McCollum            
+  80 C    gs ? Dave Wohlabaugh          
+  77 LT   gs ? Orlando Pace             
+  72 LT   gs ? Andy King                
+  72 LT   gs ? Kyle Turley              
+  71 LG   gs ? Adam Timmerman           rec 1--7/0
+  70 LG   gs ? David Loverne            
+  67 LT   gs ? John St. Clair           rec 1-18/0
+  66 LT   gs ? Scott Tercero            
+-- EDGE --
+  82 EDGE gs ? Tyoka Jackson            
+  78 EDGE gs ? Leonard Little           
+  73 EDGE gs ? Grant Wistrom            
+  72 EDGE gs ? Bryce Fisher             
+-- DT --
+  81 DT   gs ? Brian Young              
+  77 DT   gs ? Damione Lewis            
+  71 DT   gs ? Jimmy Kennedy            
+  71 DT   gs ? Ryan Pickett             
+-- LB --
+  80 LB   gs ? Trev Faulk               
+  79 LB   gs ? Justin Smith             
+  73 LB   gs ? Jeremy Loyd              
+-- CB --
+  82 CB   gs ? Fred Weary               
+  82 CB   gs ? Jerametrius Butler       
+  77 CB   gs ? Travis Fisher            
+  72 CB   gs ? Dejuan Groce             
+  72 CB   gs ? Kevin Garrett            
+-- K --
+  70 K    gs ? Jeff Wilkins             rush 7/0
+-- P --
+  77 P    gs ? Sean Landeta             
+
+========== LV (Las Vegas Raiders) — 54 players ==========
+-- QB --
+  71 QB   gs 9 Rick Mirer               pass 1267/3td/5int  rush 83/1
+  62 QB   gs ? Rich Gannon              pass 1270/6td/4int  rush 18/0
+  55 QB   gs ? Tee Martin               pass 69/0td/1int  rush 28/0
+  50 QB   gs ? Marques Tuiasosopo       pass 324/0td/3int  rush 22/0
+-- RB --
+  81 RB   gs14 Charlie Garner           rush 553/3  rec 48-386/1
+  80 RB   gs15 Tyrone Wheatley          rush 678/4  rec 12-120/0
+  78 RB   gs14 Zack Crockett            rush 145/7  rec 7-53/0
+  69 RB   gs 9 Justin Fargas            rush 203/0  rec 2-2/0
+  52 RB   gs ? Chris Hetherington       rec 2-23/0
+  50 RB   gs ? J.R. Redmond             rush 30/0  rec 1-6/0
+-- WR --
+  85 WR   gs16 Jerry Rice               rec 63-861/2
+  82 WR   gs16 Tim Brown                rush 4/0  rec 51-563/2
+  72 WR   gs 9 Jerry Porter             rush 10/0  rec 28-361/1
+  70 WR   gs 8 Alvis Whitted            rush 37/0  rec 7-106/1
+  67 WR   gs ? John Stone               
+  61 WR   gs ? Ronald Curry             rec 5-31/0
+  55 WR   gs ? Doug Gabriel             rec 1-17/0
+-- TE --
+  76 TE   gs11 Doug Jolley              rec 31-258/1
+  73 TE   gs 9 Teyo Johnson             rec 14-128/1
+  57 TE   gs ? O.J. Santiago            rec 5-69/0
+-- OL --
+  82 LT   gs ? Lincoln Kennedy          
+  79 C    gs ? Barret Robbins           
+  79 LG   gs ? Brad Badger              
+  75 C    gs ? Adam Treu                
+  75 LG   gs ? Frank Middleton          
+  72 LT   gs ? Joe Wong                 
+  70 LG   gs ? Corey Hulsey             
+  70 C    gs ? Matt Stinchcomb          
+  70 LG   gs ? Mo Collins               
+  66 LT   gs ? Chad Slaughter           
+  65 LG   gs ? Barry Sims               
+  61 C    gs ? Blaine Saipaia           
+  61 LT   gs ? Langston Walker          
+-- EDGE --
+  82 EDGE gs ? Trace Armstrong          
+  78 EDGE gs ? Lorenzo Bromell          
+  72 EDGE gs ? DeLawrence Grant         
+  72 EDGE gs ? Grant Irons              
+  66 EDGE gs ? Akbar Gbaja-Biamila      
+  61 EDGE gs ? Sam Williams             
+  61 EDGE gs ? Shurron Pierson          
+  61 EDGE gs ? Tyler Brayton            
+-- DT --
+  80 DT   gs ? Sean Gilbert             
+  76 DT   gs ? John Parrella            
+  71 DT   gs ? Dana Stubblefield        
+  71 DT   gs ? Roderick Coleman         
+  65 DT   gs ? Chris Cooper             
+-- CB --
+  82 CB   gs ? Clarence Love            
+  82 CB   gs ? Terrance Shaw            
+  77 CB   gs ? Charles Woodson          
+  71 CB   gs ? Carey Scott              
+  71 CB   gs ? Nnamdi Asomugha          
+  62 CB   gs ? Phillip Buchanon         
+-- K --
+  76 K    gs ? Sebastian Janikowski     
+-- P --
+  76 P    gs ? Shane Lechler            
+
+========== MIA (Miami Dolphins) — 49 players ==========
+-- QB --
+  77 QB   gs12 Jay Fiedler              pass 2138/12td/13int  rush 95/3
+  74 QB   gs ? Sage Rosenfels           pass 50/1td/0int  rush -1/0
+  55 QB   gs ? Brian Griese             pass 813/5td/6int  rush 15/0
+-- RB --
+  90 RB   gs16 Ricky Williams           rush 1372/9  rec 50-351/1
+  74 RB   gs12 Travis Minor             rush 193/1  rec 4-13/0
+  69 RB   gs 9 Rob Konrad               rush 17/0  rec 16-166/0
+  63 RB   gs ? Charlie Rogers           
+  63 RB   gs ? Leonard Henry            
+  53 RB   gs ? Obafemi Ayanbadejo       rush -2/0  rec 12-53/0
+-- WR --
+  91 WR   gs16 Chris Chambers           rush 30/0  rec 64-963/11
+  77 WR   gs13 Derrius Thompson         rec 26-359/0
+  77 WR   gs12 James McKnight           rush 75/1  rec 23-285/2
+  67 WR   gs ? J.R. Tolver              
+  67 WR   gs ? Sam Simmons              
+  61 WR   gs ? Oronde Gadsden           rec 4-48/0
+  59 WR   gs ? Kendall Newson           rec 2-55/0
+-- TE --
+  87 TE   gs15 Randy McMichael          rec 49-598/2
+  68 TE   gs ? Sean McDermott           
+  64 TE   gs ? Donald Lee               rec 7-110/1
+-- OL --
+  82 LT   gs ? Mark Dixon               
+  79 C    gs ? Tim Ruddy                
+  79 LG   gs ? Todd Perry               
+  77 LT   gs ? Todd Wade                
+  75 LG   gs ? Jamie Nails              
+  72 LT   gs ? Greg Jerman              
+  70 LG   gs ? Billy Yates              
+  70 C    gs ? Jeff Grau                
+  70 C    gs ? Seth McKinney            
+  66 LT   gs ? Wade Smith               
+  65 LG   gs ? Taylor Whitley           
+-- EDGE --
+  93 EDGE gs ? Jason Taylor             
+  82 EDGE gs ? Rob Burnett              
+  78 EDGE gs ? Jay Williams             
+  72 EDGE gs ? David Bowens             
+  66 EDGE gs ? Adewale Ogunleye         
+  62 EDGE gs ? Tony Brown               
+  61 EDGE gs ? Otis Grigsby             
+-- DT --
+  80 DT   gs ? Jeff Zgonina             
+  76 DT   gs ? Tim Bowens               
+  71 DT   gs ? Dario Romero             
+  71 DT   gs ? Larry Chester            
+-- CB --
+  82 CB   gs ? Sam Madison              
+  82 CB   gs ? Terrell Buckley          
+  77 CB   gs ? Patrick Surtain          
+  71 CB   gs ? Jamar Fletcher           
+  71 CB   gs ? Jimmy Wyrick             
+-- K --
+  76 K    gs ? Olindo Mare              
+-- P --
+  70 P    gs ? Mark Royals              
+  64 P    gs ? Matt Turk                rush 30/0
+
+========== MIN (Minnesota Vikings) — 43 players ==========
+-- QB --
+  92 QB   gs14 Daunte Culpepper         pass 3479/25td/11int  rush 422/4
+  75 QB   gs ? Gus Frerotte             pass 690/7td/2int  rush -2/0
+  68 QB   gs ? Shaun Hill               
+-- RB --
+  85 RB   gs16 Moe Williams             rush 745/5  rec 65-644/3
+  74 RB   gs10 Onterrio Smith           rush 579/5  rec 15-129/0
+  71 RB   gs 8 Michael Bennett          rush 447/1  rec 12-132/0
+  63 RB   gs ? Larry Ned                
+  54 RB   gs ? Charles Stackhouse       rec 6-30/0
+  52 RB   gs ? John Avery               rec 2-24/1
+-- WR --
+  99 WR   gs16 Randy Moss               rush 18/0  rec 111-1632/17
+  80 WR   gs14 Kelly Campbell           rush 71/0  rec 25-522/4
+  78 WR   gs13 Nate Burleson            rec 29-455/2
+  70 WR   gs 8 D'Wayne Bates            rec 15-151/1
+  59 WR   gs ? Keenan Howry             rec 2-15/0
+-- TE --
+  86 TE   gs14 Jim Kleinsasser          rush 15/0  rec 46-401/4
+  68 TE   gs ? Sean Berton              
+  62 TE   gs ? Hunter Goodwin           rec 4-26/0
+-- OL --
+  82 LT   gs ? Everett Lindsay          
+  79 LG   gs ? David Dixon              
+  79 C    gs ? Matt Birk                
+  75 LG   gs ? Chris Liwienski          
+  75 C    gs ? Cory Withrow             
+  72 LT   gs ? Bryant McKinnie          
+  72 LT   gs ? Mike Rosenthal           
+  70 C    gs ? Brody Liddiard           
+  70 LG   gs ? Lewis Kelly              
+-- EDGE --
+  82 EDGE gs ? Lance Johnstone          
+  78 EDGE gs ? Kenny Mixon              
+  72 EDGE gs ? Chuck Wiley              
+-- DT --
+  81 DT   gs ? Billy Lyon               
+  76 DT   gs ? Talance Sawyer           
+  71 DT   gs ? Chris Hovan              
+  71 DT   gs ? Fred Robbins             
+  66 DT   gs ? Kevin Williams           
+-- CB --
+  82 CB   gs ? Denard Walker            
+  82 CB   gs ? Ken Irvin                
+  77 CB   gs ? Eric Kelly               
+  71 CB   gs ? Brian Williams           
+  71 CB   gs ? Rhett Nelson             
+  66 CB   gs ? Rushen Jones             
+-- K --
+  76 K    gs ? Aaron Elling             
+-- P --
+  76 P    gs ? Leo Araguz               
+  63 P    gs ? Eddie Johnson            rush 15/0
+
+========== NE (New England Patriots) — 46 players ==========
+-- QB --
+  88 QB   gs16 Tom Brady                pass 3620/23td/12int  rush 63/1
+  60 QB   gs ? Damon Huard              rush -1/0
+  54 QB   gs ? Rohan Davey              pass 31/0td/0int
+-- RB --
+  84 RB   gs15 Kevin Faulk              rush 638/0  rec 48-440/0
+  79 RB   gs13 Antowain Smith           rush 642/3  rec 14-92/0
+  70 RB   gs 9 Larry Centers            rush 82/0  rec 19-106/1
+  55 RB   gs ? Michael Cloud            rush 118/5  rec 1-8/0
+  52 RB   gs ? Patrick Pass             rush 27/0  rec 4-21/0
+  51 RB   gs ? Fred McCrary             rush 3/0  rec 2-12/0
+-- WR --
+  84 WR   gs15 Deion Branch             rush 11/0  rec 57-803/3
+  80 WR   gs12 Troy Brown               rush 27/0  rec 40-472/4
+  76 WR   gs10 David Givens             rec 34-510/6
+  71 WR   gs 8 Bethel Johnson           rush -12/0  rec 16-209/2
+  62 WR   gs ? J.J. Stokes              rec 15-154/0
+  56 WR   gs ? David Patten             rush 4/0  rec 9-140/0
+  56 WR   gs ? Dedric Ward              rec 7-106/1
+-- TE --
+  84 TE   gs13 Daniel Graham            rec 38-409/4
+  80 TE   gs13 Christian Fauria         rec 28-285/2
+  68 TE   gs ? Brian Kinchen            
+  63 TE   gs ? Fred Baxter              
+-- OL --
+  79 LG   gs ? Mike Compton             
+  79 LG   gs ? Wilbert Brown            
+  75 LG   gs ? Damien Woody             
+  75 C    gs ? Lonie Paxton             
+  74 LG   gs ? Joe Andruzzi             rec 1-0/0
+  72 LT   gs ? Adrian Klemm             
+  72 LT   gs ? Brandon Gorin            
+  72 LT   gs ? Tom Ashworth             
+  70 LG   gs ? Russ Hochstein           
+  66 LT   gs ? Matt Light               
+  65 C    gs ? Dan Koppen               
+-- EDGE --
+  82 EDGE gs ? Anthony Pleasant         
+  78 EDGE gs ? Bobby Hamilton           
+  72 EDGE gs ? Richard Seymour          
+  72 EDGE gs ? Rick Lyle                
+  66 EDGE gs ? Jarvis Green             
+  62 EDGE gs ? Ty Warren                
+-- DT --
+  81 DT   gs ? Ted Washington           
+-- LB --
+  78 LB   gs ? Tully Banta-Cain         
+-- CB --
+  82 CB   gs ? Ty Law                   
+  82 CB   gs ? Tyrone Poole             
+  77 CB   gs ? Asante Samuel            
+-- S --
+  79 S    gs ? Shawn Mayer              
+-- K --
+  77 K    gs ? Adam Vinatieri           
+-- P --
+  71 P    gs ? Ken Walter               
+  67 P    gs ? Brooks Barnard           
+
+========== NO (New Orleans Saints) — 48 players ==========
+-- QB --
+  89 QB   gs16 Aaron Brooks             pass 3546/24td/8int  rush 183/2
+  68 QB   gs ? J.T. O'Sullivan          
+  68 QB   gs ? Todd Bouman              pass 81/1td/0int  rush 1/0
+-- RB --
+  92 RB   gs16 Deuce McAllister         rush 1641/8  rec 69-516/0
+  60 RB   gs ? Fred McAfee              rush 13/0
+  57 RB   gs ? Lamar Smith              rush 61/0  rec 1-2/0
+  54 RB   gs ? Terrelle Smith           rec 6-28/0
+  53 RB   gs ? Ki-Jana Carter           rush 72/1  rec 1-11/0
+  51 RB   gs ? James Fenderson          rush 14/0  rec 1-5/0
+-- WR --
+  91 WR   gs15 Joe Horn                 pass 14/0td/0int  rush 15/0  rec 78-973/10
+  82 WR   gs16 Jerome Pathon            rec 44-578/4
+  74 WR   gs11 Donte' Stallworth        rush 3/0  rec 25-485/3
+  67 WR   gs ? Phil McGeoghan           
+  63 WR   gs ? Michael Lewis            rush 2/0  rec 12-226/1
+  59 WR   gs ? Derrick Lewis            rec 1-7/0
+  55 WR   gs ? Talman Gardner           rec 3-29/0
+-- TE --
+  86 TE   gs13 Boo Williams             rec 41-436/5
+  75 TE   gs 8 Ernie Conwell            rec 26-290/2
+  63 TE   gs ? David Sloan              
+  63 TE   gs ? Zach Hilton              
+  58 TE   gs ? Walter Rasby             rec 6-55/0
+-- OL --
+  82 LT   gs ? Spencer Folau            
+  82 LT   gs ? Wayne Gandy              
+  79 C    gs ? Jerry Fontenot           
+  77 LT   gs ? Victor Riley             
+  75 LG   gs ? Kendyl Jacox             
+  70 C    gs ? Kevin Houser             
+  70 LG   gs ? LeCharles Bentley        
+  70 LG   gs ? P.J. Alexander           
+  70 C    gs ? Terence Wagner           
+  66 LT   gs ? Jon Stinchcomb           
+  65 LG   gs ? Montrae Holland          
+-- EDGE --
+  82 EDGE gs ? Willie Whitehead         
+  78 EDGE gs ? Tony Bryant              
+  72 EDGE gs ? Darren Howard            
+  72 EDGE gs ? Howard Green             
+  66 EDGE gs ? Charles Grant            
+  62 EDGE gs ? Melvin Williams          
+-- DT --
+  81 DT   gs ? Kenny Smith              
+  76 DT   gs ? Kenderick Allen          
+  71 DT   gs ? Johnathan Sullivan       
+-- CB --
+  82 CB   gs ? Ashley Ambrose           
+  82 CB   gs ? Dale Carter              
+  73 CB   gs ? Fred Thomas              
+  71 CB   gs ? Fakhir Brown             
+  71 CB   gs ? Keyuo Craver             
+-- K --
+  70 K    gs ? John Carney              rush 3/0
+-- P --
+  70 P    gs ? Mitch Berger             
+
+========== NYG (New York Giants) — 51 players ==========
+-- QB --
+  79 QB   gs13 Kerry Collins            pass 3110/13td/16int  rush 49/0
+  68 QB   gs ? Jason Garrett            
+  61 QB   gs ? Jesse Palmer             pass 532/3td/4int  rush 23/0
+-- RB --
+  87 RB   gs16 Tiki Barber              rush 1215/2  rec 69-461/1
+  71 RB   gs11 Dorsey Levens            rush 197/3  rec 5-39/0
+  63 RB   gs ? Ron Dayne                
+  58 RB   gs ? Brian Mitchell           rush 20/1  rec 4-38/0
+  57 RB   gs ? Jim Finn                 rec 13-88/0
+  53 RB   gs ? Delvin Joyce             rush 39/0  rec 3-7/0
+-- WR --
+  88 WR   gs16 Amani Toomer             rush 5/0  rec 63-1057/5
+  84 WR   gs13 Ike Hilliard             rush 19/0  rec 60-608/6
+  72 WR   gs10 Tim Carter               rec 26-309/0
+  67 WR   gs ? Ataveus Cash             
+  63 WR   gs ? David Tyree              rush -9/0  rec 16-211/0
+  61 WR   gs ? Willie Ponder            rec 7-35/0
+-- TE --
+  78 TE   gs 9 Jeremy Shockey           rec 49-562/2
+  66 TE   gs ? Marcellus Rivers         rec 17-155/0
+  63 TE   gs ? Tony McGee               
+  55 TE   gs ? Darnell Dinkins          rec 2-16/0
+  54 TE   gs ? Visanthe Shiancoe        rec 10-56/2
+-- OL --
+  82 LT   gs ? Luke Petitgout           
+  79 C    gs ? Chris Bober              
+  79 LG   gs ? Rich Seubert             
+  77 LT   gs ? Ian Allen                
+  75 C    gs ? Omar Smith               
+  72 LT   gs ? Jeff Hatch               
+  72 LT   gs ? Jeff Roehl               
+  72 LT   gs ? Mike Saffer              
+  70 C    gs ? Scott Peters             
+  66 LT   gs ? David Diehl              
+  65 C    gs ? Wayne Lucier             
+  57 C    gs ? Carson Dach              
+-- EDGE --
+  82 EDGE gs ? Michael Strahan          
+  78 EDGE gs ? Keith Washington         
+  72 EDGE gs ? Kenny Holmes             
+  72 EDGE gs ? Osi Umenyiora            
+-- DT --
+  81 DT   gs ? Keith Hamilton           
+  76 DT   gs ? Cornelius Griffin        
+  71 DT   gs ? Lance Legree             
+  71 DT   gs ? William Joseph           
+-- CB --
+  82 CB   gs ? Kato Serwanga            
+  82 CB   gs ? Reggie Stephens          
+  77 CB   gs ? Ralph Brown              
+  71 CB   gs ? Ike Charlton             
+  71 CB   gs ? William James            
+  66 CB   gs ? Frank Walker             
+  66 CB   gs ? Will Allen               
+-- S --
+  80 S    gs ? Clarence LeBlanc         
+-- K --
+  77 K    gs ? Brett Conway             
+  67 K    gs ? Matt Bryant              
+-- P --
+  76 P    gs ? Jeff Feagles             
+
+========== NYJ (New York Jets) — 46 players ==========
+-- QB --
+  74 QB   gs10 Chad Pennington          pass 2139/13td/12int  rush 42/2
+  68 QB   gs ? Brooks Bollinger         
+  67 QB   gs ? Vinny Testaverde         pass 1385/7td/2int  rush 13/0
+-- RB --
+  85 RB   gs16 Curtis Martin            rush 1308/2  rec 42-262/0
+  79 RB   gs16 Jerald Sowell            rush 2/0  rec 47-436/1
+  76 RB   gs12 LaMont Jordan            rush 190/4  rec 11-101/0
+  50 RB   gs ? B.J. Askew               rush 9/0
+-- WR --
+  92 WR   gs16 Santana Moss             rush 67/0  rec 74-1105/10
+  82 WR   gs16 Curtis Conway            rec 46-640/2
+  71 WR   gs ? Wayne Chrebet            rec 27-289/1
+  67 WR   gs ? Ken-Yon Rambo            
+  61 WR   gs ? Kevin Lockett            rec 5-76/0
+  61 WR   gs ? Kevin Swayne             rec 2-29/1
+  56 WR   gs ? Jonathan Carter          rec 4-93/1
+-- TE --
+  85 TE   gs15 Anthony Becht            rec 40-356/4
+  73 TE   gs10 Chris Baker              rec 14-137/0
+  68 TE   gs ? James Dearth             
+-- OL --
+  79 LG   gs ? Brent Smith              
+  79 LG   gs ? Dave Szott               
+  79 C    gs ? Kevin Mawae              
+  77 LT   gs ? Jason Fabini             
+  75 C    gs ? J.P. Machado             
+  72 LT   gs ? Kareem McKenzie          
+  70 LG   gs ? Brandon Moore            
+  70 LG   gs ? Dave Yovanovits          
+  70 C    gs ? Jonathan Goodwin         
+  66 LT   gs ? Lance Nimmo              
+-- EDGE --
+  82 EDGE gs ? Shaun Ellis              
+  78 EDGE gs ? John Abraham             
+  72 EDGE gs ? Bryan Thomas             
+  72 EDGE gs ? Matt Walters             
+-- DT --
+  81 DT   gs ? Chester McGlockton       
+  76 DT   gs ? Josh Evans               
+  71 DT   gs ? James Reed               
+  71 DT   gs ? Jason Ferguson           
+  66 DT   gs ? Alan Harper              
+  61 DT   gs ? Dewayne Robertson        
+-- LB --
+  78 LB   gs ? Mark Brown               
+-- CB --
+  82 CB   gs ? Aaron Beasley            
+  82 CB   gs ? Donnie Abraham           
+  77 CB   gs ? Ray Mickens              
+  71 CB   gs ? Jamie Henderson          
+  71 CB   gs ? Ray Green                
+  66 CB   gs ? Omare Lowe               
+-- K --
+  77 K    gs ? Doug Brien               
+-- P --
+  71 P    gs ? Dan Stryzinski           
+
+========== PHI (Philadelphia Eagles) — 48 players ==========
+-- QB --
+  84 QB   gs16 Donovan McNabb           pass 3223/16td/11int  rush 359/3  rec 1--7/0
+  68 QB   gs ? A.J. Feeley              
+  63 QB   gs ? Koy Detmer               pass 32/0td/0int
+-- RB --
+  83 RB   gs15 Brian Westbrook          rush 605/7  rec 38-340/4
+  81 RB   gs15 Correll Buckhalter       rush 542/8  rec 10-133/1
+  81 RB   gs16 Duce Staley              rush 457/5  rec 36-382/2
+  70 RB   gs11 Jon Ritchie              rush 1/0  rec 17-86/3
+  51 RB   gs ? Reno Mahe                rec 1-5/0
+-- WR --
+  81 WR   gs16 James Thrash             rush 53/0  rec 49-558/1
+  80 WR   gs15 Todd Pinkston            rush -11/0  rec 36-575/2
+  79 WR   gs15 Freddie Mitchell         pass 25/1td/0int  rec 35-498/2
+  67 WR   gs ? Sean Morey               
+  62 WR   gs ? Greg Lewis               rec 6-95/0
+  59 WR   gs ? Billy McMullen           rec 1-2/0
+-- TE --
+  80 TE   gs14 Chad Lewis               rec 23-293/1
+  80 TE   gs12 L.J. Smith               rec 27-320/1
+  68 TE   gs ? Mike Bartrum             
+  63 TE   gs ? Kori Dickerson           
+-- OL --
+  82 LT   gs ? Jon Runyan               
+  82 LT   gs ? Tra Thomas               
+  79 LG   gs ? Jermane Mayberry         
+  77 LT   gs ? John Welbourn            
+  75 C    gs ? Hank Fraley              
+  72 LT   gs ? Artis Hicks              
+  72 LT   gs ? Jamaal Jackson           
+  70 C    gs ? Alonzo Ephraim           
+  70 LG   gs ? Bobbie Williams          
+  66 LT   gs ? Jeremy Bridges           
+-- EDGE --
+  82 EDGE gs ? Marco Coleman            
+  78 EDGE gs ? Ndukwe Kalu              
+  72 EDGE gs ? Brandon Whiting          
+  72 EDGE gs ? Frank Ferrara            
+  66 EDGE gs ? Ron Johnson              
+  62 EDGE gs ? Jerome McDougle          
+-- DT --
+  81 DT   gs ? Jim Flanigan             
+  76 DT   gs ? Paul Grasmanis           
+  71 DT   gs ? Darwin Walker            
+  71 DT   gs ? Hollis Thomas            
+  66 DT   gs ? Corey Simon              
+  61 DT   gs ? Sam Rayburn              
+-- CB --
+  82 CB   gs ? Bobby Taylor             
+  82 CB   gs ? Troy Vincent             
+  77 CB   gs ? Lito Sheppard            
+  71 CB   gs ? Roderick Hood            
+  71 CB   gs ? Sheldon Brown            
+-- S --
+  80 S    gs ? Norman LeJeune           
+-- K --
+  77 K    gs ? David Akers              
+-- P --
+  77 P    gs ? Dirk Johnson             
+
+========== PIT (Pittsburgh Steelers) — 45 players ==========
+-- QB --
+  82 QB   gs16 Tommy Maddox             pass 3414/18td/17int  rush 12/0
+  68 QB   gs ? Brian St. Pierre         
+  60 QB   gs ? Charlie Batch            pass 47/0td/0int  rush 11/0
+-- RB --
+  83 RB   gs16 Jerome Bettis            rush 811/7  rec 13-86/0
+  80 RB   gs16 Amos Zereoue             rush 433/2  rec 40-310/0
+  69 RB   gs10 Dan Kreider              rush 29/1  rec 9-107/0
+  68 RB   gs 8 Verron Haynes            rush 63/0  rec 7-57/0
+  63 RB   gs ? Dante Brown              
+  63 RB   gs ? Dee Brown                
+-- WR --
+  94 WR   gs16 Hines Ward               rush 61/0  rec 95-1163/10
+  85 WR   gs16 Plaxico Burress          rush -7/0  rec 60-860/4
+  79 WR   gs16 Antwaan Randle El        pass 6/0td/0int  rush 85/0  rec 37-364/1
+  70 WR   gs 8 Chris Doering            rec 18-240/1
+  67 WR   gs ? Freddie Milons           
+  60 WR   gs ? Lee Mays                 rec 2-17/0
+-- TE --
+  72 TE   gs 9 Jerame Tuman             rec 12-113/0
+  63 TE   gs ? Matt Cushing             
+  61 TE   gs ? Mark Bruener             rec 2-1/1
+  59 TE   gs ? Jay Riemersma            rec 10-138/1
+-- OL --
+  82 LT   gs ? Barrett Brooks           
+  82 LT   gs ? Todd Fordham             
+  79 C    gs ? Jeff Hartings            
+  77 LT   gs ? Oliver Ross              
+  75 LG   gs ? Alan Faneca              
+  72 LT   gs ? Marvel Smith             
+  70 C    gs ? Chukky Okobi             
+  70 LG   gs ? Keydrick Vincent         
+  70 C    gs ? Mike Schneck             
+  66 LT   gs ? Mathias Nkwenti          
+  65 LG   gs ? Kendall Simmons          
+-- EDGE --
+  82 EDGE gs ? Kimo Von Oelhoffen       
+  78 EDGE gs ? Aaron Smith              
+  72 EDGE gs ? Chris Hoke               
+  72 EDGE gs ? Rodney Bailey            
+-- DT --
+  81 DT   gs ? Kendrick Clancy          
+  77 DT   gs ? Casey Hampton            
+-- CB --
+  82 CB   gs ? Chad Scott               
+  82 CB   gs ? DeWayne Washington       
+  77 CB   gs ? Deshea Townsend          
+  71 CB   gs ? Chidi Iwuoma             
+  71 CB   gs ? Ivan Taylor              
+-- S --
+  81 S    gs ? Russell Stuvaints        
+  74 S    gs ? B.J. Tucker              
+-- K --
+  77 K    gs ? Jeff Reed                
+-- P --
+  71 P    gs ? Josh Miller              pass 81/1td/0int
+
+========== SEA (Seattle Seahawks) — 46 players ==========
+-- QB --
+  91 QB   gs16 Matt Hasselbeck          pass 3844/26td/15int  rush 125/2
+  68 QB   gs ? Seneca Wallace           
+  61 QB   gs ? Trent Dilfer             pass 31/1td/1int  rush -1/0
+-- RB --
+  93 RB   gs16 Shaun Alexander          rush 1435/14  rec 42-295/2
+  77 RB   gs16 Mack Strong              rush 174/1  rec 29-216/0
+  75 RB   gs13 Maurice Morris           rush 239/0  rec 4-32/1
+  63 RB   gs ? Chris Davis              
+  52 RB   gs ? Heath Evans              rush 24/0  rec 2-34/0
+  50 RB   gs ? Kerry Carter             rush -2/0
+-- WR --
+  90 WR   gs15 Darrell Jackson          rec 68-1137/9
+  86 WR   gs15 Koren Robinson           rush 15/0  rec 65-896/4
+  84 WR   gs15 Bobby Engram             rec 52-640/6
+  72 WR   gs ? Jerheme Urban            
+  67 WR   gs ? Taco Wallace             
+  61 WR   gs ? Alex Bannister           rec 3-61/1
+-- TE --
+  88 TE   gs16 Itula Mili               rec 46-492/4
+  68 TE   gs ? Ryan Hannam              
+  62 TE   gs ? Jerramy Stevens          rec 6-72/0
+-- OL --
+  82 LT   gs ? Walter Jones             
+  79 LG   gs ? Chris Gray               
+  79 C    gs ? Robbie Tobeck            
+  77 LT   gs ? Chris Terry              
+  75 LG   gs ? Jerry Wunsch             
+  70 C    gs ? Dennis Norman            
+  70 LG   gs ? Floyd Womack             
+  70 C    gs ? J.P. Darche              
+  70 LG   gs ? Steve Hutchinson         
+  66 LT   gs ? Matt Hill                
+  66 LT   gs ? Wayne Hunter             
+-- EDGE --
+  82 EDGE gs ? Brandon Mitchell         
+  78 EDGE gs ? Antonio Cochran          
+  72 EDGE gs ? Chike Okeafor            
+  72 EDGE gs ? Lamar King               
+  66 EDGE gs ? Anton Palepoi            
+-- DT --
+  93 DT   gs ? John Randle              
+  77 DT   gs ? Norman Hand              
+  71 DT   gs ? Cedric Woodard           
+  71 DT   gs ? Rocky Bernard            
+  66 DT   gs ? Rashad Moore             
+-- CB --
+  82 CB   gs ? Shawn Springs            
+  82 CB   gs ? Willie Williams          
+  77 CB   gs ? Ken Lucas                
+  72 CB   gs ? Kris Richard             
+  72 CB   gs ? Marcus Trufant           
+-- K --
+  77 K    gs ? Josh Brown               
+-- P --
+  77 P    gs ? Tom Rouen                
+
+========== SF (San Francisco 49ers) — 47 players ==========
+-- QB --
+  82 QB   gs13 Jeff Garcia              pass 2704/18td/13int  rush 325/7  rec 1-6/0
+  77 QB   gs 8 Tim Rattay               pass 856/7td/2int
+  69 QB   gs ? Ken Dorsey               
+-- RB --
+  86 RB   gs16 Kevan Barlow             rush 1024/6  rec 35-307/1
+  80 RB   gs12 Garrison Hearst          rush 768/3  rec 25-211/1
+  75 RB   gs14 Fred Beasley             rush 24/0  rec 19-184/1
+  63 RB   gs ? Jasen Isom               
+  63 RB   gs ? Terry Jackson            
+  53 RB   gs ? Jamal Robertson          rush 136/0
+-- WR --
+  92 WR   gs15 Terrell Owens            rush -2/0  rec 80-1102/9
+  83 WR   gs14 Tai Streets              rec 47-595/7
+  78 WR   gs14 Cedrick Wilson           pass 6/0td/0int  rush -4/0  rec 35-396/2
+  72 WR   gs ? James Jordan             
+  71 WR   gs 8 Brandon Lloyd            rec 14-212/2
+  63 WR   gs ? Arnaz Battle             rush 14/0
+-- TE --
+  82 TE   gs15 Jed Weaver               rec 35-437/1
+  71 TE   gs 8 Aaron Walker             rec 8-116/1
+  68 TE   gs ? Brian Jennings           
+  63 TE   gs ? Eric Johnson             
+-- OL --
+  82 LT   gs ? Derrick Deese            
+  82 LT   gs ? Scott Gragg              
+  80 LG   gs ? Ron Stone                
+  77 LT   gs ? Jerome Davis             
+  75 C    gs ? Brock Gutierrez          
+  70 C    gs ? Dwayne Ledford           
+  70 LG   gs ? Eric Heitmann            
+  70 C    gs ? Jeremy Newberry          
+  70 LG   gs ? Rob Murphy               
+  66 LT   gs ? Kwame Harris             
+  65 LG   gs ? Kyle Kosier              
+-- EDGE --
+  82 EDGE gs ? Chidi Ahanotu            
+  78 EDGE gs ? Sean Moran               
+  72 EDGE gs ? John Engelberger         
+  72 EDGE gs ? Travis Kirschke          
+  66 EDGE gs ? Andre Carter             
+  62 EDGE gs ? Andrew Williams          
+  62 EDGE gs ? Michael Landry           
+-- DT --
+  81 DT   gs ? Bryant Young             
+  77 DT   gs ? Anthony Adams            
+-- LB --
+  79 LB   gs ? Cornelius Anthony        
+-- CB --
+  82 CB   gs ? Ahmed Plummer            
+  82 CB   gs ? Jason Webster            
+  77 CB   gs ? Jimmy Williams           
+  72 CB   gs ? Mike Rumph               
+  72 CB   gs ? Rashad Holman            
+-- K --
+  77 K    gs ? Todd Peterson            
+-- P --
+  71 P    gs ? Bill LaFleur             
+
+========== TB (Tampa Bay Buccaneers) — 51 players ==========
+-- QB --
+  86 QB   gs16 Brad Johnson             pass 3821/26td/21int  rush 33/0
+  69 QB   gs ? Chris Simms              
+  63 QB   gs ? Shaun King               pass 130/1td/1int  rush 20/0
+-- RB --
+  89 RB   gs16 Michael Pittman          rush 751/0  rec 75-591/2
+  80 RB   gs15 Thomas Jones             rush 627/3  rec 24-180/0
+  74 RB   gs12 Aaron Stecker            rush 125/0  rec 9-48/1
+  70 RB   gs10 Jameel Cook              rush -1/0  rec 20-120/1
+  63 RB   gs ? Cecil Martin             
+  54 RB   gs ? Mike Alstott             rush 77/2  rec 10-83/0
+  51 RB   gs ? Darian Barnes            rec 1-6/0
+-- WR --
+  92 WR   gs16 Keenan McCardell         rec 84-1179/8
+  76 WR   gs10 Keyshawn Johnson         rec 45-601/3
+  67 WR   gs ? Karl Williams            rush 2/0  rec 7-114/0
+  62 WR   gs ? Joe Jurevicius           rec 12-118/2
+  61 WR   gs ? Reggie Barlow            rec 3-27/1
+  60 WR   gs ? Charles Lee              rush 14/0  rec 33-432/2
+  54 WR   gs ? Edell Shepherd           rec 4-38/0
+-- TE --
+  79 TE   gs13 Ken Dilger               rec 22-244/1
+  64 TE   gs ? Rickey Dudley            rec 7-42/1
+  63 TE   gs ? Roland Williams          
+  58 TE   gs ? Todd Yoder               rec 7-68/2
+  52 TE   gs ? Will Heller              rec 2-15/1
+-- OL --
+  82 LT   gs ? Roman Oben               
+  80 C    gs ? John Wade                
+  80 LG   gs ? Kerry Jenkins            
+  77 LT   gs ? Cornell Green            
+  75 LG   gs ? Jason Whittle            
+  72 LT   gs ? Anthony Davis            
+  72 LT   gs ? Kenyatta Walker          
+  70 LG   gs ? Cosey Coleman            
+  70 C    gs ? Ryan Benjamin            
+  65 C    gs ? Austin King              
+  65 LG   gs ? Sean Mahan               
+-- EDGE --
+  82 EDGE gs ? Simeon Rice              
+  75 EDGE gs ? Warren Sapp              rec 4-39/2
+  73 EDGE gs ? Greg Spires              
+  73 EDGE gs ? Reinard Wilson           
+  66 EDGE gs ? Corey Smith              
+  62 EDGE gs ? Dewayne White            
+-- DT --
+  81 DT   gs ? Chuck Darby              
+  77 DT   gs ? Anthony McFarland        
+  71 DT   gs ? Cleveland Pinkney        
+  71 DT   gs ? Ellis Wyms               
+-- LB --
+  80 LB   gs ? Vinny Ciurciu            
+-- CB --
+  82 CB   gs ? Brian Kelly              
+  82 CB   gs ? Ronde Barber             
+  77 CB   gs ? Corey Ivy                
+  72 CB   gs ? Tim Wansley              
+-- S --
+  81 S    gs ? Ronyell Whitaker         
+-- K --
+  78 K    gs ? Martin Gramatica         
+-- P --
+  77 P    gs ? Tom Tupa                 
+
+========== TEN (Tennessee Titans) — 45 players ==========
+-- QB --
+  91 QB   gs14 Steve McNair             pass 3246/24td/7int  rush 138/4  rec 1-4/0
+  68 QB   gs ? Neil O'Donnell           pass 232/2td/1int  rush -1/0
+  63 QB   gs ? Billy Volek              pass 545/4td/1int  rush 4/1
+  63 QB   gs ? Jason Gesser             
+-- RB --
+  84 RB   gs16 Eddie George             rush 1031/5  rec 22-163/0
+  76 RB   gs15 Robert Holcombe          rush 201/1  rec 19-140/1
+  70 RB   gs11 Chris Brown              rush 221/0  rec 8-61/0
+  63 RB   gs ? Ray Jackson              
+-- WR --
+  94 WR   gs16 Derrick Mason            rush 11/0  rec 95-1303/8
+  86 WR   gs16 Justin McCareins         rush 13/0  rec 47-813/7
+  75 WR   gs 9 Drew Bennett             pass 14/0td/0int  rec 32-504/4
+  72 WR   gs 8 Tyrone Calico            rush 5/0  rec 18-297/4
+  67 WR   gs ? Darrell Hill             
+  67 WR   gs ? Jake Schifino            
+  61 WR   gs ? Eddie Berlin             rec 1-50/1
+-- TE --
+  85 TE   gs16 Erron Kinney             rec 41-393/3
+  74 TE   gs 9 Frank Wycheck            rec 17-165/2
+  59 TE   gs ? Shad Meier               rec 13-159/0
+-- OL --
+  82 LT   gs ? Brad Hopkins             
+  82 LT   gs ? Jason Mathews            
+  80 C    gs ? Tom Ackerman             
+  77 LT   gs ? Fred Miller              
+  75 LG   gs ? Benji Olson              
+  72 LT   gs ? Matt Martin              
+  70 C    gs ? Justin Hartwig           
+  70 C    gs ? Ken Amato                
+  70 LG   gs ? Zach Piller              
+  66 LT   gs ? Todd Williams            
+-- EDGE --
+  83 EDGE gs ? Jevon Kearse             
+  78 EDGE gs ? Juqua Parker             
+  73 EDGE gs ? Carlos Hall              
+-- DT --
+  81 DT   gs ? Kevin Carter             
+  77 DT   gs ? Robaire Smith            
+  72 DT   gs ? James Atkins             
+  71 DT   gs ? Albert Haynesworth       
+  66 DT   gs ? Rien Long                
+-- LB --
+  81 LB   gs ? Jordan Kramer            
+-- CB --
+  82 CB   gs ? Andre Dyson              
+  82 CB   gs ? Samari Rolle             
+  77 CB   gs ? Mike Echols              
+  72 CB   gs ? Andre Woolfolk           
+  72 CB   gs ? Tony Beckham             
+-- K --
+  78 K    gs ? Gary Anderson            
+  68 K    gs ? Joe Nedney               
+-- P --
+  72 P    gs ? Craig Hentrich           pass 25/0td/0int
+
+========== WAS (Washington Commanders) — 52 players ==========
+-- QB --
+  73 QB   gs11 Patrick Ramsey           pass 2169/14td/9int  rush 62/1
+  61 QB   gs ? Rob Johnson              pass 93/0td/1int  rush 21/0
+  56 QB   gs ? Tim Hasselbeck           pass 1012/5td/7int  rush 41/0
+  49 QB   gs ? Gibran Hamdan            pass 7/0td/0int
+-- RB --
+  79 RB   gs15 Rock Cartwright          rush 411/4  rec 18-176/0
+  76 RB   gs13 Chad Morton              rush 213/0  rec 16-190/1
+  72 RB   gs11 Trung Canidate           rush 597/1  rec 10-71/1
+  71 RB   gs 9 Ladell Betts             rush 255/2  rec 15-167/0
+  68 RB   gs 9 Bryan Johnson            rush 5/0  rec 9-71/0
+  51 RB   gs ? John Simon               rush 9/0  rec 3-21/0
+  50 RB   gs ? Sultan McCullough        rush 9/0  rec 3-13/0
+-- WR --
+  91 WR   gs16 Laveranues Coles         rush 39/0  rec 82-1204/6
+  84 WR   gs16 Rod Gardner              pass 46/2td/0int  rec 59-600/5
+  80 WR   gs13 Darnerien McCants        rec 27-360/6
+  70 WR   gs 8 Pat Johnson              rec 15-170/1
+  60 WR   gs ? Cliff Russell            rec 2-10/0
+  56 WR   gs ? Taylor Jacobs            rec 3-37/1
+-- TE --
+  73 TE   gs ? Byron Chamberlain        rec 4-29/0
+  65 TE   gs ? Zeron Flemister          rec 9-89/0
+  57 TE   gs ? Robert Royal             rec 5-48/0
+  51 TE   gs ? Kevin Ware               rec 3-17/0
+-- OL --
+  80 LG   gs ? Dave Fiore               
+  80 C    gs ? Ethan Albright           
+  80 LG   gs ? Larry Moore              
+  75 LG   gs ? Daryl Terrell            
+  75 C    gs ? Lennie Friedman          
+  72 LT   gs ? Jon Jansen               
+  72 LT   gs ? Pita Elisara             
+  70 LG   gs ? Brad Bedell              
+  70 LG   gs ? Randy Thomas             
+  66 LT   gs ? Chris Samuels            
+  66 LT   gs ? Mitch White              
+  61 LT   gs ? Brandon Winey            
+  61 LG   gs ? Derrick Dockery          
+  61 LT   gs ? Kenyatta Jones           
+-- EDGE --
+  97 EDGE gs ? Bruce Smith              
+  78 EDGE gs ? Regan Upshaw             
+  73 EDGE gs ? Renaldo Wynn             
+  73 EDGE gs ? Ron Warner               
+  66 EDGE gs ? Peppi Zellner            
+-- DT --
+  81 DT   gs ? Bernard Holsey           
+  77 DT   gs ? Darrell Russell          
+  72 DT   gs ? Lional Dalton            
+  72 DT   gs ? Martin Chase             
+  66 DT   gs ? Jermaine Haley           
+-- LB --
+  81 LB   gs ? Clifton Smith            
+-- CB --
+  83 CB   gs ? Champ Bailey             
+  83 CB   gs ? Fred Smoot               
+  77 CB   gs ? Rashad Bauman            
+  72 CB   gs ? Ade Jimoh                
+-- K --
+  78 K    gs ? John Hall                
+-- P --
+  71 P    gs ? Bryan Barker             pass 3/0td/0int

@@ -1,0 +1,33 @@
+team_code,team_name,season,total_players,qbs,rbs,wrs,tes,offensive_linemen,defensive_linemen,linebackers,cornerbacks,safeties,kickers,punters,missing_position_groups,roster_status
+ARI,Arizona Cardinals,2003,48,3,6,6,4,12,9,0,5,0,2,1,lb/s,incomplete (missing lb/s)
+ATL,Atlanta Falcons,2003,47,3,6,6,3,12,7,1,6,1,1,1,none,ok
+BAL,Baltimore Ravens,2003,43,3,6,4,3,10,8,0,6,0,2,1,lb/s,incomplete (missing lb/s)
+BUF,Buffalo Bills,2003,45,3,6,6,3,11,9,0,5,0,1,1,lb/s,incomplete (missing lb/s)
+CAR,Carolina Panthers,2003,44,3,5,7,4,9,9,0,5,0,1,1,lb/s,incomplete (missing lb/s)
+CHI,Chicago Bears,2003,49,3,6,7,5,11,10,0,5,0,1,1,lb/s,incomplete (missing lb/s)
+CIN,Cincinnati Bengals,2003,47,3,5,6,4,11,9,0,6,0,1,2,lb/s,incomplete (missing lb/s)
+CLE,Cleveland Browns,2003,51,3,5,6,5,12,11,1,5,0,1,2,s,incomplete (missing s)
+DAL,Dallas Cowboys,2003,45,3,6,7,4,10,8,0,5,0,1,1,lb/s,incomplete (missing lb/s)
+DEN,Denver Broncos,2003,49,4,5,7,5,9,9,0,8,0,1,1,lb/s,incomplete (missing lb/s)
+DET,Detroit Lions,2003,51,3,7,8,4,9,10,0,6,2,1,1,lb,incomplete (missing lb)
+GB,Green Bay Packers,2003,46,3,5,5,3,10,12,0,5,0,2,1,lb/s,incomplete (missing lb/s)
+HOU,Houston Texans,2003,51,4,6,5,4,13,9,1,5,2,1,1,none,ok
+IND,Indianapolis Colts,2003,46,3,6,8,4,9,8,0,6,0,1,1,lb/s,incomplete (missing lb/s)
+JAX,Jacksonville Jaguars,2003,48,4,5,7,3,11,9,1,5,1,1,1,none,ok
+KC,Kansas City Chiefs,2003,43,3,5,5,4,9,10,0,4,1,1,1,lb,incomplete (missing lb)
+LAC,San Diego Chargers,2003,50,2,5,8,4,13,10,0,5,0,1,2,lb/s,incomplete (missing lb/s)
+LAR,St. Louis Rams,2003,45,3,5,6,3,10,8,3,5,0,1,1,s,incomplete (missing s)
+LV,Oakland Raiders,2003,54,4,6,7,3,13,13,0,6,0,1,1,lb/s,incomplete (missing lb/s)
+MIA,Miami Dolphins,2003,49,3,6,7,3,11,11,0,5,0,1,2,lb/s,incomplete (missing lb/s)
+MIN,Minnesota Vikings,2003,43,3,6,5,3,9,8,0,6,0,1,2,lb/s,incomplete (missing lb/s)
+NE,New England Patriots,2003,46,3,6,7,4,11,7,1,3,1,1,2,none,ok
+NO,New Orleans Saints,2003,48,3,6,7,5,11,9,0,5,0,1,1,lb/s,incomplete (missing lb/s)
+NYG,New York Giants,2003,51,3,6,6,5,12,8,0,7,1,2,1,lb,incomplete (missing lb)
+NYJ,New York Jets,2003,46,3,4,7,3,10,10,1,6,0,1,1,s,incomplete (missing s)
+PHI,Philadelphia Eagles,2003,48,3,5,6,4,10,12,0,5,1,1,1,lb,incomplete (missing lb)
+PIT,Pittsburgh Steelers,2003,45,3,6,6,4,11,6,0,5,2,1,1,lb,incomplete (missing lb)
+SEA,Seattle Seahawks,2003,46,3,6,6,3,11,10,0,5,0,1,1,lb/s,incomplete (missing lb/s)
+SF,San Francisco 49ers,2003,47,3,6,6,4,11,9,1,5,0,1,1,s,incomplete (missing s)
+TB,Tampa Bay Buccaneers,2003,51,3,7,7,5,11,10,1,4,1,1,1,none,ok
+TEN,Tennessee Titans,2003,45,4,4,7,3,10,8,1,5,0,2,1,s,incomplete (missing s)
+WAS,Washington Redskins,2003,52,4,7,6,4,14,10,1,4,0,1,1,s,incomplete (missing s)

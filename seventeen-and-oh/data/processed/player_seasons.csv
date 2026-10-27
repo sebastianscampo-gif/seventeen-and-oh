@@ -58918,6 +58918,7 @@ trent-dilfer,Trent Dilfer,Baltimore Ravens,BAL,2000,QB,,,,,,,,16,12,,76,,,,,,,,,
 00-0014324,Deion Sanders,Baltimore Ravens,BAL,2004,CB,,37,73,198,1967-08-09,,15,1,,,,,,,,-10,,,,,,,,,,,,,generated,0.55,nflverse
 00-0022739,Devard Darling,Baltimore Ravens,BAL,2004,WR,,81,73,215,1982-04-16,,0,1,,,,,,,,,,2,5,,,,,,,,,,generated,0.55,nflverse
 00-0022750,Dwan Edwards,Baltimore Ravens,BAL,2004,EDGE,,93,74,315,1981-05-16,Oregon State,0,14,,,,,,,,,,,,,,,,,,,,,generated,0.55,nflverse
+ed-reed,Ed Reed,Baltimore Ravens,BAL,2004,S,,20,71,205,1978-09-11,,2,16,16,Defensive Player of the Year;First-Team All-Pro;Pro Bowl,,,,,,,,,,,,,9,,,,,,generated,0.55,manual-add: omitted from nflverse import
 00-0011803,Edwin Mulitalo,Baltimore Ravens,BAL,2004,LG,RG,64,75,345,1974-09-01,,5,14,,,,,,,,,,,,,,,,,,,,,generated,0.55,nflverse
 00-0001835,Ethan Brooks,Baltimore Ravens,BAL,2004,LT,RT,77,78,330,1972-04-27,,8,14,,,,,,,,,,,,,,,,,,,,,generated,0.55,nflverse
 00-0020472,Gary Baxter,Baltimore Ravens,BAL,2004,CB,,28,74,215,1978-11-24,,3,14,,,,,,,,,,,,,,,,,,,,,generated,0.55,nflverse
@@ -58939,6 +58940,7 @@ trent-dilfer,Trent Dilfer,Baltimore Ravens,BAL,2000,QB,,,,,,,,16,12,,76,,,,,,,,,
 00-0002012,Orlando Brown,Baltimore Ravens,BAL,2004,LT,RT,78,79,360,1970-12-12,,11,14,,,,,,,,,,,,,,,,,,,,,generated,0.55,nflverse
 00-0022143,Ovie Mughelli,Baltimore Ravens,BAL,2004,RB,,34,73,255,1980-06-10,,1,14,,,,,,,,,,,,,,,,,,,,,generated,0.55,nflverse
 00-0020984,Randy Hymes,Baltimore Ravens,BAL,2004,WR,,80,75,211,1979-08-07,,2,12,12,,,,,,39.6,,,26,323,2,,,,,,,,,generated,0.55,nflverse
+00-0009889,Ray Lewis,Baltimore Ravens,BAL,2004,LB,,52,73,240,1975-05-15,,8,,,Pro Bowl,,,,,,,,,,,,,,,,,,,generated,0.55,manual-add: omitted from nflverse import
 00-0020324,Raymond Walls,Baltimore Ravens,BAL,2004,CB,,38,70,188,1979-07-24,,3,14,,,,,,,,,,,,,,,,,,,,,generated,0.55,nflverse
 00-0021268,Terry Jones,Baltimore Ravens,BAL,2004,TE,,82,75,260,1979-12-03,,2,10,10,,,,,,,,,20,152,1,,,,,,,,,generated,0.55,nflverse
 00-0020516,Todd Heap,Baltimore Ravens,BAL,2004,TE,,86,77,252,1980-03-16,,3,6,,,,,,,,,,27,303,3,,,,,,,,,generated,0.55,nflverse
@@ -60292,7 +60294,7 @@ trent-dilfer,Trent Dilfer,Baltimore Ravens,BAL,2000,QB,,,,,,,,16,12,,76,,,,,,,,,
 00-0019339,Cedric Killings,Washington Commanders,WAS,2004,DT,,91,74,290,1977-12-14,,4,14,,,,,,,,,,,,,,,,,,,,,generated,0.55,nflverse
 00-0019590,Chad Morton,Washington Commanders,WAS,2004,RB,,20,68,203,1977-04-04,,4,14,,,,,,,,,,,,,,,,,,,,,generated,0.55,nflverse
 00-0021577,Chris Clemons,Washington Commanders,WAS,2004,LB,,57,75,234,1981-10-30,Georgia,1,14,,,,,,,,,,,,,,,,,,,,,generated,0.55,nflverse
-00-0022738,Chris Cooley,Washington Commanders,WAS,2004,RB,,47,75,265,1982-07-11,,0,13,13,,,,,,,,,37,314,6,,,,,,,,,generated,0.55,nflverse
+00-0022738,Chris Cooley,Washington Commanders,WAS,2004,TE,,47,75,265,1982-07-11,,0,13,13,,,,,,,,,37,314,6,,,,,,,,,generated,0.55,nflverse
 00-0019640,Chris Samuels,Washington Commanders,WAS,2004,LT,RT,60,77,310,1977-07-28,,4,14,,,,,,,,,,,,,,,,,,,,,generated,0.55,nflverse
 00-0021179,Clinton Portis,Washington Commanders,WAS,2004,RB,,26,71,205,1981-09-01,,2,15,15,,,15,1,,114.6,1315,5,40,235,2,,,,,,,,,generated,0.55,nflverse
 00-0019700,Cornelius Griffin,Washington Commanders,WAS,2004,DT,,96,75,300,1976-12-03,,4,14,,,,,,,,,,,,,,,,,,,,,generated,0.55,nflverse

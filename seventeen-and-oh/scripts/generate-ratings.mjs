@@ -46,7 +46,7 @@ const SIGNAL_EPSILON = 5;
 // rating are untouched. The jitter salt stays "|d99" so the 1999 outputs remain
 // byte-identical to the original 1999 pass (the seed already includes the season,
 // so 2000 rows get their own distinct, stable spread).
-const DEPTH_SEASONS = new Set([1999, 2000, 2001, 2002]);
+const DEPTH_SEASONS = new Set([1999, 2000, 2001, 2002, 2003, 2004]);
 const DEPTH_CAP = 72;      // no-evidence depth is centered no higher than this
 const DEPTH_FLOOR = 54;    // ...and never below this
 const DEPTH_CEIL = 78;     // ...nor above this without real evidence

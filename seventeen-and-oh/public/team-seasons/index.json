@@ -2365,13 +2365,14 @@
     "label": "2003 Arizona Cardinals",
     "file": "2003_ARI.json",
     "playerCount": 48,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.66,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_high_confidence": 9,
-      "generated_low_confidence": 33,
+      "manual_override": 18,
+      "generated_low_confidence": 21,
+      "generated_high_confidence": 3,
       "generated_medium_confidence": 6
     }
   },
@@ -2383,14 +2384,15 @@
     "label": "2003 Atlanta Falcons",
     "file": "2003_ATL.json",
     "playerCount": 47,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.65,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_high_confidence": 8,
-      "generated_low_confidence": 33,
-      "generated_medium_confidence": 6
+      "manual_override": 17,
+      "generated_low_confidence": 22,
+      "generated_high_confidence": 3,
+      "generated_medium_confidence": 5
     }
   },
   {
@@ -2401,15 +2403,15 @@
     "label": "2003 Baltimore Ravens",
     "file": "2003_BAL.json",
     "playerCount": 43,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.65,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_high_confidence": 9,
-      "generated_low_confidence": 29,
+      "generated_high_confidence": 3,
+      "manual_override": 16,
       "generated_medium_confidence": 4,
-      "manual_override": 1
+      "generated_low_confidence": 20
     }
   },
   {
@@ -2420,14 +2422,15 @@
     "label": "2003 Buffalo Bills",
     "file": "2003_BUF.json",
     "playerCount": 45,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.66,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 29,
+      "manual_override": 16,
       "generated_medium_confidence": 7,
-      "generated_high_confidence": 9
+      "generated_low_confidence": 19,
+      "generated_high_confidence": 3
     }
   },
   {
@@ -2438,13 +2441,14 @@
     "label": "2003 Carolina Panthers",
     "file": "2003_CAR.json",
     "playerCount": 44,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.7,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 29,
-      "generated_high_confidence": 9,
+      "manual_override": 20,
+      "generated_high_confidence": 3,
+      "generated_low_confidence": 15,
       "generated_medium_confidence": 6
     }
   },
@@ -2456,14 +2460,15 @@
     "label": "2003 Chicago Bears",
     "file": "2003_CHI.json",
     "playerCount": 49,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.66,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 33,
+      "generated_low_confidence": 21,
       "generated_medium_confidence": 5,
-      "generated_high_confidence": 11
+      "manual_override": 17,
+      "generated_high_confidence": 6
     }
   },
   {
@@ -2474,13 +2479,14 @@
     "label": "2003 Cincinnati Bengals",
     "file": "2003_CIN.json",
     "playerCount": 47,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.66,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 1,
     "statusCounts": {
-      "generated_low_confidence": 35,
-      "generated_high_confidence": 11,
+      "generated_low_confidence": 23,
+      "manual_override": 17,
+      "generated_high_confidence": 6,
       "generated_medium_confidence": 1
     }
   },
@@ -2492,14 +2498,15 @@
     "label": "2003 Cleveland Browns",
     "file": "2003_CLE.json",
     "playerCount": 51,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.64,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_medium_confidence": 8,
-      "generated_low_confidence": 35,
-      "generated_high_confidence": 8
+      "generated_medium_confidence": 7,
+      "generated_low_confidence": 24,
+      "manual_override": 18,
+      "generated_high_confidence": 2
     }
   },
   {
@@ -2510,15 +2517,15 @@
     "label": "2003 Dallas Cowboys",
     "file": "2003_DAL.json",
     "playerCount": 45,
-    "ratingConfidence": 0.55,
+    "ratingConfidence": 0.63,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 29,
-      "generated_high_confidence": 9,
-      "generated_medium_confidence": 6,
-      "manual_override": 1
+      "manual_override": 15,
+      "generated_low_confidence": 22,
+      "generated_high_confidence": 2,
+      "generated_medium_confidence": 6
     }
   },
   {
@@ -2529,14 +2536,15 @@
     "label": "2003 Denver Broncos",
     "file": "2003_DEN.json",
     "playerCount": 49,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.65,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_medium_confidence": 10,
-      "generated_high_confidence": 8,
-      "generated_low_confidence": 31
+      "manual_override": 16,
+      "generated_low_confidence": 20,
+      "generated_high_confidence": 3
     }
   },
   {
@@ -2547,14 +2555,15 @@
     "label": "2003 Detroit Lions",
     "file": "2003_DET.json",
     "playerCount": 51,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.63,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 34,
-      "generated_medium_confidence": 9,
-      "generated_high_confidence": 8
+      "generated_low_confidence": 24,
+      "generated_medium_confidence": 8,
+      "manual_override": 16,
+      "generated_high_confidence": 3
     }
   },
   {
@@ -2565,13 +2574,14 @@
     "label": "2003 Green Bay Packers",
     "file": "2003_GB.json",
     "playerCount": 46,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.68,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 32,
-      "generated_high_confidence": 12,
+      "manual_override": 19,
+      "generated_low_confidence": 20,
+      "generated_high_confidence": 5,
       "generated_medium_confidence": 2
     }
   },
@@ -2583,14 +2593,15 @@
     "label": "2003 Houston Texans",
     "file": "2003_HOU.json",
     "playerCount": 51,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.6,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 37,
-      "generated_high_confidence": 8,
-      "generated_medium_confidence": 6
+      "manual_override": 13,
+      "generated_low_confidence": 29,
+      "generated_medium_confidence": 6,
+      "generated_high_confidence": 3
     }
   },
   {
@@ -2601,14 +2612,15 @@
     "label": "2003 Indianapolis Colts",
     "file": "2003_IND.json",
     "playerCount": 46,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.65,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_medium_confidence": 6,
-      "generated_low_confidence": 31,
-      "generated_high_confidence": 9
+      "generated_low_confidence": 21,
+      "manual_override": 16,
+      "generated_high_confidence": 3
     }
   },
   {
@@ -2619,13 +2631,14 @@
     "label": "2003 Jacksonville Jaguars",
     "file": "2003_JAX.json",
     "playerCount": 48,
-    "ratingConfidence": 0.55,
+    "ratingConfidence": 0.67,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 30,
-      "generated_high_confidence": 11,
+      "manual_override": 17,
+      "generated_low_confidence": 19,
+      "generated_high_confidence": 5,
       "generated_medium_confidence": 7
     }
   },
@@ -2637,68 +2650,72 @@
     "label": "2003 Kansas City Chiefs",
     "file": "2003_KC.json",
     "playerCount": 43,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.68,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_medium_confidence": 5,
-      "generated_low_confidence": 29,
-      "generated_high_confidence": 9
+      "generated_low_confidence": 17,
+      "manual_override": 19,
+      "generated_high_confidence": 2
     }
   },
   {
     "id": "2003_LAC",
     "season": 2003,
-    "team": "Los Angeles Chargers",
+    "team": "San Diego Chargers",
     "teamCode": "LAC",
-    "label": "2003 Los Angeles Chargers",
+    "label": "2003 San Diego Chargers",
     "file": "2003_LAC.json",
     "playerCount": 50,
-    "ratingConfidence": 0.5,
+    "ratingConfidence": 0.62,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 35,
-      "generated_high_confidence": 6,
-      "generated_medium_confidence": 9
+      "generated_low_confidence": 25,
+      "manual_override": 16,
+      "generated_medium_confidence": 8,
+      "generated_high_confidence": 1
     }
   },
   {
     "id": "2003_LAR",
     "season": 2003,
-    "team": "Los Angeles Rams",
+    "team": "St. Louis Rams",
     "teamCode": "LAR",
-    "label": "2003 Los Angeles Rams",
+    "label": "2003 St. Louis Rams",
     "file": "2003_LAR.json",
     "playerCount": 45,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.67,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 31,
-      "generated_high_confidence": 10,
+      "manual_override": 18,
+      "generated_low_confidence": 19,
+      "generated_high_confidence": 4,
       "generated_medium_confidence": 4
     }
   },
   {
     "id": "2003_LV",
     "season": 2003,
-    "team": "Las Vegas Raiders",
+    "team": "Oakland Raiders",
     "teamCode": "LV",
-    "label": "2003 Las Vegas Raiders",
+    "label": "2003 Oakland Raiders",
     "file": "2003_LV.json",
     "playerCount": 54,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.64,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 35,
-      "generated_high_confidence": 11,
-      "generated_medium_confidence": 8
+      "generated_low_confidence": 25,
+      "generated_high_confidence": 5,
+      "manual_override": 17,
+      "generated_medium_confidence": 7
     }
   },
   {
@@ -2709,15 +2726,15 @@
     "label": "2003 Miami Dolphins",
     "file": "2003_MIA.json",
     "playerCount": 49,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.64,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 34,
+      "manual_override": 16,
+      "generated_low_confidence": 23,
       "generated_medium_confidence": 6,
-      "generated_high_confidence": 8,
-      "manual_override": 1
+      "generated_high_confidence": 4
     }
   },
   {
@@ -2728,14 +2745,15 @@
     "label": "2003 Minnesota Vikings",
     "file": "2003_MIN.json",
     "playerCount": 43,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.67,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 29,
+      "manual_override": 17,
+      "generated_low_confidence": 18,
       "generated_medium_confidence": 5,
-      "generated_high_confidence": 9
+      "generated_high_confidence": 3
     }
   },
   {
@@ -2746,13 +2764,14 @@
     "label": "2003 New England Patriots",
     "file": "2003_NE.json",
     "playerCount": 46,
-    "ratingConfidence": 0.55,
+    "ratingConfidence": 0.69,
     "ratingSource": "generated",
     "needsReview": 0,
-    "needsManualReview": 0,
+    "needsManualReview": 1,
     "statusCounts": {
-      "generated_low_confidence": 28,
-      "generated_high_confidence": 10,
+      "manual_override": 20,
+      "generated_low_confidence": 16,
+      "generated_high_confidence": 2,
       "generated_medium_confidence": 8
     }
   },
@@ -2764,14 +2783,15 @@
     "label": "2003 New Orleans Saints",
     "file": "2003_NO.json",
     "playerCount": 48,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.68,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_high_confidence": 7,
-      "generated_low_confidence": 31,
-      "generated_medium_confidence": 10
+      "manual_override": 20,
+      "generated_low_confidence": 17,
+      "generated_medium_confidence": 10,
+      "generated_high_confidence": 1
     }
   },
   {
@@ -2782,14 +2802,15 @@
     "label": "2003 New York Giants",
     "file": "2003_NYG.json",
     "playerCount": 51,
-    "ratingConfidence": 0.52,
+    "ratingConfidence": 0.63,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_high_confidence": 7,
-      "generated_low_confidence": 35,
-      "generated_medium_confidence": 9
+      "manual_override": 16,
+      "generated_low_confidence": 24,
+      "generated_medium_confidence": 9,
+      "generated_high_confidence": 2
     }
   },
   {
@@ -2800,14 +2821,15 @@
     "label": "2003 New York Jets",
     "file": "2003_NYJ.json",
     "playerCount": 46,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.65,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 32,
-      "generated_high_confidence": 8,
-      "generated_medium_confidence": 6
+      "manual_override": 17,
+      "generated_low_confidence": 22,
+      "generated_medium_confidence": 4,
+      "generated_high_confidence": 3
     }
   },
   {
@@ -2818,14 +2840,15 @@
     "label": "2003 Philadelphia Eagles",
     "file": "2003_PHI.json",
     "playerCount": 48,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.66,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 34,
+      "generated_low_confidence": 22,
       "generated_medium_confidence": 4,
-      "generated_high_confidence": 10
+      "manual_override": 19,
+      "generated_high_confidence": 3
     }
   },
   {
@@ -2836,14 +2859,15 @@
     "label": "2003 Pittsburgh Steelers",
     "file": "2003_PIT.json",
     "playerCount": 45,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.67,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 31,
-      "generated_high_confidence": 10,
-      "generated_medium_confidence": 4
+      "manual_override": 18,
+      "generated_low_confidence": 19,
+      "generated_medium_confidence": 4,
+      "generated_high_confidence": 4
     }
   },
   {
@@ -2854,15 +2878,15 @@
     "label": "2003 Seattle Seahawks",
     "file": "2003_SEA.json",
     "playerCount": 46,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.67,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_medium_confidence": 5,
-      "generated_low_confidence": 32,
-      "generated_high_confidence": 8,
-      "manual_override": 1
+      "generated_low_confidence": 20,
+      "manual_override": 20,
+      "generated_high_confidence": 1
     }
   },
   {
@@ -2873,13 +2897,14 @@
     "label": "2003 San Francisco 49ers",
     "file": "2003_SF.json",
     "playerCount": 47,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.65,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_high_confidence": 11,
-      "generated_low_confidence": 35,
+      "generated_high_confidence": 5,
+      "manual_override": 17,
+      "generated_low_confidence": 24,
       "generated_medium_confidence": 1
     }
   },
@@ -2891,14 +2916,15 @@
     "label": "2003 Tampa Bay Buccaneers",
     "file": "2003_TB.json",
     "playerCount": 51,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.69,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_high_confidence": 8,
-      "generated_low_confidence": 32,
-      "generated_medium_confidence": 11
+      "generated_high_confidence": 2,
+      "generated_low_confidence": 17,
+      "manual_override": 22,
+      "generated_medium_confidence": 10
     }
   },
   {
@@ -2909,32 +2935,33 @@
     "label": "2003 Tennessee Titans",
     "file": "2003_TEN.json",
     "playerCount": 45,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.67,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 31,
+      "manual_override": 18,
+      "generated_low_confidence": 19,
       "generated_medium_confidence": 4,
-      "generated_high_confidence": 10
+      "generated_high_confidence": 4
     }
   },
   {
     "id": "2003_WAS",
     "season": 2003,
-    "team": "Washington Commanders",
+    "team": "Washington Redskins",
     "teamCode": "WAS",
-    "label": "2003 Washington Commanders",
+    "label": "2003 Washington Redskins",
     "file": "2003_WAS.json",
     "playerCount": 52,
-    "ratingConfidence": 0.55,
+    "ratingConfidence": 0.67,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 30,
-      "manual_override": 1,
-      "generated_high_confidence": 10,
+      "generated_low_confidence": 18,
+      "manual_override": 19,
+      "generated_high_confidence": 4,
       "generated_medium_confidence": 11
     }
   },
@@ -2946,14 +2973,15 @@
     "label": "2004 Arizona Cardinals",
     "file": "2004_ARI.json",
     "playerCount": 46,
-    "ratingConfidence": 0.54,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.76,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 30,
-      "generated_high_confidence": 10,
-      "generated_medium_confidence": 6
+      "manual_override": 28,
+      "generated_low_confidence": 9,
+      "generated_medium_confidence": 6,
+      "generated_high_confidence": 3
     }
   },
   {
@@ -2964,13 +2992,14 @@
     "label": "2004 Atlanta Falcons",
     "file": "2004_ATL.json",
     "playerCount": 49,
-    "ratingConfidence": 0.53,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.73,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 34,
-      "generated_high_confidence": 8,
+      "manual_override": 27,
+      "generated_low_confidence": 14,
+      "generated_high_confidence": 1,
       "generated_medium_confidence": 7
     }
   },
@@ -2981,16 +3010,16 @@
     "teamCode": "BAL",
     "label": "2004 Baltimore Ravens",
     "file": "2004_BAL.json",
-    "playerCount": 45,
-    "ratingConfidence": 0.57,
-    "ratingSource": "generated",
+    "playerCount": 47,
+    "ratingConfidence": 0.77,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_high_confidence": 11,
-      "generated_low_confidence": 26,
-      "generated_medium_confidence": 6,
-      "manual_override": 2
+      "manual_override": 30,
+      "generated_low_confidence": 10,
+      "generated_medium_confidence": 5,
+      "generated_high_confidence": 2
     }
   },
   {
@@ -3001,14 +3030,15 @@
     "label": "2004 Buffalo Bills",
     "file": "2004_BUF.json",
     "playerCount": 45,
-    "ratingConfidence": 0.53,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.72,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 28,
-      "generated_high_confidence": 7,
-      "generated_medium_confidence": 10
+      "manual_override": 24,
+      "generated_low_confidence": 12,
+      "generated_high_confidence": 1,
+      "generated_medium_confidence": 8
     }
   },
   {
@@ -3019,14 +3049,15 @@
     "label": "2004 Carolina Panthers",
     "file": "2004_CAR.json",
     "playerCount": 50,
-    "ratingConfidence": 0.53,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.75,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 32,
-      "generated_high_confidence": 8,
-      "generated_medium_confidence": 10
+      "manual_override": 30,
+      "generated_low_confidence": 12,
+      "generated_medium_confidence": 7,
+      "generated_high_confidence": 1
     }
   },
   {
@@ -3037,14 +3068,15 @@
     "label": "2004 Chicago Bears",
     "file": "2004_CHI.json",
     "playerCount": 49,
-    "ratingConfidence": 0.53,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.79,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 33,
-      "generated_medium_confidence": 8,
-      "generated_high_confidence": 8
+      "manual_override": 34,
+      "generated_medium_confidence": 4,
+      "generated_low_confidence": 9,
+      "generated_high_confidence": 2
     }
   },
   {
@@ -3055,14 +3087,15 @@
     "label": "2004 Cincinnati Bengals",
     "file": "2004_CIN.json",
     "playerCount": 51,
-    "ratingConfidence": 0.53,
+    "ratingConfidence": 0.69,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 36,
-      "generated_high_confidence": 9,
-      "generated_medium_confidence": 6
+      "generated_low_confidence": 19,
+      "manual_override": 25,
+      "generated_medium_confidence": 6,
+      "generated_high_confidence": 1
     }
   },
   {
@@ -3073,14 +3106,14 @@
     "label": "2004 Cleveland Browns",
     "file": "2004_CLE.json",
     "playerCount": 52,
-    "ratingConfidence": 0.52,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.71,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_high_confidence": 7,
-      "generated_medium_confidence": 10,
-      "generated_low_confidence": 35
+      "manual_override": 27,
+      "generated_medium_confidence": 8,
+      "generated_low_confidence": 17
     }
   },
   {
@@ -3091,15 +3124,15 @@
     "label": "2004 Dallas Cowboys",
     "file": "2004_DAL.json",
     "playerCount": 50,
-    "ratingConfidence": 0.54,
+    "ratingConfidence": 0.72,
     "ratingSource": "generated",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 32,
-      "generated_medium_confidence": 8,
-      "generated_high_confidence": 9,
-      "manual_override": 1
+      "generated_low_confidence": 15,
+      "manual_override": 25,
+      "generated_medium_confidence": 7,
+      "generated_high_confidence": 3
     }
   },
   {
@@ -3110,13 +3143,13 @@
     "label": "2004 Denver Broncos",
     "file": "2004_DEN.json",
     "playerCount": 47,
-    "ratingConfidence": 0.53,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.71,
+    "ratingSource": "manual",
     "needsReview": 0,
-    "needsManualReview": 1,
+    "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 32,
-      "generated_high_confidence": 8,
+      "generated_low_confidence": 15,
+      "manual_override": 25,
       "generated_medium_confidence": 7
     }
   },
@@ -3128,14 +3161,15 @@
     "label": "2004 Detroit Lions",
     "file": "2004_DET.json",
     "playerCount": 48,
-    "ratingConfidence": 0.53,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.75,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 33,
+      "manual_override": 28,
       "generated_medium_confidence": 5,
-      "generated_high_confidence": 10
+      "generated_high_confidence": 3,
+      "generated_low_confidence": 12
     }
   },
   {
@@ -3146,14 +3180,15 @@
     "label": "2004 Green Bay Packers",
     "file": "2004_GB.json",
     "playerCount": 50,
-    "ratingConfidence": 0.54,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.74,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 34,
-      "generated_high_confidence": 11,
-      "generated_medium_confidence": 5
+      "manual_override": 30,
+      "generated_medium_confidence": 4,
+      "generated_low_confidence": 15,
+      "generated_high_confidence": 1
     }
   },
   {
@@ -3164,13 +3199,14 @@
     "label": "2004 Houston Texans",
     "file": "2004_HOU.json",
     "playerCount": 45,
-    "ratingConfidence": 0.53,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.72,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 32,
-      "generated_high_confidence": 8,
+      "manual_override": 25,
+      "generated_high_confidence": 1,
+      "generated_low_confidence": 14,
       "generated_medium_confidence": 5
     }
   },
@@ -3182,14 +3218,15 @@
     "label": "2004 Indianapolis Colts",
     "file": "2004_IND.json",
     "playerCount": 45,
-    "ratingConfidence": 0.53,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.77,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_medium_confidence": 5,
-      "generated_low_confidence": 31,
-      "generated_high_confidence": 9
+      "manual_override": 30,
+      "generated_low_confidence": 9,
+      "generated_high_confidence": 1
     }
   },
   {
@@ -3200,14 +3237,15 @@
     "label": "2004 Jacksonville Jaguars",
     "file": "2004_JAX.json",
     "playerCount": 48,
-    "ratingConfidence": 0.54,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.74,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 31,
+      "generated_low_confidence": 12,
+      "manual_override": 26,
       "generated_medium_confidence": 7,
-      "generated_high_confidence": 10
+      "generated_high_confidence": 3
     }
   },
   {
@@ -3218,68 +3256,71 @@
     "label": "2004 Kansas City Chiefs",
     "file": "2004_KC.json",
     "playerCount": 46,
-    "ratingConfidence": 0.53,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.74,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 32,
-      "generated_medium_confidence": 4,
-      "generated_high_confidence": 10
+      "generated_low_confidence": 14,
+      "manual_override": 28,
+      "generated_medium_confidence": 4
     }
   },
   {
     "id": "2004_LAC",
     "season": 2004,
-    "team": "Los Angeles Chargers",
+    "team": "San Diego Chargers",
     "teamCode": "LAC",
-    "label": "2004 Los Angeles Chargers",
+    "label": "2004 San Diego Chargers",
     "file": "2004_LAC.json",
     "playerCount": 49,
-    "ratingConfidence": 0.54,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.76,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 30,
-      "generated_medium_confidence": 11,
-      "generated_high_confidence": 8
+      "manual_override": 30,
+      "generated_medium_confidence": 8,
+      "generated_low_confidence": 9,
+      "generated_high_confidence": 2
     }
   },
   {
     "id": "2004_LAR",
     "season": 2004,
-    "team": "Los Angeles Rams",
+    "team": "St. Louis Rams",
     "teamCode": "LAR",
-    "label": "2004 Los Angeles Rams",
+    "label": "2004 St. Louis Rams",
     "file": "2004_LAR.json",
     "playerCount": 46,
-    "ratingConfidence": 0.53,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.72,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 31,
+      "manual_override": 24,
       "generated_medium_confidence": 6,
-      "generated_high_confidence": 9
+      "generated_low_confidence": 14,
+      "generated_high_confidence": 2
     }
   },
   {
     "id": "2004_LV",
     "season": 2004,
-    "team": "Las Vegas Raiders",
+    "team": "Oakland Raiders",
     "teamCode": "LV",
-    "label": "2004 Las Vegas Raiders",
+    "label": "2004 Oakland Raiders",
     "file": "2004_LV.json",
     "playerCount": 48,
-    "ratingConfidence": 0.55,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.77,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_medium_confidence": 7,
-      "generated_high_confidence": 11,
-      "generated_low_confidence": 30
+      "generated_medium_confidence": 6,
+      "manual_override": 31,
+      "generated_low_confidence": 9,
+      "generated_high_confidence": 2
     }
   },
   {
@@ -3290,15 +3331,15 @@
     "label": "2004 Miami Dolphins",
     "file": "2004_MIA.json",
     "playerCount": 49,
-    "ratingConfidence": 0.55,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.75,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_high_confidence": 11,
+      "manual_override": 28,
       "generated_medium_confidence": 6,
-      "generated_low_confidence": 31,
-      "manual_override": 1
+      "generated_high_confidence": 3,
+      "generated_low_confidence": 12
     }
   },
   {
@@ -3309,14 +3350,14 @@
     "label": "2004 Minnesota Vikings",
     "file": "2004_MIN.json",
     "playerCount": 48,
-    "ratingConfidence": 0.53,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.77,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 32,
-      "generated_high_confidence": 9,
-      "generated_medium_confidence": 7
+      "generated_low_confidence": 10,
+      "manual_override": 33,
+      "generated_medium_confidence": 5
     }
   },
   {
@@ -3327,14 +3368,15 @@
     "label": "2004 New England Patriots",
     "file": "2004_NE.json",
     "playerCount": 46,
-    "ratingConfidence": 0.55,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.78,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 30,
+      "manual_override": 31,
       "generated_medium_confidence": 5,
-      "generated_high_confidence": 11
+      "generated_high_confidence": 1,
+      "generated_low_confidence": 9
     }
   },
   {
@@ -3345,14 +3387,15 @@
     "label": "2004 New Orleans Saints",
     "file": "2004_NO.json",
     "playerCount": 43,
-    "ratingConfidence": 0.53,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.75,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_high_confidence": 8,
-      "generated_low_confidence": 29,
-      "generated_medium_confidence": 6
+      "manual_override": 26,
+      "generated_low_confidence": 10,
+      "generated_medium_confidence": 6,
+      "generated_high_confidence": 1
     }
   },
   {
@@ -3363,14 +3406,15 @@
     "label": "2004 New York Giants",
     "file": "2004_NYG.json",
     "playerCount": 53,
-    "ratingConfidence": 0.52,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.72,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_high_confidence": 8,
-      "generated_low_confidence": 38,
-      "generated_medium_confidence": 7
+      "manual_override": 28,
+      "generated_low_confidence": 16,
+      "generated_medium_confidence": 7,
+      "generated_high_confidence": 2
     }
   },
   {
@@ -3381,13 +3425,14 @@
     "label": "2004 New York Jets",
     "file": "2004_NYJ.json",
     "playerCount": 43,
-    "ratingConfidence": 0.54,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.76,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 29,
-      "generated_high_confidence": 9,
+      "manual_override": 27,
+      "generated_low_confidence": 10,
+      "generated_high_confidence": 1,
       "generated_medium_confidence": 5
     }
   },
@@ -3399,14 +3444,15 @@
     "label": "2004 Philadelphia Eagles",
     "file": "2004_PHI.json",
     "playerCount": 47,
-    "ratingConfidence": 0.55,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.77,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 29,
+      "generated_low_confidence": 8,
+      "manual_override": 29,
       "generated_medium_confidence": 8,
-      "generated_high_confidence": 10
+      "generated_high_confidence": 2
     }
   },
   {
@@ -3417,14 +3463,14 @@
     "label": "2004 Pittsburgh Steelers",
     "file": "2004_PIT.json",
     "playerCount": 44,
-    "ratingConfidence": 0.53,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.78,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 27,
-      "generated_high_confidence": 7,
-      "generated_medium_confidence": 10
+      "manual_override": 31,
+      "generated_low_confidence": 8,
+      "generated_medium_confidence": 5
     }
   },
   {
@@ -3435,14 +3481,14 @@
     "label": "2004 Seattle Seahawks",
     "file": "2004_SEA.json",
     "playerCount": 48,
-    "ratingConfidence": 0.53,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.75,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_medium_confidence": 6,
-      "generated_low_confidence": 33,
-      "generated_high_confidence": 9
+      "generated_low_confidence": 12,
+      "manual_override": 30
     }
   },
   {
@@ -3453,14 +3499,15 @@
     "label": "2004 San Francisco 49ers",
     "file": "2004_SF.json",
     "playerCount": 48,
-    "ratingConfidence": 0.54,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.73,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
       "generated_medium_confidence": 6,
-      "generated_low_confidence": 32,
-      "generated_high_confidence": 10
+      "manual_override": 27,
+      "generated_low_confidence": 14,
+      "generated_high_confidence": 1
     }
   },
   {
@@ -3471,14 +3518,15 @@
     "label": "2004 Tampa Bay Buccaneers",
     "file": "2004_TB.json",
     "playerCount": 51,
-    "ratingConfidence": 0.54,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.75,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 31,
-      "generated_medium_confidence": 11,
-      "generated_high_confidence": 9
+      "generated_low_confidence": 11,
+      "manual_override": 30,
+      "generated_medium_confidence": 9,
+      "generated_high_confidence": 1
     }
   },
   {
@@ -3489,32 +3537,34 @@
     "label": "2004 Tennessee Titans",
     "file": "2004_TEN.json",
     "playerCount": 49,
-    "ratingConfidence": 0.54,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.75,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 34,
-      "generated_high_confidence": 11,
+      "generated_low_confidence": 13,
+      "manual_override": 29,
+      "generated_high_confidence": 3,
       "generated_medium_confidence": 4
     }
   },
   {
     "id": "2004_WAS",
     "season": 2004,
-    "team": "Washington Commanders",
+    "team": "Washington Redskins",
     "teamCode": "WAS",
-    "label": "2004 Washington Commanders",
+    "label": "2004 Washington Redskins",
     "file": "2004_WAS.json",
     "playerCount": 54,
-    "ratingConfidence": 0.52,
-    "ratingSource": "generated",
+    "ratingConfidence": 0.71,
+    "ratingSource": "manual",
     "needsReview": 0,
     "needsManualReview": 0,
     "statusCounts": {
-      "generated_low_confidence": 40,
+      "generated_low_confidence": 19,
+      "manual_override": 28,
       "generated_medium_confidence": 6,
-      "generated_high_confidence": 8
+      "generated_high_confidence": 1
     }
   },
   {

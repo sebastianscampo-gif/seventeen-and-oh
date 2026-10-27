@@ -44,3 +44,5 @@ player_id,name,position,secondary_positions,jersey_number,height,weight,birth_da
 00-0014324,Deion Sanders,CB,,37,73,198,1967-08-09,,15,1,,,,nflverse
 00-0022739,Devard Darling,WR,,81,73,215,1982-04-16,,0,1,,,,nflverse
 00-0015700,Kordell Stewart,QB,,10,73,218,1972-10-16,,9,1,,,,nflverse
+ed-reed,Ed Reed,S,,20,71,205,1978-09-11,,2,16,16,,Defensive Player of the Year;First-Team All-Pro;Pro Bowl,manual-add: omitted from nflverse import
+00-0009889,Ray Lewis,LB,,52,73,240,1975-05-15,,8,,,,Pro Bowl,manual-add: omitted from nflverse import
